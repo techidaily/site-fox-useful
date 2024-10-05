@@ -1,7 +1,7 @@
 ---
 title: "Refining Interaction Flows Between Parents and Kids: Strategies & Tips"
-date: 2024-09-24T18:52:25.540Z
-updated: 2024-09-30T08:51:29.967Z
+date: 2024-10-04T18:47:12.924Z
+updated: 2024-10-05T18:47:22.778Z
 tags:
   - user-guide
 categories:
@@ -88,10 +88,16 @@ This dialog allows you to create a new child dialog. A child dialog is displayed
 !["Edit Child Dialogs" Dialog](https://cdn.advancedinstaller.com/img/dialog/edit-child-dialogs.png ""Edit Child Dialogs" Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Name
@@ -101,10 +107,10 @@ Select the desired child dialog from the list.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This list will be populated only with the existing "spawn-able" unused dialogs (predefined or custom) which are supported inside a Tab Host control. A "spawn-able" dialog does not have the "Back" / "Next" buttons.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 After creating a child dialog, it will be included as a Tab Host control's parent dialog child. You can reveal it by expanding the Tab Host control's parent dialog in the Install Sequence tree.
@@ -112,10 +118,16 @@ After creating a child dialog, it will be included as a Tab Host control's paren
 If a child dialog doesn't have its _Title_ property defined, its name (_Dialog Name_ property) will be used for its tab button text instead. By default a <NewDialog> will be named NewTabPageDialog in the Install Sequence tree.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Condition
@@ -155,18 +167,14 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-pro-video-setup-the-ultimate-recording-companion/"><u>[New] Pro Video Setup The Ultimate Recording Companion</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-navigating-the-new-picsart-app-review-and-tutorial/"><u>[Updated] Navigating the New PicsArt App – Review & Tutorial</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/1-free-dentalxp-resources-access-comprehensive-teeth-care-lessons-and-training/"><u>1. Free DentalXP Resources: Access Comprehensive Teeth Care Lessons & Training</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/access-free-drupal-tutorials-secure-your-drupal-training-vids-from-drupalize/"><u>Access Free Drupal Tutorials: Secure Your Drupal Training Vids From Drupalize</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/bulk-downloads-made-easy-get-free-content-from-top-sites-like-spotify-youtube-and-more-with-allavsoft/"><u>Bulk Downloads Made Easy: Get Free Content From Top Sites Like Spotify, YouTube, and More with Allavsoft!</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/convert-and-download-yahoo-japan-gyao-streams-as-mp4-mov-or-avi-files-for-pc-and-mac/"><u>Convert and Download Yahoo Japan Gyao Streams as MP4, MOV, or AVI Files for PC & Mac</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/enhance-your-ebook-with-our-flipbuildercom-branding-feature-incorporate-your-logo-into-the-background/"><u>Enhance Your eBook with Our FlipBuilder.com Branding Feature: Incorporate Your Logo Into the Background!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-poco-c51-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Poco C51</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-oneplus-nord-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-kinemaster-guidance-for-flawless-green-screen-techniques/"><u>In 2024, Step-by-Step Kinemaster Guidance for Flawless Green Screen Techniques</u></a></li>
-<li><a href="https://driver-error.techidaily.com/quick-bluetooth-driver-solution-for-windows/"><u>Quick Bluetooth Driver Solution for Windows</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/ultimate-guide-creating-full-screen-exe-flipbooks-with-flipbuilder/"><u>Ultimate Guide: Creating Full-Screen EXE Flipbooks with FlipBuilder</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-funnyfilmmaker-quick-comic-creation/"><u>[New] FunnyFilmMaker Quick Comic Creation</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-mastering-game-capture-fbx-filming-techniques/"><u>[New] In 2024, Mastering Game Capture FBX Filming Techniques</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-maximizing-gopros-charged-time-span/"><u>[Updated] 2024 Approved Maximizing GoPro's Charged Time Span</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1-mastering-boom-beach-a-beginners-guide-to-conquering-the-game-on-your-computer/"><u>1. Mastering Boom Beach: A Beginner's Guide to Conquering the Game on Your Computer</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/exploring-real-estate-a-users-guide-to-online-property-search/"><u>Exploring Real Estate: A User's Guide to Online Property Search</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-apple-iphone-15-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password On Apple iPhone 15</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-advanced-sound-switching-techniques/"><u>In 2024, Navigating Advanced Sound-Switching Techniques</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/navigating-through-imsixs-external-library-requirements-a-comprehensive-guide/"><u>Navigating Through IMsix's External Library Requirements: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/recovering-lost-iphones-a-simple-guide-to-retrieving-deleted-phone-numbers/"><u>Recovering Lost iPhones: A Simple Guide to Retrieving Deleted Phone Numbers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: IText Library - Append or Create Text Files Efficiently
-date: 2024-09-27T00:21:37.295Z
-updated: 2024-09-29T16:20:10.812Z
+date: 2024-09-28T17:21:37.227Z
+updated: 2024-10-05T16:36:05.741Z
 tags:
   - user-guide
 categories:
@@ -109,10 +109,10 @@ Table of Contents
 ## ITextUpdateAppendOrCreate
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -120,10 +120,10 @@ Table of Contents
 ITextUpdateAppendOrCreate : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -131,10 +131,10 @@ ITextUpdateAppendOrCreate : IDispatch
 This interface is meant to configure text file append or create operation. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -149,10 +149,10 @@ Gets or sets the file encoding that will be created. Supported values: “ansi�
 Gets or sets the behavior of the operation for existing files. Supported values: “append”, “override”, “none”.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -194,22 +194,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/niting-music-and-media-with-precision-using-youtube-video-editor-for-2024/"><u>[New] Uniting Music & Media with Precision Using YouTube Video Editor for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-youtubes-potential-with-key-rank-tracker-software/"><u>[New] Unlock YouTube's Potential with Key Rank Tracker Software</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-voice-memos-inspectors-handbook-for-2024/"><u>[New] Voice Memos Inspector's Handbook for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-open-world-wonders-beyond-gtas-empire/"><u>[Updated] In 2024, Open World Wonders Beyond GTA's Empire</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-checklist-for-top-tier-instagram-reels/"><u>[Updated] The Ultimate Checklist for Top-Tier Instagram Reels</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/accessing-and-archiving-your-facebook-status-vids-for-2024/"><u>Accessing and Archiving Your Facebook Status Vids for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/assassins-creed-valhalla-launch-hurdles-cleared-insights-and-fixes-for-a-smooth-start/"><u>Assassin's Creed Valhalla Launch Hurdles Cleared: Insights and Fixes for a Smooth Start</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/can-you-replicate-paper-book-turning-for-digital-readers-using-innovative-ebook-technology-explore-with-flipbuilder-flipbuildercom/"><u>Can You Replicate Paper Book Turning for Digital Readers Using Innovative eBook Technology? Explore with FlipBuilder [FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/explore-creative-tims-latest-offering-the-nowui-dashboard-premium-bootstrap-4-admin-template-for-free/"><u>Explore Creative Tim's Latest Offering - The NowUI Dashboard: Premium Bootstrap 4 Admin Template for Free</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/f-card-creativity-by-creative-tim-the-chic-minimalist-way-to-showcase-content/"><u>F Card Creativity by Creative Tim: The Chic, Minimalist Way to Showcase Content</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/get-your-free-complete-frontendbackend-platform-with-vue3-plus-laravel-from-creative-tim/"><u>Get Your Free Complete Frontend/Backend Platform with Vue3 + Laravel From Creative Tim</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-iphone-14-plus-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On iPhone 14 Plus? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-sony-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Sony Device SIM</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/innovative-laravel-dashboards-collaboration-of-creative-tim-and-updivision-with-elegant-ui-designs/"><u>Innovative Laravel Dashboards - Collaboration of Creative Tim and Updivision with Elegant UI Designs</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/professional-and-effective-zero-cost-bootstrapped-landing-designs-by-creative-tim/"><u>Professional & Effective Zero-Cost Bootstrapped Landing Designs by Creative Tim</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/professional-bootstrap-4-user-interface-suite-by-creative-tim-pro-edition/"><u>Professional Bootstrap 4 User Interface Suite by Creative Tim - Pro Edition</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/professional-vuelaravel-stack-application-with-json-api-integration-created-by-creative-tim/"><u>Professional Vue/Laravel Stack Application with JSON API Integration - Created by Creative Tim</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-captivate-convince-and-connect-explore-the-top-20-tiktok-caption-tricks/"><u>[New] In 2024, Captivate, Convince, and Connect Explore the Top 20 TikTok Caption Tricks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-secrets-to-subtle-sound-diminishment-in-lumafusion/"><u>[New] The Secrets to Subtle Sound Diminishment in Lumafusion</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-zeroing-in-on-your-ideal-youtube-subset/"><u>[New] Zeroing In on Your Ideal YouTube Subset</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-craft-of-loom-seamless-screen-recording-guide/"><u>[Updated] In 2024, The Craft of Loom Seamless Screen Recording Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/blur-out-distractions-a-guide-to-enhancing-focus-with-google-meets-background-feature/"><u>Blur Out Distractions: A Guide to Enhancing Focus with Google Meet's Background Feature</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/how-to-refresh-your-test-documents-with-the-latest-updates/"><u>How-To: Refresh Your Test Documents with the Latest Updates</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-samsung-galaxy-s24-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Samsung Galaxy S24? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-15-pro-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 15 Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-t2x-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Vivo T2x 5G</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/optimize-your-website-mastering-the-art-of-effective-search-engine-strategies/"><u>Optimize Your Website: Mastering the Art of Effective Search Engine Strategies</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/run-commands-within-specific-folder-paths-advanced-workflow-setup/"><u>Run Commands Within Specific Folder Paths - Advanced Workflow Setup</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/sophisticated-strategies-for-dynamic-conversational-contexts/"><u>Sophisticated Strategies for Dynamic Conversational Contexts</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/step-by-step-tutorial-how-to-recording-sessions-in-rusty-lake-paradise-via-cell-phones/"><u>Step-by-Step Tutorial: How to Recording Sessions in Rusty Lake Paradise via Cell Phones</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-djs-guide-to-elevating-visual-narratives-with-soundtracks-fb-for-2024/"><u>The DJ's Guide to Elevating Visual Narratives with Soundtracks (FB) for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/understanding-iregistrykey-the-key-concepts-you-need-to-know/"><u>Understanding IRegistryKey: The Key Concepts You Need to Know</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/understanding-the-functionality-of-contextual-dropdown-menus-a-guide/"><u>Understanding the Functionality of Contextual Dropdown Menus: A Guide</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/viewing-the-epic-arena-of-valor-showdown-on-your-television-setup/"><u>Viewing the Epic Arena of Valor Showdown on Your Television Setup</u></a></li>
 </ul></div>
 

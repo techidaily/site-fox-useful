@@ -1,7 +1,7 @@
 ---
 title: "Configuring Java Application Preferences: A Detailed Guide"
-date: 2024-09-25T09:18:44.824Z
-updated: 2024-09-29T22:24:07.374Z
+date: 2024-10-01T21:05:00.476Z
+updated: 2024-10-05T16:04:28.812Z
 tags:
   - user-guide
 categories:
@@ -87,16 +87,22 @@ On the [Java Products](https://tools.techidaily.com/advancedinstaller/products/)
 
 This list must contain all the JAR/Zip archives that form your application.
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Add JAR components
 
 Use the \[JAR(s)... \] button to add components to the classpath. These archives must be already included in the installation, through the [Files and Folders](https://tools.techidaily.com/advancedinstaller/products/) page.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Add path locations
 
@@ -107,6 +113,13 @@ Use the \[Folder... \], \[Property... \] or \[Env Var... \] button to add a path
  Use the \[Remove \] button, to remove a JAR/Zip archive from a Java Product. The actual files will not be removed from [Files and Folders](https://tools.techidaily.com/advancedinstaller/products/) page.
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)In case you are creating a Mac OS X package, any properties, environment variables or folders not included in the Application Folder you specify in the classpath list will be invalid.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Add wildcard components
 
@@ -121,13 +134,6 @@ Use the \[\*.jar... \] button to add a new "Classpath" location. A list will app
 
 ## Application
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Main class
 
 Contains the exact main class of your application. Includes the package and does not include the .class extension. It is required. 
@@ -140,13 +146,6 @@ Use the drop-down list button to select the one you want.
 
 Select your application's type (Graphical User Interface, Console or Windows Service). 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Single Instance
 
 If your application is of Console or Graphical User Interface type, you can set it to run as an [Single Instance Application](https://tools.techidaily.com/advancedinstaller/products/). Select the "Single Instance" checkbox to do that.
@@ -154,13 +153,6 @@ If your application is of Console or Graphical User Interface type, you can set 
 ### Startup failure check
 
 Any uncaught exception from the main thread is described in a dialog box that will allow the user either to stop the application or to ignore the exception. This option applies only to GUI applications.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Omit service name parameter
 
@@ -170,9 +162,23 @@ When installing the Java product as a service the service name is passed as para
 
 The [Native Java Launcher](https://tools.techidaily.com/advancedinstaller/products/) configuration can be seen and modified by the end user since it is placed into an INI file next to the application. The settings that are not resolved at install time can be hidden inside the launcher. This way the user will not be able to see your private settings.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Set product folder as current
 
 Set the java application's current directory to the application's folder.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Execution Level
 
@@ -181,10 +187,10 @@ Set the java application's current directory to the application's folder.
 **Execution level...** \- this link displays the java application launcher's [Execution Level Settings](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Platform
@@ -201,6 +207,13 @@ This options allows you to select between 32-bit and 64-bit runtime environments
 
 This option allows you to specify a JAR file that will be inserted into the [Native Java Launcher](https://tools.techidaily.com/advancedinstaller/products/). The JAR will automatically be added to the class path. You could use this option together with the “Hide settings” option to minimize the content visible for the end-user.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Display
 
 For a Graphical User Interface Application, you can set: 
@@ -212,22 +225,15 @@ For a Graphical User Interface Application, you can set:
          * Getting the splash screen Graphic to use it from your java application.  
          * Closing the splash screen from your application whenever you desire.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Customize EXE Metadata
 
 Click on this hyperlink to customize metadata for your Java EXE Application. The[Edit EXE Metadata Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -272,18 +278,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-how-to-download-part-of-a-youtube-videos-in-2024/"><u>[New] How to Download Part of a YouTube Videos, In 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-imovie-rhythms-a-sound-experts-handbook/"><u>[New] IMovie Rhythms A Sound Expert's Handbook</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-navigate-the-transfer-of-social-media-photos-to-hard-drive/"><u>[New] In 2024, Navigate the Transfer of Social Media Photos to Hard Drive</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/1-free-dentalxp-resources-access-comprehensive-teeth-care-lessons-and-training/"><u>1. Free DentalXP Resources: Access Comprehensive Teeth Care Lessons & Training</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-total-environmental-immersion-in-media-creation/"><u>2024 Approved Total Environmental Immersion in Media Creation</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/access-free-drupal-tutorials-secure-your-drupal-training-vids-from-drupalize/"><u>Access Free Drupal Tutorials: Secure Your Drupal Training Vids From Drupalize</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/bulk-downloads-made-easy-get-free-content-from-top-sites-like-spotify-youtube-and-more-with-allavsoft/"><u>Bulk Downloads Made Easy: Get Free Content From Top Sites Like Spotify, YouTube, and More with Allavsoft!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/cutting-edge-tech-tools-designed-to-enhance-your-slumber-experience/"><u>Cutting-Edge Tech Tools Designed to Enhance Your Slumber Experience</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/enhance-your-ebook-with-our-flipbuildercom-branding-feature-incorporate-your-logo-into-the-background/"><u>Enhance Your eBook with Our FlipBuilder.com Branding Feature: Incorporate Your Logo Into the Background!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Realme GT 5? | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-revolutionizing-communication-with-gadgets-an-examination-of-vocal-alterations-and-beyond/"><u>New Revolutionizing Communication with Gadgets An Examination of Vocal Alterations and Beyond</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/transform-your-photos-into-masterpieces-a-guide-to-image-enhancement-using-flipbuilders-clipart-tools/"><u>Transform Your Photos Into Masterpieces: A Guide to Image Enhancement Using FlipBuilder's Clipart Tools</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/ultimate-guide-creating-full-screen-exe-flipbooks-with-flipbuilder/"><u>Ultimate Guide: Creating Full-Screen EXE Flipbooks with FlipBuilder</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-efficiently-uploading-movies-to-your-discord-server/"><u>[Updated] Efficiently Uploading Movies to Your Discord Server</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-selective-list-of-pro-gopro-add-ons/"><u>[Updated] Selective List of Pro-Gopro Add-Ons</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/advanced-file-exploration-software-quick-and-efficient-results/"><u>Advanced File Exploration Software - Quick & Efficient Results</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/full-examination-of-razer-kiyo-cam/"><u>Full Examination of Razer Kiyo Cam</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/how-does-chrome-indicate-its-under-corporate-management-and-should-you-worry-about-security/"><u>How Does Chrome Indicate It's Under Corporate Management, and Should You Worry About Security?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-xiaomi-redmi-note-12r-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Xiaomi Redmi Note 12R Phone that is Locked?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-achieving-virality-in-instagram-videos-practical-advice/"><u>In 2024, Achieving Virality in Instagram Videos Practical Advice</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-bold-pfp-strategies-for-a-memorable-tiktok-persona/"><u>In 2024, Bold PFP Strategies for a Memorable TikTok Persona</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Infinix Note 30 VIP? | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/lost-your-data-on-a-usb-stick-discover-effective-techniques-for-secure-data-recovery/"><u>Lost Your Data on a USB Stick? Discover Effective Techniques for Secure Data Recovery!</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/navigating-your-web-experience-the-ultimate-guide-to-control-tab-order-settings/"><u>Navigating Your Web Experience: The Ultimate Guide to Control Tab Order Settings</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-converting-regular-videos-with-best-vr-video-converters/"><u>New In 2024, Converting Regular Videos with Best VR Video Converters</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/optimizing-operations-with-effective-use-of-service-control-parameters/"><u>Optimizing Operations with Effective Use of Service Control Parameters</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-sony-xperia-5-v-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Sony Xperia 5 V</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/step-by-step-guide-to-resolving-common-errors-with-microsofts-groove-music-app/"><u>Step-by-Step Guide to Resolving Common Errors with Microsoft's Groove Music App</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/the-ultimate-instructional-resource-on-navigating-and-customizing-your-settings-tab-preferences/"><u>The Ultimate Instructional Resource on Navigating and Customizing Your Settings Tab Preferences</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/understanding-fileless-malware-mechanisms-defense-strategies-and-securing-your-computer/"><u>Understanding Fileless Malware: Mechanisms, Defense Strategies, & Securing Your Computer</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/user-friendly-installation-directory-selection-prompt/"><u>User-Friendly Installation Directory Selection Prompt</u></a></li>
 </ul></div>
 

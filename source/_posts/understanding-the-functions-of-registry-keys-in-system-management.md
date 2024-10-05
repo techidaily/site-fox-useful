@@ -1,7 +1,7 @@
 ---
 title: Understanding the Functions of Registry Keys in System Management
-date: 2024-09-24T18:17:38.539Z
-updated: 2024-09-30T09:10:39.261Z
+date: 2024-09-29T19:08:35.029Z
+updated: 2024-10-05T19:38:39.085Z
 tags:
   - user-guide
 categories:
@@ -95,17 +95,23 @@ Table of Contents
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)By default Windows Installer will remove only the resources that were installed by the MSI package. This removal operation is intended to be used for external resources created by custom behaviour.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Component
@@ -120,6 +126,13 @@ The time when the removal will be executed. There are three available moments:
 * component uninstall
 * both
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Condition
 
 Specify a removal condition.
@@ -133,10 +146,10 @@ You can specify registry values to be removed upon install from the [Registry Va
 Save and restore original registry key content.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Condition
@@ -144,13 +157,6 @@ Save and restore original registry key content.
 Condition when the key content is preserved.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)To find out how to use this option in an upgrade scenario, you can follow the [Prevent Repair or Uninstall](https://tools.techidaily.com/advancedinstaller/products/) article.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Search key
 
@@ -193,24 +199,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/updated-the-evolution-of-hd-tech-a-look-at-hp-envy-27/"><u>[Updated] The Evolution of HD Tech - A Look at HP Envy 27</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/cant-save-ifilm-content-on-your-device-discover-easy-ways-to-download-and-enjoy-ifilm-videos-anytime/"><u>Can't Save iFilm Content on Your Device? Discover Easy Ways to Download and Enjoy iFilm Videos Anytime</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/convert-22tracks-downloads-into-various-audio-formats-mp3-ogg-aac-etc/"><u>Convert 22Tracks Downloads Into Various Audio Formats (MP3, OGG, AAC, Etc.)</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/convert-and-download-high-quality-video-formats-from-m1905-with-ease/"><u>Convert and Download High-Quality Video Formats From M1905 with Ease</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/download-your-favorite-deezer-playlists-as-mp3-or-flac-easy-guide-with-reliable-software-solutions/"><u>Download Your Favorite Deezer Playlists as MP3 or FLAC: Easy Guide with Reliable Software Solutions</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/extract-your-favorite-drummerworld-vids-as-mp4-files-easy-downloader-tool/"><u>Extract Your Favorite DRUMMERWORLD Vids as MP4 Files - Easy Downloader Tool!</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/get-your-ears-ready-with-the-ultimate-soundgasm-collection-available-as-mp3-wav-m4a-and-other-audio-types/"><u>Get Your Ears Ready with the Ultimate Soundgasm Collection - Available as MP3, WAV, M4A, and Other Audio Types</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-visual-storytelling-with-iphone-xs-new-lens/"><u>In 2024, The Art of Visual Storytelling with iPhone X's New Lens</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovative-corporate-strategies-with-chatgpt-utilization/"><u>Innovative Corporate Strategies with ChatGPT Utilization</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/instant-insight-into-once-lost-reddit-topics/"><u>Instant Insight Into Once Lost Reddit Topics</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/mirror-of-society-top-100-inspiring-instagramcaptions-for-2024/"><u>Mirror of Society Top 100 Inspiring #InstagramCaptions for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-samsung-galaxy-m14-4g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Samsung Galaxy M14 4G? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/revolutionary-entry-tool-for-all-devices-this-year/"><u>Revolutionary Entry Tool for All Devices This Year</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/step-by-step-guide-to-extracting-premium-mp3s-flac-with-original-cover-designs-and-superior-sound-clarity-from-spotify/"><u>Step-by-Step Guide to Extracting Premium MP3s (FLAC) with Original Cover Designs and Superior Sound Clarity From Spotify</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/streamfreez-pro-quick-access-to-all-your-beloved-series-on-couchtuner/"><u>StreamFreez Pro: Quick Access to All Your Beloved Series on CouchTuner</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-ultimate-guide-to-engagement-mastering-instagram-stories/"><u>The Ultimate Guide to Engagement Mastering Instagram Stories</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/tv4play-media-grabber-stream-and-save-songs-and-movies-from-tv4play/"><u>TV4PLAY Media Grabber: Stream & Save Songs and Movies From TV4PLAY</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-your-brother-hl-l2370dw-printer-with-the-newest-free-software-version/"><u>Update Your Brother HL-L2370DW Printer with the Newest, FREE Software Version</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-merge-mov-files-for-free-5-best-options/"><u>Updated In 2024, Merge MOV Files for Free 5 Best Options</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-loom-downloader-how-to-loom-screen-record/"><u>[New] In 2024, Loom Downloader - How to Loom Screen Record</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-present-trends-in-drone-technology-for-the-future/"><u>[New] Present Trends in Drone Technology for the Future</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-diving-into-instagrams-restriction-for-video-content-for-2024/"><u>[Updated] Diving Into Instagram's Restriction for Video Content for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-metaverse-giggle-guide-generating-20plus-amusing-virtual-creations/"><u>[Updated] Metaverse Giggle Guide Generating 20+ Amusing Virtual Creations</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-optimizing-vr-video-quality-during-live-gaming/"><u>[Updated] Optimizing VR Video Quality During Live Gaming</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-13-pro-max-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 13 Pro Max and iPad Securely</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/configuring-java-application-preferences-a-detailed-guide/"><u>Configuring Java Application Preferences: A Detailed Guide</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/discover-homes-with-our-comprehensive-property-detail-pages/"><u>Discover Homes with Our Comprehensive Property Detail Pages</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/easy-guide-speedy-methods-to-adjust-text-size-in-your-pdf-document/"><u>Easy Guide: Speedy Methods to Adjust Text Size in Your PDF Document</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/easy-steps-to-modify-your-scheduled-gatherings-edit-event-guide/"><u>Easy Steps to Modify Your Scheduled Gatherings - Edit Event Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/efficient-subtitle-stripper-how-to-remove-text-overlays-on-your-movies-and-videos/"><u>Efficient Subtitle Stripper: How to Remove Text Overlays on Your Movies and Videos</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/high-definition-mac-webcam-recording-tutorial-capturing-perfect-videos/"><u>High-Definition Mac Webcam Recording Tutorial: Capturing Perfect Videos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/master-your-digital-files-with-ifile-seamless-organization-and-sharing-solutions/"><u>Master Your Digital Files with iFile – Seamless Organization and Sharing Solutions</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/mastering-screen-recording-on-macos-el-capitan-a-step-by-step-tutorial/"><u>Mastering Screen Recording on macOS El Capitan: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-your-ifunny-meme-journey-for-2024/"><u>Mastering Your iFunny Meme Journey for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/prioritize-privacy-in-conversations-the-best-10-free-secure-mobile-calling-apps-for-iosandroid/"><u>Prioritize Privacy in Conversations – The Best 10 Free, Secure Mobile Calling Apps for iOS/Android</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/quick-tips-for-retrieving-lost-information-from-an-iphone-6-no-tech-skills-required/"><u>Quick Tips for Retrieving Lost Information From an iPhone 6: No Tech Skills Required!</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/top-strategies-for-optimizing-video-conversion-on-your-surface-tablet/"><u>Top Strategies for Optimizing Video Conversion on Your Surface Tablet</u></a></li>
 </ul></div>
 

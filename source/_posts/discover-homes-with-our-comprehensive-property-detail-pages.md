@@ -1,7 +1,7 @@
 ---
 title: Discover Homes with Our Comprehensive Property Detail Pages
-date: 2024-09-27T00:24:15.946Z
-updated: 2024-09-29T16:21:16.020Z
+date: 2024-10-04T20:57:54.915Z
+updated: 2024-10-05T19:29:41.698Z
 tags:
   - user-guide
 categories:
@@ -77,6 +77,19 @@ Table of Contents
 
 This pane displays the selected dialog or control's attributes, and you can edit certain properties.
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Control Selection Combo box
 
 This combo box lets you select any of the controls present in the dialog. The selected control will be made visible even if other controls overlay it.  
@@ -90,13 +103,6 @@ This combo box lets you select any of the controls present in the dialog. The se
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The actions that will trigger a uniform behavior are: Resize and Move.
 
 The Properties pane contains a list of all the controls that belong to the currently selected dialog. When selecting a control in this list, the control is also selected on the dialog, and this list is populated with its properties.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Modifying a property
 
@@ -112,10 +118,16 @@ Contains the following properties:
 * Name - Displays the control identifier.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Display
@@ -140,6 +152,13 @@ In this category, you can specify the text style used when displaying the contro
 * Text Style - If indirect is FALSE the text style is specified directly. Select one from the list of already defined styles.
 * Indirect Property - If indirect is TRUE, a property is used to specify the text style. Use the \[... \] button to choose a property. These properties are defined in the [Text Style Tab](https://tools.techidaily.com/advancedinstaller/products/) page.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Print
 
 This option category is available only for "PushButton" controls from a dialog that contains at least a "ScrollableText" control.
@@ -149,13 +168,6 @@ The following attributes are available:
 * Print Button - Enable this option to indicate that the selected button should trigger the print action.
 * Control - When PushButton control is a "print button" you must choose a ScrollableText control on the same dialog which will contain the text to print.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Value
 
 This category is available for Check Box, Radio Button, Edit, Path Edit, Directory Combo and Masked Edit controls.
@@ -164,18 +176,18 @@ This category is available for Check Box, Radio Button, Edit, Path Edit, Directo
 * Default Value - Default value for the associated property. Available for Check Box controls.
 * Selected - Set the default control's state. Available for Radio Button controls.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Property
 
  Specify the name of the property associated with the currently selected control. You can directly edit the property's name or use the\[... \] button to select an existing one. 
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The property must be **public** (all uppercase letters) because properties that are set by the user interface during the installation and then passed to the installation's execution phase must be public. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Values Separator
 
@@ -236,6 +248,19 @@ These attributes are available for List Box and Combo Box controls
 * Combo list - If this flag is set the edit field of a Combo Box is replaced by a static text field. This prevents a user from entering a new value and requires the user to choose only one of the predefined values.
 * Sort by Index - The items listed in the control are displayed in a specified order otherwise they are displayed in alphabetical order.
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Extended Attributes
 
 These attributes require the use of [Enhanced User Interface](https://tools.techidaily.com/advancedinstaller/products/).
@@ -257,13 +282,6 @@ Specify the tool-tip associated with a control. You can [localize](https://tools
 
 If **pipe character** (vertical bar) "|" is used, the string containing the pipe and all the characters that follow will not be displayed.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Layout
 
 Edit the control's layout.
@@ -276,10 +294,10 @@ Edit the control's layout.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)These values have a maximum limit. You will not be able to enter a value greater than that limit.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)These values are specified in [installer units](https://tools.techidaily.com/advancedinstaller/products/).
@@ -317,19 +335,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-effortless-media-transfer-twitter-videos-on-whatsapp/"><u>[New] In 2024, Effortless Media Transfer Twitter Videos on WhatsApp</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-quick-and-easy-incorrante-audio-into-fb-profiles-ios-android/"><u>[New] Quick & Easy Incorrante Audio Into FB Profiles (iOS, Android)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-elevate-your-digital-self-with-memetic-skills-in-the-metaverse/"><u>2024 Approved How to Elevate Your Digital Self with Memetic Skills in the Metaverse</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Honor Magic 6 | Dr.fone</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/exporting-your-favorite-chaturbate-videos-in-high-quality-mp4-format-best-methods-and-tools/"><u>Exporting Your Favorite Chaturbate Videos in High-Quality MP4 Format: Best Methods and Tools</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/free-movie-and-tv-show-torrent-finder-on-watchfree-no-registration-required/"><u>Free Movie and TV Show Torrent Finder on Watchfree - No Registration Required</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/get-the-latest-movie-previews-quick-guide-on-downloading-from-traileraddict/"><u>Get the Latest Movie Previews - Quick Guide on Downloading From TrailerAddict</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/get-your-favorite-naruto-episodes-legally-vizs-download-options-for-mp4-mov-and-avi-files/"><u>Get Your Favorite Naruto Episodes Legally - VIZ's Download Options for MP4, MOV, and AVI Files</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/guide-downloading-streamangos-best-movies-and-tv-episodes-as-mp4-or-avi-files/"><u>Guide: Downloading Streamango's Best Movies & TV Episodes as MP4 or AVI Files</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-tecno-pova-5-pro-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Tecno Pova 5 Pro to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-navigating-and-interpreting-twitter-archives/"><u>In 2024, Navigating and Interpreting Twitter Archives</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-oppo-reno-8t-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Oppo Reno 8T? Fixed | Dr.fone</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/kostenlos-konvertieren-von-webm-in-mp3-effizienter-online-service-bei-movavi/"><u>Kostenlos Konvertieren Von Webm in MP3: Effizienter Online-Service Bei Movavi</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-tecno-pova-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-launch-live-fb-broadcast-from-any-device-with-obs-guide/"><u>[New] In 2024, Launch Live FB Broadcast From Any Device with OBS Guide</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/capturing-your-screen-effortlessly-a-beginners-tutorial-on-apowersoft-free-screenshot-utility/"><u>Capturing Your Screen Effortlessly: A Beginner's Tutorial on Apowersoft Free Screenshot Utility</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/discover-your-ideal-location-with-smart-search-solutions/"><u>Discover Your Ideal Location with Smart Search Solutions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-iphone-and-ios-a-beginners-approach-to-vr-videos/"><u>In 2024, IPhone & IOS A Beginner's Approach to VR Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-the-power-of-periscope-your-complete-manual/"><u>In 2024, Unlock the Power of Periscope Your Complete Manual</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/in-depth-guide-understanding-complus-component-architecture-and-services/"><u>In-Depth Guide: Understanding COM+ Component Architecture and Services</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/schritt-fur-schritt-anleitung-handbrake-erfolgreich-auf-windows-7-8-10-oder-vista-betreiben/"><u>Schritt-Für-Schritt-Anleitung: HandBrake Erfolgreich Auf Windows 7, 8, 10 Oder Vista Betreiben</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/ultimate-guide-hp-and-laptop-interaction-3-key-fixes/"><u>Ultimate Guide: HP & Laptop Interaction - 3 Key Fixes</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/ultimate-tutorial-on-how-to-capture-and-download-videos/"><u>Ultimate Tutorial on How to Capture and Download Videos</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/understanding-the-characteristics-of-volume-a-comprehensive-guide/"><u>Understanding the Characteristics of Volume: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-secrets-of-iphone-x-resolving-face-recognition-issues/"><u>Unlocking Secrets of iPhone X Resolving Face Recognition Issues</u></a></li>
 </ul></div>
 

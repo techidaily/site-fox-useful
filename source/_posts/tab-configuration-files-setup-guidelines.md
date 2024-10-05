@@ -1,7 +1,7 @@
 ---
 title: "Tab Configuration Files: Setup Guidelines"
-date: 2024-09-28T01:59:12.300Z
-updated: 2024-09-29T18:50:38.183Z
+date: 2024-09-28T18:27:12.959Z
+updated: 2024-10-05T17:42:08.609Z
 tags:
   - user-guide
 categories:
@@ -79,10 +79,10 @@ In this tab you can configure which files contained by your package will be sign
 ![Digital signature files tab](https://cdn.advancedinstaller.com/img/ui/digital-signature-files-tab.png "Digital signature files tab")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Files Configured for Signing
@@ -128,24 +128,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-avoiding-simulated-reality-ills-strategies-and-tips/"><u>[New] Avoiding Simulated Reality Ills Strategies and Tips</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-az-capture-extraordinaire-thorough-app-reviews/"><u>[Updated] AZ Capture Extraordinaire Thorough App Reviews</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-capturing-your-xbox-playtime-for-sharing/"><u>[Updated] Capturing Your Xbox Playtime for Sharing</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-honor-magic-v2-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Honor Magic V2 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>4 solution to get rid of pokemon fail to detect location On Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/advanced-web-interface-solutions-get-the-professional-edition-of-material-kit-for-bootstrap-5-and-material-design-from-creative-tim/"><u>Advanced Web Interface Solutions - Get the Professional Edition of Material Kit for Bootstrap 5 and Material Design From Creative Tim</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/answer-the-length-in-meters-will-be-5-03048-1524-meters-applying-the-conversion-factor-proportionally/"><u>Answer: The Length in Meters Will Be 5 0.3048 = 1.524 Meters, Applying the Conversion Factor Proportionally.</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-iphone-8-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From iPhone 8? How to Fix it?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/buy-macx-hd-video-converter-pro-top-choice-for-windows-users/"><u>Buy MacX HD Video Converter Pro: Top Choice for Windows Users</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/creative-tims-and-updivisions-expertly-crafted-laravlette-argon-dashboard-for-enhanced-user-experience-in-laravel-projects/"><u>Creative Tim's & UPDIVISION's Expertly Crafted Laravlette Argon Dashboard for Enhanced User Experience in Laravel Projects</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/creative-tims-best-offer-budget-friendly-aspnet-theme-selection-guide/"><u>Creative Tim's Best Offer: Budget-Friendly ASP.NET Theme Selection Guide</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/creative-tims-corporate-ui-dashboard-design-in-laravel-a-collaboration-with-updivision/"><u>Creative Tim's Corporate UI Dashboard Design in Laravel: A Collaboration with UPDIVISION</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/creative-tims-pro-grade-vue-material-kit-with-bootstrap-5-integration-elevate-your-vuejs-3-projects/"><u>Creative Tim's Pro-Grade Vue Material Kit with Bootstrap 5 Integration – Elevate Your VueJS 3 Projects!</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/discover-the-power-of-vue-argon-a-comprehensive-zero-cost-ui-framework-merging-vuejs-with-bootstrap/"><u>Discover the Power of Vue Argon: A Comprehensive, Zero-Cost UI Framework Merging Vue.js with Bootstrap</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/download-the-paper-dashboard-admin-templates-effortless-bootstrap-design-by-creative-tim-free/"><u>Download the Paper Dashboard Admin Templates - Effortless Bootstrap Design by Creative Tim (Free)</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/download-the-paper-themed-dashboard-boost-with-a-complimentary-bootstrap-admin-template-from-creative-tim/"><u>Download the Paper-Themed Dashboard Boost with a Complimentary Bootstrap Admin Template From Creative Tim</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-mac-tricks-for-dynamic-instagram-video-size-adjustment/"><u>In 2024, Mac Tricks for Dynamic Instagram Video Size Adjustment</u></a></li>
-<li><a href="https://games-able.techidaily.com/premature-play-gamers-perspective-unveiled/"><u>Premature Play: Gamers' Perspective Unveiled</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/forming-cityscapes-into-sustainable-havens-of-life/"><u>Transforming Cityscapes Into Sustainable Havens of Life</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-peek-into-the-heart-of-youtubes-video-operations-for-2024/"><u>[New] A Peek Into the Heart of YouTube's Video Operations for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-maximize-your-seo-top-7-budget-friendly-youtube-tags-extractors-reviewed/"><u>[New] In 2024, Maximize Your SEO Top 7 Budget-Friendly Youtube Tags Extractors Reviewed</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-essential-steps-for-high-quality-twitch-broadcasts/"><u>[Updated] In 2024, Essential Steps for High-Quality Twitch Broadcasts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-increasing-visibility-with-strategic-reddit-posts-for-2024/"><u>[Updated] Increasing Visibility with Strategic Reddit Posts for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/can-a-factory-reset-eliminate-android-viruses-and-malicious-software-insights-from-malwarefox/"><u>Can a Factory Reset Eliminate Android Viruses and Malicious Software? Insights From MalwareFox</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/comprehensive-guide-mastering-the-art-of-advanced-installation-techniques/"><u>Comprehensive Guide: Mastering the Art of Advanced Installation Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/download-sem-custo-transformar-videos-em-formato-wtv-usando-o-movaviconverter/"><u>Download Sem Custo: Transformar Vídeos Em Formato WTV Usando O MovaviConverter</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/effortless-techniques-to-fuse-multiple-pdfs-into-one-with-just-a-click/"><u>Effortless Techniques to Fuse Multiple PDFs Into One with Just a Click</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/el-capitan-users-manual-capturing-audio-on-a-mac-for-beginners/"><u>El Capitan User's Manual: Capturing Audio on a Mac for Beginners</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/essential-features-of-translation-tools-understanding-translator-attributes/"><u>Essential Features of Translation Tools: Understanding Translator Attributes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-free-defrag-utilities-to-optimize-performance-best-of-2n4/"><u>Essential Free Defrag Utilities to Optimize Performance - Best of 2N4</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-motorola-edge-40-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Motorola Edge 40 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/lost-your-data-on-a-usb-stick-discover-effective-techniques-for-secure-data-recovery/"><u>Lost Your Data on a USB Stick? Discover Effective Techniques for Secure Data Recovery!</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-stability-proven-tips-to-prevent-dead-by-daylight-crashes/"><u>Mastering Stability: Proven Tips to Prevent Dead By Daylight Crashes</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/navigating-your-web-experience-the-ultimate-guide-to-control-tab-order-settings/"><u>Navigating Your Web Experience: The Ultimate Guide to Control Tab Order Settings</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/srt-conversion-simplified-subtitles-transformation-for-2024/"><u>SRT Conversion Simplified Subtitles Transformation for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-insights-from-toms-hardware/"><u>Tom's Tech Reviews: In-Depth Insights From Tom's Hardware</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/top-rated-screenshot-apps-for-mac-computers/"><u>Top Rated Screenshot Apps for Mac Computers</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/top-ranking-music-slide-show-creator-apps-find-your-perfect-match/"><u>Top-Ranking Music Slide Show Creator Apps: Find Your Perfect Match</u></a></li>
 </ul></div>
 

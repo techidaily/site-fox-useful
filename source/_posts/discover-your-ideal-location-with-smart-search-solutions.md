@@ -1,7 +1,7 @@
 ---
 title: Discover Your Ideal Location with Smart Search Solutions
-date: 2024-09-26T04:09:44.311Z
-updated: 2024-09-30T10:32:05.570Z
+date: 2024-10-03T16:26:33.742Z
+updated: 2024-10-05T18:49:12.509Z
 tags:
   - user-guide
 categories:
@@ -124,15 +124,22 @@ Table of Contents
 
 ## ILocationSearch
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Declaration
 
 IAppSearch: IBaseSearch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -140,22 +147,15 @@ IAppSearch: IBaseSearch
 This interface is meant to edit an extension verb.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
 
 **Array<IDispath> Locators** \- Gets the collection of locators.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Methods
 
@@ -178,10 +178,10 @@ Creates a new folder locator if it doesn’t exist and add it to the locator’s
 Removes a locator from the locator’s collection and destroys it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -223,19 +223,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-comic-creators-charter-zero-cost-endless-laughs/"><u>[New] Comic Creators' Charter Zero Cost, Endless Laughs</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-navigating-snapchats-video-slowdown-feature/"><u>[Updated] In 2024, Navigating Snapchat's Video Slowdown Feature</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-one-minute-color-concealment/"><u>[Updated] One-Minute Color Concealment</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-ultimate-techniques-for-youtube-mp4-creation/"><u>[Updated] Ultimate Techniques for YouTube MP4 Creation</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/cant-save-ifilm-content-on-your-device-discover-easy-ways-to-download-and-enjoy-ifilm-videos-anytime/"><u>Can't Save iFilm Content on Your Device? Discover Easy Ways to Download and Enjoy iFilm Videos Anytime</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/complete-guide-to-downloading-your-canon-mp280-printer-driver-on-pc/"><u>Complete Guide to Downloading Your Canon MP280 Printer Driver on PC</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/convert-22tracks-downloads-into-various-audio-formats-mp3-ogg-aac-etc/"><u>Convert 22Tracks Downloads Into Various Audio Formats (MP3, OGG, AAC, Etc.)</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/convert-and-download-high-quality-video-formats-from-m1905-with-ease/"><u>Convert and Download High-Quality Video Formats From M1905 with Ease</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/download-your-favorite-deezer-playlists-as-mp3-or-flac-easy-guide-with-reliable-software-solutions/"><u>Download Your Favorite Deezer Playlists as MP3 or FLAC: Easy Guide with Reliable Software Solutions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-google-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Google?</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/mastering-complete-tiktok-deletion-process/"><u>Mastering Complete TikTok Deletion Process</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-vivo-y27-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Vivo Y27 5G Phone Now with These Tips</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/streamfreez-pro-quick-access-to-all-your-beloved-series-on-couchtuner/"><u>StreamFreez Pro: Quick Access to All Your Beloved Series on CouchTuner</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/tv4play-media-grabber-stream-and-save-songs-and-movies-from-tv4play/"><u>TV4PLAY Media Grabber: Stream & Save Songs and Movies From TV4PLAY</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-experience-retro-gaming-glory-with-best-pc-ps1-emulation-software/"><u>[Updated] 2024 Approved Experience Retro Gaming Glory with Best PC PS1 Emulation Software</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-a-comprehensive-guide-to-successful-fb-cover-video-strategies/"><u>[Updated] A Comprehensive Guide to Successful FB Cover Video Strategies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-complete-breakdown-hero4-black-usage/"><u>[Updated] Complete Breakdown Hero4 Black Usage</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1-how-to-convert-your-videos-into-free-mp3-audios/"><u>1. How to Convert Your Videos Into Free MP3 Audios</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-freely-stream-your-films-easy-to-use-mov-player-software/"><u>2024 Approved Freely Stream Your Films Easy-to-Use MOV PLAYER Software</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/audience-wow-factor-the-best-camera-lenses-for-youtube-stars-for-2024/"><u>Audience Wow Factor The Best Camera Lenses for YouTube Stars for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/best-imessage-emoji-creators-top-5-picks-for-easy-fun-on-ios-devices/"><u>Best iMessage Emoji Creators: Top 5 Picks for Easy Fun on iOS Devices</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/best-top-5-converters-from-jpg-images-to-pdf-files-on-any-platform/"><u>Best Top 5 Converters From JPG Images to PDF Files on Any Platform</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/comment-realiser-un-montage-mp3-en-segments-la-solution-intuitive-de-decoupeur-mp3-movavi/"><u>Comment Réaliser Un Montage MP3 en Segments : La Solution Intuitive De Découpeur MP3 Movavi</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Realme 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-15-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/leading-high-quality-image-refinement-software/"><u>Leading High-Quality Image Refinement Software</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/optimize-your-website-mastering-the-art-of-effective-search-engine-strategies/"><u>Optimize Your Website: Mastering the Art of Effective Search Engine Strategies</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-cinematic-creator-a-symphony-of-sights-and-sounds-for-2024/"><u>Prime Cinematic Creator A Symphony of Sights & Sounds for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-samsung-galaxy-f04-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Samsung Galaxy F04 Screen | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/step-by-step-tutorial-on-editing-exe-file-attributes-interface/"><u>Step-by-Step Tutorial on Editing Exe File Attributes Interface</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/the-ultimate-tutorial-on-moving-pictures-from-pc-to-iphone-xs-seamlessly/"><u>The Ultimate Tutorial on Moving Pictures From PC to iPhone XS Seamlessly</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/ultimate-guide-how-to-recover-your-iphone-using-an-itunes-backup/"><u>Ultimate Guide: How to Recover Your iPhone Using an iTunes Backup</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/understanding-iregistrykey-the-key-concepts-you-need-to-know/"><u>Understanding IRegistryKey: The Key Concepts You Need to Know</u></a></li>
 </ul></div>
 

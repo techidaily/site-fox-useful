@@ -1,7 +1,7 @@
 ---
 title: In-Depth Tutorial on How to Modify Hyperlink Settings in the Properties Panel
-date: 2024-09-28T18:21:22.703Z
-updated: 2024-09-29T17:14:25.967Z
+date: 2024-10-02T20:11:08.741Z
+updated: 2024-10-05T19:33:29.443Z
 tags:
   - user-guide
 categories:
@@ -42,10 +42,10 @@ Edit the properties of a hyperlink.
 ![Edit Module Dependencies Dialog](https://cdn.advancedinstaller.com/img/dialog/edit-hyperlink-dialog.png "Edit Module Dependencies Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### General
@@ -103,20 +103,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-essential-empowerment-packages-top-trending-products-for-todays-entrepreneur/"><u>[New] Essential Empowerment Packages Top Trending Products for Today's Entrepreneur</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/another-computer-is-using-the-printer-solved/"><u>Another Computer Is Using the Printer [Solved]</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/creative-tims-corporate-ui-dashboard-design-in-laravel-a-collaboration-with-updivision/"><u>Creative Tim's Corporate UI Dashboard Design in Laravel: A Collaboration with UPDIVISION</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/creative-tims-pro-grade-vue-material-kit-with-bootstrap-5-integration-elevate-your-vuejs-3-projects/"><u>Creative Tim's Pro-Grade Vue Material Kit with Bootstrap 5 Integration – Elevate Your VueJS 3 Projects!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/defective-intel-chips/"><u>Defective Intel Chips</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/discover-the-power-of-vue-argon-a-comprehensive-zero-cost-ui-framework-merging-vuejs-with-bootstrap/"><u>Discover the Power of Vue Argon: A Comprehensive, Zero-Cost UI Framework Merging Vue.js with Bootstrap</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/download-the-paper-dashboard-admin-templates-effortless-bootstrap-design-by-creative-tim-free/"><u>Download the Paper Dashboard Admin Templates - Effortless Bootstrap Design by Creative Tim (Free)</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/download-the-paper-themed-dashboard-boost-with-a-complimentary-bootstrap-admin-template-from-creative-tim/"><u>Download the Paper-Themed Dashboard Boost with a Complimentary Bootstrap Admin Template From Creative Tim</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/elevate-your-designs-with-premium-boutique-bootstrap-components-from-creative-tims-pro-ui-toolkit/"><u>Elevate Your Designs with Premium Boutique Bootstrap Components From Creative Tim's Pro UI Toolkit</u></a></li>
-<li><a href="https://driver-download.techidaily.com/fixing-csr-8510-a10-printer-driver-issues-in-windows-os-step-by-step-troubleshooting-tutorial/"><u>Fixing CSR 8510-A10 Printer Driver Issues in Windows OS: Step-by-Step Troubleshooting Tutorial</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-on-your-iphone-13-pro-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status On Your iPhone 13 Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-hero-series-advance-from-4-to-5/"><u>In 2024, The Hero Series Advance From 4 to 5</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-monitor-setup-lg-device-drivers-on-various-windows-platforms-11781/"><u>Mastering Monitor Setup: LG Device Drivers on Various Windows Platforms (11/7/8.1)</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/speedy-dvd-extraction-techniques-for-windows-7-users/"><u>Speedy DVD Extraction Techniques for Windows 7 Users</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/the-desktop-tiktok-creators-handbook-2023-edition/"><u>The Desktop TikTok Creator's Handbook 2023 Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-5-effortlessly-converted-gif-to-professional-videos-online/"><u>[Updated] Top 5 Effortlessly Converted GIF to Professional Videos Online</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unlocking-youtubes-algorithm-title-and-tag-optimization/"><u>[Updated] Unlocking YouTube's Algorithm Title & Tag Optimization</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-instant-data-integration-essential-steps-for-file-movement-onto-computer/"><u>2024 Approved Instant Data Integration Essential Steps for File Movement Onto Computer</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/effective-anti-redirect-software-malwarefox-browser-cleaner-eliminate-redirection-threats/"><u>Effective Anti-Redirect Software: MalwareFox Browser Cleaner – Eliminate Redirection Threats</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-world-of-visual-learners-key-traits-and-attributes/"><u>Exploring the World of Visual Learners: Key Traits & Attributes</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-apple-iphone-14-pro-max-location-on-skout-drfone-by-drfone-virtual-ios/"><u>How to Change Apple iPhone 14 Pro Max Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-excel-2007-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a Excel 2007 document online</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-13-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 13 to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-firmware-update-and-downloads-for-your-canon-dslr/"><u>Latest Firmware Update and Downloads for Your Canon DSLR</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/title-ensuring-safe-online-transactions-how-to-confirm-a-site-is-genuine-not-fraudulent/"><u>Title: Ensuring Safe Online Transactions: How to Confirm a Site Is Genuine, Not Fraudulent</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/top-rated-tools-for-instantly-transforming-your-images-backdrops-in-2n2/"><u>Top-Rated Tools for Instantly Transforming Your Images' Backdrops in 2N2</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/understanding-linked-data-packet-dynamics/"><u>Understanding Linked Data Packet Dynamics</u></a></li>
 </ul></div>
 

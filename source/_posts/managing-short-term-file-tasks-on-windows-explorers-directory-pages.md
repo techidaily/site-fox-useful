@@ -1,7 +1,7 @@
 ---
 title: Managing Short-Term File Tasks on Windows Explorer's Directory Pages
-date: 2024-09-24T09:32:08.449Z
-updated: 2024-09-29T17:13:38.275Z
+date: 2024-09-29T17:51:49.595Z
+updated: 2024-10-05T20:18:51.962Z
 tags:
   - user-guide
 categories:
@@ -99,29 +99,30 @@ In order to easily recognize them they have the following icon: ![Temporary File
 ![Add Temporary Files](https://cdn.advancedinstaller.com/img/toolbar/temp-files-add.png "Add Temporary Files")Use the \[Add Temporary Files \] toolbar button, the “Add Temporary Files...” tree/list context menu item. You can add more than one file at a time. If a file with the same name already exists in the target directory, the file to be added is skipped.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)To add an **entire folder** with all its files as temporary, see [Folder Operations in the Files and Folders Page - VSIX Project](https://tools.techidaily.com/advancedinstaller/products/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Setting temporary file properties
 
 ![Properties](https://cdn.advancedinstaller.com/img/toolbar/properties.png "Properties") Use the \[Properties... \] toolbar button, the “Properties...” list context menu item, press the Enter key while a temporary file is selected in the “Files” panel or double click on a file. The [Edit Temporary File Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to edit the temporary file properties.
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Renaming temporary files
@@ -137,17 +138,10 @@ Select the items to be moved then drag and drop them to the target folder.
 ![Remove](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Remove") Use the \[Delete \] toolbar button, the “Delete” tree/list context menu item, or press the Delete key while a temporary file is selected. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -188,17 +182,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-a-deeper-dive-into-the-game-five-easy-zooming-methods/"><u>[New] 2024 Approved A Deeper Dive Into the Game Five Easy Zooming Methods</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-video-engagement-top-7-free-thumbnail-design-tools/"><u>[New] 2024 Approved Elevate Video Engagement Top 7 Free Thumbnail Design Tools</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-forgotten-basics-of-instagram-reels-success-for-2024/"><u>[New] The Forgotten Basics of Instagram Reels Success for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-privacy-centric-explore-instagram-stories-anon-on-your-devices-for-2024/"><u>[Updated] Privacy-Centric Explore Instagram Stories Anon on Your Devices for 2024</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/advanced-argon-ds-pro-high-quality-bootstrap-4-design-framework-by-creative-tim/"><u>Advanced Argon DS Pro: High-Quality Bootstrap 4 Design Framework by Creative Tim</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/advanced-black-dashboard-pro-the-premier-bootstrap-4-admin-panel-for-django-from-creativetim/"><u>Advanced Black Dashboard Pro: The Premier Bootstrap 4 Admin Panel for Django From Creativetim</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/advanced-mailto-pro-templates-high-quality-responsive-html-for-business-email-campaigns-exclusive-offer-from-creative-tim/"><u>Advanced Mailto PRO Templates: High-Quality, Responsive HTML for Business Email Campaigns - Exclusive Offer From Creative Tim</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/advanced-paper-dashboard-pro-version-top-tier-bootstrap-4-administrative-design-by-creative-tim/"><u>Advanced Paper Dashboard Pro Version: Top-Tier Bootstrap 4 Administrative Design by Creative Tim</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/artful-approaches-to-elevating-your-fb-ad-reach/"><u>Artful Approaches to Elevating Your FB Ad Reach</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-fix-cyberpunk-2077-crashes-on-your-windows-pc-complete-guide/"><u>How to Fix Cyberpunk 2077 Crashes on Your Windows PC - Complete Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-redmi-note-13-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Xiaomi Redmi Note 13 5G to New Android? | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-powerhouse-in-depth-review-of-dbpowers-600a-with-a-18000mah-capacity-for-emergency-charging-needs/"><u>The Powerhouse: In-Depth Review of DBPOWER's 600A with a 18,000mAh Capacity for Emergency Charging Needs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-propel-your-instagram-videos-into-the-public-eye-for-2024/"><u>[New] Propel Your Instagram Videos Into the Public Eye for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-complete-guidebook-to-evaluating-your-videos-impact-and-earning-power/"><u>[Updated] 2024 Approved Complete Guidebook to Evaluating Your Video's Impact and Earning Power</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-obs-vs-shadowplay-which-recording-tool-takes-the-prize-in-2024/"><u>[Updated] OBS Vs ShadowPlay Which Recording Tool Takes the Prize, In 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/connecting-your-android-phone-with-pc-three-easy-techniques/"><u>Connecting Your Android Phone with PC: Three Easy Techniques</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-hp-deskjet-ink-advantage-3520-printer-software/"><u>Download the HP Deskjet Ink Advantage 3520 Printer Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-to-follow-top-10-tactics-for-new-users-of-x-platform/"><u>Easy-to-Follow Top 10 Tactics for New Users of X Platform</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/efficient-techniques-for-converting-mts-videos-into-avi-format/"><u>Efficient Techniques for Converting MTS Videos Into AVI Format</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/enhancing-design-with-efficient-editing-master-the-patterns-dialog/"><u>Enhancing Design with Efficient Editing: Master the Patterns Dialog</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Infinix Hot 40? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-realme-gt-5-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/lenovo-laptop-capture-tutorial-a-step-by-step-guide-to-easy-screen-snapping/"><u>Lenovo Laptop Capture Tutorial: A Step-by-Step Guide to Easy Screen Snapping</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/quick-and-simple-guide-convert-your-images-from-jpgjpeg-to-pdf-at-no-cost/"><u>Quick and Simple Guide: Convert Your Images From JPG/JPEG to PDF at No Cost</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/step-by-step-guide-unlocking-your-iphone-without-a-password/"><u>Step-by-Step Guide: Unlocking Your iPhone Without a Password</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-strategies-to-find-and-buy-the-ideal-home-entertainment-tv/"><u>Step-by-Step Strategies to Find and Buy the Ideal Home Entertainment TV</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-multilingual-mindset-how-to-become-a-fluent-polyglot/"><u>The Multilingual Mindset: How to Become a Fluent Polyglot</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-nokia-c02-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Nokia C02 Location | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/ultimate-step-by-step-tutorial-on-navigating-apowershow/"><u>Ultimate Step-by-Step Tutorial on Navigating ApowerShow</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/understanding-file-handling-in-settings-menu/"><u>Understanding File Handling in Settings Menu</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/understanding-the-functions-of-registry-keys-in-system-management/"><u>Understanding the Functions of Registry Keys in System Management</u></a></li>
 </ul></div>
 

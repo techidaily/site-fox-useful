@@ -1,7 +1,7 @@
 ---
 title: Modify Application Settings in Policy Management Dashboard
-date: 2024-09-25T19:43:50.720Z
-updated: 2024-09-30T08:45:24.376Z
+date: 2024-09-28T17:02:49.136Z
+updated: 2024-10-05T16:29:53.072Z
 tags:
   - user-guide
 categories:
@@ -82,10 +82,10 @@ In this dialog, you can change the Component Policy for files and registry entri
 ![Component Policies Dialog](https://cdn.advancedinstaller.com/img/dialog/component-policies-edit-dialog.png "Component Policies Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Registry Component Policy
@@ -105,10 +105,10 @@ If this option is checked, for registry keys with multiple registry values only 
 This option will ensure that a single component will be created for all registries so if there are multiple keys and values, all of them will be in the same component. This option is useful for minimizing the installation time in scenarios with a large number of registers .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### File Component Policy
@@ -160,18 +160,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-primevideos-leaders-twitters-best-liked-and-most-watched-content/"><u>[New] 2024 Approved PrimeVideos Leaders Twitter's Best-Liked & Most-Watched Content</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-simple-guide-sharing-tweets-with-imagesvideos-directly-to-twitter/"><u>[New] 2024 Approved Simple Guide Sharing Tweets with Images/Videos Directly to Twitter</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-paint-your-vision-top-8-best-drawing-apps-for-iphone-enthusiasts/"><u>2024 Approved Paint Your Vision Top 8 Best Drawing Apps for iPhone Enthusiasts</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/can-you-replicate-paper-book-turning-for-digital-readers-using-innovative-ebook-technology-explore-with-flipbuilder-flipbuildercom/"><u>Can You Replicate Paper Book Turning for Digital Readers Using Innovative eBook Technology? Explore with FlipBuilder [FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/collaborate-and-explore-ebooks-side-by-side-with-friends-at-flipbuildercom/"><u>Collaborate and Explore eBooks Side by Side with Friends at FlipBuilder.com</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-fallout-3-crashes-on-windows-11-expert-tips-and-solutions/"><u>How to Fix Fallout 3 Crashes on Windows 11: Expert Tips and Solutions</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-atandt-iphone-xs-max-with-3-methods-by-drfone-ios/"><u>How to Unlock AT&T iPhone XS Max with 3 Methods</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-a56s-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo A56s 5G Phone FRP Lock</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-unearthed-echo-collectors-best-unnoticed-android-and-ios-recorders/"><u>In 2024, Unearthed Echo Collectors Best Unnoticed Android & iOS Recorders</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/mohu-leaf-30-tv-antenna-review-a-good-combination-of-price-and-performance/"><u>Mohu Leaf 30 TV Antenna Review: A Good Combination Of Price And Performance</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/professional-bootstrap-4-user-interface-suite-by-creative-tim-pro-edition/"><u>Professional Bootstrap 4 User Interface Suite by Creative Tim - Pro Edition</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/professional-vuelaravel-stack-application-with-json-api-integration-created-by-creative-tim/"><u>Professional Vue/Laravel Stack Application with JSON API Integration - Created by Creative Tim</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-14-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking Apple iPhone 14 Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-switching-to-grid-view-in-google-meet-chat-room/"><u>[Updated] In 2024, Switching to Grid View in Google Meet Chat Room</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-simple-hdr-photography-methods/"><u>[Updated] Mastering Simple HDR Photography Methods</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-reposition-mac-picture-cache-destination/"><u>[Updated] Reposition Mac Picture Cache Destination</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-magix-acid-pro-evaluation-with-equivalent-software/"><u>2024 Approved Magix ACID Pro Evaluation with Equivalent Software</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/best-free-pdf-transformer-software-compatible-with-windows-10-systems/"><u>Best Free PDF Transformer Software Compatible with Windows 10 Systems</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/effective-strategies-shrink-your-pdf-file-effortlessly-and-exactly/"><u>Effective Strategies: Shrink Your PDF File Effortlessly & Exactly</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-stop-microsoft-flight-simulator-2n-from-crashing-on-your-computer/"><u>Expert Tips to Stop Microsoft Flight Simulator 2N From Crashing on Your Computer</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-vivo-y78t-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Vivo Y78t?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-prime-5-podcast-options-for-your-iphone-experience/"><u>In 2024, Prime 5 Podcast Options for Your iPhone Experience</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-realme-gt-3-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Realme GT 3 FRP Bypass</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/mastering-complex-software-deployment-a-guide-to-advanced-installation-techniques/"><u>Mastering Complex Software Deployment: A Guide to Advanced Installation Techniques</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/mastering-identityv-gameplay-on-your-computer-a-comprehensive-guide/"><u>Mastering IdentityV Gameplay on Your Computer: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/the-best-batch-image-editing-tools-top-5-software-options-for-efficient-background-removal/"><u>The Best Batch Image Editing Tools: Top 5 Software Options for Efficient Background Removal</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/ultimate-guide-how-to-change-your-mkv-movie-downloads-into-high-quality-mp3-music-playlists/"><u>Ultimate Guide: How to Change Your MKV Movie Downloads Into High-Quality MP3 Music Playlists</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/understanding-the-new-whatsapp-terms-a-deep-dive-into-recent-privacy-policy-updates-with-malwarefox/"><u>Understanding the New WhatsApp Terms: A Deep Dive Into Recent Privacy Policy Updates with MalwareFox</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/understanding-xml-documents-a-comprehensive-guide/"><u>Understanding XML Documents - A Comprehensive Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/uniting-worlds-love-without-a-common-tongue/"><u>Uniting Worlds: Love Without a Common Tongue</u></a></li>
 </ul></div>
 

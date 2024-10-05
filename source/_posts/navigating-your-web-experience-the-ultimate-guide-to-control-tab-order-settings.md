@@ -1,7 +1,7 @@
 ---
 title: "Navigating Your Web Experience: The Ultimate Guide to Control Tab Order Settings"
-date: 2024-09-28T21:54:39.897Z
-updated: 2024-09-30T04:22:53.116Z
+date: 2024-09-29T19:51:19.324Z
+updated: 2024-10-05T19:57:52.043Z
 tags:
   - user-guide
 categories:
@@ -86,9 +86,35 @@ This dialog allows you to change the tab order for controls on the dialog.
 
 ![Control Tab Order Dialog](https://cdn.advancedinstaller.com/img/dialog/control-tab-order.png "Control Tab Order Dialog")  
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Dialog Controls
 
 This list contains all the controls that are on the dialog. The order of the controls in the list represents the order in which the controls were created. Also, this order gives the tab order of the dialog at run-time as well as the Z-order. Use the \[Up \] and \[Down \] buttons to modify this order. If two controls overlap will be visible the one who is lower on the list.
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Set Default
 
@@ -97,17 +123,10 @@ Make the current control the default control of the dialog. By default, this con
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The Default control must be a push button.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Set Cancel
@@ -117,20 +136,13 @@ Make the current control the Cancel control of the dialog.
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The Cancel control must be a push button.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)A control can be simultaneously Default Control and Cancel Control for a dialog.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -165,18 +177,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-tips-and-tricks-to-streamline-your-zoom-meetings/"><u>[New] Tips & Tricks to Streamline Your Zoom Meetings</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-immediate-improvement-photo-colors-in-photoshop/"><u>[Updated] Immediate Improvement Photo Colors in Photoshop</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-black-screen-error-on-your-google-chrome-proven-methods/"><u>Fixing the 'Black Screen' Error on Your Google Chrome: Proven Methods</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/get-the-latest-movie-previews-quick-guide-on-downloading-from-traileraddict/"><u>Get the Latest Movie Previews - Quick Guide on Downloading From TrailerAddict</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/get-your-favorite-naruto-episodes-legally-vizs-download-options-for-mp4-mov-and-avi-files/"><u>Get Your Favorite Naruto Episodes Legally - VIZ's Download Options for MP4, MOV, and AVI Files</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/guide-downloading-streamangos-best-movies-and-tv-episodes-as-mp4-or-avi-files/"><u>Guide: Downloading Streamango's Best Movies & TV Episodes as MP4 or AVI Files</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/guide-downloading-youtube-videos-as-mp4movwmv-formats-from-pc-or-mac/"><u>Guide: Downloading YouTube Videos as MP4/MOV/WMV Formats From PC or Mac</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/guide-successfully-streaming-youtube-content-on-your-huawei-device/"><u>Guide: Successfully Streaming YouTube Content on Your Huawei Device</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-honor-v-purse-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-elite-after-effects-plugins-compendium/"><u>In 2024, Unveiling the Elite After Effects Plugins Compendium</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-transform-your-videos-best-time-lapse-editing-apps-for-mobile-for-2024/"><u>New Transform Your Videos Best Time-Lapse Editing Apps for Mobile for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-solution-for-correcting-vpn-issue-with-error-800-in-client-and-server-environments/"><u>Step-by-Step Solution for Correcting VPN Issue with Error 800 in Client and Server Environments</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-delving-into-sns-hdr-pros-merits-and-peer-comparisons/"><u>[New] Delving Into SNS HDR Pro's Merits & Peer Comparisons</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/op-fifa-players-visualized-data-infographics/"><u>[New] Top FIFA Players Visualized Data Infographics</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-become-a-tiktok-fanatic-setup-guide-for-macbook/"><u>[Updated] Become a TikTok Fanatic Setup Guide for MacBook</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1-easy-ini-configuration-mastering-the-ini-file-editing-process/"><u>1. Easy INI Configuration: Mastering the INI File Editing Process</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1-quick-and-simple-guide-adding-your-signature-to-images/"><u>1. Quick and Simple Guide: Adding Your Signature to Images</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/comparative-analysis-excel-vs-xml-file-formats/"><u>Comparative Analysis: Excel Vs. XML File Formats</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/comparing-antivirus-vs-anti-malware-which-should-you-choose-for-optimal-protection/"><u>Comparing Antivirus Vs. Anti-Malware: Which Should You Choose for Optimal Protection?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/easy-onboarding-for-webinar-logging-in-microsoft-operating-systems/"><u>Easy Onboarding for Webinar Logging in Microsoft Operating Systems</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/efficient-temporary-file-handling-in-it-systems/"><u>Efficient Temporary File Handling in IT Systems</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/efficiently-inserting-multiple-photos-into-a-single-pdf-a-how-to-tutorial/"><u>Efficiently Inserting Multiple Photos Into a Single PDF - A How-To Tutorial</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-honor-v-purse-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Honor V Purse Android SIM Unlock APK</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/innovative-approaches-to-custom-add-in-development/"><u>Innovative Approaches to Custom Add-In Development</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/innovative-virtual-classroom-solutions-for-instructors/"><u>Innovative Virtual Classroom Solutions for Instructors</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/prime-fb-video-converters-secure-mp4-downloads/"><u>Prime FB Video Converters Secure MP4 Downloads</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/step-by-step-recording-slideshow-via-webcam/"><u>Step-by-Step Recording Slideshow via Webcam</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unlock-creativity-top-8-online-resources-for-beginners-for-2024/"><u>Unlock Creativity Top 8 Online Resources for Beginners for 2024</u></a></li>
 </ul></div>
 

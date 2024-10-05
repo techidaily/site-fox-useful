@@ -1,7 +1,7 @@
 ---
 title: Understanding File Handling in Settings Menu
-date: 2024-09-27T04:25:07.652Z
-updated: 2024-09-29T20:17:10.176Z
+date: 2024-09-30T19:31:42.965Z
+updated: 2024-10-05T20:30:43.738Z
 tags:
   - user-guide
 categories:
@@ -97,10 +97,10 @@ Table of Contents
 ![File Operations Tab](https://cdn.advancedinstaller.com/img/dialog/file-operations.png "File Operations Tab")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overwrite behavior
@@ -108,10 +108,10 @@ Table of Contents
 Specify the file's overwrite behavior.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Overwrite only if the existing file is older
@@ -119,10 +119,10 @@ Specify the file's overwrite behavior.
 When this option is selected, if the file on the target machine is older then the one included in the package, it will be overwritten.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Always overwrite existing file
@@ -136,10 +136,10 @@ If this option is enabled, the file from your package is overwritten and any sim
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)These options are also available for multiple editing of file properties.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -175,17 +175,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-avoid-abrupt-jumps-perfecting-inshot-transitions/"><u>[Updated] Avoid Abrupt Jumps Perfecting Inshot Transitions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-revolutionizing-online-content-the-power-of-time-stamps/"><u>[Updated] Revolutionizing Online Content The Power of Time-Stamps</u></a></li>
-<li><a href="https://extra-information.techidaily.com/creating-chuckles-with-gifs-a-meme-masterclass/"><u>Creating Chuckles with GIFs A Meme Masterclass</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-best-ai-helpers-to-spark-ideas-in-writing/"><u>Discover the Best AI Helpers to Spark Ideas in Writing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eradicating-windows-update-issue-x8019/"><u>Eradicating Windows Update Issue X8019</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/how-to-modify-the-resolution-and-dimensions-of-pdf-files-in-flippdf-pro-comprehensive-guide/"><u>How to Modify the Resolution & Dimensions of PDF Files in FlipPDF Pro - Comprehensive Guide</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/how-to-pre-organize-your-photos-for-optimal-flipbook-creation-on-flipbuilder/"><u>How to Pre-Organize Your Photos for Optimal FlipBook Creation on FlipBuilder</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/how-to-quickly-print-singlemultiple-pages-from-a-digital-flipbook-on-flipbuilder/"><u>How to Quickly Print Single/Multiple Pages From a Digital Flipbook on FlipBuilder</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/how-to-select-and-import-specific-pages-from-a-pdf-in-flipbuilder-a-step-by-step-guide/"><u>How to Select and Import Specific Pages From a PDF in FlipBuilder - A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/how-to-select-your-output-mode-comparing-html-zip-files-executables-and-cd-burning-options-with-flipbuilder/"><u>How to Select Your Output Mode: Comparing HTML, Zip Files, Executables, and CD Burning Options with FlipBuilder</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-poco-c50-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Poco C50 FRP</u></a></li>
-<li><a href="https://video-capture.techidaily.com/unpacking-features-a-deep-dive-into-free2xs-tools/"><u>Unpacking Features A Deep Dive Into Free2X's Tools</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-skyrocket-your-brands-impact-top-ten-seo-tips-for-facebook-marketers/"><u>[New] In 2024, Skyrocket Your Brand's Impact Top Ten SEO Tips for Facebook Marketers</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-serene-strums-and-steps-tiktoks-best-country-melodies-for-2024/"><u>[New] Serene Strums and Steps TikTok's Best Country Melodies for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-exploring-ways-to-share-youtube-videos-on-social-media-platforms-fb/"><u>2024 Approved Exploring Ways to Share YouTube Videos on Social Media Platforms (FB)</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/best-top-5-converters-from-jpg-images-to-pdf-files-on-any-platform/"><u>Best Top 5 Converters From JPG Images to PDF Files on Any Platform</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/better-views-for-your-windows/"><u>Better Views for Your Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-high-cpu-demands-the-case-for-vanguards-ums-optimization/"><u>Deciphering High CPU Demands: The Case for Vanguard's UMS Optimization</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-honor-magic5-ultimate-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-automatic-youtube-playback-made-simple-for-social-networking-sites-like-facebook/"><u>In 2024, Automatic YouTube Playback Made Simple for Social Networking Sites Like Facebook</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/step-by-step-tutorial-on-editing-exe-file-attributes-interface/"><u>Step-by-Step Tutorial on Editing Exe File Attributes Interface</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/the-ultimate-tutorial-on-moving-pictures-from-pc-to-iphone-xs-seamlessly/"><u>The Ultimate Tutorial on Moving Pictures From PC to iPhone XS Seamlessly</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/ultimate-guide-how-to-recover-your-iphone-using-an-itunes-backup/"><u>Ultimate Guide: How to Recover Your iPhone Using an iTunes Backup</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "1. PowerShell Scripting Essentials: A Beginner's Guide"
-date: 2024-09-23T19:49:32.035Z
-updated: 2024-09-30T11:08:13.706Z
+date: 2024-09-28T16:23:28.074Z
+updated: 2024-10-05T16:08:18.350Z
 tags:
   - user-guide
 categories:
@@ -126,10 +126,10 @@ Table of Contents
 ## IPowershellScriptFile
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -137,10 +137,10 @@ Table of Contents
 IPowershellScriptFile : ICustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -148,10 +148,10 @@ IPowershellScriptFile : ICustomAction
 This interface facilitates editing custom action that allows launching a Powershell script file into execution.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -163,10 +163,10 @@ This interface facilitates editing custom action that allows launching a Powersh
 **Bool Is64Bit** \- Gets or sets the property of the custom action to run the 32-bit PowerShell executable. If Is32Bit value is also “true” then runs the Operating System bitness PowerShell executable (32-bit on x86 operating systems, 64-bit on x64).
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -208,21 +208,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-calm-clicks-the-ideal-screen-free-puzzles/"><u>[New] Calm Clicks The Ideal Screen-Free Puzzles</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-antique-cinematography-in-the-digital-realm/"><u>[New] In 2024, Antique Cinematography in the Digital Realm</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-pro-tips-top-11-inexpensive-youtube-naming-tools/"><u>[Updated] 2024 Approved Pro Tips Top 11 Inexpensive YouTube Naming Tools</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-the-key-to-quick-and-effective-small-image-generation/"><u>[Updated] 2024 Approved The Key to Quick and Effective Small Image Generation</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-building-your-brand-creating-a-professional-podcast-feed/"><u>2024 Approved Building Your Brand Creating a Professional Podcast Feed</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/next-steps-for-success-maximizing-the-potential-of-your-recent-flipbuilder-license-purchase/"><u>Next Steps for Success: Maximizing the Potential of Your Recent FlipBuilder License Purchase</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/next-level-slideshow-skills-build-captivating-multimedia-powerpoints-that-flip-like-ebooks-learn-from-flipbuilder-experts/"><u>Next-Level Slideshow Skills: Build Captivating Multimedia PowerPoints That Flip Like Ebooks, Learn From FlipBuilder Experts</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/obtaining-your-sales-receipt-from-flipbuilder-a-step-by-step-guide/"><u>Obtaining Your Sales Receipt From FlipBuilder: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-audio-problems-in-counter-strike-2-mic-fixes-and-tips/"><u>Overcoming Audio Problems in Counter Strike 2 - Mic Fixes and Tips</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/setting-up-automatic-notifications-for-newly-made-flipbooks-in-external-applications-learn-how-with-flipbuilder/"><u>Setting Up Automatic Notifications for Newly Made FlipBooks in External Applications - Learn How with FlipBuilder</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/techniques-for-diminishing-textbook-interior-backdrop-contrast-with-flipbuilder/"><u>Techniques for Diminishing Textbook Interior Backdrop Contrast with FlipBuilder</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/transform-your-photos-into-masterpieces-a-guide-to-image-enhancement-using-flipbuilders-clipart-tools/"><u>Transform Your Photos Into Masterpieces: A Guide to Image Enhancement Using FlipBuilder's Clipart Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-10-update-issues-solutions-for-a-freezing-or-stalled-system/"><u>Troubleshooting Windows 10 Update Issues: Solutions for a Freezing or Stalled System</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/ultimate-guide-creating-full-screen-exe-flipbooks-with-flipbuilder/"><u>Ultimate Guide: Creating Full-Screen EXE Flipbooks with FlipBuilder</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/uncover-trends-in-tech-an-in-depth-look-with-toms-hardware/"><u>Uncover Trends in Tech: An In-Depth Look with Tom's Hardware</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-effortless-steps-to-obtain-free-audio-for-videos/"><u>[New] Effortless Steps to Obtain Free Audio for Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-crafting-compelling-youtube-profile-definitions/"><u>[Updated] In 2024, Crafting Compelling YouTube Profile Definitions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-efficient-viewing-the-comprehensive-guide-for-creating-youtube-watch-later-lists/"><u>2024 Approved Efficient Viewing The Comprehensive Guide for Creating YouTube Watch Later Lists</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/explore-sql-databases-with-ease-a-comprehensive-guide/"><u>Explore SQL Databases with Ease: A Comprehensive Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/innovative-approaches-to-custom-add-in-development/"><u>Innovative Approaches to Custom Add-In Development</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-secretlab-titan-evo-still-leading-the-pack-in-202n-in-depth-review-and-analysis-for-gamers-ultimate-seating-solution-insights-from-zdnet/"><u>Is Secretlab Titan Evo Still Leading the Pack in 202N? In-Depth Review & Analysis for Gamers' Ultimate Seating Solution | Insights From ZDNet.</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/tabbed-project-management-organize-workflows-efficiently/"><u>Tabbed Project Management: Organize Workflows Efficiently</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-hardware-unveiled-your-source-for-reliable-pc-and-peripherals-reviews/"><u>Tom’s Hardware Unveiled: Your Source for Reliable PC and Peripherals Reviews</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/top-recommended-substitutes-for-snappea-applications/"><u>Top Recommended Substitutes for SnapPea Applications</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/ultimate-guide-how-to-effortlessly-sync-music-between-pc-and-iphone-models-xr-xs-and-xs-max/"><u>Ultimate Guide: How To Effortlessly Sync Music Between PC and iPhone Models XR, XS & XS Max</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-series-exceptional-5-slow-mo-tech-for-2024/"><u>Ultimate Series Exceptional 5 Slow Mo Tech for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/ultimate-techniques-for-adding-sequential-page-numbering-in-pdf-files/"><u>Ultimate Techniques for Adding Sequential Page Numbering in PDF Files</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Understanding XML Documents - A Comprehensive Guide
-date: 2024-09-25T21:30:16.711Z
-updated: 2024-09-29T18:07:17.646Z
+date: 2024-10-03T20:57:35.609Z
+updated: 2024-10-05T17:27:56.362Z
 tags:
   - user-guide
 categories:
@@ -108,19 +108,6 @@ The XML file support can be used for configuring XML files that are part of the 
 
 In this case you have an XML file that you want to install and then update it, all done in the same install package. This is possible because a _regular_ XML file is installed on the target machine before the XML changes are applied. In order to achieve this behaviour, first add the XML file as a _"regular file"._ Then, simply add the same XML file in the _Windows Installer_ format and by using the [XML Editor](https://tools.techidaily.com/advancedinstaller/products/) modify the elements that you want to create, update or remove.
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Update files that are present on the target machine
 
 In this case the XML file is present on the target machine. Simply add the XML file to the Advanced Installer project using the_Windows Installer_ format. Then use the [XML Editor](https://tools.techidaily.com/advancedinstaller/products/) editor to modify the elements that you want to update. An XML element can be created if not present, updated if already present, or deleted if it exists. It is not necessary to keep in the imported XML file all the elements that won't be updated.
@@ -128,10 +115,10 @@ In this case the XML file is present on the target machine. Simply add the XML f
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)When the XML Files are used to configure a file from the installation package, use the "New XML File" option to create a new XML update with the same name and installation directory.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Creating new XML Files
@@ -139,28 +126,35 @@ In this case the XML file is present on the target machine. Simply add the XML f
 ![New XML File](https://cdn.advancedinstaller.com/img/toolbar/xml-new.png "New XML File")Use the \[New XML File \] toolbar button or the “New XML File” tree/list context menu item.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Editing an existing XML File
 
 ![Properties](https://cdn.advancedinstaller.com/img/toolbar/properties.png "Properties") Use the\[Properties... \] toolbar button, the “Properties...” list context menu item, press theEnter key while an XML file is selected in the “Files” panel or double click on an XML file.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)XML files can be renamed, moved or removed just like regular [Files](https://tools.techidaily.com/advancedinstaller/products/).
 
 ### Testing an XML File Operation
 
  It is possible [**to test**](https://tools.techidaily.com/advancedinstaller/products/) a previously defined XML File operation.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -202,20 +196,15 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-making-sense-of-creative-commons-licensing-and-usage/"><u>[New] 2024 Approved Making Sense of Creative Commons Licensing & Usage</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-unleash-creativity-with-ezvides-tool-for-capturing-your-desktop/"><u>[New] Unleash Creativity with EZvide's Tool for Capturing Your Desktop</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/choosing-the-right-assistant-snapchats-my-ai-vs-chatgpt/"><u>Choosing the Right Assistant: Snapchat's My AI Vs. ChatGPT</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/combining-duo-sheet-images-into-single-pages-with-flipbuilder-a-step-by-step-guide/"><u>Combining Duo Sheet Images Into Single Pages with FlipBuilder – A Step by Step Guide</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/compatibility-guide-moving-your-original-themes-between-applications-including-flipbuilder/"><u>Compatibility Guide: Moving Your Original Themes Between Applications, Including FlipBuilder</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/comprehensive-guide-mastering-the-art-with-flipwriter-by-flipbuildercom/"><u>Comprehensive Guide: Mastering the Art with FlipWriter by FlipBuilder.com</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/comprehensive-list-of-documents-and-media-you-can-transform-using-flipoffice-software/"><u>Comprehensive List of Documents & Media You Can Transform Using FlipOffice Software</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/create-and-distribute-interactive-ebooks-for-free-share-them-now-at-flipbuildercom/"><u>Create and Distribute Interactive eBooks for Free – Share Them Now at FlipBuilder.com!</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/digital-content-expert-tips-security-strategies-and-effective/"><u>Digital Content, Expert Tips, Security Strategies, and Effective.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-best-lgbtq-shows-available-on-netflix-this-july/"><u>Discover the Best LGBTQ Shows Available on Netflix This July</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effortless-conversion-transform-your-ms-word-documents-into-interactive-flipbooks-with-flipbuilder/"><u>Effortless Conversion: Transform Your MS Word Documents Into Interactive Flipbooks with FlipBuilder!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-advanced-techniques-for-pip-integration-in-edge-browser/"><u>In 2024, Advanced Techniques for PIP Integration in Edge Browser</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-the-art-of-buying-cutting-edge-360cams/"><u>Mastering the Art of Buying Cutting-Edge 360Cams</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/the-most-trending-twitch-originals-from-amazon-prime/"><u>The Most Trending Twitch Originals From Amazon Prime</u></a></li>
-<li><a href="https://win-dash.techidaily.com/winning-the-battle-againnst-alienware-drivers-errors-on-your-pc-with-windows-resolved/"><u>Winning the Battle Againnst Alienware Drivers Errors on Your PC with Windows [Resolved]</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-transform-your-video-presentation-with-updated-covers/"><u>[New] 2024 Approved Transform Your Video Presentation with Updated Covers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-the-guide-to-earning-through-streams-dm-and-yo-unveiled/"><u>[New] In 2024, The Guide to Earning Through Streams Dm & Yo Unveiled</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-crafting-engaging-content-for-facebook-live/"><u>[Updated] Crafting Engaging Content for Facebook Live</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-premiered-top-8-crowd-pleasing-ae-setups/"><u>2024 Approved Premiered Top 8 Crowd-Pleasing AE Setups</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/best-7-virtual-meeting-platforms-enhancing-remote-work-productivity/"><u>Best 7 Virtual Meeting Platforms Enhancing Remote Work Productivity</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/easy-techniques-for-retrieving-deleted-whatsapp-conversations-on-your-ios-device/"><u>Easy Techniques for Retrieving Deleted WhatsApp Conversations on Your iOS Device</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/nixing-the-green-glow-youtubes-mac-solution-manual/"><u>Nixing the Green Glow YouTube's Mac Solution Manual</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/optimize-update-detection-processes-using-installed-base-detector-tool/"><u>Optimize Update Detection Processes Using Installed Base Detector Tool</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/projecting-film-costs-for-your-music-video-for-2024/"><u>Projecting Film Costs for Your Music Video for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/tutorial-how-to-save-your-screen-from-anywhere-using-remote-desktop-on-pcs-and-macbooks/"><u>Tutorial: How to Save Your Screen From Anywhere Using Remote Desktop on PCs and MacBooks</u></a></li>
 </ul></div>
 

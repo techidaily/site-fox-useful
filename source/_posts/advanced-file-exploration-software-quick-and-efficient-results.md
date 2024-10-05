@@ -1,7 +1,7 @@
 ---
 title: Advanced File Exploration Software - Quick & Efficient Results
-date: 2024-09-24T09:49:54.580Z
-updated: 2024-09-29T23:57:32.136Z
+date: 2024-09-30T19:19:22.818Z
+updated: 2024-10-05T20:32:32.873Z
 tags:
   - user-guide
 categories:
@@ -124,26 +124,26 @@ Table of Contents
 
 ## IFileSearch
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Declaration
 
 IFileSearch: IAppSearch
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Overview
 
 This interface is meant to edit search options for a file
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -161,10 +161,10 @@ This interface is meant to edit search options for a file
 **uint MaxSize** \- Gets or sets maximum file size in bytes. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Example
@@ -181,10 +181,10 @@ $compLoc.GUID = "{c4c29405-23d0-4347-8fa4-ee23c83e4cc3}"
 Copy
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -226,24 +226,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-ink-your-photos-leading-apps-for-captioning-iosandroid/"><u>[New] Ink Your Photos Leading Apps for Captioning (iOS/Android)</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-tweetturnstile-how-video-trends-surge-online-for-2024/"><u>[New] TweetTurnstile How Video Trends Surge Online for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-asus-rog-phone-7-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Asus ROG Phone 7</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/can-you-replicate-paper-book-turning-for-digital-readers-using-innovative-ebook-technology-explore-with-flipbuilder-flipbuildercom/"><u>Can You Replicate Paper Book Turning for Digital Readers Using Innovative eBook Technology? Explore with FlipBuilder [FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/collaborate-and-explore-ebooks-side-by-side-with-friends-at-flipbuildercom/"><u>Collaborate and Explore eBooks Side by Side with Friends at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/combining-duo-sheet-images-into-single-pages-with-flipbuilder-a-step-by-step-guide/"><u>Combining Duo Sheet Images Into Single Pages with FlipBuilder – A Step by Step Guide</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/compatibility-guide-moving-your-original-themes-between-applications-including-flipbuilder/"><u>Compatibility Guide: Moving Your Original Themes Between Applications, Including FlipBuilder</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/get-your-free-complete-frontendbackend-platform-with-vue3-plus-laravel-from-creative-tim/"><u>Get Your Free Complete Frontend/Backend Platform with Vue3 + Laravel From Creative Tim</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-12-pro-5g-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove 12 Pro 5G PIN</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-honor-90-lite-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Honor 90 Lite to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-oppo-reno-9a-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Oppo Reno 9A for Streaming | Dr.fone</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/innovative-laravel-dashboards-collaboration-of-creative-tim-and-updivision-with-elegant-ui-designs/"><u>Innovative Laravel Dashboards - Collaboration of Creative Tim and Updivision with Elegant UI Designs</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-videopad-video-editor-review-the-best-choice-for-beginners-and-pros-alike/"><u>New Videopad Video Editor Review The Best Choice for Beginners and Pros Alike</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/professional-and-effective-zero-cost-bootstrapped-landing-designs-by-creative-tim/"><u>Professional & Effective Zero-Cost Bootstrapped Landing Designs by Creative Tim</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/professional-bootstrap-4-user-interface-suite-by-creative-tim-pro-edition/"><u>Professional Bootstrap 4 User Interface Suite by Creative Tim - Pro Edition</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/professional-vuelaravel-stack-application-with-json-api-integration-created-by-creative-tim/"><u>Professional Vue/Laravel Stack Application with JSON API Integration - Created by Creative Tim</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-for-disconnecting-printers-in-windows/"><u>Quick Fixes for Disconnecting Printers in Windows</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/the-ultimate-guide-top-10-software-applications-for-high-quality-4k-video-downloading-from-youtube/"><u>The Ultimate Guide: Top 10 Software Applications for High-Quality 4K Video Downloading From YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gigglegraphy-laughter-in-a-frame/"><u>[New] GiggleGraphy Laughter in a Frame</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-innovative-ways-to-leverage-zoom-for-fb-live/"><u>[New] In 2024, Innovative Ways to Leverage Zoom for FB Live</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-recording-techniques-for-stellar-voice-over-audio/"><u>[New] Recording Techniques for Stellar Voice-Over Audio</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-cut-through-the-noise-with-these-top-10-yt-short-standout-strategies-for-2024/"><u>[Updated] Cut Through the Noise with These Top 10 YT Short Standout Strategies for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-streamline-your-360-videos-for-youtube-with-easy-upload-tricks/"><u>[Updated] Streamline Your 360 Videos for YouTube with Easy Upload Tricks</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/configuring-java-application-preferences-a-detailed-guide/"><u>Configuring Java Application Preferences: A Detailed Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/core-applications-of-visual-cplusplus-redistributables/"><u>Core Applications of Visual C++ Redistributables</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/discover-homes-with-our-comprehensive-property-detail-pages/"><u>Discover Homes with Our Comprehensive Property Detail Pages</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/easy-guide-speedy-methods-to-adjust-text-size-in-your-pdf-document/"><u>Easy Guide: Speedy Methods to Adjust Text Size in Your PDF Document</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/easy-steps-to-modify-your-scheduled-gatherings-edit-event-guide/"><u>Easy Steps to Modify Your Scheduled Gatherings - Edit Event Guide</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/effective-content-strategies-embracing-multi-page-layouts/"><u>Effective Content Strategies: Embracing Multi-Page Layouts</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722977560593-get-the-most-recent-nvidia-mx1n-driver-updates-for-windows-systems-download-now/"><u>Get the Most Recent NVIDIA MX1^[n] Driver Updates for Windows Systems | Download Now</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/high-definition-mac-webcam-recording-tutorial-capturing-perfect-videos/"><u>High-Definition Mac Webcam Recording Tutorial: Capturing Perfect Videos</u></a></li>
+<li><a href="https://discover-best.techidaily.com/i-migliori-programmi-di-montaggio-video-per-pc-una-guida-completa-ai-dieci-scelte-consigliate/"><u>I Migliori Programmi Di Montaggio Video per PC: Una Guida Completa Ai Dieci Scelte Consigliate</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/master-your-digital-files-with-ifile-seamless-organization-and-sharing-solutions/"><u>Master Your Digital Files with iFile – Seamless Organization and Sharing Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-multi-location-markers-a-comprehensive-guide-for-google-maps-users/"><u>Mastering Multi-Location Markers: A Comprehensive Guide for Google Maps Users</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/mastering-screen-recording-on-macos-el-capitan-a-step-by-step-tutorial/"><u>Mastering Screen Recording on macOS El Capitan: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/quick-tips-for-retrieving-lost-information-from-an-iphone-6-no-tech-skills-required/"><u>Quick Tips for Retrieving Lost Information From an iPhone 6: No Tech Skills Required!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamlessly-convert-your-ogm-videos-to-high-quality-mpeg-streams-no-cost/"><u>Seamlessly Convert Your OGM Videos to High-Quality MPEG Streams - No Cost!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Construct a Customized Docker Repackaging Image
-date: 2024-09-28T09:10:16.472Z
-updated: 2024-09-29T21:29:11.799Z
+date: 2024-10-04T19:33:02.908Z
+updated: 2024-10-05T17:58:34.834Z
 tags:
   - user-guide
 categories:
@@ -61,10 +61,10 @@ This wizard allows you to create a docker image for the Repackager.
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In order to repackage in Docker containers, you have to create a Docker image designed for the repackaging process, starting from an existing image. This wizard will allow you to achieve this.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Select an existing Docker image
@@ -80,10 +80,10 @@ This list contains all the local Docker images.
 This list contains recommended external images.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Building the Repackager Docker image
@@ -93,16 +93,10 @@ Staring from the selected base image, the Repackager creates a new, specially de
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)All the Repackager Docker images will be displayed under "Start in Docker" button from Advanced Repackager toolbar and one can be selected for running the repackaging process.
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -138,22 +132,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-digital-subtitling-simplified-best-online-tools-of-the-decade/"><u>[New] 2024 Approved Digital Subtitling Simplified Best Online Tools of the Decade</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-accelerate-your-creative-process-instagram-collage-tips/"><u>[New] Accelerate Your Creative Process Instagram Collage Tips</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/guide-downloading-streamangos-best-movies-and-tv-episodes-as-mp4-or-avi-files/"><u>Guide: Downloading Streamango's Best Movies & TV Episodes as MP4 or AVI Files</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/guide-downloading-youtube-videos-as-mp4movwmv-formats-from-pc-or-mac/"><u>Guide: Downloading YouTube Videos as MP4/MOV/WMV Formats From PC or Mac</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/guide-successfully-streaming-youtube-content-on-your-huawei-device/"><u>Guide: Successfully Streaming YouTube Content on Your Huawei Device</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-nokia-c12-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Nokia C12 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Huawei P60? | Dr.fone</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/how-to-transfer-music-downloads-from-google-play-to-your-desktop/"><u>How to Transfer Music Downloads From Google Play to Your Desktop</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-vivo-x100-pro-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Vivo X100 Pro Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Apple iPhone 13 mini? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/pro-animation-studio-top-8-software-picks-for-mac-and-windows/"><u>Pro Animation Studio Top 8 Software Picks for Mac and Windows</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/seamless-study-guide-harvester-capturing-lessons-from-puremix-with-ease/"><u>Seamless Study Guide Harvester: Capturing Lessons From PureMix with Ease</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/step-by-step-guide-to-extracting-premium-mp3s-flac-with-original-cover-designs-and-superior-sound-clarity-from-spotify/"><u>Step-by-Step Guide to Extracting Premium MP3s (FLAC) with Original Cover Designs and Superior Sound Clarity From Spotify</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/step-by-step-guide-downloading-content-from-videojug/"><u>Step-by-Step Guide: Downloading Content From Videojug</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/streamfreez-pro-quick-access-to-all-your-beloved-series-on-couchtuner/"><u>StreamFreez Pro: Quick Access to All Your Beloved Series on CouchTuner</u></a></li>
-<li><a href="https://article-tips.techidaily.com/the-ultimate-guide-to-profiting-off-reddit-13-ways-here/"><u>The Ultimate Guide to Profiting Off Reddit - 13 Ways Here</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-vivo-v30-lite-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Vivo V30 Lite 5G Phone Network-Ready</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-apple-tv-and-facebook-integration-watching-videos-easily-for-2024/"><u>[Updated] Apple TV and Facebook Integration Watching Videos Easily for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-essential-urls-for-accessing-copyright-free-gaming-scores-for-2024/"><u>[Updated] Essential URLs for Accessing Copyright-Free Gaming Scores for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-quickcapture-for-windows-ultimate/"><u>[Updated] QuickCapture for Windows Ultimate</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mov-dvd/"><u>「高精細度MOVファイルが映り込む DVDコピーガイド：自由配布のステップバイステップチュートリアル」</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-twitterscapes-peak-hours-top-10-influencing-videos-of-the-day/"><u>2024 Approved Twitterscape's Peak Hours Top 10 Influencing Videos of the Day</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-motorola-g24-power-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Motorola G24 Power Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/comprehensive-guide-mastering-the-art-of-advanced-installation-techniques/"><u>Comprehensive Guide: Mastering the Art of Advanced Installation Techniques</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/connecting-your-android-phone-with-pc-three-easy-techniques/"><u>Connecting Your Android Phone with PC: Three Easy Techniques</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/efficient-techniques-for-converting-mts-videos-into-avi-format/"><u>Efficient Techniques for Converting MTS Videos Into AVI Format</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/effortless-techniques-to-fuse-multiple-pdfs-into-one-with-just-a-click/"><u>Effortless Techniques to Fuse Multiple PDFs Into One with Just a Click</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/enhancing-design-with-efficient-editing-master-the-patterns-dialog/"><u>Enhancing Design with Efficient Editing: Master the Patterns Dialog</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-motorola-moto-g34-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Motorola Moto G34 5G</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-a-selection-of-top-10-cinematic-beacons-of-hope/"><u>In 2024, A Selection of Top 10 Cinematic Beacons of Hope</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/lenovo-laptop-capture-tutorial-a-step-by-step-guide-to-easy-screen-snapping/"><u>Lenovo Laptop Capture Tutorial: A Step-by-Step Guide to Easy Screen Snapping</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/quick-and-simple-guide-convert-your-images-from-jpgjpeg-to-pdf-at-no-cost/"><u>Quick and Simple Guide: Convert Your Images From JPG/JPEG to PDF at No Cost</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/step-by-step-guide-unlocking-your-iphone-without-a-password/"><u>Step-by-Step Guide: Unlocking Your iPhone Without a Password</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-roadmap-to-crafting-memorable-tiktok-videos/"><u>The Ultimate Roadmap to Crafting Memorable TikTok Videos</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/understanding-file-handling-in-settings-menu/"><u>Understanding File Handling in Settings Menu</u></a></li>
+<li><a href="https://fox-that.techidaily.com/wi-fi-woes-discover-8-strategies-to-supercharge-your-iphones-network-speed/"><u>Wi-Fi Woes? Discover 8 Strategies to Supercharge Your iPhone's Network Speed</u></a></li>
 </ul></div>
 

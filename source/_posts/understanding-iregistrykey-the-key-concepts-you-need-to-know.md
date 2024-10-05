@@ -1,7 +1,7 @@
 ---
 title: "Understanding IRegistryKey: The Key Concepts You Need to Know"
-date: 2024-09-25T06:12:43.405Z
-updated: 2024-09-30T11:49:48.325Z
+date: 2024-10-01T18:08:50.435Z
+updated: 2024-10-05T19:14:02.710Z
 tags:
   - user-guide
 categories:
@@ -113,10 +113,10 @@ Table of Contents
 This interface is used to navigate the keys added in a project, modifies key properties and adds or deletes values.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -124,10 +124,10 @@ This interface is used to navigate the keys added in a project, modifies key pro
 IRegistryKey : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -147,6 +147,13 @@ IRegistryKey : IDispatch
 **Bool CreateIfAbsentAtInstall** \- Gets or sets the flag "Create if(absent) at install" 
 
 **Bool DeleteIfPresentAtUninstall**  \- Gets or sets the flag “Delete (if present) at uninstall”. 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Methods
 
@@ -193,17 +200,10 @@ This method deletes all keys.
 ![R key](https://cdn.advancedinstaller.com/img/powershell-automation/r-key.png "R key")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -245,15 +245,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-comprehensive-evaluation-gecata-pro-monitoring/"><u>[New] 2024 Approved Comprehensive Evaluation Gecata Pro Monitoring</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-sun-salutations-and-beyond-youtubes-premier-yoga-pages/"><u>[New] In 2024, Sun Salutations & Beyond – YouTube's Premier Yoga Pages</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-leverage-seo-power-secrets-of-effective-youtube-backlink-building/"><u>[Updated] Leverage SEO Power Secrets of Effective YouTube Backlink Building</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-top-10-cost-free-screen-capture-apps-for-mac-users/"><u>[Updated] Top 10 Cost-Free Screen Capture Apps for Mac Users</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-reinstallation-steps-to-restore-photo-viewer-in-windows-10/"><u>2024 Approved Reinstallation Steps to Restore Photo Viewer in Windows 10</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/answer-the-length-in-meters-will-be-5-03048-1524-meters-applying-the-conversion-factor-proportionally/"><u>Answer: The Length in Meters Will Be 5 0.3048 = 1.524 Meters, Applying the Conversion Factor Proportionally.</u></a></li>
-<li><a href="https://network-issues.techidaily.com/compatibility-secured-qualcomm-atheros-on-win10-os/"><u>Compatibility Secured: Qualcomm Atheros on Win10 OS</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/creative-tims-and-updivisions-expertly-crafted-laravlette-argon-dashboard-for-enhanced-user-experience-in-laravel-projects/"><u>Creative Tim's & UPDIVISION's Expertly Crafted Laravlette Argon Dashboard for Enhanced User Experience in Laravel Projects</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/creative-tims-best-offer-budget-friendly-aspnet-theme-selection-guide/"><u>Creative Tim's Best Offer: Budget-Friendly ASP.NET Theme Selection Guide</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/creative-tims-corporate-ui-dashboard-design-in-laravel-a-collaboration-with-updivision/"><u>Creative Tim's Corporate UI Dashboard Design in Laravel: A Collaboration with UPDIVISION</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-effortless-instagram-to-mp4-top-2-secrets-exposed/"><u>[New] Effortless Instagram to MP4 Top 2 Secrets Exposed</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-top-30-pro-freefire-hashtags-for-boosting-video-popularity/"><u>[New] In 2024, Top 30 Pro-FreeFire Hashtags for Boosting Video Popularity</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/best-free-pdf-transformer-software-compatible-with-windows-10-systems/"><u>Best Free PDF Transformer Software Compatible with Windows 10 Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-strategies-to-get-your-iphones-email-back-up-and-running/"><u>Effective Strategies to Get Your iPhone's Email Back Up and Running</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/effective-strategies-shrink-your-pdf-file-effortlessly-and-exactly/"><u>Effective Strategies: Shrink Your PDF File Effortlessly & Exactly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-cutting-edge-devices-at-toms-hardware-hub/"><u>Exploring Cutting-Edge Devices at Tom's Hardware Hub</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unbeatable-online-and-desktop-gif-maker-options/"><u>In 2024, Unbeatable Online & Desktop GIF Maker Options</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/mastering-identityv-gameplay-on-your-computer-a-comprehensive-guide/"><u>Mastering IdentityV Gameplay on Your Computer: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/modernized-guide-of-queries-for-engaging-podcast-discussions/"><u>Modernized Guide of Queries for Engaging Podcast Discussions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-amazon-prime-video-malfunction-for-seamless-viewing/"><u>Overcoming Amazon Prime Video Malfunction for Seamless Viewing</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/step-by-step-tutorial-on-embedding-animated-words-into-video-content/"><u>Step-by-Step Tutorial on Embedding Animated Words Into Video Content</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/the-best-batch-image-editing-tools-top-5-software-options-for-efficient-background-removal/"><u>The Best Batch Image Editing Tools: Top 5 Software Options for Efficient Background Removal</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/ultimate-guide-how-to-change-your-mkv-movie-downloads-into-high-quality-mp3-music-playlists/"><u>Ultimate Guide: How to Change Your MKV Movie Downloads Into High-Quality MP3 Music Playlists</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-rationale-5-key-points-for-company-wide-chatgpt-prohibitions/"><u>Understanding the Rationale: 5 Key Points for Company-Wide ChatGPT Prohibitions</u></a></li>
 </ul></div>
 

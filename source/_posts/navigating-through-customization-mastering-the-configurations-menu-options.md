@@ -1,7 +1,7 @@
 ---
 title: "Navigating Through Customization: Mastering the Configurations Menu Options"
-date: 2024-09-29T11:51:31.095Z
-updated: 2024-09-30T08:14:56.365Z
+date: 2024-09-28T20:56:19.561Z
+updated: 2024-10-05T17:33:43.869Z
 tags:
   - user-guide
 categories:
@@ -87,37 +87,37 @@ In this tab, you can configure a Microsoft APPX/MSIX package which you can use t
 
 ![Builds1](https://cdn.advancedinstaller.com/img/ui/Builds1.png "Builds1")  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Output
 
 ### Folder
 
 Select the folder where the APPX/MSIX package will be created.
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Name
 
 The name of APPX/MSIX file.
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Package
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Architectures
 
@@ -139,6 +139,20 @@ After packaging your app, there are three possibilities to distribute it:
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Advanced Installer's behavior regarding _Publisher ID_ and_signing options_ is different depending on the selected package distribution type. For more information please see this article : [How to build MSIX packages for Windows Store and sideloading from the same project.](https://tools.techidaily.com/advancedinstaller/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Target Platforms
 
 Select the target platforms for the current build.
@@ -146,34 +160,13 @@ Select the target platforms for the current build.
 * **Desktop** \- choose the configuration to target
 * **Server** \- choose the configuration to target
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Deploying MSIX packages to Windows versions earlier than Windows 10
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Selecting a Target Platform lower than Windows 10 requires special attention!
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [MSIX Core](https://learn.microsoft.com/en-us/windows/msix/msix-core/msixcore "MSIX Core") enables MSIX support on Windows versions earlier than Windows 10.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)In order to deploy your MSIX package with MSIX Core, you have to install [_msixmngr_](https://learn.microsoft.com/en-us/windows/msix/msix-core/deploy-with-msix-core) tool. You can download the latest version from the [official release page](https://github.com/microsoft/msix-packaging/releases).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Creating MSIX packages for earlier versions of Windows brings some limitations:
 
@@ -187,10 +180,17 @@ Creating MSIX packages for earlier versions of Windows brings some limitations:
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)If your package is configured with any of the above features, a warning will be displayed at build time and the resulting package will be stripped of any of incompatible resources.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Content
@@ -243,24 +243,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-football-game-analysis-premier-insights-in-graphs/"><u>[Updated] In 2024, Football Game Analysis Premier Insights in Graphs</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-ultimate-compilation-offline-ios-games-to-delight-in/"><u>[Updated] In 2024, The Ultimate Compilation Offline iOS Games to Delight In</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-podcast-perfection-best-timing-strategy/"><u>[Updated] Podcast Perfection Best Timing Strategy</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-adobe-photostability-effective-or-fanciful/"><u>2024 Approved Adobe PhotoStability Effective or Fanciful?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-foremost-guide-to-youtube-equipment-for-rookies/"><u>2024 Approved Foremost Guide to YouTube Equipment for Rookies</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-12-mini-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 12 mini</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/get-the-latest-movie-previews-quick-guide-on-downloading-from-traileraddict/"><u>Get the Latest Movie Previews - Quick Guide on Downloading From TrailerAddict</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/get-your-favorite-naruto-episodes-legally-vizs-download-options-for-mp4-mov-and-avi-files/"><u>Get Your Favorite Naruto Episodes Legally - VIZ's Download Options for MP4, MOV, and AVI Files</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/guide-downloading-streamangos-best-movies-and-tv-episodes-as-mp4-or-avi-files/"><u>Guide: Downloading Streamango's Best Movies & TV Episodes as MP4 or AVI Files</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/guide-downloading-youtube-videos-as-mp4movwmv-formats-from-pc-or-mac/"><u>Guide: Downloading YouTube Videos as MP4/MOV/WMV Formats From PC or Mac</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/guide-successfully-streaming-youtube-content-on-your-huawei-device/"><u>Guide: Successfully Streaming YouTube Content on Your Huawei Device</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-s23-tactical-edition-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy S23 Tactical Edition Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/how-to-transfer-music-downloads-from-google-play-to-your-desktop/"><u>How to Transfer Music Downloads From Google Play to Your Desktop</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-unleashing-potential-the-art-of-youtube-seo-keywords/"><u>In 2024, Unleashing Potential The Art of YouTube SEO Keywords</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/perfectly-pivoted-videos-the-ultimate-android-editing-guide-for-2024/"><u>Perfectly Pivoted Videos The Ultimate Android Editing Guide for 2024</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/seamless-study-guide-harvester-capturing-lessons-from-puremix-with-ease/"><u>Seamless Study Guide Harvester: Capturing Lessons From PureMix with Ease</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/step-by-step-guide-to-extracting-premium-mp3s-flac-with-original-cover-designs-and-superior-sound-clarity-from-spotify/"><u>Step-by-Step Guide to Extracting Premium MP3s (FLAC) with Original Cover Designs and Superior Sound Clarity From Spotify</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/step-by-step-guide-downloading-content-from-videojug/"><u>Step-by-Step Guide: Downloading Content From Videojug</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-apple-iphone-se-2022-here-is-the-answer-drfone-by-drfone-virtual-ios/"><u>Wondering the Best Alternative to Hola On Apple iPhone SE (2022)? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-best-budget-friendly-hd-cameras-for-adrenaline-junkies/"><u>[Updated] 2024 Approved Best Budget-Friendly HD Cameras for Adrenaline Junkies</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-smooth-sailing-navigating-the-world-of-igtv-videos/"><u>[Updated] 2024 Approved Smooth Sailing Navigating the World of IGTV Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-avoid-common-mistakes-in-youtube-livestreaming-with-best-webcams/"><u>[Updated] In 2024, Avoid Common Mistakes in YouTube Livestreaming with Best Webcams</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1-mastering-boom-beach-a-beginners-guide-to-conquering-the-game-on-your-computer/"><u>1. Mastering Boom Beach: A Beginner's Guide to Conquering the Game on Your Computer</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/exploring-real-estate-a-users-guide-to-online-property-search/"><u>Exploring Real Estate: A User's Guide to Online Property Search</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/performance-gpu-picks-for-quality-video-streaming/"><u>High-Performance GPU Picks for Quality Video Streaming</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/instant-install-hp-envy-5055-drivers-downloaded-in-a-snap-secure-your-printer-today/"><u>Instant Install: HP ENVY 5055 Drivers Downloaded in a Snap | Secure Your Printer Today!</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/navigating-through-imsixs-external-library-requirements-a-comprehensive-guide/"><u>Navigating Through IMsix's External Library Requirements: A Comprehensive Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oneplus-nord-n30-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Nord N30 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/optimize-update-detection-processes-using-installed-base-detector-tool/"><u>Optimize Update Detection Processes Using Installed Base Detector Tool</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/recovering-lost-iphones-a-simple-guide-to-retrieving-deleted-phone-numbers/"><u>Recovering Lost iPhones: A Simple Guide to Retrieving Deleted Phone Numbers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-ultimate-catalog-of-remarkable-education-websites/"><u>The Ultimate Catalog of Remarkable Education Websites</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/the-ultimate-guide-to-free-video-editing-apps-on-android-like-imovie-2020-edition/"><u>The Ultimate Guide to Free Video Editing Apps on Android Like iMovie (2020 Edition)</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/tutorial-how-to-save-your-screen-from-anywhere-using-remote-desktop-on-pcs-and-macbooks/"><u>Tutorial: How to Save Your Screen From Anywhere Using Remote Desktop on PCs and MacBooks</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/ultimate-guide-top-strategies-for-capturing-flawless-pc-gaming-sessions/"><u>Ultimate Guide: Top Strategies for Capturing Flawless PC Gaming Sessions</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlocking-excels-secrets-11-uncommon-yet-essential-features-for-enhanced-efficiency/"><u>Unlocking Excel's Secrets: 11 Uncommon Yet Essential Features for Enhanced Efficiency</u></a></li>
 </ul></div>
 
