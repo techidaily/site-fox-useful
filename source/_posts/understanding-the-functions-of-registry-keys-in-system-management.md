@@ -1,7 +1,7 @@
 ---
 title: Understanding the Functions of Registry Keys in System Management
-date: 2024-09-29T19:08:35.029Z
-updated: 2024-10-05T19:38:39.085Z
+date: 2024-10-09T01:56:53.803Z
+updated: 2024-10-11T05:30:18.595Z
 tags:
   - user-guide
 categories:
@@ -88,6 +88,13 @@ Table of Contents
 
 ![Registry Key Removal Dialog](https://cdn.advancedinstaller.com/img/dialog/registry-operations.png "Registry Key Removal Dialog")  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Remove
 
  Keys for removal will be marked visually with ![Key Removal](https://cdn.advancedinstaller.com/img/gfx/removal.png "Key Removal") icon.
@@ -95,28 +102,22 @@ Table of Contents
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)By default Windows Installer will remove only the resources that were installed by the MSI package. This removal operation is intended to be used for external resources created by custom behaviour.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Component
 
  The component whose install will trigger the key removal operation. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Remove On
 
@@ -125,13 +126,6 @@ The time when the removal will be executed. There are three available moments:
 * component install
 * component uninstall
 * both
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Condition
 
@@ -145,18 +139,18 @@ You can specify registry values to be removed upon install from the [Registry Va
 
 Save and restore original registry key content.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Condition
 
 Condition when the key content is preserved.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)To find out how to use this option in an upgrade scenario, you can follow the [Prevent Repair or Uninstall](https://tools.techidaily.com/advancedinstaller/products/) article.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Search key
 
@@ -199,24 +193,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-loom-downloader-how-to-loom-screen-record/"><u>[New] In 2024, Loom Downloader - How to Loom Screen Record</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-present-trends-in-drone-technology-for-the-future/"><u>[New] Present Trends in Drone Technology for the Future</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-diving-into-instagrams-restriction-for-video-content-for-2024/"><u>[Updated] Diving Into Instagram's Restriction for Video Content for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-metaverse-giggle-guide-generating-20plus-amusing-virtual-creations/"><u>[Updated] Metaverse Giggle Guide Generating 20+ Amusing Virtual Creations</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-optimizing-vr-video-quality-during-live-gaming/"><u>[Updated] Optimizing VR Video Quality During Live Gaming</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-13-pro-max-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 13 Pro Max and iPad Securely</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/configuring-java-application-preferences-a-detailed-guide/"><u>Configuring Java Application Preferences: A Detailed Guide</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/discover-homes-with-our-comprehensive-property-detail-pages/"><u>Discover Homes with Our Comprehensive Property Detail Pages</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/easy-guide-speedy-methods-to-adjust-text-size-in-your-pdf-document/"><u>Easy Guide: Speedy Methods to Adjust Text Size in Your PDF Document</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/easy-steps-to-modify-your-scheduled-gatherings-edit-event-guide/"><u>Easy Steps to Modify Your Scheduled Gatherings - Edit Event Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/efficient-subtitle-stripper-how-to-remove-text-overlays-on-your-movies-and-videos/"><u>Efficient Subtitle Stripper: How to Remove Text Overlays on Your Movies and Videos</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/high-definition-mac-webcam-recording-tutorial-capturing-perfect-videos/"><u>High-Definition Mac Webcam Recording Tutorial: Capturing Perfect Videos</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/master-your-digital-files-with-ifile-seamless-organization-and-sharing-solutions/"><u>Master Your Digital Files with iFile – Seamless Organization and Sharing Solutions</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/mastering-screen-recording-on-macos-el-capitan-a-step-by-step-tutorial/"><u>Mastering Screen Recording on macOS El Capitan: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-your-ifunny-meme-journey-for-2024/"><u>Mastering Your iFunny Meme Journey for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/prioritize-privacy-in-conversations-the-best-10-free-secure-mobile-calling-apps-for-iosandroid/"><u>Prioritize Privacy in Conversations – The Best 10 Free, Secure Mobile Calling Apps for iOS/Android</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/quick-tips-for-retrieving-lost-information-from-an-iphone-6-no-tech-skills-required/"><u>Quick Tips for Retrieving Lost Information From an iPhone 6: No Tech Skills Required!</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/top-strategies-for-optimizing-video-conversion-on-your-surface-tablet/"><u>Top Strategies for Optimizing Video Conversion on Your Surface Tablet</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/aking-text-dance-2-creative-animation-strategies/"><u>[New] Making Text Dance 2 Creative Animation Strategies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-gmail-to-zoom-tips-for-smooth-virtual-meeting-transitions/"><u>[Updated] Gmail to Zoom Tips for Smooth Virtual Meeting Transitions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-add-transitions-in-kinemaster/"><u>2024 Approved Add Transitions in Kinemaster</u></a></li>
+<li><a href="https://techidaily.com/blocking-pop-ups-in-chrome-firefox-and-edge-quickly-and-easily/"><u>Blocking Pop-Ups in Chrome, Firefox and Edge | Quickly & Easily</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/can-a-factory-reset-eliminate-android-viruses-and-malicious-software-insights-from-malwarefox/"><u>Can a Factory Reset Eliminate Android Viruses and Malicious Software? Insights From MalwareFox</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/comprehensive-guide-mastering-the-art-of-advanced-installation-techniques/"><u>Comprehensive Guide: Mastering the Art of Advanced Installation Techniques</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/el-capitan-users-manual-capturing-audio-on-a-mac-for-beginners/"><u>El Capitan User's Manual: Capturing Audio on a Mac for Beginners</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/essential-features-of-translation-tools-understanding-translator-attributes/"><u>Essential Features of Translation Tools: Understanding Translator Attributes</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Xiaomi Redmi 13C? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-infinix-note-30-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Infinix Note 30 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/navigating-your-web-experience-the-ultimate-guide-to-control-tab-order-settings/"><u>Navigating Your Web Experience: The Ultimate Guide to Control Tab Order Settings</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/top-rated-screenshot-apps-for-mac-computers/"><u>Top Rated Screenshot Apps for Mac Computers</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/top-ranking-music-slide-show-creator-apps-find-your-perfect-match/"><u>Top-Ranking Music Slide Show Creator Apps: Find Your Perfect Match</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/trivia-trek-exploring-yts-fascinating-figures-and-infographics/"><u>Trivia Trek Exploring YT's Fascinating Figures and Infographics</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Run Commands Within Specific Folder Paths - Advanced Workflow Setup
-date: 2024-10-03T20:27:19.650Z
-updated: 2024-10-05T16:45:53.070Z
+date: 2024-10-06T01:00:57.393Z
+updated: 2024-10-11T05:11:40.992Z
 tags:
   - user-guide
 categories:
@@ -125,15 +125,22 @@ Table of Contents
 
 ## IExeWithWorkingDirectoryCustomAction
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Declaration
 
 IExeWithWorkingDirectoryCustomAction : ICustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -141,10 +148,10 @@ IExeWithWorkingDirectoryCustomAction : ICustomAction
 This interface facilitates editing custom action for launching existing executable file on the disk. The file has a designated folder as Working Directory .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -154,13 +161,6 @@ This interface facilitates editing custom action for launching existing executab
 **String CommandLine** \- Get or sets the command line arguments for launching executable file.
 
 **IFolder WorkingDirectory** \- Get or sets the working directory for launching executable file.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Examples
 
@@ -174,10 +174,10 @@ $custAct.FilePath = "[#MyApp.exe]"
    Copy
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -219,16 +219,14 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-guiding-steps-for-effective-gopro-time-lapse-capture/"><u>[New] Guiding Steps for Effective GoPro Time-Lapse Capture</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-continuous-usb-recognition-failures-on-your-pc/"><u>Effective Solutions for Continuous USB Recognition Failures on Your PC</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-iphone-xs-max-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on iPhone XS Max online without jailbreak</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Ways to Change Spotify Location On Your Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-vivo-y78plus-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo Y78+ Phone</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/iphone-x-versus-iphone-7-an-in-depth-head-to-head-review/"><u>IPhone X versus iPhone 7: An In-Depth Head-to-Head Review</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/itext-library-append-or-create-text-files-efficiently/"><u>IText Library - Append or Create Text Files Efficiently</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-stuttering-problems-while-playing-pathfinder-wrath-of-the-righteous-on-computer/"><u>Solving Stuttering Problems While Playing Pathfinder: Wrath of the Righteous on Computer</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/title-ensuring-safe-online-transactions-how-to-confirm-a-site-is-genuine-not-fraudulent/"><u>Title: Ensuring Safe Online Transactions: How to Confirm a Site Is Genuine, Not Fraudulent</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/understanding-linked-data-packet-dynamics/"><u>Understanding Linked Data Packet Dynamics</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-case-variations-explained/"><u>Xbox Case Variations Explained</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-professionally-recording-every-aspect-of-your-ppt-presentations/"><u>[Updated] Professionally Recording Every Aspect of Your PPT Presentations</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/clear-cut-strategies-transferring-your-imovie-work-to-vimeo-for-2024/"><u>Clear-Cut Strategies Transferring Your iMovie Work to Vimeo for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-user-manual-for-behringer-usb-audio-driver-software-available-for-free/"><u>Comprehensive User Manual for Behringer USB Audio Driver Software - Available for Free</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-mastering-content-creation-essential-tips-for-snapchat-success/"><u>In 2024, Mastering Content Creation Essential Tips for Snapchat Success</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-vocal-vanishing-act-how-to-seamlessly-remove-singers-voice-from-an-audio-track-using-audacity-tools/"><u>In 2024, Vocal Vanishing Act How to Seamlessly Remove Singers Voice From an Audio Track Using Audacity Tools</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/optimize-your-website-mastering-the-art-of-effective-search-engine-strategies/"><u>Optimize Your Website: Mastering the Art of Effective Search Engine Strategies</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/sophisticated-strategies-for-dynamic-conversational-contexts/"><u>Sophisticated Strategies for Dynamic Conversational Contexts</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/understanding-the-functionality-of-contextual-dropdown-menus-a-guide/"><u>Understanding the Functionality of Contextual Dropdown Menus: A Guide</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/viewing-the-epic-arena-of-valor-showdown-on-your-television-setup/"><u>Viewing the Epic Arena of Valor Showdown on Your Television Setup</u></a></li>
 </ul></div>
 

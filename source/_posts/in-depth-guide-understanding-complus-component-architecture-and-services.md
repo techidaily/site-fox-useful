@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Guide: Understanding COM+ Component Architecture and Services"
-date: 2024-09-30T19:19:36.532Z
-updated: 2024-10-05T20:54:07.012Z
+date: 2024-10-09T05:22:37.812Z
+updated: 2024-10-10T21:23:39.246Z
 tags:
   - user-guide
 categories:
@@ -83,10 +83,10 @@ This view allows you to specify the information needed to register a COM+.
 ![Com plus properties](https://cdn.advancedinstaller.com/img/ui/com-plus-properties.png "Com plus properties")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Files
@@ -96,17 +96,17 @@ Select the COM+'s files. Use the \[Add \] and\[Remove \] buttons to do that.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)All the files that form a COM+ must be placed in the same component.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Flags
@@ -146,24 +146,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-2023s-leading-twitvideos-the-years-hottest-tweets/"><u>[New] In 2024, 2023'S Leading TwitVideos The Year's Hottest Tweets</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-pixelprinter-professional-video/"><u>[New] PixelPrinter Professional Video</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-the-archivists-toolkit-techniques-for-capturing-social-events-for-2024/"><u>[Updated] The Archivist's Toolkit Techniques for Capturing Social Events for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-top-15-science-youtube-channels-to-expand-knowledge-2024/"><u>[Updated] Top 15 Science YouTube Channels to Expand Knowledge 2024</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/advanced-file-exploration-software-quick-and-efficient-results/"><u>Advanced File Exploration Software - Quick & Efficient Results</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/brother-mfc-j480dw-driver-installation-for-windows-operating-systems-a-step-by-step-guide/"><u>Brother MFC J480DW Driver Installation for Windows Operating Systems: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/capturing-your-screen-effortlessly-a-beginners-tutorial-on-apowersoft-free-screenshot-utility/"><u>Capturing Your Screen Effortlessly: A Beginner's Tutorial on Apowersoft Free Screenshot Utility</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effective-strategies-for-java-software-global-adaptation/"><u>Effective Strategies for Java Software Global Adaptation</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ring-and-expressing-a-comprehensible-guide-to-becoming-a-travel-videographer/"><u>Exploring & Expressing A Comprehensible Guide to Becoming a Travel Videographer</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/exploring-different-windows-store-application-models/"><u>Exploring Different Windows Store Application Models</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Samsung Galaxy S23? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Stop Google Chrome from Tracking Your Location On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-undead-uprising-top-8-unleashed-in-video-game-realm/"><u>In 2024, Undead Uprising - Top 8 Unleashed in Video Game Realm</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/in-depth-guide-to-utilizing-activex-controls-properties-feature/"><u>In-Depth Guide to Utilizing ActiveX Control's Properties Feature</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-brother-mfc-j480dw-windows-printer-software-upgrade-guide/"><u>Latest Brother MFC-J480DW Windows Printer Software Upgrade Guide</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/step-by-step-guide-to-resolving-common-errors-with-microsofts-groove-music-app/"><u>Step-by-Step Guide to Resolving Common Errors with Microsoft's Groove Music App</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/the-comprehensive-step-by-step-manual-for-easy-screen-capture-techniques-on-dell-computers/"><u>The Comprehensive Step-by-Step Manual for Easy Screen Capture Techniques on Dell Computers</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/the-ultimate-instructional-resource-on-navigating-and-customizing-your-settings-tab-preferences/"><u>The Ultimate Instructional Resource on Navigating and Customizing Your Settings Tab Preferences</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/user-friendly-installation-directory-selection-prompt/"><u>User-Friendly Installation Directory Selection Prompt</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-yoga-enthusiasts-go-to-guide-on-youtube/"><u>[New] In 2024, Yoga Enthusiasts' Go-To Guide on YouTube</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-transform-voice-with-cloud-services-top-5-online-chromebook-audio-editors/"><u>[New] Transform Voice with Cloud Services Top 5 Online Chromebook Audio Editors</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-essential-guide-to-using-obs-for-youtube-and-twitch/"><u>[Updated] Essential Guide to Using OBS for YouTube & Twitch</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1-mastering-boom-beach-a-beginners-guide-to-conquering-the-game-on-your-computer/"><u>1. Mastering Boom Beach: A Beginner's Guide to Conquering the Game on Your Computer</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/fone-eraser/"><u>Aiseesoft FoneEraser</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-twitter-list-for-adventure-seekers-insightful-discounts-wise-counsel-and-breathtaking-escapades/"><u>Discover the Ultimate Twitter List for Adventure Seekers: Insightful Discounts, Wise Counsel & Breathtaking Escapades</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/exploring-real-estate-a-users-guide-to-online-property-search/"><u>Exploring Real Estate: A User's Guide to Online Property Search</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/free-mp3-downloads-top-36-must-hear-turkish-tracks/"><u>Free MP3 Downloads: Top 36 Must-Hear Turkish Tracks</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/free-online-converter-transforming-flac-files-into-mkv-format-with-ease/"><u>Free Online Converter: Transforming FLAC Files Into MKV Format with Ease</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-the-world-of-pixiz-turning-stills-into-storytelling-video-for-2024/"><u>Navigating the World of Pixiz Turning Stills Into Storytelling Video for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/navigating-through-imsixs-external-library-requirements-a-comprehensive-guide/"><u>Navigating Through IMsix's External Library Requirements: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/optimize-update-detection-processes-using-installed-base-detector-tool/"><u>Optimize Update Detection Processes Using Installed Base Detector Tool</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/recovering-lost-iphones-a-simple-guide-to-retrieving-deleted-phone-numbers/"><u>Recovering Lost iPhones: A Simple Guide to Retrieving Deleted Phone Numbers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-creating-your-own-website-using-chatgpt/"><u>Step-by-Step Guide: Creating Your Own Website Using ChatGPT</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/the-ultimate-guide-to-free-video-editing-apps-on-android-like-imovie-2020-edition/"><u>The Ultimate Guide to Free Video Editing Apps on Android Like iMovie (2020 Edition)</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/ultimate-guide-top-strategies-for-capturing-flawless-pc-gaming-sessions/"><u>Ultimate Guide: Top Strategies for Capturing Flawless PC Gaming Sessions</u></a></li>
 </ul></div>
 

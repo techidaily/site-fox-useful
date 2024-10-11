@@ -1,7 +1,7 @@
 ---
 title: How to Construct a Customized Docker Repackaging Image
-date: 2024-10-04T19:33:02.908Z
-updated: 2024-10-05T17:58:34.834Z
+date: 2024-10-04T20:52:17.427Z
+updated: 2024-10-11T03:17:38.857Z
 tags:
   - user-guide
 categories:
@@ -61,10 +61,10 @@ This wizard allows you to create a docker image for the Repackager.
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In order to repackage in Docker containers, you have to create a Docker image designed for the repackaging process, starting from an existing image. This wizard will allow you to achieve this.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Select an existing Docker image
@@ -80,10 +80,10 @@ This list contains all the local Docker images.
 This list contains recommended external images.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Building the Repackager Docker image
@@ -93,10 +93,10 @@ Staring from the selected base image, the Repackager creates a new, specially de
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)All the Repackager Docker images will be displayed under "Start in Docker" button from Advanced Repackager toolbar and one can be selected for running the repackaging process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -132,24 +132,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-apple-tv-and-facebook-integration-watching-videos-easily-for-2024/"><u>[Updated] Apple TV and Facebook Integration Watching Videos Easily for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-essential-urls-for-accessing-copyright-free-gaming-scores-for-2024/"><u>[Updated] Essential URLs for Accessing Copyright-Free Gaming Scores for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-quickcapture-for-windows-ultimate/"><u>[Updated] QuickCapture for Windows Ultimate</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mov-dvd/"><u>「高精細度MOVファイルが映り込む DVDコピーガイド：自由配布のステップバイステップチュートリアル」</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-twitterscapes-peak-hours-top-10-influencing-videos-of-the-day/"><u>2024 Approved Twitterscape's Peak Hours Top 10 Influencing Videos of the Day</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-motorola-g24-power-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Motorola G24 Power Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/comprehensive-guide-mastering-the-art-of-advanced-installation-techniques/"><u>Comprehensive Guide: Mastering the Art of Advanced Installation Techniques</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/connecting-your-android-phone-with-pc-three-easy-techniques/"><u>Connecting Your Android Phone with PC: Three Easy Techniques</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/efficient-techniques-for-converting-mts-videos-into-avi-format/"><u>Efficient Techniques for Converting MTS Videos Into AVI Format</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effortless-techniques-to-fuse-multiple-pdfs-into-one-with-just-a-click/"><u>Effortless Techniques to Fuse Multiple PDFs Into One with Just a Click</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/enhancing-design-with-efficient-editing-master-the-patterns-dialog/"><u>Enhancing Design with Efficient Editing: Master the Patterns Dialog</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-motorola-moto-g34-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Motorola Moto G34 5G</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-a-selection-of-top-10-cinematic-beacons-of-hope/"><u>In 2024, A Selection of Top 10 Cinematic Beacons of Hope</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/lenovo-laptop-capture-tutorial-a-step-by-step-guide-to-easy-screen-snapping/"><u>Lenovo Laptop Capture Tutorial: A Step-by-Step Guide to Easy Screen Snapping</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/quick-and-simple-guide-convert-your-images-from-jpgjpeg-to-pdf-at-no-cost/"><u>Quick and Simple Guide: Convert Your Images From JPG/JPEG to PDF at No Cost</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/step-by-step-guide-unlocking-your-iphone-without-a-password/"><u>Step-by-Step Guide: Unlocking Your iPhone Without a Password</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-roadmap-to-crafting-memorable-tiktok-videos/"><u>The Ultimate Roadmap to Crafting Memorable TikTok Videos</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/understanding-file-handling-in-settings-menu/"><u>Understanding File Handling in Settings Menu</u></a></li>
-<li><a href="https://fox-that.techidaily.com/wi-fi-woes-discover-8-strategies-to-supercharge-your-iphones-network-speed/"><u>Wi-Fi Woes? Discover 8 Strategies to Supercharge Your iPhone's Network Speed</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-infusing-impact-best-practices-for-podcast-graphics/"><u>[New] 2024 Approved Infusing Impact Best Practices for Podcast Graphics</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-craft-your-ideal-video-experience-on-vimeo-through-plan-selection/"><u>[New] In 2024, Craft Your Ideal Video Experience on Vimeo Through Plan Selection</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-enhancing-video-content-through-effective-use-of-cardsannotations/"><u>[New] In 2024, Enhancing Video Content Through Effective Use of Cards/Annotations</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-exploring-the-future-of-interactive-headsets/"><u>[New] In 2024, Exploring the Future of Interactive Headsets</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-discover-key-methods-to-store-discord-livestream-videos-efficiently/"><u>[Updated] 2024 Approved Discover Key Methods to Store Discord Livestream Videos Efficiently</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-evaluating-the-latest-in-camcorders-and-live-streaming-tech/"><u>[Updated] Evaluating the Latest in Camcorders and Live Streaming Tech</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1-understanding-net-setup-arguments-a-comprehensive-guide/"><u>1. Understanding .NET Setup Arguments: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/effective-anti-redirect-software-malwarefox-browser-cleaner-eliminate-redirection-threats/"><u>Effective Anti-Redirect Software: MalwareFox Browser Cleaner – Eliminate Redirection Threats</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-elevating-your-edit-mastering-lut-application-in-adobe-pro/"><u>In 2024, Elevating Your Edit Mastering LUT Application in Adobe Pro</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721467092645-struggling-with-apple-payments-try-these-6-troubleshooting-tips/"><u>Struggling With Apple Payments? Try These 6 Troubleshooting Tips</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/the-best-substitutes-for-jing-therapy-an-in-depth-analysis-and-reviews/"><u>The Best Substitutes for Jing Therapy - An In-Depth Analysis and Reviews</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/title-ensuring-safe-online-transactions-how-to-confirm-a-site-is-genuine-not-fraudulent/"><u>Title: Ensuring Safe Online Transactions: How to Confirm a Site Is Genuine, Not Fraudulent</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/top-rated-tools-for-instantly-transforming-your-images-backdrops-in-2n2/"><u>Top-Rated Tools for Instantly Transforming Your Images' Backdrops in 2N2</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/ultimate-tutorial-on-broadcasting-content-from-huawei-p30-to-your-smart-tv/"><u>Ultimate Tutorial on Broadcasting Content From Huawei P30 to Your Smart TV</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/understanding-browser-hijackers-a-deep-dive-with-malwarefox/"><u>Understanding Browser Hijackers: A Deep Dive with MalwareFox</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/understanding-the-basics-of-ac3-audio-compression/"><u>Understanding the Basics of AC3 Audio Compression</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Efficient Temporary File Handling in IT Systems
-date: 2024-09-29T17:19:42.838Z
-updated: 2024-10-05T17:17:36.932Z
+date: 2024-10-08T05:26:53.880Z
+updated: 2024-10-10T22:13:23.212Z
 tags:
   - user-guide
 categories:
@@ -112,10 +112,10 @@ Table of Contents
 This interface adds new temporary files and gets all the existing temporary files from the project.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -123,10 +123,16 @@ This interface adds new temporary files and gets all the existing temporary file
 ITempFilesComponent : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -134,10 +140,10 @@ ITempFilesComponent : IDispatch
 **Array<ITempFile> Files** \- Gets all the temporary files from the project.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -145,10 +151,10 @@ ITempFilesComponent : IDispatch
 **AddFile(String source)** \- Adds a new temporary file from a specified disk location, source.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -190,21 +196,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ree-guide-recording-youtube-videos-on-screencasts/"><u>[New] Free Guide Recording YouTube Videos on Screencasts</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-night-owls-techniques-for-long-exposure-iphone-pics/"><u>[Updated] 2024 Approved Night Owls' Techniques for Long-Exposure iPhone Pics</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/desktop-strategies-effortlessly-upload-photos-to-instagram-from-your-computer/"><u>Desktop Strategies: Effortlessly Upload Photos to Instagram From Your Computer</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/easy-solutions-for-restoring-audio-during-hdmiwireless-mirroring-of-your-android-phone-or-tablet-on-pc/"><u>Easy Solutions for Restoring Audio During HDMI/Wireless Mirroring of Your Android Phone or Tablet on PC</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/fast-and-easy-way-to-save-your-flipboard-settings-as-a-custom-theme/"><u>Fast & Easy Way to Save Your FlipBoard Settings As a Custom Theme</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-play-40c-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Play 40C to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-into-the-code-labyrinastr-facebooks-message-extraction-guide/"><u>In 2024, Into the Code Labyrinastr - Facebook's Message Extraction Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-oppo-reno-9a-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Oppo Reno 9A Phone? Unlock It Now</u></a></li>
-<li><a href="https://review-topics.techidaily.com/motorola-data-recovery-recover-lost-data-from-motorola-moto-g34-5g-by-fonelab-android-recover-data/"><u>Motorola Data Recovery – recover lost data from Motorola Moto G34 5G</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/top-sniper-video-games-compatible-with-pc-play-online/"><u>Top Sniper Video Games Compatible with PC - Play Online</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/ultimate-strategy-tips-and-tricks-for-successful-pokemon-masters-gaming-on-your-computer/"><u>Ultimate Strategy Tips and Tricks for Successful Pokemon Masters Gaming on Your Computer</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/understanding-ixmlfileinstall-processes-for-efficient-file-deployment/"><u>Understanding IXMLFileInstall Processes for Efficient File Deployment</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/understanding-the-basics-of-ac3-audio-compression/"><u>Understanding the Basics of AC3 Audio Compression</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/unique-registry-component-essential-elements-for-efficient-software-management/"><u>Unique Registry Component – Essential Elements for Efficient Software Management</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unveiling-the-basics-of-digital-imagery-sizes/"><u>Unveiling the Basics of Digital Imagery Sizes</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/windows-11-mp4/"><u>Windows 11 MP4ファイル組み合わせの最適解決策</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-asus-proart-excellence-in-4k-hdr-monitoring/"><u>[New] ASUS ProArt Excellence in 4K HDR Monitoring</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-best-vocal-modification-software-for-content-creators/"><u>[New] Best Vocal Modification Software for Content Creators</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-diverse-devices-no-problem-record-youtube-livestream-easily/"><u>[Updated] In 2024, Diverse Devices? No Problem! Record YouTube Livestream Easily</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-orientation-overhaul-instagrams-video-rotation-secret/"><u>[Updated] Orientation Overhaul Instagram's Video Rotation Secret</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-the-lens-focus-techniques-for-storify-success/"><u>2024 Approved Mastering the Lens Focus Techniques for Storify Success</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-honor-x50i-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Honor X50i</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/lost-your-data-on-a-usb-stick-discover-effective-techniques-for-secure-data-recovery/"><u>Lost Your Data on a USB Stick? Discover Effective Techniques for Secure Data Recovery!</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/navigating-your-web-experience-the-ultimate-guide-to-control-tab-order-settings/"><u>Navigating Your Web Experience: The Ultimate Guide to Control Tab Order Settings</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/optimizing-operations-with-effective-use-of-service-control-parameters/"><u>Optimizing Operations with Effective Use of Service Control Parameters</u></a></li>
+<li><a href="https://video-capture.techidaily.com/silent-blades-and-righteous-honor-your-next-game-adventure-awaits/"><u>Silent Blades & Righteous Honor Your Next Game Adventure Awaits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-path-to-exceptional-editing-with-kinemaster-for-2024/"><u>The Path to Exceptional Editing with Kinemaster for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/understanding-fileless-malware-mechanisms-defense-strategies-and-securing-your-computer/"><u>Understanding Fileless Malware: Mechanisms, Defense Strategies, & Securing Your Computer</u></a></li>
 </ul></div>
 

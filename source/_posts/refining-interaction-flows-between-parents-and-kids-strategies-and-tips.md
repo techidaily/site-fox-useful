@@ -1,7 +1,7 @@
 ---
 title: "Refining Interaction Flows Between Parents and Kids: Strategies & Tips"
-date: 2024-10-04T18:47:12.924Z
-updated: 2024-10-05T18:47:22.778Z
+date: 2024-10-10T05:02:14.815Z
+updated: 2024-10-11T04:29:47.642Z
 tags:
   - user-guide
 categories:
@@ -88,16 +88,10 @@ This dialog allows you to create a new child dialog. A child dialog is displayed
 !["Edit Child Dialogs" Dialog](https://cdn.advancedinstaller.com/img/dialog/edit-child-dialogs.png ""Edit Child Dialogs" Dialog")  
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Name
@@ -107,10 +101,10 @@ Select the desired child dialog from the list.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This list will be populated only with the existing "spawn-able" unused dialogs (predefined or custom) which are supported inside a Tab Host control. A "spawn-able" dialog does not have the "Back" / "Next" buttons.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 After creating a child dialog, it will be included as a Tab Host control's parent dialog child. You can reveal it by expanding the Tab Host control's parent dialog in the Install Sequence tree.
@@ -118,16 +112,10 @@ After creating a child dialog, it will be included as a Tab Host control's paren
 If a child dialog doesn't have its _Title_ property defined, its name (_Dialog Name_ property) will be used for its tab button text instead. By default a <NewDialog> will be named NewTabPageDialog in the Install Sequence tree.
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Condition
@@ -167,14 +155,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-funnyfilmmaker-quick-comic-creation/"><u>[New] FunnyFilmMaker Quick Comic Creation</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-mastering-game-capture-fbx-filming-techniques/"><u>[New] In 2024, Mastering Game Capture FBX Filming Techniques</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-maximizing-gopros-charged-time-span/"><u>[Updated] 2024 Approved Maximizing GoPro's Charged Time Span</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/1-mastering-boom-beach-a-beginners-guide-to-conquering-the-game-on-your-computer/"><u>1. Mastering Boom Beach: A Beginner's Guide to Conquering the Game on Your Computer</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/exploring-real-estate-a-users-guide-to-online-property-search/"><u>Exploring Real Estate: A User's Guide to Online Property Search</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-apple-iphone-15-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password On Apple iPhone 15</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-advanced-sound-switching-techniques/"><u>In 2024, Navigating Advanced Sound-Switching Techniques</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/navigating-through-imsixs-external-library-requirements-a-comprehensive-guide/"><u>Navigating Through IMsix's External Library Requirements: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/recovering-lost-iphones-a-simple-guide-to-retrieving-deleted-phone-numbers/"><u>Recovering Lost iPhones: A Simple Guide to Retrieving Deleted Phone Numbers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-elite-set-top-10-4k-gaming-laptops-unveiled/"><u>2024 Approved Elite Set Top 10 4K Gaming Laptops Unveiled</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-full-spectrum-analysis-of-vsco-editing-features/"><u>2024 Approved Full Spectrum Analysis of VSCO Editing Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-comprehensive-review-of-microsofts-latest-tablet-the-refreshed-surface-pro-7s-solid-performance-retained/"><u>A Comprehensive Review of Microsoft's Latest Tablet: The Refreshed Surface Pro 7'S Solid Performance Retained</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/discover-homes-with-our-comprehensive-property-detail-pages/"><u>Discover Homes with Our Comprehensive Property Detail Pages</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/easy-guide-speedy-methods-to-adjust-text-size-in-your-pdf-document/"><u>Easy Guide: Speedy Methods to Adjust Text Size in Your PDF Document</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/easy-steps-to-modify-your-scheduled-gatherings-edit-event-guide/"><u>Easy Steps to Modify Your Scheduled Gatherings - Edit Event Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/harnessing-hype-strategies-to-elevate-your-instagram-presence-for-2024/"><u>Harnessing Hype Strategies to Elevate Your Instagram Presence for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-y100t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-vivo-v29e-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Vivo V29e FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-faster-facebook-videos/"><u>In 2024, The Ultimate Guide to Faster Facebook Videos</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/quick-tips-for-retrieving-lost-information-from-an-iphone-6-no-tech-skills-required/"><u>Quick Tips for Retrieving Lost Information From an iPhone 6: No Tech Skills Required!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restoring-usb-functionality-post-adb-error/"><u>Restoring USB Functionality Post ADB Error</u></a></li>
 </ul></div>
 

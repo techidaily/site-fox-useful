@@ -1,7 +1,7 @@
 ---
 title: Recent Changes in Different Project Classifications
-date: 2024-10-04T20:16:01.759Z
-updated: 2024-10-05T17:17:38.169Z
+date: 2024-10-04T01:12:03.550Z
+updated: 2024-10-10T23:13:57.624Z
 tags:
   - user-guide
 categories:
@@ -80,16 +80,16 @@ Table of Contents
 ## Updates Project Types
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Patch
@@ -97,17 +97,29 @@ Table of Contents
 ![Patch Project](https://cdn.advancedinstaller.com/img/project/patch.png "Patch Project") This type of project gives you the possibility to create [Patches](https://tools.techidaily.com/advancedinstaller/products/) for your installations. Note that this project type requires an Enterprise license.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Updates Configuration
@@ -115,10 +127,10 @@ Table of Contents
 ![Update Project](https://cdn.advancedinstaller.com/img/project/update.png "Update Project")This type of project gives you the possibility to create an [Updates Configuration File](https://tools.techidaily.com/advancedinstaller/products/). Note that this project type requires a Professional license.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -154,19 +166,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-reviews.techidaily.com/2024s-most-reliable-and-efficient-ups-units-the-best-picks/"><u>2024'S Most Reliable and Efficient UPS Units - The Best Picks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatbot-guidance-for-stress-management-leveraging-the-power-of-chatgpt/"><u>Chatbot Guidance for Stress Management: Leveraging the Power of ChatGPT</u></a></li>
-<li><a href="https://driver-download.techidaily.com/free-asus-realtek-audio-drivers-improve-your-systems-sound-today/"><u>Free ASUS Realtek Audio Drivers: Improve Your System's Sound Today</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/how-does-chrome-indicate-its-under-corporate-management-and-should-you-worry-about-security/"><u>How Does Chrome Indicate It's Under Corporate Management, and Should You Worry About Security?</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-avoiding-blur-techniques-for-hand-held-stability/"><u>In 2024, Avoiding Blur Techniques for Hand-Held Stability</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-visionary-ai-digital-editing-app/"><u>In 2024, Visionary AI Digital Editing App</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/kinemaster-advanced-perfecting-visual-continuity/"><u>Kinemaster Advanced Perfecting Visual Continuity</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/m1-powered-macbook-air-a-new-era-for-editors-in-2024/"><u>M1-Powered MacBook Air A New Era for Editors, In 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/nintendo-switch-starter-pack-essentials-understanding-included-items-and-accessories/"><u>Nintendo Switch Starter Pack Essentials: Understanding Included Items & Accessories</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/optimizing-operations-with-effective-use-of-service-control-parameters/"><u>Optimizing Operations with Effective Use of Service Control Parameters</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/step-by-step-guide-to-resolving-common-errors-with-microsofts-groove-music-app/"><u>Step-by-Step Guide to Resolving Common Errors with Microsoft's Groove Music App</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/the-ultimate-instructional-resource-on-navigating-and-customizing-your-settings-tab-preferences/"><u>The Ultimate Instructional Resource on Navigating and Customizing Your Settings Tab Preferences</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/understanding-fileless-malware-mechanisms-defense-strategies-and-securing-your-computer/"><u>Understanding Fileless Malware: Mechanisms, Defense Strategies, & Securing Your Computer</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/user-friendly-installation-directory-selection-prompt/"><u>User-Friendly Installation Directory Selection Prompt</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-picks-amplifying-vhs-pictures-via-computer-software/"><u>[Updated] Top Picks Amplifying VHS Pictures via Computer Software</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1-choosing-the-perfect-television-screen-size-a-comprehensive-guide/"><u>1. Choosing the Perfect Television Screen Size: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/7-effective-strategies-for-enhancing-your-chatgpt-replies/"><u>7 Effective Strategies for Enhancing Your ChatGPT Replies</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/best-free-pdf-transformer-software-compatible-with-windows-10-systems/"><u>Best Free PDF Transformer Software Compatible with Windows 10 Systems</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/effective-strategies-shrink-your-pdf-file-effortlessly-and-exactly/"><u>Effective Strategies: Shrink Your PDF File Effortlessly & Exactly</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficiently-managing-amd-video-driver-updates/"><u>Efficiently Managing AMD Video Driver Updates</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-achieve-perfect-video-reverse-on-snapchat-with-simple-tricks/"><u>How to Achieve Perfect Video Reverse on Snapchat with Simple Tricks</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-get-closer-to-the-artistic-marvels-of-ai-portrait-generator/"><u>In 2024, Get Closer to the Artistic Marvels of AI Portrait Generator</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-gps-location-on-honor-play-7t-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Honor Play 7T Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-10-zoom-tips-for-efficient-chromebook-use/"><u>In 2024, Top 10 Zoom Tips for Efficient Chromebook Use</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/mastering-identityv-gameplay-on-your-computer-a-comprehensive-guide/"><u>Mastering IdentityV Gameplay on Your Computer: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/modify-application-settings-in-policy-management-dashboard/"><u>Modify Application Settings in Policy Management Dashboard</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/ultimate-guide-how-to-change-your-mkv-movie-downloads-into-high-quality-mp3-music-playlists/"><u>Ultimate Guide: How to Change Your MKV Movie Downloads Into High-Quality MP3 Music Playlists</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/understanding-the-new-whatsapp-terms-a-deep-dive-into-recent-privacy-policy-updates-with-malwarefox/"><u>Understanding the New WhatsApp Terms: A Deep Dive Into Recent Privacy Policy Updates with MalwareFox</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/understanding-xml-documents-a-comprehensive-guide/"><u>Understanding XML Documents - A Comprehensive Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/unlocking-free-integration-techniques-for-music-in-online-visual-media/"><u>Unlocking Free Integration Techniques for Music in Online Visual Media</u></a></li>
 </ul></div>
 

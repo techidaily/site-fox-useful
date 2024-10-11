@@ -1,7 +1,7 @@
 ---
 title: Discover Your Ideal Location with Smart Search Solutions
-date: 2024-10-03T16:26:33.742Z
-updated: 2024-10-05T18:49:12.509Z
+date: 2024-10-03T19:09:50.110Z
+updated: 2024-10-10T21:08:11.033Z
 tags:
   - user-guide
 categories:
@@ -124,22 +124,15 @@ Table of Contents
 
 ## ILocationSearch
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Declaration
 
 IAppSearch: IBaseSearch
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -147,15 +140,22 @@ IAppSearch: IBaseSearch
 This interface is meant to edit an extension verb.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
 
 **Array<IDispath> Locators** \- Gets the collection of locators.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Methods
 
@@ -178,10 +178,10 @@ Creates a new folder locator if it doesn’t exist and add it to the locator’s
 Removes a locator from the locator’s collection and destroys it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -223,24 +223,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-experience-retro-gaming-glory-with-best-pc-ps1-emulation-software/"><u>[Updated] 2024 Approved Experience Retro Gaming Glory with Best PC PS1 Emulation Software</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-a-comprehensive-guide-to-successful-fb-cover-video-strategies/"><u>[Updated] A Comprehensive Guide to Successful FB Cover Video Strategies</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-complete-breakdown-hero4-black-usage/"><u>[Updated] Complete Breakdown Hero4 Black Usage</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/1-how-to-convert-your-videos-into-free-mp3-audios/"><u>1. How to Convert Your Videos Into Free MP3 Audios</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-freely-stream-your-films-easy-to-use-mov-player-software/"><u>2024 Approved Freely Stream Your Films Easy-to-Use MOV PLAYER Software</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/audience-wow-factor-the-best-camera-lenses-for-youtube-stars-for-2024/"><u>Audience Wow Factor The Best Camera Lenses for YouTube Stars for 2024</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/best-imessage-emoji-creators-top-5-picks-for-easy-fun-on-ios-devices/"><u>Best iMessage Emoji Creators: Top 5 Picks for Easy Fun on iOS Devices</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/best-top-5-converters-from-jpg-images-to-pdf-files-on-any-platform/"><u>Best Top 5 Converters From JPG Images to PDF Files on Any Platform</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/comment-realiser-un-montage-mp3-en-segments-la-solution-intuitive-de-decoupeur-mp3-movavi/"><u>Comment Réaliser Un Montage MP3 en Segments : La Solution Intuitive De Découpeur MP3 Movavi</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Realme 12 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-15-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/leading-high-quality-image-refinement-software/"><u>Leading High-Quality Image Refinement Software</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/optimize-your-website-mastering-the-art-of-effective-search-engine-strategies/"><u>Optimize Your Website: Mastering the Art of Effective Search Engine Strategies</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-cinematic-creator-a-symphony-of-sights-and-sounds-for-2024/"><u>Prime Cinematic Creator A Symphony of Sights & Sounds for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-samsung-galaxy-f04-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Samsung Galaxy F04 Screen | Dr.fone</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/step-by-step-tutorial-on-editing-exe-file-attributes-interface/"><u>Step-by-Step Tutorial on Editing Exe File Attributes Interface</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/the-ultimate-tutorial-on-moving-pictures-from-pc-to-iphone-xs-seamlessly/"><u>The Ultimate Tutorial on Moving Pictures From PC to iPhone XS Seamlessly</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/ultimate-guide-how-to-recover-your-iphone-using-an-itunes-backup/"><u>Ultimate Guide: How to Recover Your iPhone Using an iTunes Backup</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/understanding-iregistrykey-the-key-concepts-you-need-to-know/"><u>Understanding IRegistryKey: The Key Concepts You Need to Know</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1-quick-and-simple-guide-adding-your-signature-to-images/"><u>1. Quick and Simple Guide: Adding Your Signature to Images</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/comparing-antivirus-vs-anti-malware-which-should-you-choose-for-optimal-protection/"><u>Comparing Antivirus Vs. Anti-Malware: Which Should You Choose for Optimal Protection?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-stunning-animated-videos-with-these-12-online-makers/"><u>Create Stunning Animated Videos with These 12 Online Makers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-x100-pro-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Vivo X100 Pro?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-the-ultimate-guide-to-thriving-in-google-meet-chats/"><u>In 2024, The Ultimate Guide to Thriving in Google Meet Chats</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/innovative-approaches-to-custom-add-in-development/"><u>Innovative Approaches to Custom Add-In Development</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/innovative-virtual-classroom-solutions-for-instructors/"><u>Innovative Virtual Classroom Solutions for Instructors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/no-cost-media-transfer-effortless-mxf-file-change-to-wmv-format-with-movavi-software/"><u>No Cost Media Transfer: Effortless MXF File Change to WMV Format with Movavi Software</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/tabbed-project-management-organize-workflows-efficiently/"><u>Tabbed Project Management: Organize Workflows Efficiently</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/tech-trends-update-discover-whats-new-with-windows-portables-and-inside-scores-on-spotifys-upcoming-moves/"><u>Tech Trends Update: Discover What's New with Windows Portables and Inside Scores on Spotify's Upcoming Moves!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-gameplay-errors-resolving-constant-crashes-in-formula-1-2021-for-windows-pcs/"><u>Troubleshooting Gameplay Errors: Resolving Constant Crashes in Formula 1 2021 for Windows PCs</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/ultimate-techniques-for-adding-sequential-page-numbering-in-pdf-files/"><u>Ultimate Techniques for Adding Sequential Page Numbering in PDF Files</u></a></li>
 </ul></div>
 

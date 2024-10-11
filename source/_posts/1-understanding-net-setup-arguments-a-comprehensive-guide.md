@@ -1,7 +1,7 @@
 ---
 title: "1. Understanding .NET Setup Arguments: A Comprehensive Guide"
-date: 2024-10-04T17:27:16.289Z
-updated: 2024-10-05T17:54:56.443Z
+date: 2024-10-05T21:14:01.797Z
+updated: 2024-10-11T00:28:11.620Z
 tags:
   - user-guide
 categories:
@@ -80,19 +80,19 @@ This dialog allows you to configure a .NET Installer class parameter.
 ![Edit .NET Installer Class Parameter Dialog](https://cdn.advancedinstaller.com/img/dialog/new-dotnetca-param-dialog.png "Edit .NET Installer Class Parameter Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Custom Action Parameter
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Name
@@ -102,10 +102,10 @@ Represent the key name that the assembly will receive as a parameter.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The **"** and **\=** characters are not allowed in the parameter name. Also, predefined parameters names are not user editable.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Value
@@ -115,10 +115,10 @@ The parameter's value.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The **"** character is not allowed in the parameter value.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 These fields are of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
@@ -156,19 +156,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-leading-likes-best-insta-stories-filter/"><u>[Updated] Leading Likes Best Insta Stories Filter</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/beneath-the-oceans-veil-tips-for-recording-top-notch-underwater-gopro-videos/"><u>Beneath the Ocean’s Veil Tips for Recording Top-Notch Underwater GoPro Videos</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-nomad/"><u>Comprehensive Nomad</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/desktop-strategies-effortlessly-upload-photos-to-instagram-from-your-computer/"><u>Desktop Strategies: Effortlessly Upload Photos to Instagram From Your Computer</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/easy-setup-and-usage-tips-for-the-apowermirror-app-on-your-ios-device/"><u>Easy Setup and Usage Tips for the ApowerMirror App on Your iOS Device</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/easy-solutions-for-restoring-audio-during-hdmiwireless-mirroring-of-your-android-phone-or-tablet-on-pc/"><u>Easy Solutions for Restoring Audio During HDMI/Wireless Mirroring of Your Android Phone or Tablet on PC</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-spark-10-4g-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Spark 10 4G</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-visual-narratives-the-leading-10-vector-editors/"><u>In 2024, Crafting Visual Narratives The Leading 10 Vector Editors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/logitech-k780-keyboard-repair-guide-what-to-do-when-it-stops-responding/"><u>Logitech K780 Keyboard Repair Guide: What to Do When It Stops Responding</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-art-of-labeling-images-adding-captions-to-photos-in-the-microsoft-suite-for-2024/"><u>The Art of Labeling Images Adding Captions to Photos in the Microsoft Suite for 2024</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/ultimate-strategy-tips-and-tricks-for-successful-pokemon-masters-gaming-on-your-computer/"><u>Ultimate Strategy Tips and Tricks for Successful Pokemon Masters Gaming on Your Computer</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/understanding-browser-hijackers-a-deep-dive-with-malwarefox/"><u>Understanding Browser Hijackers: A Deep Dive with MalwareFox</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/understanding-ixmlfileinstall-processes-for-efficient-file-deployment/"><u>Understanding IXMLFileInstall Processes for Efficient File Deployment</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-gt-5-pro-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme GT 5 Pro Device</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-ultimate-smartphone-list-for-capturing-crystal-clear-video/"><u>[New] Ultimate Smartphone List for Capturing Crystal Clear Video</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-perfecting-pics-with-practicality-top-5-pc-snipping-tools/"><u>[Updated] 2024 Approved Perfecting Pics with Practicality - Top 5 PC Snipping Tools</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1-how-to-convert-your-videos-into-free-mp3-audios/"><u>1. How to Convert Your Videos Into Free MP3 Audios</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/best-imessage-emoji-creators-top-5-picks-for-easy-fun-on-ios-devices/"><u>Best iMessage Emoji Creators: Top 5 Picks for Easy Fun on iOS Devices</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/best-top-5-converters-from-jpg-images-to-pdf-files-on-any-platform/"><u>Best Top 5 Converters From JPG Images to PDF Files on Any Platform</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-from-your-apple-iphone-se-2022-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID From your Apple iPhone SE (2022)?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-the-voice-over-advantage-elevating-video-quality/"><u>In 2024, The Voice-Over Advantage Elevating Video Quality</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-why-does-itools-virtual-location-not-work-for-apple-iphone-7ipad-solved-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone 7/iPad? Solved | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/leading-high-quality-image-refinement-software/"><u>Leading High-Quality Image Refinement Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-by-step-to-premium-audio-with-audacity-for-2024/"><u>Step-by-Step to Premium Audio with Audacity for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/step-by-step-tutorial-on-editing-exe-file-attributes-interface/"><u>Step-by-Step Tutorial on Editing Exe File Attributes Interface</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/the-ultimate-tutorial-on-moving-pictures-from-pc-to-iphone-xs-seamlessly/"><u>The Ultimate Tutorial on Moving Pictures From PC to iPhone XS Seamlessly</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/ultimate-guide-how-to-recover-your-iphone-using-an-itunes-backup/"><u>Ultimate Guide: How to Recover Your iPhone Using an iTunes Backup</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/ultimate-tutorial-on-how-to-capture-and-download-videos/"><u>Ultimate Tutorial on How to Capture and Download Videos</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 14 | Dr.fone</u></a></li>
 </ul></div>
 

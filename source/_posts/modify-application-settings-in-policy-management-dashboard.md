@@ -1,7 +1,7 @@
 ---
 title: Modify Application Settings in Policy Management Dashboard
-date: 2024-09-28T17:02:49.136Z
-updated: 2024-10-05T16:29:53.072Z
+date: 2024-10-08T23:48:57.435Z
+updated: 2024-10-10T19:56:44.693Z
 tags:
   - user-guide
 categories:
@@ -82,10 +82,10 @@ In this dialog, you can change the Component Policy for files and registry entri
 ![Component Policies Dialog](https://cdn.advancedinstaller.com/img/dialog/component-policies-edit-dialog.png "Component Policies Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Registry Component Policy
@@ -105,10 +105,10 @@ If this option is checked, for registry keys with multiple registry values only 
 This option will ensure that a single component will be created for all registries so if there are multiple keys and values, all of them will be in the same component. This option is useful for minimizing the installation time in scenarios with a large number of registers .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### File Component Policy
@@ -160,22 +160,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-switching-to-grid-view-in-google-meet-chat-room/"><u>[Updated] In 2024, Switching to Grid View in Google Meet Chat Room</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-simple-hdr-photography-methods/"><u>[Updated] Mastering Simple HDR Photography Methods</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-reposition-mac-picture-cache-destination/"><u>[Updated] Reposition Mac Picture Cache Destination</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-magix-acid-pro-evaluation-with-equivalent-software/"><u>2024 Approved Magix ACID Pro Evaluation with Equivalent Software</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/best-free-pdf-transformer-software-compatible-with-windows-10-systems/"><u>Best Free PDF Transformer Software Compatible with Windows 10 Systems</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effective-strategies-shrink-your-pdf-file-effortlessly-and-exactly/"><u>Effective Strategies: Shrink Your PDF File Effortlessly & Exactly</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-to-stop-microsoft-flight-simulator-2n-from-crashing-on-your-computer/"><u>Expert Tips to Stop Microsoft Flight Simulator 2N From Crashing on Your Computer</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-vivo-y78t-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Vivo Y78t?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-prime-5-podcast-options-for-your-iphone-experience/"><u>In 2024, Prime 5 Podcast Options for Your iPhone Experience</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-realme-gt-3-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Realme GT 3 FRP Bypass</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/mastering-complex-software-deployment-a-guide-to-advanced-installation-techniques/"><u>Mastering Complex Software Deployment: A Guide to Advanced Installation Techniques</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/mastering-identityv-gameplay-on-your-computer-a-comprehensive-guide/"><u>Mastering IdentityV Gameplay on Your Computer: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/the-best-batch-image-editing-tools-top-5-software-options-for-efficient-background-removal/"><u>The Best Batch Image Editing Tools: Top 5 Software Options for Efficient Background Removal</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/ultimate-guide-how-to-change-your-mkv-movie-downloads-into-high-quality-mp3-music-playlists/"><u>Ultimate Guide: How to Change Your MKV Movie Downloads Into High-Quality MP3 Music Playlists</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/understanding-the-new-whatsapp-terms-a-deep-dive-into-recent-privacy-policy-updates-with-malwarefox/"><u>Understanding the New WhatsApp Terms: A Deep Dive Into Recent Privacy Policy Updates with MalwareFox</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/understanding-xml-documents-a-comprehensive-guide/"><u>Understanding XML Documents - A Comprehensive Guide</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/uniting-worlds-love-without-a-common-tongue/"><u>Uniting Worlds: Love Without a Common Tongue</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-comedy-gold-twitters-hottest-jokes-for-2024/"><u>[Updated] Comedy Gold Twitter's Hottest Jokes for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-f15-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-driven-solutions-enhance-your-site-with-cutting-edge-tech/"><u>Cookiebot-Driven Solutions: Enhance Your Site with Cutting-Edge Tech</u></a></li>
+<li><a href="https://fox-info.techidaily.com/crafting-a-harmonic-narrative-adding-youtube-music-to-vids/"><u>Crafting a Harmonic Narrative Adding YouTube Music to Vids</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/frequently-asked-questions-mastering-apowerrec-task-recording-features/"><u>Frequently Asked Questions: Mastering ApowerREC Task Recording Features</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/guide-applying-a-snowy-backdrop-to-pictures-for-perfect-insta-shots/"><u>Guide: Applying a Snowy Backdrop to Pictures for Perfect Insta Shots</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-comprehensive-guide-record-webcam-in-hd-via-vlc/"><u>In 2024, Comprehensive Guide Record Webcam in HD via VLC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-depth-evaluation-of-clipcreator-editor-updated/"><u>In-Depth Evaluation of ClipCreator Editor - Updated</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/newly-added-editing-capabilities-in-dall-e-3-potential-yet-unrefined/"><u>Newly Added Editing Capabilities in DALL-E 3: Potential Yet Unrefined</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/step-by-step-guide-removing-annoying-spontaneous-music-bugs-from-your-system/"><u>Step-by-Step Guide: Removing Annoying Spontaneous Music Bugs From Your System</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/top-ranked-game-client-for-mastering-holeio-on-your-desktop-computer/"><u>Top Ranked Game Client for Mastering Hole.io on Your Desktop Computer</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/ultimate-guide-to-cropping-videos-perfectly-for-instagram/"><u>Ultimate Guide to Cropping Videos Perfectly for Instagram</u></a></li>
 </ul></div>
 

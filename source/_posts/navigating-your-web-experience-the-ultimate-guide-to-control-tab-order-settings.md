@@ -1,7 +1,7 @@
 ---
 title: "Navigating Your Web Experience: The Ultimate Guide to Control Tab Order Settings"
-date: 2024-09-29T19:51:19.324Z
-updated: 2024-10-05T19:57:52.043Z
+date: 2024-10-08T16:35:11.603Z
+updated: 2024-10-11T02:19:38.573Z
 tags:
   - user-guide
 categories:
@@ -87,16 +87,10 @@ This dialog allows you to change the tab order for controls on the dialog.
 ![Control Tab Order Dialog](https://cdn.advancedinstaller.com/img/dialog/control-tab-order.png "Control Tab Order Dialog")  
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Dialog Controls
@@ -104,16 +98,10 @@ This dialog allows you to change the tab order for controls on the dialog.
 This list contains all the controls that are on the dialog. The order of the controls in the list represents the order in which the controls were created. Also, this order gives the tab order of the dialog at run-time as well as the Z-order. Use the \[Up \] and \[Down \] buttons to modify this order. If two controls overlap will be visible the one who is lower on the list.
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Set Default
@@ -123,10 +111,16 @@ Make the current control the default control of the dialog. By default, this con
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The Default control must be a push button.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Set Cancel
@@ -135,14 +129,14 @@ Make the current control the Cancel control of the dialog.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The Cancel control must be a push button.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)A control can be simultaneously Default Control and Cancel Control for a dialog.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -177,22 +171,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-delving-into-sns-hdr-pros-merits-and-peer-comparisons/"><u>[New] Delving Into SNS HDR Pro's Merits & Peer Comparisons</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/op-fifa-players-visualized-data-infographics/"><u>[New] Top FIFA Players Visualized Data Infographics</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-become-a-tiktok-fanatic-setup-guide-for-macbook/"><u>[Updated] Become a TikTok Fanatic Setup Guide for MacBook</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/1-easy-ini-configuration-mastering-the-ini-file-editing-process/"><u>1. Easy INI Configuration: Mastering the INI File Editing Process</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/1-quick-and-simple-guide-adding-your-signature-to-images/"><u>1. Quick and Simple Guide: Adding Your Signature to Images</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/comparative-analysis-excel-vs-xml-file-formats/"><u>Comparative Analysis: Excel Vs. XML File Formats</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/comparing-antivirus-vs-anti-malware-which-should-you-choose-for-optimal-protection/"><u>Comparing Antivirus Vs. Anti-Malware: Which Should You Choose for Optimal Protection?</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/easy-onboarding-for-webinar-logging-in-microsoft-operating-systems/"><u>Easy Onboarding for Webinar Logging in Microsoft Operating Systems</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/efficient-temporary-file-handling-in-it-systems/"><u>Efficient Temporary File Handling in IT Systems</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/efficiently-inserting-multiple-photos-into-a-single-pdf-a-how-to-tutorial/"><u>Efficiently Inserting Multiple Photos Into a Single PDF - A How-To Tutorial</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-honor-v-purse-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Honor V Purse Android SIM Unlock APK</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/innovative-approaches-to-custom-add-in-development/"><u>Innovative Approaches to Custom Add-In Development</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/innovative-virtual-classroom-solutions-for-instructors/"><u>Innovative Virtual Classroom Solutions for Instructors</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/prime-fb-video-converters-secure-mp4-downloads/"><u>Prime FB Video Converters Secure MP4 Downloads</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/step-by-step-recording-slideshow-via-webcam/"><u>Step-by-Step Recording Slideshow via Webcam</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unlock-creativity-top-8-online-resources-for-beginners-for-2024/"><u>Unlock Creativity Top 8 Online Resources for Beginners for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-dynamic-photo-collage-hints-infuse-joy-into-life/"><u>[New] 2024 Approved Dynamic Photo Collage Hints Infuse Joy Into Life</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-perfecting-sound-levels-in-recordings-step-by-step-guide/"><u>[Updated] In 2024, Perfecting Sound Levels in Recordings Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-infinix-hot-40i-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/a-step-by-step-approach-cropping-and-exporting-your-videos-to-instagram/"><u>A Step-by-Step Approach Cropping & Exporting Your Videos to Instagram</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/an-in-depth-guide-to-what-is-chatgpt-and-its-working-principles/"><u>An In-Depth Guide to What Is ChatGPT and Its Working Principles</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/enhanced-file-organizer-component-with-ifolder-features-for-streamlined-user-experience/"><u>Enhanced File Organizer Component with iFolder Features for Streamlined User Experience</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/how-to-enhance-image-clarity-iphone-tricks-for-crystal-clear-pictures/"><u>How to Enhance Image Clarity: IPhone Tricks for Crystal-Clear Pictures</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/setup-environment-variables-via-edit-window-in-installation-package/"><u>Setup Environment Variables via Edit Window in Installation Package</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/step-by-step-guide-removing-annoying-spontaneous-music-bugs-from-your-system/"><u>Step-by-Step Guide: Removing Annoying Spontaneous Music Bugs From Your System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-recommended-vpns-for-unblocking-and-securing-your-youtube-streams/"><u>Top 5 Recommended VPNs for Unblocking and Securing Your YouTube Streams</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/top-ranked-game-client-for-mastering-holeio-on-your-desktop-computer/"><u>Top Ranked Game Client for Mastering Hole.io on Your Desktop Computer</u></a></li>
 </ul></div>
 

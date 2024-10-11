@@ -1,7 +1,7 @@
 ---
 title: "Tab Configuration Files: Setup Guidelines"
-date: 2024-09-28T18:27:12.959Z
-updated: 2024-10-05T17:42:08.609Z
+date: 2024-10-05T03:48:48.102Z
+updated: 2024-10-10T16:33:17.717Z
 tags:
   - user-guide
 categories:
@@ -79,10 +79,10 @@ In this tab you can configure which files contained by your package will be sign
 ![Digital signature files tab](https://cdn.advancedinstaller.com/img/ui/digital-signature-files-tab.png "Digital signature files tab")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Files Configured for Signing
@@ -128,24 +128,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/-peek-into-the-heart-of-youtubes-video-operations-for-2024/"><u>[New] A Peek Into the Heart of YouTube's Video Operations for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-maximize-your-seo-top-7-budget-friendly-youtube-tags-extractors-reviewed/"><u>[New] In 2024, Maximize Your SEO Top 7 Budget-Friendly Youtube Tags Extractors Reviewed</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-essential-steps-for-high-quality-twitch-broadcasts/"><u>[Updated] In 2024, Essential Steps for High-Quality Twitch Broadcasts</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-increasing-visibility-with-strategic-reddit-posts-for-2024/"><u>[Updated] Increasing Visibility with Strategic Reddit Posts for 2024</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/can-a-factory-reset-eliminate-android-viruses-and-malicious-software-insights-from-malwarefox/"><u>Can a Factory Reset Eliminate Android Viruses and Malicious Software? Insights From MalwareFox</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/comprehensive-guide-mastering-the-art-of-advanced-installation-techniques/"><u>Comprehensive Guide: Mastering the Art of Advanced Installation Techniques</u></a></li>
-<li><a href="https://blog-min.techidaily.com/download-sem-custo-transformar-videos-em-formato-wtv-usando-o-movaviconverter/"><u>Download Sem Custo: Transformar Vídeos Em Formato WTV Usando O MovaviConverter</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effortless-techniques-to-fuse-multiple-pdfs-into-one-with-just-a-click/"><u>Effortless Techniques to Fuse Multiple PDFs Into One with Just a Click</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/el-capitan-users-manual-capturing-audio-on-a-mac-for-beginners/"><u>El Capitan User's Manual: Capturing Audio on a Mac for Beginners</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/essential-features-of-translation-tools-understanding-translator-attributes/"><u>Essential Features of Translation Tools: Understanding Translator Attributes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-free-defrag-utilities-to-optimize-performance-best-of-2n4/"><u>Essential Free Defrag Utilities to Optimize Performance - Best of 2N4</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-motorola-edge-40-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Motorola Edge 40 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/lost-your-data-on-a-usb-stick-discover-effective-techniques-for-secure-data-recovery/"><u>Lost Your Data on a USB Stick? Discover Effective Techniques for Secure Data Recovery!</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-stability-proven-tips-to-prevent-dead-by-daylight-crashes/"><u>Mastering Stability: Proven Tips to Prevent Dead By Daylight Crashes</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/navigating-your-web-experience-the-ultimate-guide-to-control-tab-order-settings/"><u>Navigating Your Web Experience: The Ultimate Guide to Control Tab Order Settings</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/srt-conversion-simplified-subtitles-transformation-for-2024/"><u>SRT Conversion Simplified Subtitles Transformation for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-insights-from-toms-hardware/"><u>Tom's Tech Reviews: In-Depth Insights From Tom's Hardware</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/top-rated-screenshot-apps-for-mac-computers/"><u>Top Rated Screenshot Apps for Mac Computers</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/top-ranking-music-slide-show-creator-apps-find-your-perfect-match/"><u>Top-Ranking Music Slide Show Creator Apps: Find Your Perfect Match</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-computer-randomly-restarts-on-windows-11/"><u>[SOLVED] Computer Randomly Restarts on Windows 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-activate-a-virtual-grid-display-for-meet-users-for-2024/"><u>[Updated] How to Activate a Virtual Grid Display for Meet Users for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-ultimate-guide-to-android-9-youtube-download-apps/"><u>[Updated] In 2024, The Ultimate Guide to Android 9 YouTube Download Apps</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unwinding-upside-down-asmr-to-support-zzzs/"><u>[Updated] In 2024, Unwinding Upside-Down ASMR to Support Zzz's</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlining-your-room-for-oculus-vr/"><u>[Updated] Streamlining Your Room for Oculus VR</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/best-7-virtual-meeting-platforms-enhancing-remote-work-productivity/"><u>Best 7 Virtual Meeting Platforms Enhancing Remote Work Productivity</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/easy-techniques-for-retrieving-deleted-whatsapp-conversations-on-your-ios-device/"><u>Easy Techniques for Retrieving Deleted WhatsApp Conversations on Your iOS Device</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-constant-pc-crashes-in-age-of-wonders-planetfall/"><u>Fixing the Constant PC Crashes in Age of Wonders: Planetfall</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-xiaomi-redmi-note-12-4g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Xiaomi Redmi Note 12 4G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-from-viewer-to-video-voyager-building-strong-backlinks-in-youtube/"><u>In 2024, From Viewer to Video Voyager Building Strong Backlinks in YouTube</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/mastering-complex-software-deployment-a-guide-to-advanced-installation-techniques/"><u>Mastering Complex Software Deployment: A Guide to Advanced Installation Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-conversations-a-guide-to-using-mozilla-thunderbirds-messaging-feature/"><u>Mastering Conversations: A Guide to Using Mozilla Thunderbird's Messaging Feature</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/modify-application-settings-in-policy-management-dashboard/"><u>Modify Application Settings in Policy Management Dashboard</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/optimize-update-detection-processes-using-installed-base-detector-tool/"><u>Optimize Update Detection Processes Using Installed Base Detector Tool</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/tutorial-how-to-save-your-screen-from-anywhere-using-remote-desktop-on-pcs-and-macbooks/"><u>Tutorial: How to Save Your Screen From Anywhere Using Remote Desktop on PCs and MacBooks</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/ultimate-guide-how-to-change-your-mkv-movie-downloads-into-high-quality-mp3-music-playlists/"><u>Ultimate Guide: How to Change Your MKV Movie Downloads Into High-Quality MP3 Music Playlists</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/understanding-the-new-whatsapp-terms-a-deep-dive-into-recent-privacy-policy-updates-with-malwarefox/"><u>Understanding the New WhatsApp Terms: A Deep Dive Into Recent Privacy Policy Updates with MalwareFox</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/understanding-xml-documents-a-comprehensive-guide/"><u>Understanding XML Documents - A Comprehensive Guide</u></a></li>
 </ul></div>
 

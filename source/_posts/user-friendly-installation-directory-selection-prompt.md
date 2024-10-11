@@ -1,7 +1,7 @@
 ---
 title: User-Friendly Installation Directory Selection Prompt
-date: 2024-09-29T19:58:01.980Z
-updated: 2024-10-05T21:25:01.238Z
+date: 2024-10-05T20:00:50.446Z
+updated: 2024-10-10T23:53:54.938Z
 tags:
   - user-guide
 categories:
@@ -85,43 +85,37 @@ Table of Contents
  This dialog allows you to select a validation method for the selected installation path. The actual validation is performed when pressing \[Next \] button.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Use native Windows Installer validation
 
 The default option. The installation path is verified automatically by Windows Installer using its standard mechanism. This validation is usually restricted to checking if the path can be accessed of if the specified drive exists.
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Display an error if the installation folder already exists
 
 Displays a standard message box with an error if the selected folder already exists on disk. The installation folder dialog will remain visibile.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Ask about overwriting the installation folder if it already exists
 
 If the selected folder already exists on disk, a message box will ask the user about overwriting it. If the answer is Yes, the installation continues. Otherwise, the installation folder dialog will remain visible.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Display an error if a specific file or subfolder exists in the installation path
 
@@ -150,10 +144,10 @@ Subfolder Name\Another subfolder
 Copy
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Display an error if a specific file or subfolder does not exist in the installation path
@@ -195,24 +189,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-effortless-video-recordings-of-google-meets-on-phones/"><u>[New] Effortless Video Recordings of Google Meets on Phones</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-initiating-seamless-zoom-gatherings-for-2024/"><u>[Updated] Initiating Seamless Zoom Gatherings for 2024</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/1-understanding-net-setup-arguments-a-comprehensive-guide/"><u>1. Understanding .NET Setup Arguments: A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-conveniently-share-your-videos-youtube-shorts-mobilecomputer-tips/"><u>2024 Approved Conveniently Share Your Videos YouTube Shorts Mobile/Computer Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/avoiding-redundant-photos-with-repeated-subjects-merging-images-seamlessly-on-ios-and-macos/"><u>Avoiding Redundant Photos with Repeated Subjects - Merging Images Seamlessly on iOS and macOS</u></a></li>
-<li><a href="https://fox-that.techidaily.com/creating-a-class-library/"><u>Creating a Class Library</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effective-anti-redirect-software-malwarefox-browser-cleaner-eliminate-redirection-threats/"><u>Effective Anti-Redirect Software: MalwareFox Browser Cleaner – Eliminate Redirection Threats</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-poco-f5-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Poco F5 5G</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-3-innovative-ways-to-record-on-your-ipad/"><u>In 2024, 3 Innovative Ways to Record on Your iPad</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/iphone-x-versus-iphone-7-an-in-depth-head-to-head-review/"><u>IPhone X versus iPhone 7: An In-Depth Head-to-Head Review</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/itext-library-append-or-create-text-files-efficiently/"><u>IText Library - Append or Create Text Files Efficiently</u></a></li>
-<li><a href="https://win-net.techidaily.com/step-by-step-guide-downloading-rogers-cpa-exam-video-series-on-pc-and-mac/"><u>Step-by-Step Guide: Downloading Roger's CPA Exam Video Series on PC & Mac</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/the-best-substitutes-for-jing-therapy-an-in-depth-analysis-and-reviews/"><u>The Best Substitutes for Jing Therapy - An In-Depth Analysis and Reviews</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-illusion-of-reality-in-marketing-debunking-ad-ploys-as-thats-no-moon/"><u>The Illusion of Reality in Marketing: Debunking Ad Ploys as 'That’s No Moon'</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/title-ensuring-safe-online-transactions-how-to-confirm-a-site-is-genuine-not-fraudulent/"><u>Title: Ensuring Safe Online Transactions: How to Confirm a Site Is Genuine, Not Fraudulent</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/top-rated-tools-for-instantly-transforming-your-images-backdrops-in-2n2/"><u>Top-Rated Tools for Instantly Transforming Your Images' Backdrops in 2N2</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/ultimate-ff-downloader-suite-for-social-video-grabs/"><u>Ultimate FF Downloader Suite for Social Video Grabs</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/understanding-linked-data-packet-dynamics/"><u>Understanding Linked Data Packet Dynamics</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/unlock-professional-results-using-leading-free-ai-video-editing-tools/"><u>Unlock Professional Results Using Leading Free AI Video Editing Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-humor-horizon-developer/"><u>[New] Humor Horizon Developer</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-compendium-of-different-photographic-gadgets/"><u>[Updated] Compendium of Different Photographic Gadgets</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-capture-the-magic-of-moonlight-iphonely/"><u>[Updated] In 2024, Capture the Magic of Moonlight iPhonely</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1-how-to-convert-your-videos-into-free-mp3-audios/"><u>1. How to Convert Your Videos Into Free MP3 Audios</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-oppo-find-n3-flip-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Oppo Find N3 Flip Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/best-top-5-converters-from-jpg-images-to-pdf-files-on-any-platform/"><u>Best Top 5 Converters From JPG Images to PDF Files on Any Platform</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-how-to-utilize-openais-revolutionary-gpt-store-beginners-tutorial-inside/"><u>Discover How to Utilize OpenAI's Revolutionary GPT Store - Beginner's Tutorial Inside</u></a></li>
+<li><a href="https://techidaily.com/how-to-exit-dfu-mode-on-apple-iphone-se-2020-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/inside-the-microsoft-365-downtime-impacting-countless-clients-insights-from-zdnets-analysis/"><u>Inside the Microsoft 365 Downtime Impacting Countless Clients, Insights From ZDNet's Analysis</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/leading-high-quality-image-refinement-software/"><u>Leading High-Quality Image Refinement Software</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/shop-the-final-sale-on-oculus-quest-2-grab-yours-at-just-199/"><u>Shop the Final Sale on Oculus Quest 2 - Grab Yours at Just $199!</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/step-by-step-tutorial-on-editing-exe-file-attributes-interface/"><u>Step-by-Step Tutorial on Editing Exe File Attributes Interface</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/the-ultimate-tutorial-on-moving-pictures-from-pc-to-iphone-xs-seamlessly/"><u>The Ultimate Tutorial on Moving Pictures From PC to iPhone XS Seamlessly</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/ultimate-guide-how-to-recover-your-iphone-using-an-itunes-backup/"><u>Ultimate Guide: How to Recover Your iPhone Using an iTunes Backup</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-in-tech-a-journey-with-toms-hardware-reviews/"><u>Unveiling the Latest in Tech: A Journey with Tom's Hardware Reviews</u></a></li>
 </ul></div>
 

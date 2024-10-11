@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Functionality of Contextual Dropdown Menus: A Guide"
-date: 2024-10-04T17:55:55.701Z
-updated: 2024-10-05T16:21:15.873Z
+date: 2024-10-07T20:01:25.559Z
+updated: 2024-10-10T19:16:46.950Z
 tags:
   - user-guide
 categories:
@@ -86,13 +86,6 @@ This page enables you to configure Windows Explorer context menu items for your 
 
 ![Context Menu Properties](https://cdn.advancedinstaller.com/img/ui/context-menu.png "Context Menu Properties")  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Windows 11 Context Menu
 
 Check this option to enable Windows 11 Context Menu.
@@ -104,10 +97,10 @@ A Sparse Package is required to configure this option. It will be automatically 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)"Windows 11 Context Menu" option takes effect at install time only if the digital certificate used to signed the setup package is a trusted certificate on target machine (i.e. is installed in "Trusted Root Certification Authorities" certificates store). Otherwise its installation will be skipped.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Digital Signing with a Cloud Hosted Service
@@ -120,6 +113,19 @@ CN=YourCompany-sha2, OU=YourProductName, O=YourCompany, E=support@yourcompany.co
 
 Copy
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Display
 
 ### Name
@@ -131,10 +137,10 @@ Specify the name of the context menu item. Formatted type.
 Select or specify the icon (a \*.ico file) of the context menu item. Formatted type.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## General
@@ -149,10 +155,16 @@ The type of the context menu is displayed in this field:
 * Drive
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Command
@@ -192,21 +204,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-luminouslabs-top-10-free-and-paid-filters-compare/"><u>[New] 2024 Approved LuminousLabs Top 10 Free & Paid Filters Compare</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-innovative-frame-tools-and-websites-image-editors-for-2024/"><u>[New] Innovative Frame Tools and Websites Image Editors for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-skyrocketing-influence-growth-in-youtube-audience/"><u>[Updated] In 2024, Skyrocketing Influence Growth in YouTube Audience</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-superior-scrutinizer-of-top-8-rankings-tracker-for-2024/"><u>[Updated] Superior Scrutinizer of Top 8 Rankings Tracker for 2024</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/desktop-strategies-effortlessly-upload-photos-to-instagram-from-your-computer/"><u>Desktop Strategies: Effortlessly Upload Photos to Instagram From Your Computer</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/easy-setup-and-usage-tips-for-the-apowermirror-app-on-your-ios-device/"><u>Easy Setup and Usage Tips for the ApowerMirror App on Your iOS Device</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/easy-solutions-for-restoring-audio-during-hdmiwireless-mirroring-of-your-android-phone-or-tablet-on-pc/"><u>Easy Solutions for Restoring Audio During HDMI/Wireless Mirroring of Your Android Phone or Tablet on PC</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effective-content-strategies-embracing-multi-page-layouts/"><u>Effective Content Strategies: Embracing Multi-Page Layouts</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effortless-electronic-signature-tool-for-pdfs-design-and-implement-your-custom-signature-now/"><u>Effortless Electronic Signature Tool for PDFs - Design & Implement Your Custom Signature Now</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-x-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone X? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-vivo-y100t-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Vivo Y100t Data? | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-top-2023s-top-browser-extensions-download-facebook-videos-effortlessly/"><u>In 2024, Top 2023'S Top Browser Extensions Download Facebook Videos Effortlessly</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/master-fast-sharing-youtube-playlists-made-simple-for-2024/"><u>Master Fast Sharing YouTube Playlists Made Simple for 2024</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/ultimate-strategy-tips-and-tricks-for-successful-pokemon-masters-gaming-on-your-computer/"><u>Ultimate Strategy Tips and Tricks for Successful Pokemon Masters Gaming on Your Computer</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/understanding-ixmlfileinstall-processes-for-efficient-file-deployment/"><u>Understanding IXMLFileInstall Processes for Efficient File Deployment</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-humorhub-design-your-own-jokes-and-gifs/"><u>[New] In 2024, HumorHub Design Your Own Jokes and Gifs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-next-level-entertainment-exclusive-windows-10-gaming-and-apps/"><u>[New] Next-Level Entertainment Exclusive Windows 10 Gaming & Apps</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-stirring-interest-and-emotions-the-ultimate-guide-to-engaging-tiktok-captions/"><u>[Updated] Stirring Interest & Emotions The Ultimate Guide to Engaging TikTok Captions</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1-how-to-convert-your-videos-into-free-mp3-audios/"><u>1. How to Convert Your Videos Into Free MP3 Audios</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/capturing-your-screen-effortlessly-a-beginners-tutorial-on-apowersoft-free-screenshot-utility/"><u>Capturing Your Screen Effortlessly: A Beginner's Tutorial on Apowersoft Free Screenshot Utility</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/discover-your-ideal-location-with-smart-search-solutions/"><u>Discover Your Ideal Location with Smart Search Solutions</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dive-into-french-sounds-an-introduction-to-pronunciation/"><u>Dive Into French Sounds: An Introduction to Pronunciation</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/facebook-launching-your-first-phenomenal-giving-post/"><u>Facebook Launching Your First Phenomenal Giving Post</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/in-depth-guide-understanding-complus-component-architecture-and-services/"><u>In-Depth Guide: Understanding COM+ Component Architecture and Services</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/leading-high-quality-image-refinement-software/"><u>Leading High-Quality Image Refinement Software</u></a></li>
+<li><a href="https://win11.techidaily.com/overcome-boot-failures-8-fixes-for-virtual-machines-on-wm11os/"><u>Overcome Boot Failures: 8 Fixes for Virtual Machines on WM11OS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/rethinking-ai-assessment-can-these-5-modern-methods-replace-the-traditional-turing-test/"><u>Rethinking AI Assessment: Can These 5 Modern Methods Replace the Traditional Turing Test?</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/ultimate-tutorial-on-how-to-capture-and-download-videos/"><u>Ultimate Tutorial on How to Capture and Download Videos</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/understanding-the-characteristics-of-volume-a-comprehensive-guide/"><u>Understanding the Characteristics of Volume: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unleashing-creativity-gif-formats-decoded/"><u>Unleashing Creativity GIF Formats Decoded</u></a></li>
 </ul></div>
 

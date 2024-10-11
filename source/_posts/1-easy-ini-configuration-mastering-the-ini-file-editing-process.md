@@ -1,7 +1,7 @@
 ---
 title: "1. Easy INI Configuration: Mastering the INI File Editing Process"
-date: 2024-09-28T18:48:51.413Z
-updated: 2024-10-05T19:30:00.311Z
+date: 2024-10-08T22:25:51.011Z
+updated: 2024-10-11T00:57:00.084Z
 tags:
   - user-guide
 categories:
@@ -92,22 +92,42 @@ Windows uses INI files to configure application settings. With the help of Advan
 
 ![Edit INI File Dialog](https://cdn.advancedinstaller.com/img/dialog/edit-ini-file.png "Edit INI File Dialog")  
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Add a section
 
  Use the \[New Section... \], the “New...” tree context menu item or press the Insert key while the focus is in the “Sections” panel. 
 
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Windows Installer only takes into considerations INI entries (not sections). Empty sections will be discarded when this dialog is closed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Add an entry to an INI file
 
  Use the \[New Entry... \], the “New...” list context menu item or press the Insert key while the focus is in the entries panel (right panel). The new entry will be added to the selected section. If there are no sections, a default one will be created for you. 
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Modify a section or an entry
 
@@ -115,33 +135,19 @@ Windows uses INI files to configure application settings. With the help of Advan
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)The section names are [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) fields, so you will be able to edit them using the [Edit Formatted Type Dialog](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Delete a section or an entry
 
 Use the \[Delete \], the “Delete” tree/list context menu item or press the Delete key while the item you want to remove is selected. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Set to a component
 
 Use the “Set Component” context menu item to set a section or the entire file to a specific component. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -182,22 +188,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-effective-steps-to-dismiss-videos-in-youtube-watchlater/"><u>[New] 2024 Approved Effective Steps to Dismiss Videos in YouTube Watchlater</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-mastering-mac-from-live-classroom-to-recorded-session/"><u>[Updated] 2024 Approved Mastering Mac From Live Classroom to Recorded Session</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-why-are-recommended-youtube-movies-elusive-on-facebook/"><u>[Updated] 2024 Approved Why Are Recommended YouTube Movies Elusive on Facebook?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transformative-tones-expert-chromatic-conversion/"><u>[Updated] Transformative Tones Expert Chromatic Conversion</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-exploring-the-seven-superior-water-tough-cams-guide/"><u>2024 Approved Exploring the Seven Superior Water-Tough Cams Guide</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/complying-with-aspect-ratios-in-tweets-for-2024/"><u>Complying with Aspect Ratios in Tweets for 2024</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/configuring-java-application-preferences-a-detailed-guide/"><u>Configuring Java Application Preferences: A Detailed Guide</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/discover-homes-with-our-comprehensive-property-detail-pages/"><u>Discover Homes with Our Comprehensive Property Detail Pages</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/easy-setup-and-usage-tips-for-the-apowermirror-app-on-your-ios-device/"><u>Easy Setup and Usage Tips for the ApowerMirror App on Your iOS Device</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effective-content-strategies-embracing-multi-page-layouts/"><u>Effective Content Strategies: Embracing Multi-Page Layouts</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effortless-electronic-signature-tool-for-pdfs-design-and-implement-your-custom-signature-now/"><u>Effortless Electronic Signature Tool for PDFs - Design & Implement Your Custom Signature Now</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/high-definition-mac-webcam-recording-tutorial-capturing-perfect-videos/"><u>High-Definition Mac Webcam Recording Tutorial: Capturing Perfect Videos</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-cutting-edge-tips-for-low-cost-youtube-sessions/"><u>In 2024, Cutting-Edge Tips for Low-Cost YouTube Sessions</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-to-do-if-your-apple-iphone-14-plus-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>In 2024, What to do if your Apple iPhone 14 Plus has bad ESN or blacklisted IMEI?</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/master-your-digital-files-with-ifile-seamless-organization-and-sharing-solutions/"><u>Master Your Digital Files with iFile – Seamless Organization and Sharing Solutions</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/mastering-screen-recording-on-macos-el-capitan-a-step-by-step-tutorial/"><u>Mastering Screen Recording on macOS El Capitan: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Honor Magic 6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-harnessing-the-power-of-animated-graphics/"><u>[New] Harnessing the Power of Animated Graphics</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-fb-video-shape-study-overview/"><u>[Updated] FB Video Shape Study Overview</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-harmonize-your-favorites-creating-custom-youtube-playlists/"><u>2024 Approved Harmonize Your Favorites Creating Custom YouTube Playlists</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-scriptwriting-secrets-for-a-captivating-and-authentic-storyline/"><u>2024 Approved Scriptwriting Secrets for a Captivating and Authentic Storyline</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/can-a-factory-reset-eliminate-android-viruses-and-malicious-software-insights-from-malwarefox/"><u>Can a Factory Reset Eliminate Android Viruses and Malicious Software? Insights From MalwareFox</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/comprehensive-guide-mastering-the-art-of-advanced-installation-techniques/"><u>Comprehensive Guide: Mastering the Art of Advanced Installation Techniques</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-canon-printer-software-drivers-for-windows-10-8-and-n7/"><u>Download Canon Printer Software Drivers for Windows 10, 8 & N7</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/effortless-techniques-to-fuse-multiple-pdfs-into-one-with-just-a-click/"><u>Effortless Techniques to Fuse Multiple PDFs Into One with Just a Click</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/el-capitan-users-manual-capturing-audio-on-a-mac-for-beginners/"><u>El Capitan User's Manual: Capturing Audio on a Mac for Beginners</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/enhancing-design-with-efficient-editing-master-the-patterns-dialog/"><u>Enhancing Design with Efficient Editing: Master the Patterns Dialog</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/essential-features-of-translation-tools-understanding-translator-attributes/"><u>Essential Features of Translation Tools: Understanding Translator Attributes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-samsung-galaxy-a23-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Samsung Galaxy A23 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Xiaomi Civi 3? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-art-creating-high-quality-gopro-vlogs/"><u>In 2024, Mastering The Art Creating High-Quality Gopro Vlogs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/streamline-your-virtual-gatherings-with-this-10-free-web-application-list/"><u>Streamline Your Virtual Gatherings With This 10 Free Web Application List</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tips-to-prevent-robocop-rogue-city-from-crashing-during-gameplay-on-a-pc/"><u>Tips to Prevent 'Robocop: Rogue City' From Crashing During Gameplay on a PC</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/top-rated-screenshot-apps-for-mac-computers/"><u>Top Rated Screenshot Apps for Mac Computers</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/top-ranking-music-slide-show-creator-apps-find-your-perfect-match/"><u>Top-Ranking Music Slide Show Creator Apps: Find Your Perfect Match</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/understanding-file-handling-in-settings-menu/"><u>Understanding File Handling in Settings Menu</u></a></li>
 </ul></div>
 

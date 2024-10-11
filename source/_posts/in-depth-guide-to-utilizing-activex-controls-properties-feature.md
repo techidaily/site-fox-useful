@@ -1,7 +1,7 @@
 ---
 title: In-Depth Guide to Utilizing ActiveX Control's Properties Feature
-date: 2024-10-04T19:29:15.894Z
-updated: 2024-10-05T19:44:14.740Z
+date: 2024-10-06T16:18:31.694Z
+updated: 2024-10-10T23:17:36.314Z
 tags:
   - user-guide
 categories:
@@ -84,40 +84,26 @@ This view allows you to specify the settings of the COM that will register.
 
 ## General
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### File
 
 This field displays the COM file to be registered. Use the\[... \] to change it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Context
 
 Select the server context from the drop-down list.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Threading Model
 
 Registers a 32-bit in-process server and specifies the threading model of the apartment the server can run in. Detailed explanation of the registration information written is in the following[MSDN article](https://learn.microsoft.com/en-us/windows/win32/com/inprocserver32?redirectedfrom=MSDN "Threading Model").
 
 If you select the option “<Unspecified>” the installation package will not write any information in the registry about the threading model that should be used.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### ProgId
 
@@ -135,6 +121,13 @@ Specify a description for the Class ID.
 
 Specifies the version of this COM.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### TypeLib Id
 
 Specifies the ID of TypeLibrary describing this COM.
@@ -144,24 +137,30 @@ Specifies the ID of TypeLibrary describing this COM.
 Select an icon that will be associated with this CLSID. Use the\[... \] and \[Reset \] buttons to do that.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Options
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### File Type Mask
 
 Specify information for this CLSID.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### DefaultInProcHandler
 
@@ -174,28 +173,35 @@ Select the default in-process handler for the server context specified in the Co
 If a LocalServer or LocalServer32 CLSID key appears in the Context field, the text in this field is registered as the argument against the server and is used by COM to invoke the server. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using[Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Feature
 
 Select the feature that provides the COM server. Use the\[... \] to do that.
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Relative path
 
 Specify if the register path is relative or absolute.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Location
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Registry path
 
@@ -234,24 +240,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-build-a-career-in-graphic-design/"><u>[New] How to Build A Career In Graphic Design</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/2018/"><u>2018</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-oppo-a38-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Oppo A38 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-face-off-ranking-the-best-response-to-the-same-creative-cue/"><u>AI Face-Off: Ranking the Best Response to the Same Creative Cue</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/comprehensive-overview-of-item-features-and-attributes/"><u>Comprehensive Overview of Item Features & Attributes</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/distinguishing-features-in-top-tier-services/"><u>Distinguishing Features in Top-Tier Services</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-steps-for-managing-and-cleared-iphoneipad-battery-statistics/"><u>Easy Steps for Managing and Cleared iPhone/iPad Battery Statistics</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-oneplus-ace-2-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your OnePlus Ace 2 in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/efficient-service-installation-process/"><u>Efficient Service Installation Process</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-samsung-galaxy-m34-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Samsung Galaxy M34 5G For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/how-to-update-installed-registry-detection-tools-effectively/"><u>How to Update Installed Registry Detection Tools Effectively</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-the-world-of-electronics-a-guide-from-toms-hardware/"><u>Inside the World of Electronics - A Guide From Tom's Hardware</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/instagrams-best-practices-for-sensational-video-loops/"><u>Instagram's Best Practices for Sensational Video Loops</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/managing-short-term-file-tasks-on-windows-explorers-directory-pages/"><u>Managing Short-Term File Tasks on Windows Explorer's Directory Pages</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/quick-guide-how-to-effortlessly-add-audio-content-to-macos-itunes/"><u>Quick Guide: How to Effortlessly Add Audio Content to macOS iTunes</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/superior-top-ten-nintendo-switch-combat-games-max-156-for-2024/"><u>Superior Top Ten Nintendo Switch Combat Games (Max 156) for 2024</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/tab-configuration-files-setup-guidelines/"><u>Tab Configuration Files: Setup Guidelines</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/the-ultimate-guide-to-cleaning-up-your-photos-by-removing-items/"><u>The Ultimate Guide to Cleaning Up Your Photos by Removing Items</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-secrets-of-instagram-an-in-depth-exploration/"><u>Unveiling the Secrets of Instagram: An In-Depth Exploration</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-full-review-and-how-to-for-facetunes-new-features/"><u>[New] 2024 Approved The Full Review and How-To for Facetune's New Features</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-top-30-unlimited-cloud-space-deals-up-to-1tb-saved/"><u>[New] 2024 Approved Top 30 Unlimited Cloud Space Deals - Up to 1TB Saved</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-mastering-the-art-of-profile-age-precision-on-tiktok-for-2024/"><u>[Updated] Mastering the Art of Profile Age Precision on TikTok for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1-powershell-scripting-essentials-a-beginners-guide/"><u>1. PowerShell Scripting Essentials: A Beginner's Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-inshot-on-pcs-and-laptops/"><u>2024 Approved The Ultimate Guide to Inshot on PCs and Laptops</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/delicate-volume-modulation-using-lumafusions-features/"><u>Delicate Volume Modulation Using Lumafusion's Features</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/get-the-newest-information-breaking-news-and-fresh-insights/"><u>Get the Newest Information: Breaking News and Fresh Insights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-captured-words-top-10-mobile-writing-tools-for-images/"><u>In 2024, Captured Words Top 10 Mobile Writing Tools for Images</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/ini-tuner-pro-simplifying-your-journey-with-advanced-ini-file-editing-tools/"><u>INI Tuner Pro: Simplifying Your Journey with Advanced INI File Editing Tools</u></a></li>
+<li><a href="https://techidaily.com/is-your-samsung-galaxy-a05-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy A05 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/speedy-iphone-timelapses-made-simple-for-2024/"><u>Speedy iPhone Timelapses Made Simple for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/top-rated-no-cost-video-editor-programs-perfect-for-windows-and-macos-users/"><u>Top Rated No-Cost Video Editor Programs: Perfect for Windows & macOS Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-troubleshooting-guide-resolving-iphone-app-malfunctions-and-crashes/"><u>Ultimate Troubleshooting Guide: Resolving iPhone App Malfunctions and Crashes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "1. PowerShell Scripting Essentials: A Beginner's Guide"
-date: 2024-09-28T16:23:28.074Z
-updated: 2024-10-05T16:08:18.350Z
+date: 2024-10-05T21:07:33.289Z
+updated: 2024-10-10T20:21:36.972Z
 tags:
   - user-guide
 categories:
@@ -126,10 +126,16 @@ Table of Contents
 ## IPowershellScriptFile
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -137,10 +143,16 @@ Table of Contents
 IPowershellScriptFile : ICustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -148,10 +160,10 @@ IPowershellScriptFile : ICustomAction
 This interface facilitates editing custom action that allows launching a Powershell script file into execution.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -163,10 +175,10 @@ This interface facilitates editing custom action that allows launching a Powersh
 **Bool Is64Bit** \- Gets or sets the property of the custom action to run the 32-bit PowerShell executable. If Is32Bit value is also “true” then runs the Operating System bitness PowerShell executable (32-bit on x86 operating systems, 64-bit on x64).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -208,19 +220,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-effortless-steps-to-obtain-free-audio-for-videos/"><u>[New] Effortless Steps to Obtain Free Audio for Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-crafting-compelling-youtube-profile-definitions/"><u>[Updated] In 2024, Crafting Compelling YouTube Profile Definitions</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-efficient-viewing-the-comprehensive-guide-for-creating-youtube-watch-later-lists/"><u>2024 Approved Efficient Viewing The Comprehensive Guide for Creating YouTube Watch Later Lists</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/explore-sql-databases-with-ease-a-comprehensive-guide/"><u>Explore SQL Databases with Ease: A Comprehensive Guide</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/innovative-approaches-to-custom-add-in-development/"><u>Innovative Approaches to Custom Add-In Development</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-secretlab-titan-evo-still-leading-the-pack-in-202n-in-depth-review-and-analysis-for-gamers-ultimate-seating-solution-insights-from-zdnet/"><u>Is Secretlab Titan Evo Still Leading the Pack in 202N? In-Depth Review & Analysis for Gamers' Ultimate Seating Solution | Insights From ZDNet.</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/tabbed-project-management-organize-workflows-efficiently/"><u>Tabbed Project Management: Organize Workflows Efficiently</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-hardware-unveiled-your-source-for-reliable-pc-and-peripherals-reviews/"><u>Tom’s Hardware Unveiled: Your Source for Reliable PC and Peripherals Reviews</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/top-recommended-substitutes-for-snappea-applications/"><u>Top Recommended Substitutes for SnapPea Applications</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/ultimate-guide-how-to-effortlessly-sync-music-between-pc-and-iphone-models-xr-xs-and-xs-max/"><u>Ultimate Guide: How To Effortlessly Sync Music Between PC and iPhone Models XR, XS & XS Max</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-series-exceptional-5-slow-mo-tech-for-2024/"><u>Ultimate Series Exceptional 5 Slow Mo Tech for 2024</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/ultimate-techniques-for-adding-sequential-page-numbering-in-pdf-files/"><u>Ultimate Techniques for Adding Sequential Page Numbering in PDF Files</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-top-tier-business-data-haven-selection/"><u>[New] 2024 Approved Top-Tier Business Data Haven Selection</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-professional-photoshop-practices-for-facial-pixelation/"><u>[New] Professional Photoshop Practices for Facial Pixelation</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-from-beginner-to-pro-transforming-windows-videos-with-minimal-tools/"><u>[Updated] 2024 Approved From Beginner to Pro Transforming Windows Videos with Minimal Tools</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/creating-professional-gameplay-archives-with-fbx/"><u>Creating Professional Gameplay Archives with FBX</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/efficient-file-management-with-inifile-component-a-comprehensive-guide/"><u>Efficient File Management with IniFile Component: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/elevating-mobile-messaging-customizing-whatsapp-ringtones-on-iphonesandroids/"><u>Elevating Mobile Messaging Customizing WhatsApp Ringtones on iPhones/Androids</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/eliminating-unwanted-default-search-changes-a-tutorial-with-malwarefox-solutions/"><u>Eliminating Unwanted Default Search Changes: A Tutorial with MalwareFox Solutions</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/ensure-safe-entry-the-basics-of-effective-authentication-methods/"><u>Ensure Safe Entry: The Basics of Effective Authentication Methods</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/frequently-asked-questions-mastering-apowerrec-task-recording-features/"><u>Frequently Asked Questions: Mastering ApowerREC Task Recording Features</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/guide-applying-a-snowy-backdrop-to-pictures-for-perfect-insta-shots/"><u>Guide: Applying a Snowy Backdrop to Pictures for Perfect Insta Shots</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6-plus-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6 Plus To Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-iphone-15-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from iPhone 15 Safe and Legal</u></a></li>
+<li><a href="https://games-able.techidaily.com/latest-release-govees-innovative-ai-powered-gaming-illuminator-and-dazzling-neon-rope-light/"><u>Latest Release: Govee's Innovative AI-Powered Gaming Illuminator & Dazzling Neon Rope Light</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/managing-short-term-file-tasks-on-windows-explorers-directory-pages/"><u>Managing Short-Term File Tasks on Windows Explorer's Directory Pages</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-top-5-udemy-subtitle-translation-tools-for-seamless-auto-translations-for-2024/"><u>New Top 5 Udemy Subtitle Translation Tools for Seamless Auto Translations for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/refining-interaction-flows-between-parents-and-kids-strategies-and-tips/"><u>Refining Interaction Flows Between Parents and Kids: Strategies & Tips</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/save-your-footage-how-to-retrieve-deleted-content-from-sony-handycam/"><u>Save Your Footage! How to Retrieve Deleted Content From Sony Handycam</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/step-by-step-tutorial-implementing-a-usb-flash-drive-antivirus-solution/"><u>Step-by-Step Tutorial: Implementing a USB Flash Drive Antivirus Solution</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-ai-types-public-private-and-personal-how-do-they-compare/"><u>Understanding AI Types: Public, Private, and Personal – How Do They Compare?</u></a></li>
 </ul></div>
 

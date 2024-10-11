@@ -1,7 +1,7 @@
 ---
 title: Discover Homes with Our Comprehensive Property Detail Pages
-date: 2024-10-04T20:57:54.915Z
-updated: 2024-10-05T19:29:41.698Z
+date: 2024-10-08T04:05:54.063Z
+updated: 2024-10-11T03:45:42.704Z
 tags:
   - user-guide
 categories:
@@ -78,16 +78,10 @@ Table of Contents
 This pane displays the selected dialog or control's attributes, and you can edit certain properties.
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Control Selection Combo box
@@ -117,19 +111,6 @@ Contains the following properties:
 * Type - This field displays the control's type. It cannot be edited.
 * Name - Displays the control identifier.
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Display
 
 This category contains different sets of properties depending on the selected control's type.
@@ -144,6 +125,13 @@ If the control displays an image the category contains the following properties:
 * Picture Path - If indirect is FALSE the picture is specified directly. Use the \[... \] to select it.
 * Indirect Property - If indirect is TRUE a property is used to specify the picture. Use the \[... \] button to choose a property. These properties are defined in the [Images Tab](https://tools.techidaily.com/advancedinstaller/products/) page.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Text Style
 
 In this category, you can specify the text style used when displaying the control's caption.
@@ -151,13 +139,6 @@ In this category, you can specify the text style used when displaying the contro
 * Use Indirection - Specify whether text style is specified directly or indirectly.
 * Text Style - If indirect is FALSE the text style is specified directly. Select one from the list of already defined styles.
 * Indirect Property - If indirect is TRUE, a property is used to specify the text style. Use the \[... \] button to choose a property. These properties are defined in the [Text Style Tab](https://tools.techidaily.com/advancedinstaller/products/) page.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Print
 
@@ -176,6 +157,19 @@ This category is available for Check Box, Radio Button, Edit, Path Edit, Directo
 * Default Value - Default value for the associated property. Available for Check Box controls.
 * Selected - Set the default control's state. Available for Radio Button controls.
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Property
 
  Specify the name of the property associated with the currently selected control. You can directly edit the property's name or use the\[... \] button to select an existing one. 
@@ -183,10 +177,10 @@ This category is available for Check Box, Radio Button, Edit, Path Edit, Directo
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The property must be **public** (all uppercase letters) because properties that are set by the user interface during the installation and then passed to the installation's execution phase must be public. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Values Separator
@@ -249,16 +243,10 @@ These attributes are available for List Box and Combo Box controls
 * Sort by Index - The items listed in the control are displayed in a specified order otherwise they are displayed in alphabetical order.
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Extended Attributes
@@ -276,6 +264,13 @@ These attributes require the use of [Enhanced User Interface](https://tools.tech
 * Indeterminate - Specific to Progress Bar controls, this attribute disables measuring the load amount. A cyclic animation will be displayed instead of the load percentage.
 * Placeholder Text - This text is displayed in the Edit Box and should describe the expected value of the input.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Help
 
 Specify the tool-tip associated with a control. You can [localize](https://tools.techidaily.com/advancedinstaller/products/) this string.
@@ -292,13 +287,6 @@ Edit the control's layout.
 * Height - Control's height.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)These values have a maximum limit. You will not be able to enter a value greater than that limit.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)These values are specified in [installer units](https://tools.techidaily.com/advancedinstaller/products/).
 
@@ -335,16 +323,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-launch-live-fb-broadcast-from-any-device-with-obs-guide/"><u>[New] In 2024, Launch Live FB Broadcast From Any Device with OBS Guide</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/capturing-your-screen-effortlessly-a-beginners-tutorial-on-apowersoft-free-screenshot-utility/"><u>Capturing Your Screen Effortlessly: A Beginner's Tutorial on Apowersoft Free Screenshot Utility</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/discover-your-ideal-location-with-smart-search-solutions/"><u>Discover Your Ideal Location with Smart Search Solutions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-iphone-and-ios-a-beginners-approach-to-vr-videos/"><u>In 2024, IPhone & IOS A Beginner's Approach to VR Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-the-power-of-periscope-your-complete-manual/"><u>In 2024, Unlock the Power of Periscope Your Complete Manual</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/in-depth-guide-understanding-complus-component-architecture-and-services/"><u>In-Depth Guide: Understanding COM+ Component Architecture and Services</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/schritt-fur-schritt-anleitung-handbrake-erfolgreich-auf-windows-7-8-10-oder-vista-betreiben/"><u>Schritt-Für-Schritt-Anleitung: HandBrake Erfolgreich Auf Windows 7, 8, 10 Oder Vista Betreiben</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/ultimate-guide-hp-and-laptop-interaction-3-key-fixes/"><u>Ultimate Guide: HP & Laptop Interaction - 3 Key Fixes</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/ultimate-tutorial-on-how-to-capture-and-download-videos/"><u>Ultimate Tutorial on How to Capture and Download Videos</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/understanding-the-characteristics-of-volume-a-comprehensive-guide/"><u>Understanding the Characteristics of Volume: A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unlocking-secrets-of-iphone-x-resolving-face-recognition-issues/"><u>Unlocking Secrets of iPhone X Resolving Face Recognition Issues</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-6-pioneering-nft-creators-spurring-artistic-genius/"><u>[New] 6 Pioneering NFT Creators Spurring Artistic Genius</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-harmonic-hurdle-jumpstarts-best-tunes-to-initiate-audio-starts/"><u>[New] Harmonic Hurdle Jumpstarts Best Tunes to Initiate Audio Starts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-immortalize-your-gaming-adventures-on-pc-6-ways/"><u>[New] Immortalize Your Gaming Adventures on PC [6 Ways]</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-save-your-screencasts-on-pc-with-free-tools-for-2024/"><u>[New] Save Your Screencasts on PC with Free Tools for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-evolving-narratives-in-virtual-cinema-landscapes/"><u>2024 Approved Evolving Narratives in Virtual Cinema Landscapes</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/advanced-malicious-software-scrutiny-kits-expert-choices-for-rapid-attack-counteraction-and-security-reinforcement/"><u>Advanced Malicious Software Scrutiny Kits: Expert Choices for Rapid Attack Counteraction and Security Reinforcement</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-your-iphone-6-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On your iPhone 6</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-analysis-the-omoton-t1-a-solid-choice-for-cost-conscious-tablet-enthusiasts/"><u>Comprehensive Analysis: The Omoton T1, a Solid Choice for Cost-Conscious Tablet Enthusiasts</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/in-depth-tutorial-on-how-to-modify-hyperlink-settings-in-the-properties-panel/"><u>In-Depth Tutorial on How to Modify Hyperlink Settings in the Properties Panel</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/lag-free-hd-recording-solutions-the-ultimate-guide-for-capturing-minecraft-adventures/"><u>Lag-Free HD Recording Solutions: The Ultimate Guide for Capturing Minecraft Adventures</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-vivo-y02t-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Vivo Y02T</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/top-strategies-for-high-quality-amazon-product-photos-skyrocket-your-online-sales/"><u>Top Strategies for High-Quality Amazon Product Photos: Skyrocket Your Online Sales</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/ultimate-step-by-step-tutorial-on-navigating-apowershow/"><u>Ultimate Step-by-Step Tutorial on Navigating ApowerShow</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/understanding-the-functions-of-registry-keys-in-system-management/"><u>Understanding the Functions of Registry Keys in System Management</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

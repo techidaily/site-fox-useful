@@ -1,7 +1,7 @@
 ---
 title: In-Depth Tutorial on How to Modify Hyperlink Settings in the Properties Panel
-date: 2024-10-02T20:11:08.741Z
-updated: 2024-10-05T19:33:29.443Z
+date: 2024-10-03T22:21:30.161Z
+updated: 2024-10-10T20:25:55.963Z
 tags:
   - user-guide
 categories:
@@ -42,10 +42,10 @@ Edit the properties of a hyperlink.
 ![Edit Module Dependencies Dialog](https://cdn.advancedinstaller.com/img/dialog/edit-hyperlink-dialog.png "Edit Module Dependencies Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### General
@@ -103,17 +103,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/updated-top-5-effortlessly-converted-gif-to-professional-videos-online/"><u>[Updated] Top 5 Effortlessly Converted GIF to Professional Videos Online</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-unlocking-youtubes-algorithm-title-and-tag-optimization/"><u>[Updated] Unlocking YouTube's Algorithm Title & Tag Optimization</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-instant-data-integration-essential-steps-for-file-movement-onto-computer/"><u>2024 Approved Instant Data Integration Essential Steps for File Movement Onto Computer</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effective-anti-redirect-software-malwarefox-browser-cleaner-eliminate-redirection-threats/"><u>Effective Anti-Redirect Software: MalwareFox Browser Cleaner – Eliminate Redirection Threats</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-the-world-of-visual-learners-key-traits-and-attributes/"><u>Exploring the World of Visual Learners: Key Traits & Attributes</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-apple-iphone-14-pro-max-location-on-skout-drfone-by-drfone-virtual-ios/"><u>How to Change Apple iPhone 14 Pro Max Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-a-excel-2007-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a Excel 2007 document online</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-13-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 13 to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-firmware-update-and-downloads-for-your-canon-dslr/"><u>Latest Firmware Update and Downloads for Your Canon DSLR</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/title-ensuring-safe-online-transactions-how-to-confirm-a-site-is-genuine-not-fraudulent/"><u>Title: Ensuring Safe Online Transactions: How to Confirm a Site Is Genuine, Not Fraudulent</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/top-rated-tools-for-instantly-transforming-your-images-backdrops-in-2n2/"><u>Top-Rated Tools for Instantly Transforming Your Images' Backdrops in 2N2</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/understanding-linked-data-packet-dynamics/"><u>Understanding Linked Data Packet Dynamics</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-tailored-titling-techniques-for-impactful-youtube-channels/"><u>[New] In 2024, Tailored Titling Techniques for Impactful YouTube Channels</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-cinemas-finest-techniques-top-5-tips-for-visual-impact/"><u>[Updated] 2024 Approved Cinema's Finest Techniques Top 5 Tips for Visual Impact</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-insta-video-size-strategy-for-maximum-engagement-for-2024/"><u>[Updated] Insta Video Size Strategy for Maximum Engagement for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-images-10-instagram-enhancing-apps/"><u>2024 Approved Mastering Images 10 Instagram Enhancing Apps</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/capturing-your-screen-effortlessly-a-beginners-tutorial-on-apowersoft-free-screenshot-utility/"><u>Capturing Your Screen Effortlessly: A Beginner's Tutorial on Apowersoft Free Screenshot Utility</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/discover-your-ideal-location-with-smart-search-solutions/"><u>Discover Your Ideal Location with Smart Search Solutions</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/exploring-different-windows-store-application-models/"><u>Exploring Different Windows Store Application Models</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-switch-to-picture-in-picture-for-youtube-videos-on-iphones/"><u>In 2024, Switch to Picture-in-Picture for YouTube Videos on iPhones</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/in-depth-guide-to-utilizing-activex-controls-properties-feature/"><u>In-Depth Guide to Utilizing ActiveX Control's Properties Feature</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ralink-rt3290-wireless-network-adapter-driver-issues-and-solutions-in-different-windows-environments/"><u>Ralink RT3290 Wireless Network Adapter Driver Issues and Solutions in Different Windows Environments</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Oppo Find X6 Pro | Dr.fone</u></a></li>
 </ul></div>
 

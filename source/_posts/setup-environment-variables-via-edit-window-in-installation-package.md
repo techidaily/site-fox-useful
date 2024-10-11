@@ -1,7 +1,7 @@
 ---
 title: Setup Environment Variables via Edit Window in Installation Package
-date: 2024-10-02T17:16:37.388Z
-updated: 2024-10-05T18:23:41.456Z
+date: 2024-10-05T18:39:14.561Z
+updated: 2024-10-10T19:48:33.160Z
 tags:
   - user-guide
 categories:
@@ -79,13 +79,6 @@ Table of Contents
 
 ## General
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Name
 
  The environment variable's name. You can [localize](https://tools.techidaily.com/advancedinstaller/products/) this value.
@@ -94,24 +87,30 @@ Table of Contents
 
  The environment variable's content. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/). You can [localize](https://tools.techidaily.com/advancedinstaller/products/) this value.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Component
 
  The component which will contain the environment variable. When this component is installed the environment variable is created. Also, the variable is removed when the component is uninstalled.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Adding and Removing
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### On Install
@@ -123,10 +122,10 @@ Table of Contents
 * Remove
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Remove on uninstall
@@ -134,6 +133,13 @@ Table of Contents
 This checkbox will make the Windows Installer remove the environment variable when the package is uninstalled.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)During an uninstall Windows Installer will remove only what it added. If a value was appended to an existing environment variable, only that value will be removed (not the entire variable).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### System variable
 
@@ -182,22 +188,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-social-network-synergy-broadcasting-twitch-on-social-media-platforms/"><u>[Updated] In 2024, Social Network Synergy Broadcasting Twitch on Social Media Platforms</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-essential-strategies-for-selecting-amazing-pexels-images/"><u>2024 Approved Essential Strategies for Selecting Amazing Pexels Images</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-streamlining-screen-record-on-mac-via-keyboard-shortcuts/"><u>2024 Approved Streamlining Screen Record on Mac via Keyboard Shortcuts</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-the-iphone-14-pro-icloud-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing the iPhone 14 Pro iCloud Lock</u></a></li>
-<li><a href="https://win11.techidaily.com/beating-the-odds-tackling-installer-errors-in-win11-successfully/"><u>Beating the Odds: Tackling Installer Errors in Win11 Successfully</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/black-ops-cold-war-pc-no-sound-fixes-expert-solutions-unveiled/"><u>Black Ops Cold War PC No Sound Fixes - Expert Solutions Unveiled</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/easy-guide-speedy-methods-to-adjust-text-size-in-your-pdf-document/"><u>Easy Guide: Speedy Methods to Adjust Text Size in Your PDF Document</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/enhanced-file-organizer-component-with-ifolder-features-for-streamlined-user-experience/"><u>Enhanced File Organizer Component with iFolder Features for Streamlined User Experience</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/guide-applying-a-snowy-backdrop-to-pictures-for-perfect-insta-shots/"><u>Guide: Applying a Snowy Backdrop to Pictures for Perfect Insta Shots</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/how-to-enhance-image-clarity-iphone-tricks-for-crystal-clear-pictures/"><u>How to Enhance Image Clarity: IPhone Tricks for Crystal-Clear Pictures</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-creative-thinking-generating-concepts-using-mindmaps-and-chatgpt/"><u>Mastering Creative Thinking: Generating Concepts Using MindMaps & ChatGPT</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-shadows-add-stealthy-menu-in-win11/"><u>Navigating the Shadows: Add Stealthy Menu in Win11</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/step-by-step-guide-removing-annoying-spontaneous-music-bugs-from-your-system/"><u>Step-by-Step Guide: Removing Annoying Spontaneous Music Bugs From Your System</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/top-ranked-game-client-for-mastering-holeio-on-your-desktop-computer/"><u>Top Ranked Game Client for Mastering Hole.io on Your Desktop Computer</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/top-strategies-for-optimizing-video-conversion-on-your-surface-tablet/"><u>Top Strategies for Optimizing Video Conversion on Your Surface Tablet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transform-your-job-applications-write-cover-letters-via-chatai/"><u>Transform Your Job Applications: Write Cover Letters via ChatAI</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/ultimate-guide-to-cropping-videos-perfectly-for-instagram/"><u>Ultimate Guide to Cropping Videos Perfectly for Instagram</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-hobby-to-career-the-transition-to-youtube-gaming/"><u>[New] 2024 Approved From Hobby to Career The Transition to YouTube Gaming</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-your-creative-potential-with-inshot-for-pcs-and-laptops/"><u>[New] Unlock Your Creative Potential with Inshot for PCs & Laptops</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-zoom-for-beginners-essential-webinar-skills-unveiled/"><u>[Updated] 2024 Approved Zoom for Beginners Essential Webinar Skills Unveiled</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-the-solo-artists-roadmap-to-auditory-fame/"><u>[Updated] In 2024, The Solo Artist's Roadmap to Auditory Fame</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-win10-gamers-ultimate-guide-to-screen-recordings/"><u>2024 Approved Win10 Gamers' Ultimate Guide to Screen Recordings</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/best-imessage-emoji-creators-top-5-picks-for-easy-fun-on-ios-devices/"><u>Best iMessage Emoji Creators: Top 5 Picks for Easy Fun on iOS Devices</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/best-top-5-converters-from-jpg-images-to-pdf-files-on-any-platform/"><u>Best Top 5 Converters From JPG Images to PDF Files on Any Platform</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/creating-custom-bing-dwen-dwen-emojis-in-your-whatsapp-chat-a-step-by-step-guide/"><u>Creating Custom Bing Dwen Dwen Emojis in Your WhatsApp Chat: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/does-image-smoothing-streamline-the-creative-process-for-2024/"><u>Does Image Smoothing Streamline the Creative Process for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/leading-high-quality-image-refinement-software/"><u>Leading High-Quality Image Refinement Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-stop-motion-made-easy-the-best-online-tools-free-and-paid/"><u>New In 2024, Stop Motion Made Easy The Best Online Tools Free & Paid</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/optimize-your-website-mastering-the-art-of-effective-search-engine-strategies/"><u>Optimize Your Website: Mastering the Art of Effective Search Engine Strategies</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/step-by-step-tutorial-on-editing-exe-file-attributes-interface/"><u>Step-by-Step Tutorial on Editing Exe File Attributes Interface</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/the-ultimate-tutorial-on-moving-pictures-from-pc-to-iphone-xs-seamlessly/"><u>The Ultimate Tutorial on Moving Pictures From PC to iPhone XS Seamlessly</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/ultimate-guide-how-to-recover-your-iphone-using-an-itunes-backup/"><u>Ultimate Guide: How to Recover Your iPhone Using an iTunes Backup</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/understanding-iregistrykey-the-key-concepts-you-need-to-know/"><u>Understanding IRegistryKey: The Key Concepts You Need to Know</u></a></li>
 </ul></div>
 

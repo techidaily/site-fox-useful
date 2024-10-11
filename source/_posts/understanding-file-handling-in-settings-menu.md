@@ -1,7 +1,7 @@
 ---
 title: Understanding File Handling in Settings Menu
-date: 2024-09-30T19:31:42.965Z
-updated: 2024-10-05T20:30:43.738Z
+date: 2024-10-05T03:41:02.523Z
+updated: 2024-10-10T21:19:12.383Z
 tags:
   - user-guide
 categories:
@@ -97,10 +97,10 @@ Table of Contents
 ![File Operations Tab](https://cdn.advancedinstaller.com/img/dialog/file-operations.png "File Operations Tab")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overwrite behavior
@@ -108,26 +108,26 @@ Table of Contents
 Specify the file's overwrite behavior.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Overwrite only if the existing file is older
 
 When this option is selected, if the file on the target machine is older then the one included in the package, it will be overwritten.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Always overwrite existing file
 
 If this option is enabled, the file from your package is overwritten and any similar file already present on the target computer. Usually, this can be used when performing a downgrade (install a file older than the one already installed) or for non-versioned files which don't overwrite the existing files.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Do not overwrite existing file
 
@@ -136,10 +136,10 @@ If this option is enabled, the file from your package is overwritten and any sim
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)These options are also available for multiple editing of file properties.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -175,16 +175,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-skyrocket-your-brands-impact-top-ten-seo-tips-for-facebook-marketers/"><u>[New] In 2024, Skyrocket Your Brand's Impact Top Ten SEO Tips for Facebook Marketers</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-serene-strums-and-steps-tiktoks-best-country-melodies-for-2024/"><u>[New] Serene Strums and Steps TikTok's Best Country Melodies for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-exploring-ways-to-share-youtube-videos-on-social-media-platforms-fb/"><u>2024 Approved Exploring Ways to Share YouTube Videos on Social Media Platforms (FB)</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/best-top-5-converters-from-jpg-images-to-pdf-files-on-any-platform/"><u>Best Top 5 Converters From JPG Images to PDF Files on Any Platform</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/better-views-for-your-windows/"><u>Better Views for Your Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-high-cpu-demands-the-case-for-vanguards-ums-optimization/"><u>Deciphering High CPU Demands: The Case for Vanguard's UMS Optimization</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-honor-magic5-ultimate-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor Magic5 Ultimate</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-automatic-youtube-playback-made-simple-for-social-networking-sites-like-facebook/"><u>In 2024, Automatic YouTube Playback Made Simple for Social Networking Sites Like Facebook</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/step-by-step-tutorial-on-editing-exe-file-attributes-interface/"><u>Step-by-Step Tutorial on Editing Exe File Attributes Interface</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/the-ultimate-tutorial-on-moving-pictures-from-pc-to-iphone-xs-seamlessly/"><u>The Ultimate Tutorial on Moving Pictures From PC to iPhone XS Seamlessly</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/ultimate-guide-how-to-recover-your-iphone-using-an-itunes-backup/"><u>Ultimate Guide: How to Recover Your iPhone Using an iTunes Backup</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-fast-forwarding-instagram-videos-efficiently/"><u>[New] In 2024, Fast-Forwarding Instagram Videos Efficiently</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-tweaking-the-viewers-journey-the-art-of-custom-thumbnail-design-in-twitter/"><u>[New] In 2024, Tweaking the Viewer's Journey The Art of Custom Thumbnail Design in Twitter</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1-mastering-boom-beach-a-beginners-guide-to-conquering-the-game-on-your-computer/"><u>1. Mastering Boom Beach: A Beginner's Guide to Conquering the Game on Your Computer</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/best-7-virtual-meeting-platforms-enhancing-remote-work-productivity/"><u>Best 7 Virtual Meeting Platforms Enhancing Remote Work Productivity</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/easy-techniques-for-retrieving-deleted-whatsapp-conversations-on-your-ios-device/"><u>Easy Techniques for Retrieving Deleted WhatsApp Conversations on Your iOS Device</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/exploring-real-estate-a-users-guide-to-online-property-search/"><u>Exploring Real Estate: A User's Guide to Online Property Search</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-lava-blaze-curve-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Lava Blaze Curve 5G? Try These Fixes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ideal-strategies-for-online-video-photo-effects-implementation/"><u>Ideal Strategies for Online Video Photo Effects Implementation</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-building-a-brand-through-youtube-a-strategic-guide/"><u>In 2024, Building a Brand Through YouTube A Strategic Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-itel-a70-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Itel A70 to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/mastering-complex-software-deployment-a-guide-to-advanced-installation-techniques/"><u>Mastering Complex Software Deployment: A Guide to Advanced Installation Techniques</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/optimize-update-detection-processes-using-installed-base-detector-tool/"><u>Optimize Update Detection Processes Using Installed Base Detector Tool</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/over-een-mp4-bestel-begrijpend-de-functie-en-het-openbaar-maken-van-mp4-formaten/"><u>Over Een MP4-Bestel: Begrijpend De Functie en Het Openbaar Maken Van MP4-Formaten</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-players-beware-eradicating-the-full-screen-black-dilemma-in-revillage-gaming/"><u>PC Players Beware: Eradicating the Full-Screen Black Dilemma in REVillage Gaming</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-se-2020-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/tutorial-how-to-save-your-screen-from-anywhere-using-remote-desktop-on-pcs-and-macbooks/"><u>Tutorial: How to Save Your Screen From Anywhere Using Remote Desktop on PCs and MacBooks</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/understanding-the-new-whatsapp-terms-a-deep-dive-into-recent-privacy-policy-updates-with-malwarefox/"><u>Understanding the New WhatsApp Terms: A Deep Dive Into Recent Privacy Policy Updates with MalwareFox</u></a></li>
 </ul></div>
 

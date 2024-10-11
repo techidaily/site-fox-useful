@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Instructional Resource on Navigating and Customizing Your Settings Tab Preferences
-date: 2024-09-28T19:50:09.508Z
-updated: 2024-10-05T17:47:01.892Z
+date: 2024-10-05T21:15:02.169Z
+updated: 2024-10-11T00:15:00.051Z
 tags:
   - user-guide
 categories:
@@ -86,18 +86,25 @@ Table of Contents
 
 ![Guides](https://cdn.advancedinstaller.com/img/dialog/guide-settings.png "Guides")  
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Layout Guides
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Dynamic guidelines
 
 Enable the display of dynamic guidelines when moving or resizing controls. These guidelines will show you possible alignments relative to other controls on the dialog.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Show grid
 
@@ -107,13 +114,6 @@ Enable the display of dynamic guidelines when moving or resizing controls. These
 
 The control is moved from grid point to grid point.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Width/Height
 
 Specify the distance between two grid points. The distance is measured in [installer units](https://tools.techidaily.com/advancedinstaller/products/).
@@ -121,19 +121,25 @@ Specify the distance between two grid points. The distance is measured in [insta
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Dynamic guidelines and dialog grid are mutually exclusive. You can temporarily disable the dynamic guidelines or the "snap to grid" function by pressing and holding down the Shift key.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Dialog Margins
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Show Margins
@@ -177,18 +183,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-gain-traction-in-the-algorithm-the-insiders-manual-for-featured-channels/"><u>[New] 2024 Approved Gain Traction in the Algorithm The Insider's Manual for Featured Channels</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-budget-deals-on-high-quality-gopros-for-2024/"><u>[Updated] Budget Deals on High-Quality GoPros for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/blending-binaries-digital-photographic-techniques/"><u>Blending Binaries Digital Photographic Techniques</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/gopro-quik-for-pc-a-comprehensive-review-and-alternatives/"><u>GoPro Quik for PC A Comprehensive Review and Alternatives</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/luminous-leap-forward-three-hacks-to-shine-your-iphone-videography-for-2024/"><u>Luminous Leap Forward Three Hacks to Shine Your iPhone Videography for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ization-strategies-for-gamers-for-2024/"><u>Monetization Strategies for Gamers for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-ballad-barren-builder-create-personal-accompaniment-music/"><u>New In 2024, Ballad Barren Builder Create Personal Accompaniment Music</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/solucion-para-instalar-controladores-directamente-desde-un-usb-al-usar-el-sistema-operativo-windows-sin-acceso-a-la-red/"><u>Solución Para Instalar Controladores Directamente Desde Un USB Al Usar El Sistema Operativo Windows Sin Acceso a La Red</u></a></li>
-<li><a href="https://fox-info.techidaily.com/the-art-of-audience-appreciation-fostering-viewer-relationships/"><u>The Art of Audience Appreciation Fostering Viewer Relationships</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/ultimate-tutorial-on-broadcasting-content-from-huawei-p30-to-your-smart-tv/"><u>Ultimate Tutorial on Broadcasting Content From Huawei P30 to Your Smart TV</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/understanding-browser-hijackers-a-deep-dive-with-malwarefox/"><u>Understanding Browser Hijackers: A Deep Dive with MalwareFox</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/understanding-the-basics-of-ac3-audio-compression/"><u>Understanding the Basics of AC3 Audio Compression</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/unique-registry-component-essential-elements-for-efficient-software-management/"><u>Unique Registry Component – Essential Elements for Efficient Software Management</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-discovering-5-standout-book-trailer-creations-for-2024/"><u>[New] Discovering 5 Standout Book Trailer Creations for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/erfect-your-video-edits-step-by-step-on-youtube-cutting-for-2024/"><u>[New] Perfect Your Video Edits Step-by-Step on YouTube Cutting for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-perfect-your-youtube-presence-learn-to-create-engaging-ads-and-thumbnails/"><u>[Updated] Perfect Your YouTube Presence Learn to Create Engaging Ads & Thumbnails</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/capturing-your-screen-effortlessly-a-beginners-tutorial-on-apowersoft-free-screenshot-utility/"><u>Capturing Your Screen Effortlessly: A Beginner's Tutorial on Apowersoft Free Screenshot Utility</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/discover-your-ideal-location-with-smart-search-solutions/"><u>Discover Your Ideal Location with Smart Search Solutions</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/effective-strategies-for-java-software-global-adaptation/"><u>Effective Strategies for Java Software Global Adaptation</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/exploring-different-windows-store-application-models/"><u>Exploring Different Windows Store Application Models</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/halt-contrasting-siri-and-chatgpt-divergent-functions/"><u>Halt Contrasting Siri and ChatGPT: Divergent Functions</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-vivo-v29-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Vivo V29 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/in-depth-guide-to-utilizing-activex-controls-properties-feature/"><u>In-Depth Guide to Utilizing ActiveX Control's Properties Feature</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/in-depth-guide-understanding-complus-component-architecture-and-services/"><u>In-Depth Guide: Understanding COM+ Component Architecture and Services</u></a></li>
+<li><a href="https://android-frp.techidaily.com/nokia-g22-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Nokia G22 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-art-of-stabilizing-aerial-cameras-choosing-a-drone-gimbal/"><u>The Art of Stabilizing Aerial Cameras Choosing a Drone Gimbal</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/ultimate-tutorial-on-how-to-capture-and-download-videos/"><u>Ultimate Tutorial on How to Capture and Download Videos</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/understanding-the-characteristics-of-volume-a-comprehensive-guide/"><u>Understanding the Characteristics of Volume: A Comprehensive Guide</u></a></li>
 </ul></div>
 

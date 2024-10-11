@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Editing Exe File Attributes Interface
-date: 2024-09-28T19:40:55.012Z
-updated: 2024-10-05T20:09:02.375Z
+date: 2024-10-03T19:00:44.728Z
+updated: 2024-10-10T17:19:43.686Z
 tags:
   - user-guide
 categories:
@@ -94,10 +94,10 @@ This dialog enables you to edit a field from the EXE metadata.
 ![Edit EXE Metadata Field Dialog](https://cdn.advancedinstaller.com/img/dialog/edit-exe-metadata-field.png "Edit EXE Metadata Field Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Field Details
@@ -106,39 +106,45 @@ This dialog enables you to edit a field from the EXE metadata.
 
 The field name. This value cannot be changed.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Value
 
 This field has [Advanced Installer PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited accordingly.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Value Options
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Use specific value
 
 Checking this option will enable the above **Value** field allowing you to edit it.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Use default value
 
 This option restores the default field value.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Do not use this field
@@ -178,21 +184,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-ditching-new-features-going-back-to-el-capitan/"><u>[New] 2024 Approved Ditching New Features Going Back to El Capitan</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-best-video-equipment-for-documenting-dynamic-musical-performances/"><u>[New] Best Video Equipment for Documenting Dynamic Musical Performances</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-5-smart-ways-to-save-your-roblox-gaming-on-apple-computers/"><u>2024 Approved 5 Smart Ways to Save Your Roblox Gaming on Apple Computers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-image-integrity-keeping-quality-high-during-iphone-crops/"><u>2024 Approved Image Integrity Keeping Quality High During iPhone Crops</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/explore-sql-databases-with-ease-a-comprehensive-guide/"><u>Explore SQL Databases with Ease: A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-master-time-reverse-techniques-for-ios-users/"><u>In 2024, Master Time-Reverse Techniques for iOS Users</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unravel-your-pcs-potential-with-windows-10s-latest-games/"><u>In 2024, Unravel Your PC's Potential with Windows 10'S Latest Games</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/innovative-approaches-to-custom-add-in-development/"><u>Innovative Approaches to Custom Add-In Development</u></a></li>
-<li><a href="https://extra-information.techidaily.com/premier-ai-for-stunning-photo-creation/"><u>Premier AI for Stunning Photo Creation</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/recent-changes-in-different-project-classifications/"><u>Recent Changes in Different Project Classifications</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/securing-your-images-the-essential-guide-to-understanding-copyright-laws/"><u>Securing Your Images: The Essential Guide to Understanding Copyright Laws</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/tabbed-project-management-organize-workflows-efficiently/"><u>Tabbed Project Management: Organize Workflows Efficiently</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/ultimate-guide-how-to-effortlessly-sync-music-between-pc-and-iphone-models-xr-xs-and-xs-max/"><u>Ultimate Guide: How To Effortlessly Sync Music Between PC and iPhone Models XR, XS & XS Max</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/ultimate-techniques-for-adding-sequential-page-numbering-in-pdf-files/"><u>Ultimate Techniques for Adding Sequential Page Numbering in PDF Files</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Vivo Y78 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/iuocsplusodreodiuaenplusafkplusockus6iomysuoblplusocpoodnplusodpeodiplusodhuocopluswkmpluswqkes4ijog5ywo5bm05luj5aplusplus6lgh44gu44ko44kk44k444oz44kw44ov441/"><u>コロナ感染を予防しイミュニティ力向上: 全年代対象のエイジングフィットネス・ワークアウト選び方</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-photoshop-sway-decrease-pivotal-or-superfluous/"><u>[New] In 2024, Photoshop Sway Decrease Pivotal or Superfluous?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-reimagined-sony-bdp-s6700-experience/"><u>[Updated] In 2024, The Reimagined Sony BDP-S6700 Experience</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-master-the-art-of-faster-periscope-streaming/"><u>[Updated] Master the Art of Faster Periscope Streaming</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-clear-winner-in-screen-recording-software-for-2024/"><u>[Updated] The Clear Winner in Screen Recording Software for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1-understanding-net-setup-arguments-a-comprehensive-guide/"><u>1. Understanding .NET Setup Arguments: A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/addressed-absence-of-inbuilt-printerscanner-drivers-in-windows-11/"><u>Addressed: Absence of Inbuilt Printer/Scanner Drivers in Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-for-solving-halo-infinites-sound-problems-quickly/"><u>Expert Tips for Solving Halo Infinite's Sound Problems Quickly</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/from-novice-to-pro-an-extensive-guide-on-using-zd-softs-recording-features-for-2024/"><u>From Novice to Pro An Extensive Guide on Using ZD Soft’s Recording Features for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-persistent-game-crashes-in-team-fortress-2/"><u>How to Fix Persistent Game Crashes in Team Fortress 2</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-convert-mts-for-galaxy-a15-4g-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Galaxy A15 4G</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/ultimate-tutorial-on-broadcasting-content-from-huawei-p30-to-your-smart-tv/"><u>Ultimate Tutorial on Broadcasting Content From Huawei P30 to Your Smart TV</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/understanding-browser-hijackers-a-deep-dive-with-malwarefox/"><u>Understanding Browser Hijackers: A Deep Dive with MalwareFox</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/understanding-the-basics-of-ac3-audio-compression/"><u>Understanding the Basics of AC3 Audio Compression</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/unique-registry-component-essential-elements-for-efficient-software-management/"><u>Unique Registry Component – Essential Elements for Efficient Software Management</u></a></li>
 </ul></div>
 

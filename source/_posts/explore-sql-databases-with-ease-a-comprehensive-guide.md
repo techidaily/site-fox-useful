@@ -1,7 +1,7 @@
 ---
 title: "Explore SQL Databases with Ease: A Comprehensive Guide"
-date: 2024-10-04T20:02:45.669Z
-updated: 2024-10-05T18:21:37.320Z
+date: 2024-10-09T23:13:47.999Z
+updated: 2024-10-11T02:09:28.057Z
 tags:
   - user-guide
 categories:
@@ -81,32 +81,31 @@ The [SQL Databases](https://tools.techidaily.com/advancedinstaller/products/) Br
 ![Sql database browse](https://cdn.advancedinstaller.com/img/ui/sql-database-browse.png "Sql database browse")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ODBC Driver
 
 Set the ODBC Driver for the SQL Database Browse functionality. The default value is SQL Server, but it can also be set to ODBC Driver 11 for SQL Server as well as other drivers. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Server
 
 Specify where to browse for the available databases. The name format ca be either **<server name>** or **<server name>\\<instance name>**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Login timeout(sec)
@@ -117,14 +116,14 @@ You can optionally specify a connection timeout (in seconds) for the browse oper
 
 The "Please Wait..." message box for SQL Databases Browse will be shown. Also, if an error occurs when connecting to the SQL Server, a dialog box will be shown containing the error response.
 
-## Authentication
-
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Authentication
 
 ### Trusted Connection (Windows integrated authentication)
 
@@ -132,13 +131,34 @@ Use a trusted login connection (local/domain). The credentials of the installing
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This option can be enabled at install time by setting the**SQL\_TRUSTED\_CONNECTION** property to1. This property must be set before executing the associated browse action.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Username
 
 The logon user name.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Password
 
 The property used at install time to set the logon password. Use the \[... \] button to select it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Output
 
@@ -152,13 +172,6 @@ Specify the installer property associated with a [ListBox](https://tools.techida
 
 Specify the installer property associated with a [ComboBox control](https://tools.techidaily.com/advancedinstaller/products/) which will be populated with the available SQL databases.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Put the result into a property
 
 A flat, comma separated list of the available databases (names only) will be dumped into the specified installer property.
@@ -166,13 +179,6 @@ A flat, comma separated list of the available databases (names only) will be dum
 ### Hide system databases
 
 Enabling this option will hide system databases(e.g. master, msdb, etc) from the browse output.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Execution
 
@@ -219,24 +225,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-yoga-enthusiasts-go-to-guide-on-youtube/"><u>[New] 2024 Approved Yoga Enthusiasts' Go-To Guide on YouTube</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-engage-broadly-embedding-twitch-videos-on-fb/"><u>[New] Engage Broadly Embedding Twitch Videos on FB</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-unlocking-the-potential-for-igtv-videos-on-smartphonedslr-for-2024/"><u>[New] Unlocking the Potential for IGTV Videos on Smartphone/DSLR for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-essential-tips-for-storing-snapchat-videos-on-devices-for-2024/"><u>[Updated] Essential Tips for Storing Snapchat Videos on Devices for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-designing-unique-instagram-post-cover-texts/"><u>2024 Approved Designing Unique Instagram Post Cover Texts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-inspection-immersing-in-virtual-reality-with-gear-360/"><u>2024 Approved Full Inspection Immersing in Virtual Reality with Gear 360</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/advanced-file-exploration-software-quick-and-efficient-results/"><u>Advanced File Exploration Software - Quick & Efficient Results</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/capturing-your-screen-effortlessly-a-beginners-tutorial-on-apowersoft-free-screenshot-utility/"><u>Capturing Your Screen Effortlessly: A Beginner's Tutorial on Apowersoft Free Screenshot Utility</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/discover-your-ideal-location-with-smart-search-solutions/"><u>Discover Your Ideal Location with Smart Search Solutions</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effective-strategies-for-java-software-global-adaptation/"><u>Effective Strategies for Java Software Global Adaptation</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/exploring-different-windows-store-application-models/"><u>Exploring Different Windows Store Application Models</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-oneplus-12-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your OnePlus 12 Phone Pattern Lock</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/in-depth-guide-to-utilizing-activex-controls-properties-feature/"><u>In-Depth Guide to Utilizing ActiveX Control's Properties Feature</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/in-depth-guide-understanding-complus-component-architecture-and-services/"><u>In-Depth Guide: Understanding COM+ Component Architecture and Services</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installation-guide-logitech-pts-webcam-drivers-on-windows-11/"><u>Installation Guide: Logitech PTS Webcam Drivers on Windows 11</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/the-comprehensive-step-by-step-manual-for-easy-screen-capture-techniques-on-dell-computers/"><u>The Comprehensive Step-by-Step Manual for Easy Screen Capture Techniques on Dell Computers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-fix-battlenet-launcher-issues-on-pc/"><u>Troubleshooting: Fix Battle.net Launcher Issues on PC</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/understanding-the-characteristics-of-volume-a-comprehensive-guide/"><u>Understanding the Characteristics of Volume: A Comprehensive Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-vivo-s18-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Vivo S18 Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-perfecting-sims-4-live-action-for-videographers/"><u>[New] 2024 Approved Perfecting Sims 4 Live Action for Videographers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-action-cam-showdown-which-holds-the-crown-gopro-or-yi/"><u>2024 Approved Action Cam Showdown Which Holds the Crown - GoPro or Yi?</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/best-7-virtual-meeting-platforms-enhancing-remote-work-productivity/"><u>Best 7 Virtual Meeting Platforms Enhancing Remote Work Productivity</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/easy-techniques-for-retrieving-deleted-whatsapp-conversations-on-your-ios-device/"><u>Easy Techniques for Retrieving Deleted WhatsApp Conversations on Your iOS Device</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-winos-sync-using-aocs-fwu-ve1659/"><u>Elevate WINOS Sync Using AOC's FWU vE1659</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-oppo-find-n3-flip-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Oppo Find N3 Flip</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/mastering-complex-software-deployment-a-guide-to-advanced-installation-techniques/"><u>Mastering Complex Software Deployment: A Guide to Advanced Installation Techniques</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/optimize-update-detection-processes-using-installed-base-detector-tool/"><u>Optimize Update Detection Processes Using Installed Base Detector Tool</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-avi-files-into-gifs-with-filmora-on-windowsmacos-for-2024/"><u>Transform AVI Files Into GIFs with Filmora on Windows/MacOS for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/tutorial-how-to-save-your-screen-from-anywhere-using-remote-desktop-on-pcs-and-macbooks/"><u>Tutorial: How to Save Your Screen From Anywhere Using Remote Desktop on PCs and MacBooks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/viral-visibility-vault-our-compreeher-guide-of-15-proven-methods-to-amass-attention-on-instagram-for-2024/"><u>Viral Visibility Vault Our Compreeher Guide of 15 Proven Methods to Amass Attention on Instagram for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/webcamsecure-silk-screen-sticker/"><u>WebCamSecure Silk Screen Sticker</u></a></li>
 </ul></div>
 

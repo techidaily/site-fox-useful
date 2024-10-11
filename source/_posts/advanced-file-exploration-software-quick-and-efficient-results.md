@@ -1,7 +1,7 @@
 ---
 title: Advanced File Exploration Software - Quick & Efficient Results
-date: 2024-09-30T19:19:22.818Z
-updated: 2024-10-05T20:32:32.873Z
+date: 2024-10-05T02:32:19.797Z
+updated: 2024-10-11T04:02:52.509Z
 tags:
   - user-guide
 categories:
@@ -125,26 +125,26 @@ Table of Contents
 ## IFileSearch
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
 
 IFileSearch: IAppSearch
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Overview
 
 This interface is meant to edit search options for a file
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Properties
 
@@ -161,10 +161,16 @@ This interface is meant to edit search options for a file
 **uint MaxSize** \- Gets or sets maximum file size in bytes. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Example
@@ -181,10 +187,16 @@ $compLoc.GUID = "{c4c29405-23d0-4347-8fa4-ee23c83e4cc3}"
 Copy
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -226,24 +238,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-gigglegraphy-laughter-in-a-frame/"><u>[New] GiggleGraphy Laughter in a Frame</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-innovative-ways-to-leverage-zoom-for-fb-live/"><u>[New] In 2024, Innovative Ways to Leverage Zoom for FB Live</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-recording-techniques-for-stellar-voice-over-audio/"><u>[New] Recording Techniques for Stellar Voice-Over Audio</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-cut-through-the-noise-with-these-top-10-yt-short-standout-strategies-for-2024/"><u>[Updated] Cut Through the Noise with These Top 10 YT Short Standout Strategies for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-streamline-your-360-videos-for-youtube-with-easy-upload-tricks/"><u>[Updated] Streamline Your 360 Videos for YouTube with Easy Upload Tricks</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/configuring-java-application-preferences-a-detailed-guide/"><u>Configuring Java Application Preferences: A Detailed Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/core-applications-of-visual-cplusplus-redistributables/"><u>Core Applications of Visual C++ Redistributables</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/discover-homes-with-our-comprehensive-property-detail-pages/"><u>Discover Homes with Our Comprehensive Property Detail Pages</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/easy-guide-speedy-methods-to-adjust-text-size-in-your-pdf-document/"><u>Easy Guide: Speedy Methods to Adjust Text Size in Your PDF Document</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/easy-steps-to-modify-your-scheduled-gatherings-edit-event-guide/"><u>Easy Steps to Modify Your Scheduled Gatherings - Edit Event Guide</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effective-content-strategies-embracing-multi-page-layouts/"><u>Effective Content Strategies: Embracing Multi-Page Layouts</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722977560593-get-the-most-recent-nvidia-mx1n-driver-updates-for-windows-systems-download-now/"><u>Get the Most Recent NVIDIA MX1^[n] Driver Updates for Windows Systems | Download Now</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/high-definition-mac-webcam-recording-tutorial-capturing-perfect-videos/"><u>High-Definition Mac Webcam Recording Tutorial: Capturing Perfect Videos</u></a></li>
-<li><a href="https://discover-best.techidaily.com/i-migliori-programmi-di-montaggio-video-per-pc-una-guida-completa-ai-dieci-scelte-consigliate/"><u>I Migliori Programmi Di Montaggio Video per PC: Una Guida Completa Ai Dieci Scelte Consigliate</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/master-your-digital-files-with-ifile-seamless-organization-and-sharing-solutions/"><u>Master Your Digital Files with iFile – Seamless Organization and Sharing Solutions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-multi-location-markers-a-comprehensive-guide-for-google-maps-users/"><u>Mastering Multi-Location Markers: A Comprehensive Guide for Google Maps Users</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/mastering-screen-recording-on-macos-el-capitan-a-step-by-step-tutorial/"><u>Mastering Screen Recording on macOS El Capitan: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/quick-tips-for-retrieving-lost-information-from-an-iphone-6-no-tech-skills-required/"><u>Quick Tips for Retrieving Lost Information From an iPhone 6: No Tech Skills Required!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamlessly-convert-your-ogm-videos-to-high-quality-mpeg-streams-no-cost/"><u>Seamlessly Convert Your OGM Videos to High-Quality MPEG Streams - No Cost!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-premier-iphone-x8-series-gif-apps-reviewed/"><u>[New] 2024 Approved Premier iPhone X/8 Series GIF Apps Reviewed</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-live-stream-to-facebook-from-dji-drone/"><u>[Updated] How to Live Stream to Facebook From DJI Drone?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-edge-speech-recognition-tools/"><u>2024 Approved Leading Edge Speech Recognition Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-techniques-for-writing-eye-catching-podcast-summaries/"><u>2024 Approved Techniques for Writing Eye-Catching Podcast Summaries</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/can-a-factory-reset-eliminate-android-viruses-and-malicious-software-insights-from-malwarefox/"><u>Can a Factory Reset Eliminate Android Viruses and Malicious Software? Insights From MalwareFox</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/el-capitan-users-manual-capturing-audio-on-a-mac-for-beginners/"><u>El Capitan User's Manual: Capturing Audio on a Mac for Beginners</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/essential-features-of-translation-tools-understanding-translator-attributes/"><u>Essential Features of Translation Tools: Understanding Translator Attributes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-samsung-galaxy-s24-ultra-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Samsung Galaxy S24 Ultra Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/navigating-your-web-experience-the-ultimate-guide-to-control-tab-order-settings/"><u>Navigating Your Web Experience: The Ultimate Guide to Control Tab Order Settings</u></a></li>
+<li><a href="https://article-helps.techidaily.com/optimal-steadicams-matched-with-dslr-cameras-for-2024/"><u>Optimal Steadicams Matched with DSLR Cameras for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-issue-of-a-missing-cursor-on-your-windows-11-touchpad/"><u>Resolving the Issue of a Missing Cursor on Your Windows 11 Touchpad</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/step-by-step-guide-to-resolving-common-errors-with-microsofts-groove-music-app/"><u>Step-by-Step Guide to Resolving Common Errors with Microsoft's Groove Music App</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/top-rated-screenshot-apps-for-mac-computers/"><u>Top Rated Screenshot Apps for Mac Computers</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/top-ranking-music-slide-show-creator-apps-find-your-perfect-match/"><u>Top-Ranking Music Slide Show Creator Apps: Find Your Perfect Match</u></a></li>
+<li><a href="https://network-issues.techidaily.com/updated-graphics-hardware-now-supports-overwatch/"><u>Updated Graphics Hardware Now Supports Overwatch</u></a></li>
 </ul></div>
 

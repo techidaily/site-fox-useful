@@ -1,7 +1,7 @@
 ---
 title: Understanding XML Documents - A Comprehensive Guide
-date: 2024-10-03T20:57:35.609Z
-updated: 2024-10-05T17:27:56.362Z
+date: 2024-10-09T23:40:57.773Z
+updated: 2024-10-10T22:26:17.517Z
 tags:
   - user-guide
 categories:
@@ -104,6 +104,13 @@ The XML File functionality allows you to achieve the following installation task
 
 The XML file support can be used for configuring XML files that are part of the installation package or that are already present on the target system. This feature is very useful if you are deploying an application which requires user specific information, like username or password. The information must be collected during install and must be store in the same XML file installed by the package. Another case scenario is when an application is upgraded and one or more XML files must be updated as well, without the need to delete and copy their newer version.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Update files that are part of the installation package
 
 In this case you have an XML file that you want to install and then update it, all done in the same install package. This is possible because a _regular_ XML file is installed on the target machine before the XML changes are applied. In order to achieve this behaviour, first add the XML file as a _"regular file"._ Then, simply add the same XML file in the _Windows Installer_ format and by using the [XML Editor](https://tools.techidaily.com/advancedinstaller/products/) modify the elements that you want to create, update or remove.
@@ -115,29 +122,21 @@ In this case the XML file is present on the target machine. Simply add the XML f
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)When the XML Files are used to configure a file from the installation package, use the "New XML File" option to create a new XML update with the same name and installation directory.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Creating new XML Files
 
 ![New XML File](https://cdn.advancedinstaller.com/img/toolbar/xml-new.png "New XML File")Use the \[New XML File \] toolbar button or the “New XML File” tree/list context menu item.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Editing an existing XML File
 
@@ -145,15 +144,22 @@ In this case the XML file is present on the target machine. Simply add the XML f
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)XML files can be renamed, moved or removed just like regular [Files](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Testing an XML File Operation
 
  It is possible [**to test**](https://tools.techidaily.com/advancedinstaller/products/) a previously defined XML File operation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -196,15 +202,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-transform-your-video-presentation-with-updated-covers/"><u>[New] 2024 Approved Transform Your Video Presentation with Updated Covers</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-the-guide-to-earning-through-streams-dm-and-yo-unveiled/"><u>[New] In 2024, The Guide to Earning Through Streams Dm & Yo Unveiled</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-crafting-engaging-content-for-facebook-live/"><u>[Updated] Crafting Engaging Content for Facebook Live</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-premiered-top-8-crowd-pleasing-ae-setups/"><u>2024 Approved Premiered Top 8 Crowd-Pleasing AE Setups</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/best-7-virtual-meeting-platforms-enhancing-remote-work-productivity/"><u>Best 7 Virtual Meeting Platforms Enhancing Remote Work Productivity</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/easy-techniques-for-retrieving-deleted-whatsapp-conversations-on-your-ios-device/"><u>Easy Techniques for Retrieving Deleted WhatsApp Conversations on Your iOS Device</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/nixing-the-green-glow-youtubes-mac-solution-manual/"><u>Nixing the Green Glow YouTube's Mac Solution Manual</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/optimize-update-detection-processes-using-installed-base-detector-tool/"><u>Optimize Update Detection Processes Using Installed Base Detector Tool</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/projecting-film-costs-for-your-music-video-for-2024/"><u>Projecting Film Costs for Your Music Video for 2024</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/tutorial-how-to-save-your-screen-from-anywhere-using-remote-desktop-on-pcs-and-macbooks/"><u>Tutorial: How to Save Your Screen From Anywhere Using Remote Desktop on PCs and MacBooks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-retain-video-engagement-sustained-use-of-youtubes-cc-license-for-2024/"><u>[New] How to Retain Video Engagement Sustained Use of YouTube's CC License for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-social-media-sphere-speaking-up-to-fans/"><u>[Updated] 2024 Approved The Social Media Sphere Speaking Up to Fans</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtube-income-101-from-ideas-to-earnings-in-action-for-2024/"><u>[Updated] YouTube Income 101 From Ideas to Earnings in Action for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/easy-guide-speedy-methods-to-adjust-text-size-in-your-pdf-document/"><u>Easy Guide: Speedy Methods to Adjust Text Size in Your PDF Document</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/enhanced-file-organizer-component-with-ifolder-features-for-streamlined-user-experience/"><u>Enhanced File Organizer Component with iFolder Features for Streamlined User Experience</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-honor-magic-vs-2-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Honor Magic Vs 2</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/how-to-enhance-image-clarity-iphone-tricks-for-crystal-clear-pictures/"><u>How to Enhance Image Clarity: IPhone Tricks for Crystal-Clear Pictures</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-lava-yuva-2-pro-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Lava Yuva 2 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/setup-environment-variables-via-edit-window-in-installation-package/"><u>Setup Environment Variables via Edit Window in Installation Package</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-lava-blaze-2-pro-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Lava Blaze 2 Pro Phone Pattern Lock</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/top-strategies-for-optimizing-video-conversion-on-your-surface-tablet/"><u>Top Strategies for Optimizing Video Conversion on Your Surface Tablet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/where-can-you-find-instagram-ringtones-that-elevate-your-call-experience/"><u>Where Can You Find Instagram Ringtones That Elevate Your Call Experience?</u></a></li>
 </ul></div>
 

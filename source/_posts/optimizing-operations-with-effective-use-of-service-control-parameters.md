@@ -1,7 +1,7 @@
 ---
 title: Optimizing Operations with Effective Use of Service Control Parameters
-date: 2024-09-28T19:49:46.588Z
-updated: 2024-10-05T17:54:27.634Z
+date: 2024-10-08T06:08:58.580Z
+updated: 2024-10-11T00:28:47.090Z
 tags:
   - user-guide
 categories:
@@ -81,27 +81,20 @@ A service Control Operation allows you to control the service's behavior after i
 
 ![Service Control Operation](https://cdn.advancedinstaller.com/img/dialog/service-control-operation.png "Service Control Operation")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Service Name
 
  This field contains the name of the controlled service. This string can be [localized](https://tools.techidaily.com/advancedinstaller/products/) and it can contain installer properties. You may choose a service to be installed from the combo box or you can enter the name of a service already installed on the target machine.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Attached Component
 
  In this field, you can specify the component which will contain the control operation. You may choose it from the drop-down list box which contains all the package's components.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Actions on install
 
@@ -114,10 +107,10 @@ A service Control Operation allows you to control the service's behavior after i
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If all three options are checked, the existing service will be stopped and removed and the service in the package will be installed and started.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Actions on uninstall
@@ -130,23 +123,30 @@ A service Control Operation allows you to control the service's behavior after i
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)For the package's uninstallation, you can only start a service which will still be present on the target machine after the uninstall is complete.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Service Parameters
 
  In this section, you can specify a list of arguments separated by \[\~\] which will be executed when the service starts. You can [localize](https://tools.techidaily.com/advancedinstaller/products/) the value of these arguments. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/)
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In case of [Merge Module](https://tools.techidaily.com/advancedinstaller/products/) projects the following attributes can be made configurable at merge time:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Name
 * Events
 * Argument
 * Wait
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Wait until the service completes
 
@@ -189,22 +189,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-critical-selections-of-best-3ds-pc-emulators/"><u>[New] Critical Selections of Best 3DS PC Emulators</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-diversifying-audience-across-30plus-online-venues/"><u>[Updated] In 2024, Diversifying Audience Across 30+ Online Venues</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-image-editing-on-ios-best-tools-to-erase-objects-from-photos/"><u>2024 Approved Innovative Image Editing on iOS Best Tools to Erase Objects From Photos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-your-pcs-potential-exciting-new-windows-10-games/"><u>2024 Approved Unlock Your PC’s Potential Exciting New Windows 10 Games</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/best-free-pdf-transformer-software-compatible-with-windows-10-systems/"><u>Best Free PDF Transformer Software Compatible with Windows 10 Systems</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effective-strategies-shrink-your-pdf-file-effortlessly-and-exactly/"><u>Effective Strategies: Shrink Your PDF File Effortlessly & Exactly</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-realme-c67-4g-frp-by-drfone-android/"><u>Full Guide to Bypass Realme C67 4G FRP</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-realme-c33-2023-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Realme C33 2023 to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-8-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 8 Without a Passcode</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/mastering-complex-software-deployment-a-guide-to-advanced-installation-techniques/"><u>Mastering Complex Software Deployment: A Guide to Advanced Installation Techniques</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/mastering-identityv-gameplay-on-your-computer-a-comprehensive-guide/"><u>Mastering IdentityV Gameplay on Your Computer: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/modify-application-settings-in-policy-management-dashboard/"><u>Modify Application Settings in Policy Management Dashboard</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/ultimate-guide-how-to-change-your-mkv-movie-downloads-into-high-quality-mp3-music-playlists/"><u>Ultimate Guide: How to Change Your MKV Movie Downloads Into High-Quality MP3 Music Playlists</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/understanding-the-new-whatsapp-terms-a-deep-dive-into-recent-privacy-policy-updates-with-malwarefox/"><u>Understanding the New WhatsApp Terms: A Deep Dive Into Recent Privacy Policy Updates with MalwareFox</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/understanding-xml-documents-a-comprehensive-guide/"><u>Understanding XML Documents - A Comprehensive Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-nokia-c12-plus-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Nokia C12 Plus Phones</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-cutting-edge-guide-to-youtube-audio-editing-for-2024/"><u>[Updated] Cutting-Edge Guide to YouTube Audio Editing for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-freeze-non-picked-youtube-video-suggestions-for-2024/"><u>[Updated] Freeze Non-Picked YouTube Video Suggestions for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-pixelplay-logger-analysis/"><u>[Updated] PixelPlay Logger Analysis</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/2018/"><u>2018</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-secrets-to-preventing-photo-app-problems-in-windows-11/"><u>2024 Approved Secrets to Preventing Photo App Problems in Windows 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unified-imagery-the-ultimate-blend-strategy/"><u>2024 Approved Unified Imagery The Ultimate Blend Strategy</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capturing-the-cosmos-mastering-editing-techniques-for-starry-images-for-2024/"><u>Capturing the Cosmos Mastering Editing Techniques for Starry Images for 2024</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/comprehensive-movavi-photo-editor-review-best-buy-options/"><u>Comprehensive Movavi Photo Editor Review - Best Buy Options</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/comprehensive-overview-of-item-features-and-attributes/"><u>Comprehensive Overview of Item Features & Attributes</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/distinguishing-features-in-top-tier-services/"><u>Distinguishing Features in Top-Tier Services</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/efficient-service-installation-process/"><u>Efficient Service Installation Process</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-your-free-wonderfox-template-zips-secure-downloads-here/"><u>Get Your Free WonderFox Template ZIPs - Secure Downloads Here!</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/how-to-update-installed-registry-detection-tools-effectively/"><u>How to Update Installed Registry Detection Tools Effectively</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-look-at-anycubic-kobra-3-revolutionizing-printing-with-multiple-colors/"><u>In-Depth Look at Anycubic Kobra 3: Revolutionizing Printing with Multiple Colors</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/managing-short-term-file-tasks-on-windows-explorers-directory-pages/"><u>Managing Short-Term File Tasks on Windows Explorer's Directory Pages</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/quick-guide-how-to-effortlessly-add-audio-content-to-macos-itunes/"><u>Quick Guide: How to Effortlessly Add Audio Content to macOS iTunes</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/tab-configuration-files-setup-guidelines/"><u>Tab Configuration Files: Setup Guidelines</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/the-ultimate-guide-to-cleaning-up-your-photos-by-removing-items/"><u>The Ultimate Guide to Cleaning Up Your Photos by Removing Items</u></a></li>
+<li><a href="https://techtrends.techidaily.com/windows-troubleshooting-how-to-overcome-oculus-air-link-compatibility-errors/"><u>Windows Troubleshooting: How To Overcome Oculus Air Link Compatibility Errors</u></a></li>
 </ul></div>
 

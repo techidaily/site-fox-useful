@@ -1,7 +1,7 @@
 ---
 title: "Mastering Complex Software Deployment: A Guide to Advanced Installation Techniques"
-date: 2024-10-04T20:06:10.261Z
-updated: 2024-10-05T17:49:46.102Z
+date: 2024-10-07T19:38:27.552Z
+updated: 2024-10-10T21:04:50.012Z
 tags:
   - user-guide
 categories:
@@ -72,16 +72,29 @@ The Advanced Installer Project is an XML file with the extension AIP. Advanced I
 
 ![New Project](https://cdn.advancedinstaller.com/img/toolbar/project-new.png "New Project") Use the \[New... \] toolbar button, the “File > New...” menu item or theCtrl+N keyboard shortcut. The [Start Page](https://tools.techidaily.com/advancedinstaller/products/) will show up.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Loading an existing project
 
 ![Open Project](https://cdn.advancedinstaller.com/img/toolbar/project-open.png "Open Project")Use the\[Open... \] toolbar button, the “File > Open...” menu item or the Ctrl+O keyboard shortcut. You can also load an existing project by double clicking on the corresponding AIP project file in Windows Explorer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Loading a recently accessed project
 
@@ -98,10 +111,10 @@ The Advanced Installer Project is an XML file with the extension AIP. Advanced I
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Warning: starting a new project from an already existing one by saving it under a different name is **not** advisable, because all the GUIDs for product, components, etc. in the two projects will be identical and thus will conflict. You should use the “File > Save as Template...” option for this.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Save As Template...
@@ -111,38 +124,25 @@ Use the “Save As Template...” menu item.
 Creates a project template starting from the current project in order to reuse it in building a different package. New UpgradeCode, ProductCode and all the components GUIDs are generated when the template is used.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Building the project
 
 ![Build Project](https://cdn.advancedinstaller.com/img/toolbar/project-build.png "Build Project")Use the \[Build \] toolbar button, the “Project > Build” menu item or theF7 keyboard shortcut. You need at least one component (file, registry entry, etc) in your project before you can build it.
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You have the option to select which build to perform from the button's drop down menu. When you directly push the button, the project that was build last is created. If no individual build was made previous, all builds are performed.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)By default, Advanced Installer [caches](https://tools.techidaily.com/advancedinstaller/products/) the _archives_ created during build process in order to **reuse** them in future builds if the source files did not change.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Running the project
@@ -152,10 +152,16 @@ You have the option to select which build to perform from the button's drop down
 When this button is used, the resulted package from the last performed build is launched. If all the builds were performed than the first package in the building order is launched.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Running the project with logging enabled
@@ -171,16 +177,10 @@ Use the “Run in VM” item of the \[Run \] button context menu or the “Proje
 ![Run Project](https://cdn.advancedinstaller.com/img/toolbar/help.png "Run Project")Use the \[Help \] toolbar button, the “Help > Context Help” menu item or press theF1 key. Certain pages may also have embedded help displayed by default in their unused screen space. You can turn off the embedded help from the “View > Embedded Help” menu item.
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -236,24 +236,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-digital-creativity-unleashed-changing-numbers-in-tiktok-for-2024/"><u>[New] Digital Creativity Unleashed Changing Numbers in TikTok for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-enabling-autoplay-youtube-without-alerts-for-2024/"><u>[New] Enabling Autoplay YouTube Without Alerts for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-sculpting-cinematographic-excellence-in-gopro-editing/"><u>[Updated] Sculpting Cinematographic Excellence in GoPro Editing</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-set-the-atmosphere-musical-statuses/"><u>[Updated] Set the Atmosphere Musical Statuses</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/1-understanding-net-setup-arguments-a-comprehensive-guide/"><u>1. Understanding .NET Setup Arguments: A Comprehensive Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-realme-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/t-transfer-solution-youtube-content-on-dailymotion-now/"><u>Direct Transfer Solution YouTube Content on Dailymotion Now</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effective-anti-redirect-software-malwarefox-browser-cleaner-eliminate-redirection-threats/"><u>Effective Anti-Redirect Software: MalwareFox Browser Cleaner – Eliminate Redirection Threats</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/e-tips-creating-engaging-youtube-video-intros-for-2024/"><u>IMovie Tips Creating Engaging YouTube Video Intros for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-12-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/intermittent-claudication-is-a-symptom-of-peripheral-arterial-disease-pad-and-indicates-reduced-blood-flow-to-the-lower-extremities-during-exercise/"><u>Intermittent Claudication Is a Symptom of Peripheral Arterial Disease (PAD) and Indicates Reduced Blood Flow to the Lower Extremities During Exercise.</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/iphone-7-perfect-methods-for-screen-recording-for-2024/"><u>IPhone 7 Perfect Methods for Screen Recording for 2024</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/the-best-substitutes-for-jing-therapy-an-in-depth-analysis-and-reviews/"><u>The Best Substitutes for Jing Therapy - An In-Depth Analysis and Reviews</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/title-ensuring-safe-online-transactions-how-to-confirm-a-site-is-genuine-not-fraudulent/"><u>Title: Ensuring Safe Online Transactions: How to Confirm a Site Is Genuine, Not Fraudulent</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/top-rated-tools-for-instantly-transforming-your-images-backdrops-in-2n2/"><u>Top-Rated Tools for Instantly Transforming Your Images' Backdrops in 2N2</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/ultimate-tutorial-on-broadcasting-content-from-huawei-p30-to-your-smart-tv/"><u>Ultimate Tutorial on Broadcasting Content From Huawei P30 to Your Smart TV</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/understanding-browser-hijackers-a-deep-dive-with-malwarefox/"><u>Understanding Browser Hijackers: A Deep Dive with MalwareFox</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/understanding-the-basics-of-ac3-audio-compression/"><u>Understanding the Basics of AC3 Audio Compression</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/unique-registry-component-essential-elements-for-efficient-software-management/"><u>Unique Registry Component – Essential Elements for Efficient Software Management</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-immediate-favorites-weeks-top-youtube-clips-for-2024/"><u>[Updated] Immediate Favorites Week's Top Youtube Clips for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-uniting-obs-and-zoom-a-compreehensive-video-guide-for-2024/"><u>[Updated] Uniting OBS and Zoom A Compreehensive Video Guide for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/2018/"><u>2018</u></a></li>
+<li><a href="https://driver-install.techidaily.com/ace-your-pcs-performance-by-mastering-astro-updates-and-replacements/"><u>Ace Your PC's Performance by Mastering Astro Updates & Replacements</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/affordable-luxury-rivians-r2-ev-suv-offers-great-value-at-competitive-pricing/"><u>Affordable Luxury: Rivian's R2 EV SUV Offers Great Value at Competitive Pricing</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/comprehensive-overview-of-item-features-and-attributes/"><u>Comprehensive Overview of Item Features & Attributes</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/distinguishing-features-in-top-tier-services/"><u>Distinguishing Features in Top-Tier Services</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-newest-dolby-sound-card-drivers-compatible-with-windows-11-10-and-81/"><u>Download the Newest Dolby Sound Card Drivers: Compatible with Windows 11, 10, and 8.1</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/managing-short-term-file-tasks-on-windows-explorers-directory-pages/"><u>Managing Short-Term File Tasks on Windows Explorer's Directory Pages</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/quick-guide-how-to-effortlessly-add-audio-content-to-macos-itunes/"><u>Quick Guide: How to Effortlessly Add Audio Content to macOS iTunes</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/save-your-footage-how-to-retrieve-deleted-content-from-sony-handycam/"><u>Save Your Footage! How to Retrieve Deleted Content From Sony Handycam</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stop-windows-update-installing-drivers-in-windows-11-solved/"><u>Stop Windows Update Installing Drivers in Windows 11 [Solved]</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/tab-configuration-files-setup-guidelines/"><u>Tab Configuration Files: Setup Guidelines</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/the-top-online-video-flipper-tools-for-2024/"><u>The Top Online Video Flipper Tools for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/the-ultimate-guide-to-cleaning-up-your-photos-by-removing-items/"><u>The Ultimate Guide to Cleaning Up Your Photos by Removing Items</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-5-book-trailers-that-will-captivate-you/"><u>Top 5 Book Trailers That Will Captivate You</u></a></li>
+<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo X Fold 2 | Dr.fone</u></a></li>
 </ul></div>
 

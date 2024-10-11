@@ -1,7 +1,7 @@
 ---
 title: "Effective Content Strategies: Embracing Multi-Page Layouts"
-date: 2024-09-30T17:24:44.995Z
-updated: 2024-10-05T16:27:26.464Z
+date: 2024-10-03T21:10:00.448Z
+updated: 2024-10-10T22:44:43.305Z
 tags:
   - user-guide
 categories:
@@ -89,32 +89,26 @@ The instances are uniquely distinguished by a new**ProductCode** and additionall
  Advanced Installer uses the name of an instance from “Instance IDs” pane as the InstanceId property value for the corresponding instance. The InstanceId property **will not** be resolved outside the Multiple Instances page.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Creating a new instance
 
  Use the “New Instance” command from the context menu or press the Insert key while the “Instance IDs” panel is selected, in order to create a new instance.
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Renaming an instance
 
  Use the “Rename” command from the context menu or press the F2 key while an element is selected, to rename an instance.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Removing an instance
 
@@ -125,10 +119,10 @@ The instances are uniquely distinguished by a new**ProductCode** and additionall
 Use the “Move Up” / “Move Down” context menu item or press the Shift+Up /Shift+Down keys while an instance is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Generate instances at install time
@@ -142,10 +136,10 @@ The package is built with major upgrades support. This option has effect only af
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)You cannot author major upgrades and generate instances at install time. The two options above are not compatible.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -188,17 +182,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-crafting-unique-composition-through-montages/"><u>[New] In 2024, Crafting Unique Composition Through Montages</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-essential-tips-for-ppt-screen-capture/"><u>[New] In 2024, Essential Tips for PPT Screen Capture</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-tips-for-gaining-attention-via-snapchat-star/"><u>[Updated] 2024 Approved Tips for Gaining Attention via Snapchat Star</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/advanced-malicious-software-scrutiny-kits-expert-choices-for-rapid-attack-counteraction-and-security-reinforcement/"><u>Advanced Malicious Software Scrutiny Kits: Expert Choices for Rapid Attack Counteraction and Security Reinforcement</u></a></li>
-<li><a href="https://windows11.techidaily.com/arrow-keys-in-distress-heres-what-you-can-do/"><u>Arrow Keys in Distress? Here's What You Can Do</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/free-and-instant-set-up-your-own-gpt-4powered-ai-chatbot-on-windows/"><u>Free & Instant: Set Up Your Own GPT-4Powered AI Chatbot on Windows</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-foundations-of-facebook-video-marketing/"><u>In 2024, The Foundations of Facebook Video Marketing</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/in-depth-tutorial-on-how-to-modify-hyperlink-settings-in-the-properties-panel/"><u>In-Depth Tutorial on How to Modify Hyperlink Settings in the Properties Panel</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/lag-free-hd-recording-solutions-the-ultimate-guide-for-capturing-minecraft-adventures/"><u>Lag-Free HD Recording Solutions: The Ultimate Guide for Capturing Minecraft Adventures</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/into-wealthy-creator-land-via-youtube-shorts-revenue-for-2024/"><u>Step Into Wealthy Creator Land via YouTube Shorts Revenue for 2024</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/top-strategies-for-high-quality-amazon-product-photos-skyrocket-your-online-sales/"><u>Top Strategies for High-Quality Amazon Product Photos: Skyrocket Your Online Sales</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/ultimate-step-by-step-tutorial-on-navigating-apowershow/"><u>Ultimate Step-by-Step Tutorial on Navigating ApowerShow</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-removing-borders-quick-and-effective-image-retouch-methods-for-2024/"><u>[Updated] Removing Borders Quick & Effective Image Retouch Methods for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abbyy-achieves-soc-2-compliance-bolsters-trust-in-transactional-processes/"><u>ABBYY Achieves SOC #2 Compliance, Bolsters Trust in Transactional Processes</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/best-7-virtual-meeting-platforms-enhancing-remote-work-productivity/"><u>Best 7 Virtual Meeting Platforms Enhancing Remote Work Productivity</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/easy-techniques-for-retrieving-deleted-whatsapp-conversations-on-your-ios-device/"><u>Easy Techniques for Retrieving Deleted WhatsApp Conversations on Your iOS Device</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/from-novice-to-expert-conquering-business-vernacular/"><u>From Novice to Expert: Conquering Business Vernacular</u></a></li>
+<li><a href="https://extra-support.techidaily.com/how-to-make-picture-in-picture-videos-on-mac-os-sierra-for-2024/"><u>How to Make Picture in Picture Videos on Mac OS Sierra for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-honor-magic-5-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Honor Magic 5 Pro FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/mastering-complex-software-deployment-a-guide-to-advanced-installation-techniques/"><u>Mastering Complex Software Deployment: A Guide to Advanced Installation Techniques</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/modify-application-settings-in-policy-management-dashboard/"><u>Modify Application Settings in Policy Management Dashboard</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-the-new-era-musicians-income-on-facebook-platform/"><u>Navigating the New Era: Musicians' Income on Facebook Platform</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/optimize-update-detection-processes-using-installed-base-detector-tool/"><u>Optimize Update Detection Processes Using Installed Base Detector Tool</u></a></li>
+<li><a href="https://win-dash.techidaily.com/overcoming-common-driver-challenges-with-intel-hd-graphics-630-on-windows-systems/"><u>Overcoming Common Driver Challenges with Intel HD Graphics 630 on Windows Systems</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/tutorial-how-to-save-your-screen-from-anywhere-using-remote-desktop-on-pcs-and-macbooks/"><u>Tutorial: How to Save Your Screen From Anywhere Using Remote Desktop on PCs and MacBooks</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/ultimate-guide-how-to-change-your-mkv-movie-downloads-into-high-quality-mp3-music-playlists/"><u>Ultimate Guide: How to Change Your MKV Movie Downloads Into High-Quality MP3 Music Playlists</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/understanding-the-new-whatsapp-terms-a-deep-dive-into-recent-privacy-policy-updates-with-malwarefox/"><u>Understanding the New WhatsApp Terms: A Deep Dive Into Recent Privacy Policy Updates with MalwareFox</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/understanding-xml-documents-a-comprehensive-guide/"><u>Understanding XML Documents - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-to-the-latest-version-of-wacom-istudio-draw-drivers-for-ultimate-control/"><u>Update to the Latest Version of Wacom iStudio Draw Drivers for Ultimate Control</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/voice-activated-chatgpt-now-available-in-mercedes-benz-cars/"><u>Voice-Activated ChatGPT Now Available in Mercedes-Benz Cars</u></a></li>
 </ul></div>
 
