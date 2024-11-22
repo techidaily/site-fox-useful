@@ -1,7 +1,7 @@
 ---
 title: "Effortless Techniques for Writing Zeros on a Seagate HDD: A Two-Step Guide"
-date: 2024-11-05T19:11:04.051Z
-updated: 2024-11-12T20:24:11.477Z
+date: 2024-11-17T10:43:57.201Z
+updated: 2024-11-22T09:52:23.766Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/ccf2cd6688a4adcaeda8d922b0b91ea561ec3cf2936a8b4a71d20d4455d103fb.jpg
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/ccf2cd6688a4adcaeda8d922b0b91ea561ec3cf29
 Want to create an image, restore image, or clone hard drive via Norton Ghost? This guide will tell you how to use Norton Ghost step by step. It also provides you with an easy alternative.
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 By[Lena](https://tools.techidaily.com/ubackup/products/)Updated on June 5, 2024
 
@@ -51,10 +55,7 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 | **Cons**      | **✖** Discontinued **✖** Complex interface **✖** Compatibility issues                                                                                                                                                                                                            | **✖** Advanced features locked in the free version                                                                                                                                                                                                                                            |
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## About Norton Ghost
@@ -62,13 +63,6 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 Norton Ghost is one **disk imaging and cloning tool** that firstly developed in the 1990s. It can help you make backup images of the whole hard disk, selected partitions or only those files that mean the most to you. When something goes wrong, Norton Ghost can [restore your computer to previous functional status](https://tools.techidaily.com/ubackup/products/). Besides, it can also help you clone one hard drive to another hard drive.
 
 In a word, if you want to make an image back for your computer or want to clone to the new hard drive, Norton Ghost is not a bad choice. However, now Norton Ghost is **no longer available for the Home user**. It was **discontinued by Symantec in 2013**. Indeed you can still download the latest version - Norton Ghost 15, but it only offers a 30-day free trial and then you need to pay for it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Use Norton Ghost 15 Step by Step
 
@@ -82,6 +76,10 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Create Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/create-backup.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. The **Easy Setup** screen will appear.
 
 * You can click **OK** to accept the default settings or click a setting to modify it.
@@ -90,6 +88,10 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
 
 4\. Finally, click **OK** to confirm.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Restore Image with Norton Ghost
 
@@ -102,6 +104,10 @@ Click **Recover My Files** if you want to recover files or folder, or **Recover 
 2\. Whichever you choose, you can type the file name you need in the box under **Find files to recover** and click **Search** to find it.
 
 [![Recover My Files](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/find-files-to-recover.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3\. After the scanning, select the file you need and click **Recover Files...**
 
@@ -161,10 +167,7 @@ Select the corresponding backup methods if you want to backup system, partition 
 [![Select Backup Destination](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/select-backup-destination.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 👉 **Notes:**
@@ -178,13 +181,6 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 
 [![Restore](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/restore/disk-restore/home-restore.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 👉 **Notes:** 
 
 * With AOMEI **[Universal Restore](https://tools.techidaily.com/ubackup/products/)** feature, you can restore a backup image, system image in particular, created on one computer to another one that has dissimilar hardware installed. It can also help you reinstall the system if you are planning to change the hardware such as motherboard, CPU, etc. Available in higher editions like [AOMEI Backupper Professional](https://tools.techidaily.com/ubackup/products/).
@@ -192,30 +188,20 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 
 [![Disk Image Explore Home](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/explore-image/home-explore-image-disk.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Clone Hard Drive
 
 You can directly clone hard drive to another one with the **[Disk Clone](https://tools.techidaily.com/ubackup/products/)** feature. If you are cloning HDD to SSD, you can make use of the "**SSD Alignment**" feature to improve the read/write speed of the destination SSD.
 
 [![Clone](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/main-interface/clone.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 👉 **Notes:** 
 
 * The free version of AOMEI Backupper only supports cloning a data disk. To clone a disk with OS installed, you can [upgrade](https://tools.techidaily.com/ubackup/products/) to higher versions to enjoy it.
 * The [System Clone](https://tools.techidaily.com/ubackup/products/) feature can help you only clone system to new hard drive, which uses less disk space than disk clone. Also, it requires a higher version.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -226,10 +212,7 @@ For backup and restore features, you have 4 corresponding options plus two premi
 For the clone feature, you have two free options plus System Clone. So you can copy boot drive to another one successfully, even to smaller drive. And it is able to accelerate the reading and writing speed of the target disk if it is an SSD. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs about Norton Ghost
@@ -262,6 +245,10 @@ Was the provided information useful? Your vote is important to us!
 
 Lena is an editor of FoneTool, she covers backup & restore, and phone data management and so on. She enjoys helping people find solutions to their problems. She loves traveling, eating, reading and so on. She takes most of time with her family when she is not working.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Related Articles
 
 ##### [How to Create Image Backup with Ghost Disk Utility](https://tools.techidaily.com/ubackup/products/)
@@ -282,13 +269,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Free Get AOMEI Backupper Now
 
 Safeguard any data of your computer with backup, sync and clone.
@@ -296,6 +276,10 @@ Safeguard any data of your computer with backup, sync and clone.
 [**Download Freeware**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -314,22 +298,18 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-mastering-screen-recordings-on-windows-10-systems/"><u>[New] Mastering Screen Recordings on Windows 10 Systems</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-ultimate-guide-for-ios-album-arrangement-and-icloud-cloud-syncing-mastery-for-2024/"><u>[New] The Ultimate Guide for iOS Album Arrangement & iCloud Cloud Syncing Mastery for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-critical-steps-to-record-and-relive-athletic-sports-competitions/"><u>[Updated] Critical Steps to Record & Relive Athletic Sports Competitions</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/isoaomei/"><u>「ISO画像をパソコンディスクへ安全に保存する方法：AOMEIバックアップャー」</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1-high-stakes-chrome-vulnerability-bounties-reward-of-250k-for-critical-security-flaws-insiders-guide/"><u>1. High-Stakes Chrome Vulnerability Bounties: Reward of $250K for Critical Security Flaws | Insider's Guide</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/1-lancement-gratuit-logiciel-damorcage-sur-support-memoire-usb-pour-acces-rapide-aux-donnees/"><u>1. Lancement Gratuit : Logiciel D'amorçage Sur Support Mémoire USB Pour Accès Rapide Aux Données</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/5-easy-steps-seamlessly-moving-your-android-contacts-to-ios/"><u>5 Easy Steps: Seamlessly Moving Your Android Contacts to iOS</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/dat-avi/"><u>効率的な DAT ファイルから AVI への変換手順</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/alternatives-libres-de-highest-quality-a-chronosync-pour-windows-version-11-10-8-et-7/"><u>Alternatives Libres De Highest Quality À ChronoSync Pour Windows (Version 11, 10, 8 Et 7)</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/comment-proteger-et-gerer-efficacement-votre-compte-aomei-avec-les-meilleures-pratiques/"><u>Comment Protéger Et Gérer Efficacement Votre Compte AOMEI Avec Les Meilleures Pratiques?</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/comment-supprimer-en-toute-securite-un-ssd-sous-windows-11-guide-facile-et-complete/"><u>Comment Supprimer en Toute Sécurité Un SSD Sous Windows 11: Guide Facile Et Complète</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/comprehensive-troubleshooting-steps-for-the-windows-1011-red-screen-of-death/"><u>Comprehensive Troubleshooting Steps for the Windows 10/11 'Red Screen of Death'</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/discover-the-top-7-no-watermark-hd-video-converters-for-crisp-1080p-quality-free-and-easy/"><u>Discover the Top 7 No-Watermark HD Video Converters for Crisp 1080P Quality - Free and Easy!</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/podcasts-vs-youtube-making-an-informed-media-decision-for-2024/"><u>Podcasts Vs. YouTube Making an Informed Media Decision for 2024</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/story-3-lifestyle-changes-as-a-sole-intervention/"><u>Story 3: Lifestyle Changes as a Sole Intervention</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ntrepreneurs-pathway-to-profitable-vlogging/"><u>The Entrepreneur's Pathway to Profitable Vlogging</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uniting-worlds-seamlessly-connect-your-winpc-and-galaxy/"><u>Uniting Worlds: Seamlessly Connect Your WinPC and Galaxy</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-innovate-personalized-digital-chuckle-comedy/"><u>[New] Innovate Personalized Digital Chuckle Comedy</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-optimize-frame-rates-for-maximum-gameplay-immersion/"><u>[Updated] 2024 Approved Optimize Frame Rates for Maximum Gameplay Immersion</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-redefining-digital-space-alternative-video-hosting-sites/"><u>[Updated] In 2024, Redefining Digital Space Alternative Video Hosting Sites</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-ultimate-hack-swiftly-delete-your-youtube-comments/"><u>[Updated] In 2024, The Ultimate Hack Swiftly Delete Your YouTube Comments</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/erfolgreich-mov-filme-aus-der-asche-eines-beschadigten-speichers-auferstehen-kostenlos-and-schnell-tunbar/"><u>Erfolgreich MOV-Filme Aus Der Asche Eines Beschädigten Speichers Auferstehen – Kostenlos & Schnell Tunbar</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/how-to-fix-a-corrupted-lenovo-onekey-recovery-partition/"><u>How to Fix a Corrupted Lenovo OneKey Recovery Partition</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-facebook-lite-video-downloading-made-easy-top-6-tools-of-2023/"><u>In 2024, Facebook Lite Video Downloading Made Easy Top 6 Tools of 2023</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-nubia-red-magic-8s-proplus-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Nubia Red Magic 8S Pro+ Device</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/meisterhafte-dateikopierung-auf-dem-mac-die-drei-besten-programme-fur-eine-perfekte-duplikation/"><u>Meisterhafte Dateikopierung Auf Dem Mac - Die Drei Besten Programme Für Eine Perfekte Duplikation</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/step-by-step-guide-to-successful-instagram-story-surveys/"><u>Step-by-Step Guide to Successful Instagram Story Surveys</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/strategia-esegui-la-modifica-dei-dati-cancellati-manuale-dettagliato-guida-per-il-2024/"><u>Strategia Esegui La Modifica Dei Dati Cancellati: Manuale Dettagliato Guida per Il 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/window-photo-viewer-image-handling-top-9-solutions/"><u>Window Photo Viewer Image Handling - Top 9 Solutions</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/windows-10iphonepc/"><u>Windows 10入門：如何直接從iPhone上複製照片至PC全程解決方案</u></a></li>
 </ul></div>
 
