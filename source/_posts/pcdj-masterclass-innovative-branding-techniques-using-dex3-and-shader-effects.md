@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Masterclass: Innovative Branding Techniques Using DEX3 & Shader Effects"
-date: 2024-11-29T17:55:55.148Z
-updated: 2024-11-30T17:28:47.036Z
+date: 2024-12-07T23:53:31.447Z
+updated: 2024-12-08T20:44:39.009Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ Use the combination of Shaders and Overlays for branding purposes and/or for dis
 _Have questions about using **Shaders** in our **DEX 3 DJ software**, or how to **create text, image, and video overlays**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,20 +50,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/shaderdemo-cover.jpg?fit=7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-creating-a-singular-stream-from-diverse-youtube-videos/"><u>[New] Creating a Singular Stream From Diverse YouTube Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-mastering-iphone-x-animoji-your-comprehensive-users-manual/"><u>[New] In 2024, Mastering iPhone X Animoji Your Comprehensive User's Manual</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-cinematography-secrets-unveiled-by-youtube-pros-for-2024/"><u>[Updated] Cinematography Secrets Unveiled by YouTube Pros for 2024</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/intel-ssd-hddssd/"><u>专业界所推荐的安全型Intel SSD克隆工具 - HDD到SSD转换指南</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/beyond-the-screen-arvr-infused-inspirational-sayings/"><u>Beyond the Screen AR/VR-Infused Inspirational Sayings</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ensure-peak-performance-download-the-updated-canon-pixma-ts3322-printer-software/"><u>Ensure Peak Performance - Download the Updated Canon PIXMA TS3322 Printer Software</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/erstellen-von-asus-recovery-drives-unter-windows-10-zwei-effiziente-methoden/"><u>Erstellen Von ASUS Recovery Drives Unter Windows 10 – Zwei Effiziente Methoden</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/free-online-conversion-transform-swf-files-into-mov-format-with-easymov/"><u>Free Online Conversion: Transform SWF Files Into MOV Format with EasyMOV</u></a></li>
-<li><a href="https://fox-links.techidaily.com/pinnacle-audio-dramatic-works/"><u>Pinnacle Audio-Dramatic Works</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/resolving-the-issue-of-missing-downloads-from-your-download-directory/"><u>Resolving the Issue of Missing Downloads From Your Download Directory</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/section-3c-qanda-level-1-to-level-5/"><u>Section 3C: Q&A (Level 1 to Level 5)</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/step-by-step-guide-to-removing-photos-from-your-discord-account-on-a-pc/"><u>Step-by-Step Guide to Removing Photos From Your Discord Account on a PC</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/top-rated-free-pc-cloning-tools-for-windows-operating-systems-windows-11-10-8-and/"><u>Top Rated Free PC Cloning Tools for Windows Operating Systems (Windows 11, 10, 8 &</u></a></li>
-<li><a href="https://article-files.techidaily.com/ultimate-action-cams-face-off-black-and-star-for-2024/"><u>Ultimate Action Cams Face-Off Black & Star for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-rankings-of-2024s-best-gaming-laptops-how-razer-acer-and-msi-stack-up-powered/"><u>Ultimate Rankings of 2024'S Best Gaming Laptops: How Razer, Acer, and MSI Stack Up | Powered</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-a-deep-dive-into-ideal-instagram-post-times-for-2024/"><u>[New] A Deep Dive Into Ideal Instagram Post Times for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-highlighted-14-examples-of-motion-texts-for-2024/"><u>[New] Highlighted 14 Examples of Motion Texts for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-expert-guide-to-initiate-video-calls-using-whatsapp-web-for-laptops-for-2024/"><u>[Updated] Expert Guide to Initiate Video Calls Using WhatsApp Web for Laptops for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-scaling-back-obs-video-bandwidth/"><u>[Updated] In 2024, Scaling Back OBS Video Bandwidth</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-streamlining-gameplay-logs-for-social-media-sharing/"><u>[Updated] Streamlining Gameplay Logs for Social Media Sharing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-behind-the-brand-pewdiepies-financial-figures-unveiled/"><u>2024 Approved Behind the Brand PewDiePie’s Financial Figures Unveiled</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-quick-cuts-editing-instagram-videos-on-macos/"><u>2024 Approved Quick Cuts Editing Instagram Videos on macOS</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/how-to-fix-a-sluggish-pc-expert-tips-from-yl-computing-yl-software/"><u>How To Fix a Sluggish PC: Expert Tips From YL Computing - YL Software</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-keep-valorant-running-smoothly-without-random-pc-shutdowns/"><u>How to Keep Valorant Running Smoothly Without Random PC Shutdowns</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Asus ROG Phone 7? | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/yl-computings-guide-to-guarding-crypto-assets-from-cyber-theft-and-hacking-threats/"><u>YL Computing's Guide to Guarding Crypto Assets From Cyber Theft and Hacking Threats</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/yl-software-tutorial-efficiently-harvesting-email-addresses-from-outlooks-folders-for-better-connectivity/"><u>YL Software Tutorial: Efficiently Harvesting Email Addresses From Outlook's Folders for Better Connectivity</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/yl-softwares-ultimate-collection-of-adventure-time-high-res-wallpapers-and-graphics/"><u>YL Software's Ultimate Collection of Adventure Time High-Res Wallpapers and Graphics</u></a></li>
 </ul></div>
 

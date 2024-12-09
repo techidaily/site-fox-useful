@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Playlist Importation in PCDJ - From Dex 2 to Dex 3 with This Essential Tutorial Video
-date: 2024-11-27T20:17:18.811Z
-updated: 2024-11-30T21:07:49.286Z
+date: 2024-12-01T18:46:34.784Z
+updated: 2024-12-08T22:53:19.902Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ This feature doesn’t just work for DEX 2 playlists, it will work for RED Mobil
 #### DJ Software Tutorial Video: Importing Playlists From DEX 2 into DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,22 +44,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/08/importingplaylists-coverim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-refining-your-digital-footprint-editing-the-look-back-feature-for-2024/"><u>[New] Refining Your Digital Footprint Editing the Look Back Feature for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-optimizing-youtube-view-duration-three-steps-52-chars/"><u>[Updated] 2024 Approved Optimizing YouTube View Duration - Three Steps (52 Chars)</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-comprehensively-understanding-wm6-setup/"><u>2024 Approved Comprehensively Understanding WM6 Setup</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/1728508078627-outlook/"><u>如何将Outlook邮箱文件夹整个保存到硬盘上 - 分别介绍两种方法</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/windows-server-200320082e12/"><u>如何在Windows Server 2003、2008和2e12上有效地进行磁碟克隆—资源比较</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/comment-resoudre-le-probleme-de-synchronisation-des-photos-iphone-avec-un-ordinateur-windows/"><u>Comment Résoudre Le Problème De Synchronisation Des Photos iPhone Avec Un Ordinateur Windows</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-emporium-comprehensive-guides-and-reviews/"><u>Exploring Tom's Tech Emporium: Comprehensive Guides & Reviews</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/five-effective-solutions-for-addressing-the-nearly-full-windows-11-recovery-partition/"><u>Five Effective Solutions for Addressing the Nearly Full Windows 11 Recovery Partition</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/guide-complet-comment-securiser-et-reprendre-le-controle-de-vos-fichiers-dans-windows-11/"><u>Guide Complet: Comment Sécuriser Et Reprendre Le Contrôle De Vos Fichiers Dans Windows 11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-poco-x6-pro-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Poco X6 Pro Phone Now with These Tips</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/revive-your-lost-partitions-a-4-step-guide-for-windows-11-users/"><u>Revive Your Lost Partitions: A 4-Step Guide for Windows 11 Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-the-definitive-guide/"><u>Tom's Tech Insights: The Definitive Guide</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/troubleshooting-tips-for-aomei-image-deploy-most-frequently-asked-questions-answered/"><u>Troubleshooting Tips for AOMEI Image Deploy – Most Frequently Asked Questions Answered</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlocking-the-power-of-gadgets-with-expert-advice-from-toms-hardware/"><u>Unlocking the Power of Gadgets with Expert Advice From Tom's Hardware</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/1728499700194-windows-10/"><u>Windows 10向け無料ディスクイメージバックアップソフトウェア - 導入ガイド</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/worldwide-words-shaping-english-identity/"><u>Worldwide Words Shaping English Identity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/zero-users-focus-enforcing-group-policy-on-individual-profiles/"><u>Zero-Users Focus: Enforcing Group Policy on Individual Profiles</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-how-to-capitalize-on-your-youtube-shorts-for-cash-flow/"><u>[New] 2024 Approved How to Capitalize on Your YouTube Shorts for Cash Flow</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-top-12-tactics-for-amplifying-your-youtube-traffic/"><u>[Updated] Top 12 Tactics for Amplifying Your YouTube Traffic</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1-fix-non-responsive-apps-in-windows-a-step-by-step-guide-by-yl-computing/"><u>1. Fix Non-Responsive Apps in Windows: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1-the-impact-of-the-second-sino-japanese-war-on-chinas-population-insights-and-analysis-yl-computing/"><u>1. The Impact of the Second Sino-Japanese War on China's Population: Insights and Analysis - YL Computing</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/access-and-modify-network-preferences-using-the-windows-control-panel-with-guidance-by-yl-software-experts/"><u>Access and Modify Network Preferences Using the Windows Control Panel with Guidance by YL Software Experts</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/deng-xiaoping-and-his-transformational-policies-shaping-contemporary-chinese-society-insights-from-yl-software/"><u>Deng Xiaoping and His Transformational Policies: Shaping Contemporary Chinese Society – Insights From YL Software</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-vivo-s18-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-start-promoting-smart-a-beginners-guide-to-using-telegram/"><u>In 2024, Start Promoting Smart A Beginner's Guide to Using Telegram</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/inside-openais-innovation-the-evolution-and-distinctions-of-generative-pre-trained-transformer-versions-gpt-1-to-gpt-4-decoded/"><u>Inside OpenAI's Innovation: The Evolution and Distinctions of Generative Pre-Trained Transformer Versions - GPT-1 to GPT-4 Decoded</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-download-land-free-photo-frames-for-2024/"><u>Navigating Download Land Free Photo Frames for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/quick-guide-to-speeding-up-your-computer-with-advanced-windows-configurations-yl-software-solutions/"><u>Quick Guide to Speeding Up Your Computer with Advanced Windows Configurations - YL Software Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-a-dormant-tab-key-for-seamless-typing/"><u>Reviving a Dormant Tab Key for Seamless Typing</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/securing-your-information-preventing-cyber-attacks-and-data-breaches-with-yl-software-solutions/"><u>Securing Your Information: Preventing Cyber Attacks and Data Breaches with YL Software Solutions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-crashing-microsoft-edge-on-your-windows-10-pc-made-simple/"><u>Troubleshooting Crashing Microsoft Edge on Your Windows 10 PC Made Simple</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/troubleshooting-printer-drivers-how-to-update-or-reinstall-with-expert-advice-from-yl-software/"><u>Troubleshooting Printer Drivers: How to Update or Reinstall with Expert Advice From YL Software</u></a></li>
 </ul></div>
 

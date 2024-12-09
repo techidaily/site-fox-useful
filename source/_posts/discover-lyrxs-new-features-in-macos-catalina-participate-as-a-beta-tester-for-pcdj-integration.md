@@ -1,7 +1,7 @@
 ---
 title: Discover LYRX's New Features in macOS Catalina – Participate as a Beta Tester for PCDJ Integration!
-date: 2024-11-25T20:36:08.705Z
-updated: 2024-11-30T20:34:51.486Z
+date: 2024-12-05T18:44:00.720Z
+updated: 2024-12-08T23:23:35.686Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ For now, we are asking for a few LYRX customers that are using newer Apple compu
 **Important Notes:** 10.14 or 10.15 of macOS is needed to run the Catalina-specific LYRX beta. As noted, this is a beta version, and should not be used in a venue/production environment. Specifically, the GUI/interface and video/karaoke should be tested as the changes there are massive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,16 +50,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/03/lyrx-catalina-beta.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-ultimate-insights-into-the-art-of-srt-file-creation/"><u>[New] 2024 Approved Ultimate Insights Into the Art of SRT File Creation</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/cdwindows/"><u>CDを使わずに新しいドライブにWindows</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/comment-saffranchir-de-leclatement-noir-sous-windows-11-apres-une-mise-a-jour/"><u>Comment S'affranchir De L'éclatement Noir Sous Windows 11 Après Une Mise À Jour?</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/entsperren-sie-ihr-iphone-ohne-kennwort-mit-diesen-drei-einfachen-strategien/"><u>Entsperren Sie Ihr iPhone Ohne Kennwort Mit Diesen Drei Einfachen Strategien</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/mastering-mac-data-organization-the-essential-manual-on-folder-synchronization/"><u>Mastering Mac Data Organization: The Essential Manual on Folder Synchronization</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/the-roadmap-to-instagram-star-status-9-must-do-tactics/"><u>The Roadmap to Instagram Star Status 9 Must-Do Tactics</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-samsung-galaxy-s23-tactical-edition-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Samsung Galaxy S23 Tactical Edition Phone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-mini-tablet-computers-comprehensive-reviews-by-tech-gurus/"><u>Top-Rated Mini Tablet Computers : Comprehensive Reviews by Tech Gurus</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/troubleshooting-guide-overcoming-vcenter-web-client-access-problems/"><u>Troubleshooting Guide: Overcoming vCenter Web Client Access Problems</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/1728485490085-yahoo-mail/"><u>Yahoo! Mail における消去前のメッセージ領域の保持期限：詳細解析</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-connect-movie-files-in-youtv-catalog/"><u>[New] 2024 Approved Connect Movie Files in YouTV Catalog</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-captureeverything-a-deep-dive-into-laptop-recording/"><u>[New] CaptureEverything A Deep Dive Into Laptop Recording</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-a-step-by-step-guide-to-the-top-20-strategies-for-successful-fb-videos/"><u>[Updated] A Step-by-Step Guide to the Top 20 Strategies for Successful FB Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-maximizing-moolah-how-to-monetize-videos-on-the-social-network-giant/"><u>[Updated] Maximizing Moolah How to Monetize Videos on the Social Network Giant</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pinnacle-phones-the-supreme-choices-in-mobile-video-recording/"><u>[Updated] Pinnacle Phones The Supreme Choices in Mobile Video Recording</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/disabling-notification-alerts-via-control-panel-a-step-by-step-guide-from-yl-computing/"><u>Disabling Notification Alerts via Control Panel - A Step-by-Step Guide From YL Computing</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/enhance-windows-10-safety-expert-tips-and-tricks-with-yl-software-solutions/"><u>Enhance Windows 10 Safety: Expert Tips and Tricks with YL Software Solutions</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/enhancing-your-pcs-efficiency-expert-tips-on-adjusting-system-configurations-for-peak-performance-yl-tech-insights/"><u>Enhancing Your PC's Efficiency: Expert Tips on Adjusting System Configurations for Peak Performance - YL Tech Insights</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/how-to-fix-games-that-are-constantly-crashing-or-freezing-expert-advice-by-yl-computing-and-yl-software/"><u>How to Fix Games That Are Constantly Crashing or Freezing - Expert Advice by YL Computing & YL Software</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-xr21-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Nokia XR21 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-apple-iphone-x-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On Apple iPhone X?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/introducing-amds-latest-innovation-the-next-generation-of-ryzen-processors-now-with-enhanced-support-for-strix-halo-and-kraken-point-technologies/"><u>Introducing AMD's Latest Innovation: The Next Generation of Ryzen Processors - Now with Enhanced Support for Strix Halo & Kraken Point Technologies</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/live-gold-line-artwork-by-yl-computing-ultimate-hd-wallpaper-for-your-phone/"><u>Live Gold Line Artwork by YL Computing: Ultimate HD Wallpaper for Your Phone</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-corrupted-access-control-in-windows/"><u>Rectifying Corrupted Access Control in Windows</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/the-origins-of-gunpowder-in-china-its-revolutionary-impact-on-ancient-civilization-yl-software-solutions/"><u>The Origins of Gunpowder in China: Its Revolutionary Impact on Ancient Civilization - YL Software Solutions</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/troubleshooting-and-resolving-windows-graphic-card-errors-expert-guidance-from-yl-computing/"><u>Troubleshooting and Resolving Windows Graphic Card Errors - Expert Guidance From YL Computing</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/unveiling-the-distinct-features-comparing-windows-defender-with-competitive-antivirus-solutions-innovations-by-yl-computing/"><u>Unveiling the Distinct Features: Comparing Windows Defender with Competitive Antivirus Solutions - Innovations by YL Computing</u></a></li>
 </ul></div>
 

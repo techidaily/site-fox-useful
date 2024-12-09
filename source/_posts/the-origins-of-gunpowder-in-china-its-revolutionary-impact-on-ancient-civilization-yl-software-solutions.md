@@ -1,7 +1,7 @@
 ---
 title: "The Origins of Gunpowder in China: Its Revolutionary Impact on Ancient Civilization - YL Software Solutions"
-date: 2024-11-29T21:13:35.208Z
-updated: 2024-11-30T18:48:14.038Z
+date: 2024-12-03T17:07:22.900Z
+updated: 2024-12-08T17:42:07.555Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,18 +56,18 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-stepwise-guide-to-windows-11-sound-capture-setup/"><u>[Updated] Stepwise Guide to Windows 11 Sound Capture Setup</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-best-no-cost-iphone-and-android-apps-for-slow-motion-videos/"><u>In 2024, Best No-Cost iPhone & Android Apps for Slow Motion Videos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-demystifying-youtube-shorts-for-total-beginners/"><u>In 2024, Demystifying YouTube Shorts for Total Beginners</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/live-action-explore-the-dynamic-world-of-real-time-broadcasting/"><u>Live Action: Explore the Dynamic World of Real-Time Broadcasting</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/mirillis-software-free-download-get-your-own-copy-now/"><u>Mirillis Software Free Download: Get Your Own Copy Now!</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-combine-multiple-avi-files-into-one-top-10-free-avi-merger-tools/"><u>New In 2024, Combine Multiple AVI Files Into One Top 10 Free AVI Merger Tools</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-video-to-picture-the-ultimate-list-of-10-conversion-tools-for-2024/"><u>New Video to Picture The Ultimate List of 10 Conversion Tools for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fix-guide-how-to-prevent-deathloop-from-continuously-crashing-on-pc-systems/"><u>Quick Fix Guide: How to Prevent Deathloop From Continuously Crashing on PC Systems</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/step-by-step-tutorial-capturing-and-saving-your-favorite-twitch-broadcasts-for-windows-and-macos-users/"><u>Step-by-Step Tutorial: Capturing & Saving Your Favorite Twitch Broadcasts for Windows & macOS Users</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/strategies-in-imperator-rome-forge-empires-and-endure-extremes/"><u>Strategies in 'Imperator: Rome': Forge Empires and Endure Extremes</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/ultimate-guide-top-strategies-for-capturing-flawless-pc-gaming-sessions/"><u>Ultimate Guide: Top Strategies for Capturing Flawless PC Gaming Sessions</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/understanding-the-reasons-behind-a-blacklisted-mirallis-product-code/"><u>Understanding the Reasons Behind a Blacklisted Mirallis Product Code</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/zuzka-series-downloaded-to-multiple-file-types-including-mp4-flv-mkv-high-quality-streaming-available/"><u>Zuzka Series Downloaded to Multiple File Types Including MP4, FLV, MKV - High-Quality Streaming Available!</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-best-practices-for-youtube-video-brightness-and-contrast/"><u>[Updated] Best Practices for YouTube Video Brightness and Contrast</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-art-of-video-filming-across-various-computing-platforms/"><u>[Updated] The Art of Video Filming Across Various Computing Platforms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-adopting-hdri-for-superior-visual-storytelling-in-video-arts/"><u>2024 Approved Adopting HDRI for Superior Visual Storytelling in Video Arts</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/boosting-system-memory-for-optimal-speed-a-guide-from-yl-software-experts/"><u>Boosting System Memory for Optimal Speed: A Guide From YL Software Experts</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-setting-up-and-enabling-the-revo-app-manager/"><u>Complete Guide: Setting Up & Enabling the Revo App Manager</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/easy-methods-for-disabling-microsofts-security-feature-in-windows-11-cybertech-innovations-blog/"><u>Easy Methods for Disabling Microsoft's Security Feature in Windows 11 - CyberTech Innovations Blog</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/efficiently-declutter-your-pc-tips-and-tricks-from-yl-computings-expert-guide/"><u>Efficiently Declutter Your PC: Tips and Tricks From YL Computing's Expert Guide</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/exploring-the-pros-and-cons-of-crypto-investments-insights-from-yl-computings-guide/"><u>Exploring the Pros and Cons of Crypto Investments: Insights From YL Computing's Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-oppo-a56s-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Oppo A56s 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/master-the-process-of-driver-updates-for-enhanced-performance-with-tips-from-yl-software/"><u>Master the Process of Driver Updates for Enhanced Performance with Tips From YL Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723004797636-solving-steam-remote-play-issues-top-troubleshooting-tips/"><u>Solving Steam Remote Play Issues: Top Troubleshooting Tips!</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/step-by-step-guide-adjusting-system-clock-settings-via-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting System Clock Settings via Windows Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207568705-understanding-msdia80dll-importance-and-management/"><u>Understanding msdia80.dll: Importance & Management</u></a></li>
 </ul></div>
 
