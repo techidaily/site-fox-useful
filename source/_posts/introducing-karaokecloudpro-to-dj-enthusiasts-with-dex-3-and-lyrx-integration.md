@@ -1,7 +1,7 @@
 ---
 title: Introducing KaraokeCloudPro to DJ Enthusiasts with DEX 3 and LYRX Integration
-date: 2024-12-08T02:56:32.595Z
-updated: 2024-12-08T18:41:17.210Z
+date: 2024-12-13T20:15:31.566Z
+updated: 2024-12-15T03:18:27.935Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ _**Note:** Already own DEX 3 or LYRX? Be sure to update to the latest version to
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Create a Karaoke Cloud Pro Account in DEX 3 or LYRX:
@@ -47,19 +47,19 @@ RIGHT CLICK ON “KARAOKE CLOUD PRO” ICON AND SELECT “ACCOUNT DETAILS”
 ![Create Karaoke Cloud Pro Account](https://i1.wp.com/pcdj.com/wp-content/uploads/2022/02/account-details.jpg?fit=550%2C550&ssl=1 "Create Karaoke Cloud Pro Account")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [ENTER IN BILLING INFORMATION AND CLICK SUSCRIBE TO KICK OFF THE 14-DAY TRIAL ![Enter Details for Karaoke Cloud Pro](https://i0.wp.com/pcdj.com/wp-content/uploads/2022/02/enter-details.jpg?fit=924%2C924&ssl=1 "Enter Details for Karaoke Cloud Pro")](https://i0.wp.com/pcdj.com/wp-content/uploads/2022/02/enter-details.jpg?fit=924%2C924&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about the Karaoke Cloud Pro **karaoke subscription service**? Please ask below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,19 +81,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2022/02/kcp-dex3.jpg?fit=1548%2C91
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-mastering-movie-capture-pc-mac-and-mobile-devices/"><u>[New] 2024 Approved Mastering Movie Capture PC, Mac, & Mobile Devices</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-unlocking-the-potential-of-vimeo-video-logging/"><u>[New] In 2024, Unlocking the Potential of Vimeo Video Logging</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-what-to-expect-from-your-instagram-experience-now/"><u>[New] In 2024, What to Expect From Your Instagram Experience Now</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-ultimate-unboxing-logitechs-professional-4k-pro-webcam/"><u>[Updated] 2024 Approved Ultimate Unboxing Logitech's Professional 4K Pro Webcam</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-guide-to-securely-copying-youtube-music-tracks-safely/"><u>2024 Approved Guide to Securely Copying YouTube Music Tracks Safely</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-the-ultimate-guide-to-mastering-zoom-in-windows-10/"><u>2024 Approved The Ultimate Guide to Mastering Zoom in Windows 10</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/easy-steps-to-identify-and-fix-hardware-malfunctions-in-windows-guided-by-yl-software-experts/"><u>Easy Steps to Identify and Fix Hardware Malfunctions in Windows - Guided by YL Software Experts</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/easy-steps-to-manage-firewall-settings-in-windows-control-panel-tips-from-yl-software-experts/"><u>Easy Steps to Manage Firewall Settings in Windows Control Panel - Tips From YL Software Experts</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/fresh-playlist-alert-add-34plus-tracks-to-your-library-with-our-latest-karaoke-subscription-update-march-2021/"><u>Fresh Playlist Alert: Add 34+ Tracks to Your Library with Our Latest Karaoke Subscription Update - March 2021</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/high-definition-audi-rs4-wallpaper-downloads-editable-and-screen-saver-ready/"><u>High-Definition Audi RS4 Wallpaper Downloads: Editable & Screen Saver Ready</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-facebooks-vibe-todays-hot-ten-music-clips/"><u>In 2024, Facebook’s Vibe Today’s Hot Ten Music Clips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/movavi-m4a-mp3/"><u>Movavi의 M4A 파일을 MP3로 정품으로 가동하는 원격적인 무료 서비스 – 시대를 앞이어진 기술</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/top-strategies-for-protecting-your-pc-against-malware-insights-from-yl-computing/"><u>Top Strategies for Protecting Your PC Against Malware: Insights From YL Computing</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-become-a-cartoon-star-best-apps-for-transforming-your-photos-on-iphone-and-android/"><u>Updated In 2024, Become a Cartoon Star Best Apps for Transforming Your Photos on iPhone and Android</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-social-savvy-essential-hashtags-that-work-today/"><u>[Updated] In 2024, Social Savvy Essential Hashtags That Work Today</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-guide-for-proficient-use-of-movie-maker-in-win11/"><u>[Updated] Step-by-Step Guide for Proficient Use of Movie Maker in Win11</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-nighttime-action-gopro-hero5-vs-star-sj7/"><u>2024 Approved Nighttime Action GoPro Hero5 vs Star SJ7</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-nvidias-rtx-series-the-future-of-graphic-processing-unveiled/"><u>Demystifying NVIDIA's RTX Series: The Future of Graphic Processing Unveiled</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/effective-measures-to-address-windows-defenders-virus-detection-guidance-by-yl-computing/"><u>Effective Measures to Address Windows Defender's Virus Detection - Guidance by YL Computing</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/experience-cultural-integration-through-hindi-discover-8-engaging-advantages-with-mondly/"><u>Experience Cultural Integration Through Hindi - Discover 8 Engaging Advantages with Mondly!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-free-download-hp-photosmart-7520-printer-software-today/"><u>Get Your [Free Download] HP Photosmart 7520 Printer Software Today!</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/hardware-troubleshooting-via-software-tools-exploring-options-at-yl-computing/"><u>Hardware Troubleshooting Via Software Tools - Exploring Options at YL Computing</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-8-plus-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/lyrx-version-14-launched-features-integration-with-karaokenet-and-new-in-app-shopping-experience/"><u>LYRX Version 1.4 Launched: Features Integration with Karaoke.Net and New In-App Shopping Experience</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/regulatory-standards-and-policies-for-digital-currencies-by-yl-software/"><u>Regulatory Standards and Policies for Digital Currencies by YL Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/revitalizing-the-file-explorer-ui/"><u>Revitalizing the File Explorer UI</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/save-the-fun-seamlessly-transferring-songbooks-from-partytyme-karaoke-to-pc-via-pdf-export-techniques/"><u>Save the Fun: Seamlessly Transferring Songbooks From PartyTyme Karaoke to PC via PDF Export Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722113784777-the-secrets-out-engage-in-dialogue-with-chatgpt-today/"><u>The Secret's Out: Engage in Dialogue with ChatGPT Today!</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/what-are-the-alternatives-to-modifying-the-windows-registry-uncover-options-with-yl-software-experts/"><u>What Are the Alternatives to Modifying the Windows Registry? Uncover Options with YL Software Experts</u></a></li>
 </ul></div>
 

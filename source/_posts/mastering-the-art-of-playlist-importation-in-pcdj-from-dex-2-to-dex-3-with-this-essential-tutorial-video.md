@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Playlist Importation in PCDJ - From Dex 2 to Dex 3 with This Essential Tutorial Video
-date: 2024-12-01T18:46:34.784Z
-updated: 2024-12-08T22:53:19.902Z
+date: 2024-12-11T20:27:12.449Z
+updated: 2024-12-15T05:25:05.567Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ This feature doesn’t just work for DEX 2 playlists, it will work for RED Mobil
 #### DJ Software Tutorial Video: Importing Playlists From DEX 2 into DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,21 +44,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/08/importingplaylists-coverim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-how-to-capitalize-on-your-youtube-shorts-for-cash-flow/"><u>[New] 2024 Approved How to Capitalize on Your YouTube Shorts for Cash Flow</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-top-12-tactics-for-amplifying-your-youtube-traffic/"><u>[Updated] Top 12 Tactics for Amplifying Your YouTube Traffic</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/1-fix-non-responsive-apps-in-windows-a-step-by-step-guide-by-yl-computing/"><u>1. Fix Non-Responsive Apps in Windows: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/1-the-impact-of-the-second-sino-japanese-war-on-chinas-population-insights-and-analysis-yl-computing/"><u>1. The Impact of the Second Sino-Japanese War on China's Population: Insights and Analysis - YL Computing</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/access-and-modify-network-preferences-using-the-windows-control-panel-with-guidance-by-yl-software-experts/"><u>Access and Modify Network Preferences Using the Windows Control Panel with Guidance by YL Software Experts</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/deng-xiaoping-and-his-transformational-policies-shaping-contemporary-chinese-society-insights-from-yl-software/"><u>Deng Xiaoping and His Transformational Policies: Shaping Contemporary Chinese Society – Insights From YL Software</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-vivo-s18-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-start-promoting-smart-a-beginners-guide-to-using-telegram/"><u>In 2024, Start Promoting Smart A Beginner's Guide to Using Telegram</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/inside-openais-innovation-the-evolution-and-distinctions-of-generative-pre-trained-transformer-versions-gpt-1-to-gpt-4-decoded/"><u>Inside OpenAI's Innovation: The Evolution and Distinctions of Generative Pre-Trained Transformer Versions - GPT-1 to GPT-4 Decoded</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-download-land-free-photo-frames-for-2024/"><u>Navigating Download Land Free Photo Frames for 2024</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/quick-guide-to-speeding-up-your-computer-with-advanced-windows-configurations-yl-software-solutions/"><u>Quick Guide to Speeding Up Your Computer with Advanced Windows Configurations - YL Software Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-a-dormant-tab-key-for-seamless-typing/"><u>Reviving a Dormant Tab Key for Seamless Typing</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/securing-your-information-preventing-cyber-attacks-and-data-breaches-with-yl-software-solutions/"><u>Securing Your Information: Preventing Cyber Attacks and Data Breaches with YL Software Solutions</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-crashing-microsoft-edge-on-your-windows-10-pc-made-simple/"><u>Troubleshooting Crashing Microsoft Edge on Your Windows 10 PC Made Simple</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/troubleshooting-printer-drivers-how-to-update-or-reinstall-with-expert-advice-from-yl-software/"><u>Troubleshooting Printer Drivers: How to Update or Reinstall with Expert Advice From YL Software</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-exploring-the-universe-of-gesture-technology/"><u>[New] In 2024, Exploring the Universe of Gesture Technology</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-complete-srt-file-makers-handbook/"><u>[New] The Complete SRT File Maker's Handbook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-11-fitness-youtube-video-ideas-to-keep-you-and-your-viewers-moving-for-2024/"><u>[Updated] 11 Fitness YouTube Video Ideas to Keep You and Your Viewers Moving for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-sound-studio-everything-about-the-sound-recording-studio-mac/"><u>[Updated] 2024 Approved Sound Studio - Everything About the Sound Recording Studio Mac</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1-overcoming-power-issues-with-your-scanner-comprehensive-solutions-from-yl-computing/"><u>1. Overcoming Power Issues with Your Scanner: Comprehensive Solutions From YL Computing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-iphone-filmmaking-essentials-creating-and-changing-video-speed-dynamics/"><u>2024 Approved IPhone Filmmaking Essentials Creating and Changing Video Speed Dynamics</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/boost-in-asian-stock-performance-driven-by-chinas-stamp-duty-changes-early-session-trading-reflects-optimism-singapore-shares-up-105-market-watchfulness-per46/"><u>Boost in Asian Stock Performance Driven by China's Stamp Duty Changes; Early Session Trading Reflects Optimism, Singapore Shares Up 1.05%; Market Watchfulness Persists Preceding US Economic Data Release - Analysis by YL Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-truthgpt-the-innovative-project-elon-musk-is-developing-right-now/"><u>Decoding TruthGPT: The Innovative Project Elon Musk Is Developing Right Now</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/determining-windows-11-activation-status-a-guide-by-yl-computing/"><u>Determining Windows 11 Activation Status: A Guide by YL Computing</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/dr-folder-yl/"><u>Dr. Folder 快速指南：重新设定文件夹的十二生肖图标 - YL计算机技术解答</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/dual-monitor-management-tips-for-running-splitscreen-on-your-pc-insights-from-yl-computing/"><u>Dual Monitor Management: Tips for Running Splitscreen on Your PC - Insights From YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-login-security-tweaking-the-reset-lockout-after-fails-in-windows-11/"><u>Mastering Login Security: Tweaking the Reset Lockout After Fails in Windows 11</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/mastering-windows-registry-tips-and-techniques-for-creating-reading-and-editing-entries-insights-by-yl-computing/"><u>Mastering Windows Registry: Tips & Techniques for Creating, Reading, and Editing Entries - Insights by YL Computing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-oppo-a1x-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Oppo A1x 5G</u></a></li>
 </ul></div>
 

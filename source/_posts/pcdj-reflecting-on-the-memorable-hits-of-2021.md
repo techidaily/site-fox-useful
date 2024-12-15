@@ -1,7 +1,7 @@
 ---
 title: "PCDJ: Reflecting on the Memorable Hits of 2021"
-date: 2024-12-04T02:51:29.139Z
-updated: 2024-12-08T17:11:38.859Z
+date: 2024-12-12T02:17:57.050Z
+updated: 2024-12-14T23:32:13.411Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ As we like to do at the expiry of each year, here’s a look at a few PCDJ miles
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2021 PCDJ Milestones
@@ -49,7 +49,7 @@ With 2021 in the books we’re exited to build on our momentum in 2022\. New fea
 _**Happy New Year — and here’s to a happy, healthy, and prosperous 2022\. We appreciate you!**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -71,18 +71,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2022/01/year-in-review-copy.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-flickering-camera-lights-to-financial-highlights/"><u>[New] 2024 Approved From Flickering Camera Lights to Financial Highlights</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-top-5-alternatives-to-tiktok-you-should-know-updated-for-2024/"><u>[New] Top 5 Alternatives to TikTok You Should Know [Updated ] for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-leading-10-open-source-video-communication-solutions-businesseducation-focus/"><u>[Updated] 2024 Approved Leading 10 Open Source Video Communication Solutions Business/Education Focus</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-command-attention-elevating-your-page-to-the-social-summit/"><u>[Updated] Command Attention Elevating Your Page to the Social Summit</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-profile-video-wow-factor-techniques/"><u>2024 Approved Profile Video Wow Factor Techniques</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/beautiful-countryside-scenes-and-photographs-premium-image-library-by-yl-software-solutions/"><u>Beautiful Countryside Scenes and Photographs – Premium Image Library by YL Software Solutions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-latest-corsair-icue-software-for-pc-compatible-with-windows-11-and-10/"><u>Download the Latest Corsair iCUE Software for PC - Compatible with Windows 11 & 10</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effective-strategies-to-prevent-printer-paper-jams-expert-advice-from-yl-computing/"><u>Effective Strategies to Prevent Printer Paper Jams: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tips-on-how-to-determine-your-cars-anti-theft-radio-code/"><u>Expert Tips on How to Determine Your Car's Anti-Theft Radio Code</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/high-resolution-audi-a8-tfsi-e-hybrid-display-graphics-and-digital-artwork-for-desktop-backgrounds/"><u>High-Resolution Audi A8 TFSI E Hybrid Display Graphics & Digital Artwork for Desktop Backgrounds</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/how-can-you-fix-a-sluggish-laptop-essential-tips-from-yl-computings-expertise/"><u>How Can You Fix a Sluggish Laptop? Essential Tips From YL Computing's Expertise</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/integrating-online-streaming-into-your-home-cinema-experience/"><u>Integrating Online Streaming Into Your Home Cinema Experience</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-vlc-video-cutter-for-mac-preserve-quality-while-trimming/"><u>New In 2024, VLC Video Cutter for Mac Preserve Quality While Trimming</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-ultimate-camcorders-for-high-quality-podcasts/"><u>[New] In 2024, Ultimate Camcorders for High-Quality Podcasts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-elevating-your-ig-aesthetics-with-top-10-grid-builders-for-2024/"><u>[Updated] Elevating Your IG Aesthetics with Top 10 Grid Builders for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/blurring-techniques-for-cleaner-image-edits/"><u>Blurring Techniques for Cleaner Image Edits</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/can-upgraded-thermal-interface-material-decrease-system-malfunctions-by-cooling-the-cpu-exploring-solutions-with-yl-computings-tech-insights/"><u>Can Upgraded Thermal Interface Material Decrease System Malfunctions by Cooling the CPU - Exploring Solutions with YL Computing's Tech Insights</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/discover-lyrxs-new-features-in-macos-catalina-participate-as-a-beta-tester-for-pcdj-integration/"><u>Discover LYRX's New Features in macOS Catalina – Participate as a Beta Tester for PCDJ Integration!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/effective-strategies-how-to-overcome-the-error-compiling-issue-in-premiere-pro-video-editing-software/"><u>Effective Strategies: How to Overcome the 'Error Compiling' Issue in Premiere Pro (Video Editing Software)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-upgrading-to-chatgpt-plus-smart-discover-the-top-5-reasons-for-opting-in/"><u>Is Upgrading to ChatGPT Plus Smart? Discover the Top 5 Reasons for Opting-In.</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/mastering-user-account-administration-with-yl-computings-innovative-yl-software-tools/"><u>Mastering User Account Administration with YL Computing's Innovative YL Software Tools</u></a></li>
+<li><a href="https://article-tips.techidaily.com/next-level-vr-tools-top-8-selection-for-2024/"><u>Next-Level VR Tools Top 8 Selection for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/securing-your-digital-assets-expert-tips-from-yl-computing/"><u>Securing Your Digital Assets: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/starting-with-dj-controllers-a-comprehensive-guide-to-mastering-the-pcdj-dex3-re/"><u>Starting with DJ Controllers: A Comprehensive Guide to Mastering the PCDJ DEX3 RE</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/top-strategies-to-lower-energy-use-on-your-pc-expert-tips-from-yl-computing/"><u>Top Strategies to Lower Energy Use on Your PC: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformer-des-fichiers-m4a-en-video-obv-gratuite-ligne-de-conversion-en-ligne-movavi/"><u>Transformer Des Fichiers M4A en Vidéo OBV Gratuite - Ligne De Conversion en Ligne - Movavi</u></a></li>
 </ul></div>
 

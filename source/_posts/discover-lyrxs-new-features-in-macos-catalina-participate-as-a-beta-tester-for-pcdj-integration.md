@@ -1,7 +1,7 @@
 ---
 title: Discover LYRX's New Features in macOS Catalina – Participate as a Beta Tester for PCDJ Integration!
-date: 2024-12-05T18:44:00.720Z
-updated: 2024-12-08T23:23:35.686Z
+date: 2024-12-08T17:11:15.806Z
+updated: 2024-12-14T19:23:17.840Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ For now, we are asking for a few LYRX customers that are using newer Apple compu
 **Important Notes:** 10.14 or 10.15 of macOS is needed to run the Catalina-specific LYRX beta. As noted, this is a beta version, and should not be used in a venue/production environment. Specifically, the GUI/interface and video/karaoke should be tested as the changes there are massive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,22 +50,14 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/03/lyrx-catalina-beta.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-connect-movie-files-in-youtv-catalog/"><u>[New] 2024 Approved Connect Movie Files in YouTV Catalog</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-captureeverything-a-deep-dive-into-laptop-recording/"><u>[New] CaptureEverything A Deep Dive Into Laptop Recording</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-a-step-by-step-guide-to-the-top-20-strategies-for-successful-fb-videos/"><u>[Updated] A Step-by-Step Guide to the Top 20 Strategies for Successful FB Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-maximizing-moolah-how-to-monetize-videos-on-the-social-network-giant/"><u>[Updated] Maximizing Moolah How to Monetize Videos on the Social Network Giant</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pinnacle-phones-the-supreme-choices-in-mobile-video-recording/"><u>[Updated] Pinnacle Phones The Supreme Choices in Mobile Video Recording</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/disabling-notification-alerts-via-control-panel-a-step-by-step-guide-from-yl-computing/"><u>Disabling Notification Alerts via Control Panel - A Step-by-Step Guide From YL Computing</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/enhance-windows-10-safety-expert-tips-and-tricks-with-yl-software-solutions/"><u>Enhance Windows 10 Safety: Expert Tips and Tricks with YL Software Solutions</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/enhancing-your-pcs-efficiency-expert-tips-on-adjusting-system-configurations-for-peak-performance-yl-tech-insights/"><u>Enhancing Your PC's Efficiency: Expert Tips on Adjusting System Configurations for Peak Performance - YL Tech Insights</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/how-to-fix-games-that-are-constantly-crashing-or-freezing-expert-advice-by-yl-computing-and-yl-software/"><u>How to Fix Games That Are Constantly Crashing or Freezing - Expert Advice by YL Computing & YL Software</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-xr21-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Nokia XR21 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-apple-iphone-x-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On Apple iPhone X?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/introducing-amds-latest-innovation-the-next-generation-of-ryzen-processors-now-with-enhanced-support-for-strix-halo-and-kraken-point-technologies/"><u>Introducing AMD's Latest Innovation: The Next Generation of Ryzen Processors - Now with Enhanced Support for Strix Halo & Kraken Point Technologies</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/live-gold-line-artwork-by-yl-computing-ultimate-hd-wallpaper-for-your-phone/"><u>Live Gold Line Artwork by YL Computing: Ultimate HD Wallpaper for Your Phone</u></a></li>
-<li><a href="https://win11.techidaily.com/rectifying-corrupted-access-control-in-windows/"><u>Rectifying Corrupted Access Control in Windows</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/the-origins-of-gunpowder-in-china-its-revolutionary-impact-on-ancient-civilization-yl-software-solutions/"><u>The Origins of Gunpowder in China: Its Revolutionary Impact on Ancient Civilization - YL Software Solutions</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/troubleshooting-and-resolving-windows-graphic-card-errors-expert-guidance-from-yl-computing/"><u>Troubleshooting and Resolving Windows Graphic Card Errors - Expert Guidance From YL Computing</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/unveiling-the-distinct-features-comparing-windows-defender-with-competitive-antivirus-solutions-innovations-by-yl-computing/"><u>Unveiling the Distinct Features: Comparing Windows Defender with Competitive Antivirus Solutions - Innovations by YL Computing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-buyers-path-to-a-top-360-camera-purchase-guide/"><u>2024 Approved Buyer's Path to a Top 360 Camera Purchase Guide</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/swf-gif-movavi/"><u>網站無成本 SWF 到 GIF 轉換 - 使用 Movavi 工具</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/can-you-trust-windows-defender-to-shield-your-system-from-ransomware-attacks-insights-by-yl-computing-expertise/"><u>Can You Trust Windows Defender to Shield Your System From Ransomware Attacks? Insights by YL Computing Expertise</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-ready-for-macos-version-15-sequoia-release-sneak-peek-feature-highlights-and-latest-developments/"><u>Get Ready for macOS Version 15 'Sequoia': Release Sneak Peek, Feature Highlights & Latest Developments</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-streamlining-media-transfer-twitter-content-on-snapchat/"><u>In 2024, Streamlining Media Transfer Twitter Content on Snapchat</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/perfecting-igtv-video-production-on-smartphonesdslrs/"><u>Perfecting IGTV Video Production on Smartphones/DSLRs</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/secure-steps-a-comprehensive-guide-on-safe-hardware-removal-tips-from-yl-computing-and-software/"><u>Secure Steps: A Comprehensive Guide on Safe Hardware Removal - Tips From YL Computing & Software</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/why-are-my-video-games-experiencing-lag-and-hang-ups-expert-advice-from-yl-computing/"><u>Why Are My Video Games Experiencing Lag and Hang-Ups? Expert Advice From YL Computing</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/yl-softwares-overview-top-crypto-options-to-consider-investing-in-today/"><u>YL Software's Overview: Top Crypto Options to Consider Investing in Today</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Masterclass: Innovative Branding Techniques Using DEX3 & Shader Effects"
-date: 2024-12-07T23:53:31.447Z
-updated: 2024-12-08T20:44:39.009Z
+date: 2024-12-10T16:22:56.464Z
+updated: 2024-12-15T03:10:23.699Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ Use the combination of Shaders and Overlays for branding purposes and/or for dis
 _Have questions about using **Shaders** in our **DEX 3 DJ software**, or how to **create text, image, and video overlays**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,18 +50,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/shaderdemo-cover.jpg?fit=7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-a-deep-dive-into-ideal-instagram-post-times-for-2024/"><u>[New] A Deep Dive Into Ideal Instagram Post Times for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-highlighted-14-examples-of-motion-texts-for-2024/"><u>[New] Highlighted 14 Examples of Motion Texts for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-expert-guide-to-initiate-video-calls-using-whatsapp-web-for-laptops-for-2024/"><u>[Updated] Expert Guide to Initiate Video Calls Using WhatsApp Web for Laptops for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-scaling-back-obs-video-bandwidth/"><u>[Updated] In 2024, Scaling Back OBS Video Bandwidth</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-streamlining-gameplay-logs-for-social-media-sharing/"><u>[Updated] Streamlining Gameplay Logs for Social Media Sharing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-behind-the-brand-pewdiepies-financial-figures-unveiled/"><u>2024 Approved Behind the Brand PewDiePie’s Financial Figures Unveiled</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-quick-cuts-editing-instagram-videos-on-macos/"><u>2024 Approved Quick Cuts Editing Instagram Videos on macOS</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/how-to-fix-a-sluggish-pc-expert-tips-from-yl-computing-yl-software/"><u>How To Fix a Sluggish PC: Expert Tips From YL Computing - YL Software</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-keep-valorant-running-smoothly-without-random-pc-shutdowns/"><u>How to Keep Valorant Running Smoothly Without Random PC Shutdowns</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Asus ROG Phone 7? | Dr.fone</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/yl-computings-guide-to-guarding-crypto-assets-from-cyber-theft-and-hacking-threats/"><u>YL Computing's Guide to Guarding Crypto Assets From Cyber Theft and Hacking Threats</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/yl-software-tutorial-efficiently-harvesting-email-addresses-from-outlooks-folders-for-better-connectivity/"><u>YL Software Tutorial: Efficiently Harvesting Email Addresses From Outlook's Folders for Better Connectivity</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/yl-softwares-ultimate-collection-of-adventure-time-high-res-wallpapers-and-graphics/"><u>YL Software's Ultimate Collection of Adventure Time High-Res Wallpapers and Graphics</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-techniques-for-fabulous-photo-collage-artistry-for-2024/"><u>[New] Techniques for Fabulous Photo Collage Artistry for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pro-tips-to-elevate-your-headline-game/"><u>[Updated] Pro Tips to Elevate Your Headline Game</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-honor-magic-6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-itel-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862699721-acemagic-x1-dual-screen-laptop-unveil-the-price-and-purchase-details-this-coming-month/"><u>AceMagic X1 Dual-Screen Laptop: Unveil the Price & Purchase Details This Coming Month</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/connect-with-us-at-digiarty-pioneering-innovative-solutions-for-the-digital-era/"><u>Connect with Us at DigiArty - Pioneering Innovative Solutions for the Digital Era</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/essential-tips-for-diagnosing-and-fixing-windows-driver-errors-with-yl-computings-advice/"><u>Essential Tips for Diagnosing and Fixing Windows Driver Errors with YL Computing's Advice</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/essential-troubleshooting-utilities-how-to-identify-and-resolve-pc-issues-with-effective-tech-solutions/"><u>Essential Troubleshooting Utilities: How to Identify & Resolve PC Issues with Effective Tech Solutions</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/exploring-key-attributes-of-promising-crypto-assets-insights-from-yl-computings-analysis/"><u>Exploring Key Attributes of Promising Crypto Assets: Insights From YL Computing's Analysis</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/how-pcdj-outshined-karaoke-cloud-pro-insights-from-a-former-user-kj-testimonial/"><u>How PCDJ Outshined Karaoke Cloud Pro: Insights From a Former User, KJ Testimonial</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/how-to-repair-and-troubleshoot-a-defective-computer-mouse-solutions-by-yl-computing/"><u>How to Repair and Troubleshoot a Defective Computer Mouse - Solutions by YL Computing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On OnePlus 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/latest-2018-party-tyme-karaoke-hits-for-your-cd-dj-setup-release-date-april-30th/"><u>Latest 2018 Party Tyme Karaoke Hits for Your CD DJ Setup - Release Date: April 30Th</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-nvidia-rtx-3060-ti-graphics-card-drivers-compatible-with-windows-10-and-11/"><u>Latest NVIDIA RTX 3060 Ti Graphics Card Drivers - Compatible with Windows 10 & 11</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/solving-enigmatic-app-crashes-strategies-by-yl-software-experts/"><u>Solving Enigmatic App Crashes: Strategies by YL Software Experts</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/solving-the-mystery-of-a-missing-graphics-card-with-yls-expert-advice/"><u>Solving the Mystery of a Missing Graphics Card with YL's Expert Advice</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/step-by-step-entry-into-digital-dj-systems-and-karaoke-platforms-pcdj/"><u>Step-by-Step Entry Into Digital DJ Systems and Karaoke Platforms (PCDJ)</u></a></li>
+<li><a href="https://media-tips.techidaily.com/uninstalling-vlc-for-both-pc-and-mac-users-a-simple-detailed-instructional-guide/"><u>Uninstalling VLC for Both PC and Mac Users: A Simple, Detailed Instructional Guide</u></a></li>
 </ul></div>
 
