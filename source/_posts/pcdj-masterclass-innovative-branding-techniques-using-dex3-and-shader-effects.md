@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Masterclass: Innovative Branding Techniques Using DEX3 & Shader Effects"
-date: 2024-12-10T16:22:56.464Z
-updated: 2024-12-15T03:10:23.699Z
+date: 2024-12-18T05:35:10.642Z
+updated: 2024-12-24T04:18:53.980Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ Use the combination of Shaders and Overlays for branding purposes and/or for dis
 _Have questions about using **Shaders** in our **DEX 3 DJ software**, or how to **create text, image, and video overlays**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,24 +50,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/shaderdemo-cover.jpg?fit=7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-techniques-for-fabulous-photo-collage-artistry-for-2024/"><u>[New] Techniques for Fabulous Photo Collage Artistry for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pro-tips-to-elevate-your-headline-game/"><u>[Updated] Pro Tips to Elevate Your Headline Game</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-honor-magic-6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Honor Magic 6 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-itel-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862699721-acemagic-x1-dual-screen-laptop-unveil-the-price-and-purchase-details-this-coming-month/"><u>AceMagic X1 Dual-Screen Laptop: Unveil the Price & Purchase Details This Coming Month</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/connect-with-us-at-digiarty-pioneering-innovative-solutions-for-the-digital-era/"><u>Connect with Us at DigiArty - Pioneering Innovative Solutions for the Digital Era</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/essential-tips-for-diagnosing-and-fixing-windows-driver-errors-with-yl-computings-advice/"><u>Essential Tips for Diagnosing and Fixing Windows Driver Errors with YL Computing's Advice</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/essential-troubleshooting-utilities-how-to-identify-and-resolve-pc-issues-with-effective-tech-solutions/"><u>Essential Troubleshooting Utilities: How to Identify & Resolve PC Issues with Effective Tech Solutions</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/exploring-key-attributes-of-promising-crypto-assets-insights-from-yl-computings-analysis/"><u>Exploring Key Attributes of Promising Crypto Assets: Insights From YL Computing's Analysis</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/how-pcdj-outshined-karaoke-cloud-pro-insights-from-a-former-user-kj-testimonial/"><u>How PCDJ Outshined Karaoke Cloud Pro: Insights From a Former User, KJ Testimonial</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/how-to-repair-and-troubleshoot-a-defective-computer-mouse-solutions-by-yl-computing/"><u>How to Repair and Troubleshoot a Defective Computer Mouse - Solutions by YL Computing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On OnePlus 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/latest-2018-party-tyme-karaoke-hits-for-your-cd-dj-setup-release-date-april-30th/"><u>Latest 2018 Party Tyme Karaoke Hits for Your CD DJ Setup - Release Date: April 30Th</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-nvidia-rtx-3060-ti-graphics-card-drivers-compatible-with-windows-10-and-11/"><u>Latest NVIDIA RTX 3060 Ti Graphics Card Drivers - Compatible with Windows 10 & 11</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/solving-enigmatic-app-crashes-strategies-by-yl-software-experts/"><u>Solving Enigmatic App Crashes: Strategies by YL Software Experts</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/solving-the-mystery-of-a-missing-graphics-card-with-yls-expert-advice/"><u>Solving the Mystery of a Missing Graphics Card with YL's Expert Advice</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/step-by-step-entry-into-digital-dj-systems-and-karaoke-platforms-pcdj/"><u>Step-by-Step Entry Into Digital DJ Systems and Karaoke Platforms (PCDJ)</u></a></li>
-<li><a href="https://media-tips.techidaily.com/uninstalling-vlc-for-both-pc-and-mac-users-a-simple-detailed-instructional-guide/"><u>Uninstalling VLC for Both PC and Mac Users: A Simple, Detailed Instructional Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-create-time-travel-teleportation-effects/"><u>[New] How to Create Time Travel Teleportation Effects?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-pixels-in-perfection-tweeting-at-full-hd-quality/"><u>[New] In 2024, Pixels in Perfection Tweeting at Full HD Quality</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-top-11-screen-recorders-for-mac-for-2024/"><u>[New] Top 11 Screen Recorders for Mac for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/detecting-hardware-failures-through-device-manager-a-guide-by-yl-software-experts/"><u>Detecting Hardware Failures Through Device Manager: A Guide by YL Software Experts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-solve-the-unknown-usb-device-failure-problem-effectively/"><u>How To Solve the 'Unknown USB Device Failure' Problem Effectively</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-ultimate-media-creator-win8/"><u>In 2024, Ultimate Media Creator Win8</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-honor-x9b-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/troubleshooting-made-easy-how-driver-updates-can-fix-your-device-issues-insights-from-yl-software/"><u>Troubleshooting Made Easy: How Driver Updates Can Fix Your Device Issues – Insights From YL Software</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-itel-p40plus-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Itel P40+ Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/unveiling-common-reasons-behind-faulty-screens-an-in-depth-analysis-by-yl-computing/"><u>Unveiling Common Reasons Behind Faulty Screens: An In-Depth Analysis by YL Computing</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/windows-tricks-unveiled-altering-file-extensions-effortlessly-by-experts-at-yl-software/"><u>Windows Tricks Unveiled: Altering File Extensions Effortlessly by Experts at YL Software</u></a></li>
 </ul></div>
 

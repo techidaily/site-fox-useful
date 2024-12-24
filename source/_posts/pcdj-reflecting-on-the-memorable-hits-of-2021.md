@@ -1,7 +1,7 @@
 ---
 title: "PCDJ: Reflecting on the Memorable Hits of 2021"
-date: 2024-12-12T02:17:57.050Z
-updated: 2024-12-14T23:32:13.411Z
+date: 2024-12-19T16:26:07.919Z
+updated: 2024-12-24T02:51:33.444Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ As we like to do at the expiry of each year, here’s a look at a few PCDJ miles
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2021 PCDJ Milestones
@@ -49,7 +49,7 @@ With 2021 in the books we’re exited to build on our momentum in 2022\. New fea
 _**Happy New Year — and here’s to a happy, healthy, and prosperous 2022\. We appreciate you!**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -71,18 +71,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2022/01/year-in-review-copy.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-ultimate-camcorders-for-high-quality-podcasts/"><u>[New] In 2024, Ultimate Camcorders for High-Quality Podcasts</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-elevating-your-ig-aesthetics-with-top-10-grid-builders-for-2024/"><u>[Updated] Elevating Your IG Aesthetics with Top 10 Grid Builders for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/blurring-techniques-for-cleaner-image-edits/"><u>Blurring Techniques for Cleaner Image Edits</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/can-upgraded-thermal-interface-material-decrease-system-malfunctions-by-cooling-the-cpu-exploring-solutions-with-yl-computings-tech-insights/"><u>Can Upgraded Thermal Interface Material Decrease System Malfunctions by Cooling the CPU - Exploring Solutions with YL Computing's Tech Insights</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/discover-lyrxs-new-features-in-macos-catalina-participate-as-a-beta-tester-for-pcdj-integration/"><u>Discover LYRX's New Features in macOS Catalina – Participate as a Beta Tester for PCDJ Integration!</u></a></li>
-<li><a href="https://video-capture.techidaily.com/effective-strategies-how-to-overcome-the-error-compiling-issue-in-premiere-pro-video-editing-software/"><u>Effective Strategies: How to Overcome the 'Error Compiling' Issue in Premiere Pro (Video Editing Software)</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/is-upgrading-to-chatgpt-plus-smart-discover-the-top-5-reasons-for-opting-in/"><u>Is Upgrading to ChatGPT Plus Smart? Discover the Top 5 Reasons for Opting-In.</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/mastering-user-account-administration-with-yl-computings-innovative-yl-software-tools/"><u>Mastering User Account Administration with YL Computing's Innovative YL Software Tools</u></a></li>
-<li><a href="https://article-tips.techidaily.com/next-level-vr-tools-top-8-selection-for-2024/"><u>Next-Level VR Tools Top 8 Selection for 2024</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/securing-your-digital-assets-expert-tips-from-yl-computing/"><u>Securing Your Digital Assets: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/starting-with-dj-controllers-a-comprehensive-guide-to-mastering-the-pcdj-dex3-re/"><u>Starting with DJ Controllers: A Comprehensive Guide to Mastering the PCDJ DEX3 RE</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/top-strategies-to-lower-energy-use-on-your-pc-expert-tips-from-yl-computing/"><u>Top Strategies to Lower Energy Use on Your PC: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transformer-des-fichiers-m4a-en-video-obv-gratuite-ligne-de-conversion-en-ligne-movavi/"><u>Transformer Des Fichiers M4A en Vidéo OBV Gratuite - Ligne De Conversion en Ligne - Movavi</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/hannel-combat-determining-which-earns-more-from-videosdailymotion-or-youtube/"><u>[New] Channel Combat Determining Which Earns More From Videos—Dailymotion or YouTube</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-evolution-of-audio-liberation-pazeras-advanced-techniques-2e-for-2024/"><u>[New] The Evolution of Audio Liberation Pazera's Advanced Techniques (2E) for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-the-net-top-tags-for-eye-catching-gamer-content/"><u>[Updated] Navigating the Net Top Tags for Eye-Catching Gamer Content</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1-fix-non-responsive-apps-in-windows-a-step-by-step-guide-by-yl-computing/"><u>1. Fix Non-Responsive Apps in Windows: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1-unveiling-the-reasons-behind-windows-deactivated-auto-driver-installer-explored-by-yl-computing/"><u>1. Unveiling the Reasons Behind Windows' Deactivated Auto-Driver Installer - Explored by YL Computing</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/altering-window-colors-on-windows-11-tips-from-yl-softwares-yl-computing/"><u>Altering Window Colors on Windows 11: Tips From YL Software's YL Computing</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/deng-xiaoping-and-his-transformational-policies-shaping-contemporary-chinese-society-insights-from-yl-software/"><u>Deng Xiaoping and His Transformational Policies: Shaping Contemporary Chinese Society – Insights From YL Software</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-apple-iphone-7-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On Apple iPhone 7 without Password?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-diving-into-the-digital-backdrop-world-basics-of-green-screen-technology/"><u>In 2024, Diving Into the Digital Backdrop World Basics of Green Screen Technology</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/investigating-gpu-failures-are-compatibility-issues-to-blame-unveiling-the-truth-with-yl-computing-solutions/"><u>Investigating GPU Failures: Are Compatibility Issues to Blame? Unveiling the Truth with YL Computing Solutions</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-top-ai-rap-voice-generators-upgrade-your-rap-for-2024/"><u>New Top AI Rap Voice Generators Upgrade Your Rap for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pixiz-techniques-to-fuse-images-and-movement-seamlessly/"><u>Pixiz Techniques to Fuse Images and Movement Seamlessly</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/securing-your-information-preventing-cyber-attacks-and-data-breaches-with-yl-software-solutions/"><u>Securing Your Information: Preventing Cyber Attacks and Data Breaches with YL Software Solutions</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/troubleshooting-printer-drivers-how-to-update-or-reinstall-with-expert-advice-from-yl-software/"><u>Troubleshooting Printer Drivers: How to Update or Reinstall with Expert Advice From YL Software</u></a></li>
 </ul></div>
 

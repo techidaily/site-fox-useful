@@ -1,7 +1,7 @@
 ---
 title: "Save the Fun: Seamlessly Transferring Songbooks From PartyTyme Karaoke to PC via PDF Export Techniques"
-date: 2024-12-11T19:25:15.737Z
-updated: 2024-12-14T21:49:16.066Z
+date: 2024-12-19T23:59:37.214Z
+updated: 2024-12-24T04:23:06.903Z
 tags:
   - product
 categories:
@@ -24,36 +24,40 @@ All subscribers to the Party Tyme Karaoke subscription service need to do is log
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The Steps To Create And Export A Karaoke Songbook From Party Tyme Karaoke
 
 [VIEW LARGER IMAGE ![Login At Party Tyme Player Website](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/login-button-pt-1.jpg?fit=300%2C300&ssl=1 "Login At Party Tyme Player Website")](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/login-button-pt-1.jpg?fit=532%2C532&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1) After you have created an account in PCDJ DEX 3 or LYRX, visit [www.partytymeplayer.com](http://www.partytymeplayer.com) and click **LOGIN**, located on the far right on the websites navigation menu.
 
 [VIEW LARGER IMAGE ![](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/type-in-credentials-pt.jpg?fit=300%2C300&ssl=1 "Login using your subscription credentials")](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/type-in-credentials-pt.jpg?fit=756%2C756&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Login with the credentials created when you created the account in DEX 3 or LYRX. Your email address is used for the user name and punch in your custom password and click **LOGIN**.
 
 [VIEW LARGER IMAGE ![Locate the gear icon and click it](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/09/click-gear-icon-top-right-pt.jpg?fit=300%2C300&ssl=1 "Locate the gear icon and click it")](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/09/click-gear-icon-top-right-pt.jpg?fit=552%2C552&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Once you’re logged in, locate the ‘**GEAR**‘ looking icon in top right corner of the website and click on it. This will bring up initial settings for the PT karaoke songbook.
 
 [VIEW LARGER IMAGE ![Click open under other options](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/09/click-open-pt.jpg?fit=300%2C300&ssl=1 "Click open under other options")](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/09/click-open-pt.jpg?fit=780%2C780&ssl=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) On the settings screen, under ‘**Other Options**‘, click the **OPEN** button. This will launch the ‘**Export To PDF**‘ settings and creation menu.
 
 [VIEW LARGER IMAGE ![Select your songbook options and click OK](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/09/click-ok-pt.jpg?fit=300%2C300&ssl=1 "Select your songbook options and click OK")](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/09/click-ok-pt.jpg?fit=652%2C652&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5) The ‘**Export To PDF**‘ menu allows you to select the ‘**Song List Type**‘ — Domestic, Foreign, or All — the ‘**Domestic Language**‘ — English or Spanish — and the ‘**Order By**‘ — Order by Artist or By Title. After dialing in your options, click the **OK** button. After clicking on **OK** the songbook creation process will begin.
@@ -61,16 +65,12 @@ All subscribers to the Party Tyme Karaoke subscription service need to do is log
 [VIEW LARGER IMAGE ![Click the download here](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/click-download-here-pt.jpg?fit=300%2C300&ssl=1 "Click the download here")](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/click-download-here-pt.jpg?fit=706%2C706&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6) Once your songbook is prepared and ready for download, you will see ‘**Download Here**‘ in green-colored text at the bottom of the menu box. Click the link/text to launch your customized PDF Party Tyme Karaoke songbook.
 
 [VIEW LARGER IMAGE ![Your party tyme songbook is ready for print](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/09/song-book-pt.jpg?fit=300%2C300&ssl=1 "Your party tyme songbook is ready for print")](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/09/song-book-pt.jpg?fit=920%2C920&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7) Your custom **Party Tyme Karaoke songbook** is ready for download and/or print (or upload to your own website for your singers to view there!).
 
@@ -93,14 +93,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/partytymekaraokesongbook-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-snapsplit-scrutiny/"><u>[New] 2024 Approved SnapSplit Scrutiny</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unravel-the-mystery-of-tempo-control-in-instagram-stories/"><u>[Updated] Unravel the Mystery of Tempo Control in Instagram Stories</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-honor-90-gt-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Honor 90 GT FRP Bypass Instantly</u></a></li>
-<li><a href="https://app-tips.techidaily.com/critical-hurdles-ahead-microsofts-race-against-time-to-fix-windows-11-issues-insights-from-zdnet/"><u>Critical Hurdles Ahead: Microsoft's Race Against Time to Fix Windows 11 Issues - Insights From ZDNet</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effective-measures-to-address-windows-defenders-virus-detection-guidance-by-yl-computing/"><u>Effective Measures to Address Windows Defender's Virus Detection - Guidance by YL Computing</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/hardware-troubleshooting-via-software-tools-exploring-options-at-yl-computing/"><u>Hardware Troubleshooting Via Software Tools - Exploring Options at YL Computing</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/how-to-fix-the-beeping-sound-after-adding-new-memory-essential-steps-for-a-successful-ram-upgrade/"><u>How to Fix the Beeping Sound After Adding New Memory - Essential Steps for a Successful RAM Upgrade</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-realme-10t-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Realme 10T 5G Activity | Dr.fone</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/what-are-the-alternatives-to-modifying-the-windows-registry-uncover-options-with-yl-software-experts/"><u>What Are the Alternatives to Modifying the Windows Registry? Uncover Options with YL Software Experts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-definitive-top-ten-nintendo-switch-combat-apps-max-156-for-2024/"><u>[New] Definitive Top Ten Nintendo Switch Combat Apps (Max 156) for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ransform-your-on-screen-identity-into-a-brand-on-youtube-for-2024/"><u>[New] Transform Your On-Screen Identity Into a Brand on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-earnings-analysis-youtube-views-vs-financial-gain/"><u>[Updated] In 2024, Earnings Analysis YouTube Views vs Financial Gain</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/best-free-music-videos-of-the-month-discover-top-20-selections-from-the-video-pool-pcdj-edition/"><u>Best Free Music Videos of the Month: Discover Top 20 Selections From The Video Pool - PCDJ Edition</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/dex-iii-compatible-audio-controllers-transforming-dj-mixes-with-the-advanced-vms5/"><u>Dex III-Compatible Audio Controllers: Transforming DJ Mixes with the Advanced VMS5</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/enhancing-computer-speed-and-responsiveness-expert-advice-from-yl-solutions/"><u>Enhancing Computer Speed and Responsiveness: Expert Advice From YL Solutions</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/erotic-wallpaper-collections-and-desktop-graphics-eye-catching-imagery-from-yl-softwares-exclusive-design-portfolio/"><u>Erotic Wallpaper Collections & Desktop Graphics – Eye-Catching Imagery From YL Software's Exclusive Design Portfolio</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-expert-tips-for-maximizing-vscos-potential/"><u>In 2024, Expert Tips for Maximizing VSCO's Potential</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/is-there-an-integrated-firewall-in-windows-defender-for-added-cybersecurity-layers-expert-analysis-from-yl-solutions/"><u>Is There an Integrated Firewall in Windows Defender for Added Cybersecurity Layers? – Expert Analysis From YL Solutions</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/medication-adjustments-and-close-management-of-pre-existing-conditions-women-with-chronic-medical-conditions-or-those-who-develop-gestational-issues-require105/"><u>Medication Adjustments and Close Management of Pre-Existing Conditions: Women with Chronic Medical Conditions or Those Who Develop Gestational Issues Require Careful Monitoring and Medication Adjustments to Maintain Stability Throughout the Pregnancy.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/programming-prowess-comparison-can-chatgpt-outshine-gemini-as-an-ai-developer-assistant/"><u>Programming Prowess Comparison: Can ChatGPT Outshine Gemini as an AI Developer Assistant?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ior-asmr-video-curation/"><u>Superior ASMR Video Curation</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/top-50-hottest-music-videos-for-mixing-the-ultimate-dj-guide-from-june-2017/"><u>Top 50 Hottest Music Videos for Mixing: The Ultimate DJ Guide From June 2017</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/trasforma-i-file-mkv-in-flv-senza-costi-con-il-metodo-online-di-convertitori-gratuiti-movavi/"><u>Trasforma I File MKV in FLV Senza Costi Con Il Metodo Online Di Convertitori Gratuiti - Movavi</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlocking-spotifys-growth-an-increase-in-visual-soundbite-series-awaits-you/"><u>Unlocking Spotify's Growth: An Increase in Visual Soundbite Series Awaits You</u></a></li>
 </ul></div>
 

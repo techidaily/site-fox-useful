@@ -1,7 +1,7 @@
 ---
 title: "LYRX Version 1.4 Launched: Features Integration with Karaoke.Net and New In-App Shopping Experience"
-date: 2024-12-10T22:00:38.303Z
-updated: 2024-12-14T17:00:33.814Z
+date: 2024-12-21T19:24:22.414Z
+updated: 2024-12-23T17:28:00.247Z
 tags:
   - product
 categories:
@@ -29,12 +29,16 @@ You can download the free update for existing LYRX customers below (the followin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How-to Use the Karaoke.net Store in LYRX
 
 [VIEW LARGER IMAGE ![Right-Click and Select Login](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/11/right-click-login-first-slide.jpg?fit=800%2C326&ssl=1 "Right-Click and Select Login")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/11/right-click-login-first-slide.jpg?fit=800%2C326&ssl=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Open up LYRX and locate the new “Karaoke.net” library tab located on the left side of the LYRX browser. Right-Click (MAC: CTRL + CLICK) on the Karaoke.net text and select the “Log in” option.
 
@@ -45,7 +49,7 @@ If you don’t already have an active account on the Karaoke.net website, select
 [VIEW LARGER IMAGE ![](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/11/connected-and-browse-catalog-slide-3.jpg?fit=800%2C326&ssl=1 "Show Karaoke.net Catalog")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/11/connected-and-browse-catalog-slide-3.jpg?fit=800%2C326&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After creating the account and logging in with your freshly created credentials, you can access the “Catalog” tab below the Karaoke.net tab to immediately view all available songs (up to the minute). The songs are also automatically added to the LYRX’s search cache so they will display in search results when performing searches.
@@ -53,7 +57,7 @@ After creating the account and logging in with your freshly created credentials,
 [VIEW LARGER IMAGE ![Tick the Boxes next to songs you wish to buy](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/tick-the-box-song-buy-1.jpg?fit=800%2C326&ssl=1 "Tick the Boxes next to songs you wish to buy")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/tick-the-box-song-buy-1.jpg?fit=800%2C326&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 For-Sale songs will appear with a check box to the far right of the track information. You can preview samples of Karaoke.net tracks by simply loading the track to the LYRX player section via drag and drop (you can preview a few seconds of any Karaoke.net track using this method).
@@ -66,11 +70,11 @@ Ready to checkout? Right-click (MAC: CTRL + CLICK) on the “Shopping Cart” ta
 
 [VIEW LARGER IMAGE ![Type in CC details and place order](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/11/type-in-cc-and-place-order.jpg?fit=800%2C326&ssl=1 "Type in CC details and place order")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/11/type-in-cc-and-place-order.jpg?fit=800%2C326&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After typing in your CC details you can place your order. The purchased karaoke songs will download immediately and show a “check mark” next to the song to indicate the track is on your hard drive and ready to be played. Purchased karaoke songs will automatically be added to LYRX’s database/search cache and will also appear under the “Purchased” tab under the Karaoke.net tab. You will receive a receipt by email from Karaoke.net showing you the amount of the transaction. Also, credit card details will be stored per-session, so you only need to punch in your CC details once per session.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.4
 
@@ -81,10 +85,6 @@ After typing in your CC details you can place your order. The purchased karaoke 
 [DOWNLOAD LYRX v1.4](http://lyrxkaraoke.com/free-trial-2/)
 
 _Have questions about the latest 1.4 version of our LYRX **karaoke software**? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -105,20 +105,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/lyrx-karaokenet.jpg?fit=70
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-why-is-my-photobooth-video-caught-in-a-loop-for-2024/"><u>[New] Why Is My Photobooth Video Caught in a Loop for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-chuckle-cheat-sheet-perfectly-timed-memes/"><u>[Updated] 2024 Approved Chuckle Cheat Sheet Perfectly Timed Memes</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-prime-coverage-pro-iphone-plus-android-insta-covers-app/"><u>[Updated] 2024 Approved Prime Coverage Pro IPhone + Android Insta Covers App</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-make-gmail-meetings-work-zipping-up-zoom-integrations/"><u>2024 Approved How to Make Gmail Meetings Work Zipping Up Zoom Integrations</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-shade-adjustments-simplified-learn-with-these-11-guides/"><u>2024 Approved Shade Adjustments Simplified - Learn with These 11 Guides</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Oppo A56s 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/find-your-way-around-windows-pc-settings-navigating-to-the-control-panel-with-help-from-yl-software/"><u>Find Your Way Around Windows PC Settings: Navigating to the Control Panel with Help From YL Software</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/how-can-you-boost-your-cpus-performance-when-it-isnt-operating-at-optimal-speed-insights-by-yl-computing/"><u>How Can You Boost Your CPU's Performance When It Isn’t Operating at Optimal Speed? - Insights by YL Computing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pictorial-insight-mastery-of-vsco-tools/"><u>Pictorial Insight Mastery of VSCO Tools</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/switching-to-private-browsing-made-simple-with-yl-software/"><u>Switching to Private Browsing Made Simple with YL Software</u></a></li>
-<li><a href="https://win-superb.techidaily.com/top-strategies-for-efficiently-saving-your-pcs-information-via-control-panel-expert-tips-by-yl-computing/"><u>Top Strategies for Efficiently Saving Your PC's Information via Control Panel - Expert Tips by YL Computing</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/troubleshooting-unusual-print-hues-with-expertise-at-yl-software/"><u>Troubleshooting Unusual Print Hues with Expertise at YL Software</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/understanding-legal-guidelines-for-crypto-asset-exchange-insights-from-yl-computing/"><u>Understanding Legal Guidelines for Crypto Asset Exchange: Insights From YL Computing</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/unravel-the-mystery-behind-your-pcs-random-reboots-with-insights-by-yl-software-experts/"><u>Unravel the Mystery Behind Your PC's Random Reboots with Insights by YL Software Experts</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/unraveling-the-reasons-behind-hardware-compatibility-problems-insights-by-yl-computing/"><u>Unraveling the Reasons Behind Hardware Compatibility Problems: Insights by YL Computing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-best-in-class-writing-workshop/"><u>[New] Best-in-Class Writing Workshop</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-scripting-journalisms-closing-statements/"><u>[Updated] 2024 Approved Scripting Journalism's Closing Statements</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-turning-your-youtube-views-into-a-screen-capture-made-simple-and-free/"><u>[Updated] In 2024, Turning Your YouTube Views Into a Screen Capture Made Simple and Free</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-mastering-zoom-establishing-a-top-tier-video-conferencing-space/"><u>[Updated] Mastering Zoom Establishing a Top-Tier Video Conferencing Space</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1-fix-non-responsive-apps-in-windows-a-step-by-step-guide-by-yl-computing/"><u>1. Fix Non-Responsive Apps in Windows: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1-the-impact-of-the-second-sino-japanese-war-on-chinas-population-insights-and-analysis-yl-computing/"><u>1. The Impact of the Second Sino-Japanese War on China's Population: Insights and Analysis - YL Computing</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/access-and-modify-network-preferences-using-the-windows-control-panel-with-guidance-by-yl-software-experts/"><u>Access and Modify Network Preferences Using the Windows Control Panel with Guidance by YL Software Experts</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/deng-xiaoping-and-his-transformational-policies-shaping-contemporary-chinese-society-insights-from-yl-software/"><u>Deng Xiaoping and His Transformational Policies: Shaping Contemporary Chinese Society – Insights From YL Software</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exclusive-list-of-top-5-iphone-podcast-platforms-for-2024/"><u>Exclusive List of Top 5 iPhone Podcast Platforms for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-11-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 11 iOS? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2020-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2020) To Others ios devices? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-nubia-red-magic-9-pro-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Nubia Red Magic 9 Pro</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/quick-guide-to-speeding-up-your-computer-with-advanced-windows-configurations-yl-software-solutions/"><u>Quick Guide to Speeding Up Your Computer with Advanced Windows Configurations - YL Software Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionary-update-apple-music-unveils-groundbreaking-feature-to-transfer-spotify-lists-seamlessly/"><u>Revolutionary Update: Apple Music Unveils Groundbreaking Feature to Transfer Spotify Lists Seamlessly</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/securing-your-information-preventing-cyber-attacks-and-data-breaches-with-yl-software-solutions/"><u>Securing Your Information: Preventing Cyber Attacks and Data Breaches with YL Software Solutions</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/troubleshooting-printer-drivers-how-to-update-or-reinstall-with-expert-advice-from-yl-software/"><u>Troubleshooting Printer Drivers: How to Update or Reinstall with Expert Advice From YL Software</u></a></li>
 </ul></div>
 
