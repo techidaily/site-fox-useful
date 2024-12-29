@@ -1,7 +1,7 @@
 ---
 title: Discover LYRX's New Features in macOS Catalina – Participate as a Beta Tester for PCDJ Integration!
-date: 2024-12-18T23:18:13.025Z
-updated: 2024-12-24T03:57:00.983Z
+date: 2024-12-28T18:24:28.730Z
+updated: 2024-12-29T20:36:41.019Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ For now, we are asking for a few LYRX customers that are using newer Apple compu
 **Important Notes:** 10.14 or 10.15 of macOS is needed to run the Catalina-specific LYRX beta. As noted, this is a beta version, and should not be used in a venue/production environment. Specifically, the GUI/interface and video/karaoke should be tested as the changes there are massive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,24 +50,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/03/lyrx-catalina-beta.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-iphone-flash-optimization-tips/"><u>[New] IPhone Flash Optimization Tips</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-the-great-gopro-race-hero5-black-vs-hero4-silver-edition-for-2024/"><u>[New] The Great GoPro Race Hero5 Black V/S Hero4 Silver Edition for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-ultimate-choices-in-high-definition-screen-capture-for-2024/"><u>[New] Ultimate Choices in High Definition Screen Capture for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-unveiling-similarities-and-divergences-in-triller-and-tiktok-max-156-chars-for-2024/"><u>[New] Unveiling Similarities & Divergences in Triller and TikTok (Max 156 Chars) for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-updated-features-in-sony-blu-ray-player-s6700/"><u>[New] Updated Features in Sony Blu-Ray Player S6700</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-complete-guide-to-next-gen-wi-fi-protocols-exploring-the-advantages-of-80211-be-ax-ac/"><u>A Complete Guide to Next-Gen Wi-Fi Protocols: Exploring the Advantages of 802.11 Be, AX, AC</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/bitcointrends-exploring-the-aftermath-of-uptober-and-its-quest-for-40k-a-weekly-recap-by-yl-computing/"><u>BitcoinTrends: Exploring the Aftermath of 'Uptober' And Its Quest for $40K - A Weekly Recap by YL Computing</u></a></li>
-<li><a href="https://media-tips.techidaily.com/comprehensive-guide-to-understanding-webm-your-ultimate-resource-for-all-inclusive-knowledge/"><u>Comprehensive Guide to Understanding WebM: Your Ultimate Resource for All-Inclusive Knowledge</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/download-pcdjs-new-beta-version-for-home-use-experience-karaoki-09ecc/"><u>Download PCDJ's New Beta Version for Home Use – Experience Karaoki 0.9.ecc.</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/enhance-windows-10-safety-expert-tips-and-tricks-with-yl-software-solutions/"><u>Enhance Windows 10 Safety: Expert Tips and Tricks with YL Software Solutions</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/how-to-fix-games-that-are-constantly-crashing-or-freezing-expert-advice-by-yl-computing-and-yl-software/"><u>How to Fix Games That Are Constantly Crashing or Freezing - Expert Advice by YL Computing & YL Software</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/live-gold-line-artwork-by-yl-computing-ultimate-hd-wallpaper-for-your-phone/"><u>Live Gold Line Artwork by YL Computing: Ultimate HD Wallpaper for Your Phone</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-win11-steam-network-failure/"><u>Overcoming Win11 Steam Network Failure</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/resolve-blue-screen-issues-due-to-videoschedulerinternalerror-on-windows-11-by-yl-software-experts/"><u>Resolve Blue Screen Issues Due to Video_Scheduler_Internal_Error on Windows 11 by YL Software Experts</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/solution-simple-graver-avec-succes-votre-image-systeme-sur-un-support-usb-pour-les-versions-de-windows/"><u>Solution Simple : Graver Avec Succès Votre Image Système Sur Un Support USB Pour Les Versions De Windows</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/step-by-step-guide-transform-your-jpegs-into-png-format-by-yl-computings-expert-tools/"><u>Step-by-Step Guide: Transform Your JPEGs Into PNG Format by YL Computing's Expert Tools</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-selecting-premium-vertical-mice/"><u>The Ultimate Guide to Selecting Premium Vertical Mice</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/unraveling-blockchain-bifurcations-an-expert-guide-to-crypto-forks-by-yl-software/"><u>Unraveling Blockchain Bifurcations: An Expert Guide to Crypto Forks by YL Software</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/yl-softwares-ultimate-trick-easily-open-image-files-in-windows/"><u>YL Software's Ultimate Trick: Easily Open Image Files in Windows</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-comparative-study-on-vlc-video-capture/"><u>[New] 2024 Approved Comparative Study on VLC Video Capture</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-ultimate-selection-of-economical-4k-projection-screens/"><u>[New] In 2024, Ultimate Selection of Economical 4K Projection Screens</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-guard-your-content-the-copyright-check-before-tiktok-publishing/"><u>[Updated] In 2024, Guard Your Content The Copyright Check Before TikTok Publishing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-streamline-your-audio-experience-install-vrecorder/"><u>[Updated] In 2024, Streamline Your Audio Experience - Install VRecorder</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-the-social-network-savants-secret-for-downloading-chats/"><u>2024 Approved The Social Network Savant’s Secret for Downloading Chats</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/diagnosing-and-fixing-network-troubles-for-windows-pcs-a-guide-from-yl-software-experts/"><u>Diagnosing and Fixing Network Troubles for Windows PCs: A Guide From YL Software Experts</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/effective-strategies-for-diagnosing-and-fixing-intermittent-bsod-issues-insights-from-yl-computing-experts/"><u>Effective Strategies for Diagnosing and Fixing Intermittent BSOD Issues - Insights From YL Computing Experts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ring-determinants-of-your-youtube-view-count-status-for-2024/"><u>Exploring Determinants of Your YouTube View Count Status for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/resolving-the-issue-of-undetected-devices-on-your-pc-a-guide-by-yl-computing/"><u>Resolving the Issue of Undetected Devices on Your PC: A Guide by YL Computing</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/samsung-cf591-evaluation-top-pick-for-serious-gamers-or-overrated/"><u>Samsung CF591 Evaluation - Top Pick for Serious Gamers or Overrated?</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/step-by-step-guide-seamless-file-transfers-across-multiple-windows-systems-yl-software-solutions/"><u>Step-by-Step Guide: Seamless File Transfers Across Multiple Windows Systems - YL Software Solutions</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/windows-10-user-guide-comprehensive-steps-to-safeguard-your-online-privacy-with-yl-software-solutions/"><u>Windows 10 User Guide: Comprehensive Steps to Safeguard Your Online Privacy with YL Software Solutions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/be-recommended-videos-block-the-videos-i-dont-like-for-2024/"><u>YouTube Recommended Videos - Block the Videos I Don't Like for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Masterclass: Innovative Branding Techniques Using DEX3 & Shader Effects"
-date: 2024-12-18T05:35:10.642Z
-updated: 2024-12-24T04:18:53.980Z
+date: 2024-12-25T17:53:41.698Z
+updated: 2024-12-29T18:31:23.483Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ Use the combination of Shaders and Overlays for branding purposes and/or for dis
 _Have questions about using **Shaders** in our **DEX 3 DJ software**, or how to **create text, image, and video overlays**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,17 +50,15 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/shaderdemo-cover.jpg?fit=7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-create-time-travel-teleportation-effects/"><u>[New] How to Create Time Travel Teleportation Effects?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-pixels-in-perfection-tweeting-at-full-hd-quality/"><u>[New] In 2024, Pixels in Perfection Tweeting at Full HD Quality</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-top-11-screen-recorders-for-mac-for-2024/"><u>[New] Top 11 Screen Recorders for Mac for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/detecting-hardware-failures-through-device-manager-a-guide-by-yl-software-experts/"><u>Detecting Hardware Failures Through Device Manager: A Guide by YL Software Experts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-solve-the-unknown-usb-device-failure-problem-effectively/"><u>How To Solve the 'Unknown USB Device Failure' Problem Effectively</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-ultimate-media-creator-win8/"><u>In 2024, Ultimate Media Creator Win8</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-honor-x9b-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/troubleshooting-made-easy-how-driver-updates-can-fix-your-device-issues-insights-from-yl-software/"><u>Troubleshooting Made Easy: How Driver Updates Can Fix Your Device Issues – Insights From YL Software</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-itel-p40plus-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Itel P40+ Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/unveiling-common-reasons-behind-faulty-screens-an-in-depth-analysis-by-yl-computing/"><u>Unveiling Common Reasons Behind Faulty Screens: An In-Depth Analysis by YL Computing</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/windows-tricks-unveiled-altering-file-extensions-effortlessly-by-experts-at-yl-software/"><u>Windows Tricks Unveiled: Altering File Extensions Effortlessly by Experts at YL Software</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-inside-look-securing-a-profitable-monetized-youtube-space-for-2024/"><u>[Updated] Inside Look Securing a Profitable Monetized Youtube Space for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/activatingdeactivating-your-systems-defenses-a-guide-to-managing-firewalls-and-antivirus-in-the-digital-realm/"><u>Activating/Deactivating Your System's Defenses: A Guide to Managing Firewalls & Antivirus in the Digital Realm</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/youtube-livestreaming-screen-recorders-for-2024/"><u>Best YouTube Livestreaming Screen Recorders for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/fresh-playlist-alert-add-34plus-tracks-to-your-library-with-our-latest-karaoke-subscription-update-march-2021/"><u>Fresh Playlist Alert: Add 34+ Tracks to Your Library with Our Latest Karaoke Subscription Update - March 2021</u></a></li>
+<li><a href="https://win-answers.techidaily.com/gta-5-game-stability-secured-understanding-and-resolving-sudden-crashes/"><u>GTA 5 Game Stability Secured: Understanding and Resolving Sudden Crashes</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/high-definition-audi-rs4-wallpaper-downloads-editable-and-screen-saver-ready/"><u>High-Definition Audi RS4 Wallpaper Downloads: Editable & Screen Saver Ready</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-xr-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone XR iOS System? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-defy-2-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Motorola Defy 2 Phone without PIN</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/shanghai-welcomes-taipei-mayor-jiang-wanan-at-the-twin-cities-forum-no-plans-for-a-summit-with-chinas-taiwan-affairs-office-chief-song-tao-insights-from-yl-26/"><u>Shanghai Welcomes Taipei Mayor Jiang Wan'an at the Twin Cities Forum; No Plans for a Summit with China’s Taiwan Affairs Office Chief Song Tao - Insights From YL Computing & YL Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-idt-advanced-audio-codec-setup-on-microsofts-latest-os/"><u>Step-by-Step Solution for IDT Advanced Audio Codec Setup on Microsoft's Latest OS</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Playlist Importation in PCDJ - From Dex 2 to Dex 3 with This Essential Tutorial Video
-date: 2024-12-20T02:53:19.517Z
-updated: 2024-12-23T22:31:30.001Z
+date: 2024-12-23T19:43:02.559Z
+updated: 2024-12-29T20:29:37.453Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ This feature doesn’t just work for DEX 2 playlists, it will work for RED Mobil
 #### DJ Software Tutorial Video: Importing Playlists From DEX 2 into DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,22 +44,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/08/importingplaylists-coverim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-demystifying-youtube-premium-membership-benefits/"><u>[New] In 2024, Demystifying YouTube Premium Membership Benefits</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-aesir-clash-dawn-of-the-gods-for-2024/"><u>[Updated] Aesir Clash Dawn of the Gods for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-beyond-ustream-a-comparative-analysis-of-streams/"><u>[Updated] Beyond Ustream A Comparative Analysis of Streams</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-elevate-footage-flair-pc-and-mobile-filter-addition/"><u>[Updated] Elevate Footage Flair PC & Mobile Filter Addition</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-download-youtube-videos-anywhere-anytime-free-android-tips/"><u>[Updated] In 2024, Download YouTube Videos Anywhere, Anytime Free Android Tips</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-unleashing-the-power-of-online-cricket-broadcasts-for-2024/"><u>[Updated] Unleashing the Power of Online Cricket Broadcasts for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/best-practices-zooming-into-fb-live-excellence/"><u>Best Practices Zooming Into FB Live Excellence</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effective-strategies-for-resolving-hardware-and-software-issues-a-comprehensive-guide-by-yl-computing/"><u>Effective Strategies for Resolving Hardware and Software Issues: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/ganondorfs-water-blight-environments-premium-hd-backgrounds-and-wallpapers-by-yl-computing/"><u>Ganondorf's Water Blight Environments: Premium HD Backgrounds & Wallpapers by YL Computing</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/maximizing-your-gpu-performance-expert-tips-from-yl-computings-graphics-guide/"><u>Maximizing Your GPU Performance: Expert Tips From YL Computing's Graphics Guide</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/protecting-your-cryptocurrency-portfolio-a-comprehensive-guide-by-yl-software-experts-for-maximum-security/"><u>Protecting Your Cryptocurrency Portfolio: A Comprehensive Guide by YL Software Experts for Maximum Security</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/step-by-step-guide-tweaking-your-microsoft-windows-10-mouse-configuration/"><u>Step-by-Step Guide: Tweaking Your Microsoft Windows 10 Mouse Configuration</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-vivo-x90s-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Vivo X90S FRP</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/tips-and-tricks-for-efficient-use-of-steams-switch-controllers-for-2024/"><u>Tips & Tricks for Efficient Use of Steam’s Switch Controllers for 2024</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/transforming-china-the-impact-of-the-cultural-revolution-on-societal-structures-insights-by-yl-computing/"><u>Transforming China: The Impact of the Cultural Revolution on Societal Structures - Insights by YL Computing</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/troubleshooting-guide-fixing-common-issues-when-your-scanner-stops-functioning-yl-computing-solutions/"><u>Troubleshooting Guide: Fixing Common Issues When Your Scanner Stops Functioning - YL Computing Solutions</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/troubleshooting-non-functional-keyboards-in-windows-environments-with-yl-software-insights/"><u>Troubleshooting Non-Functional Keyboards in Windows Environments with YL Software Insights</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-chromebook-pitch-and-timbre-control-guide-the-leading-online-speech-modifiers/"><u>[New] Chromebook Pitch and Timbre Control Guide The Leading Online Speech Modifiers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-content-delivery-comparison-vimeo-vs-youtube-vs-dailymotion/"><u>[Updated] 2024 Approved Content Delivery Comparison Vimeo vs YouTube vs Dailymotion</u></a></li>
+<li><a href="https://fox-info.techidaily.com/deciding-on-a-screen-projectors-and-tvs-at-the-forefront-of-4k-technology/"><u>Deciding on a Screen Projectors & TVs at the Forefront of 4K Technology</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevate-your-micro-photography-key-tips-for-filmmakers/"><u>Elevate Your Micro Photography Key Tips for Filmmakers</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/exploring-frequent-factors-leading-to-video-card-issues-a-guide-by-yl-software/"><u>Exploring Frequent Factors Leading to Video Card Issues: A Guide by YL Software</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/high-definition-sunbeam-visuals-premium-wallpaper-and-desktop-graphics-by-yl-computing/"><u>High-Definition Sunbeam Visuals: Premium Wallpaper & Desktop Graphics by YL Computing</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/how-to-fix-a-non-responsive-printer-expert-solutions-from-yl-computings-tech-blog/"><u>How to Fix a Non-Responsive Printer: Expert Solutions From YL Computing's Tech Blog</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/how-to-troubleshoot-issues-with-your-pcs-audio-hardware-expert-advice-from-yl-computing/"><u>How to Troubleshoot Issues With Your PC's Audio Hardware: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-square-to-wide-how-to-adjust-video-shape/"><u>In 2024, From Square to Wide How to Adjust Video Shape</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/master-the-art-of-beatmatching-essential-techniques-every-dj-must-know-with-pcdj/"><u>Master the Art of Beatmatching: Essential Techniques Every DJ Must Know with PCDJ</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-how-to-stream-your-favorite-games-online-for-2024/"><u>New How To Stream Your Favorite Games Online for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/revive-your-unresponsive-desktop-expert-tips-for-power-on-problems-by-yl-computer-experts/"><u>Revive Your Unresponsive Desktop: Expert Tips for Power-On Problems by YL Computer Experts</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/solution-the-specific-heat-capacity-of-wood-generally-increases-with-density-because-denser-woods-have-more-mass-in-a-given-volume-requiring-more-energy-for63/"><u>Solution: The Specific Heat Capacity of Wood Generally Increases with Density because Denser Woods Have More Mass in a Given Volume, Requiring More Energy for Any Given Temperature Increase.</u></a></li>
+<li><a href="https://win-unique.techidaily.com/top-ranking-laptops-and-desktops-comparing-apple-dell-and-other-brands-insights-from-zdnet/"><u>Top-Ranking Laptops & Desktops : Comparing Apple, Dell, and Other Brands - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/top-rated-computer-maintenance-tools-selecting-the-ideal-system-cleanup-application/"><u>Top-Rated Computer Maintenance Tools: Selecting the Ideal System Cleanup Application</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-missing-events-in-your-iphone-schedule-application/"><u>Troubleshooting Missing Events in Your iPhone Schedule Application</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/troubleshooting-non-responsive-programs-in-windows-with-tips-by-yl-software-experts/"><u>Troubleshooting Non-Responsive Programs in Windows with Tips by YL Software Experts</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/unlock-your-inner-star-with-our-new-20-song-selection-on-karaoke-subscription-service-hits-galore-await-you/"><u>Unlock Your Inner Star with Our New 20-Song Selection on Karaoke Subscription Service – Hits Galore Await You!</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/1728476845785-windows-11-5/"><u>Windows 11の回復環境起動手順: 5つのコツ</u></a></li>
 </ul></div>
 

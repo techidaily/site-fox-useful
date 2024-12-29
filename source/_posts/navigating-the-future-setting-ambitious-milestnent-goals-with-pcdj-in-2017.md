@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Future: Setting Ambitious Milestnent Goals with PCDJ in 2017"
-date: 2024-12-22T19:26:21.719Z
-updated: 2024-12-23T20:45:10.994Z
+date: 2024-12-24T18:59:35.041Z
+updated: 2024-12-29T20:32:03.829Z
 tags:
   - product
 categories:
@@ -26,6 +26,10 @@ The DJ software and karaoke software markets are more competitive today than eve
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Goals For PCDJ In 2017
 
 ##### MAC & Windows DJ Software Lineup: DEX 3, DEX 3 RE and DEX 3 LE
@@ -34,15 +38,15 @@ The DJ software and karaoke software markets are more competitive today than eve
 
 [LEARN MORE ABOUT DEX 3 ![Video Mixing With DEX 3](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/videomixingdex3.jpg?fit=300%2C167&ssl=1 "Video Mixing With DEX 3")](https://tools.techidaily.com/pcdj/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Users will receive new “daytime” editions of the default DEX 3 skins as well as an additional skin update that will provide direct access to [text, image and video overlays](https://tools.techidaily.com/pcdj/products/) and their controls.
 
 Beyond 3.8, we’ll be focusing significant development effort on upgrading DEX 3’s karaoke capabilities — including more singer rotation options, singer/song history, [Karaoke Cloud Pro](https://tools.techidaily.com/pcdj/products/) support and more. Our goal is for DEX 3 to be a pro KJs go-to all-in-one mixing solution of choice by the end of the year.
 
 [LEARN MORE ABOUT DEX 3 RE ![DEX 3 RE Screen Shot Large](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/06/dex3re-screenshot.png?fit=300%2C169&ssl=1 "DEX 3 RE Screen Shot Large")](https://tools.techidaily.com/pcdj/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 New video based features are also on the way, including visualizations and new animations that are sure to add punch to video mixing sets.
 
@@ -55,10 +59,6 @@ That’s a look at what’s in store for the MAC and Windows DJ software lineup 
 When we set out to create the DEX 3 and DEX 3 RE platform two years ago we already had an eye on the future. Due to increased performance and flexibility, tablets are coming on strong as viable options for live performance and could very well replace laptops as the primary method to DJ with this year.
 
 [VIEW DJ DEX APP TEASER ![DEX DJ app for iOS and Android](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/ios-app-teaser2.jpg?fit=300%2C300&ssl=1 "DEX DJ app for iOS and Android")](https://tools.techidaily.com/pcdj/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The way our DJ software is coded allows for deployment on any OS. It comes down to the interface and just a few custom tweaks.
 
@@ -74,15 +74,15 @@ We also plan to support the Pulselocker music subscription service in DJ DEX, pr
 
 [LEARN MORE ABOUT KARAOKI ![Karaoke Software at Club](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/03/karaoki-withcloud-in-club.jpg?fit=300%2C225&ssl=1 "Karaoki Karaoke Software At Club")](https://tools.techidaily.com/pcdj/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 We’ve partnered up with KaraoQ to offer in-Karaoki support for their modern remote singer/song request system. Initial support was released in the previous Karaoki public beta, but the public will finally be able to get their hands on this game-changing combination. KaraoQ also facilitates many capabilities not found in similar systems on the market, such as enabling singers to pay for bumps, tip the DJ and a full-fledged marketing option for KJs and venues. [Bang it here to learn more about KaraoQ](https://karaoq.com/).
 
 As part of the KaraoQ partnership we will also bring KaraoQ360 to market, a subscription based platform that includes a seamless integration of Karaoki, KaraoQ and [Karaoke Cloud Pro](https://tools.techidaily.com/pcdj/products/). A trifecta of products that encompass everything a new KJ or karaoke venue needs to start hosting a karaoke night straight away.
 
 [LEARN ABOUT KARAOQ ![KaraoQ remote request system](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/karaoq-for-djs-screen.png?fit=300%2C225&ssl=1 "KaraoQ remote request system")](http://www.karaoq.com)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 A new karaoke store will be integrated in Karaoki for ala carte and on-the-fly purchasing and download.
 
@@ -97,7 +97,7 @@ LYRX has already found a home with KJs using MACs. While LYRX was originally des
 [LEARN MORE ABOUT LYRX ![Karaoke Software For MAC LYRX](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/MacBook_Pro_lyrx.png?fit=300%2C170&ssl=1 "LYRX Karaoke Software For MAC")](http://www.lyrxkaraoke.com)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 LYRX is essentially DEX 3 as it uses the same underlying code, but with only the karaoke capabilities and single-deck support. Thus when we upgrade DEX 3 to support the new karaoke-specific features we listed above LYRX will receive the same treatment. LYRX will be the go-to solution for hosting karaoke on a MAC by the end of the year – write it down! 😉
@@ -105,6 +105,10 @@ LYRX is essentially DEX 3 as it uses the same underlying code, but with only the
 ##### Music, Video And Karaoke Services
 
 [LEARN MORE ABOUT PULSELOCKER ![Pulselocker Logo In Black](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/10/pulselocker-logo_h_black.png?fit=216%2C174&ssl=1 "Pulselocker Logo In Black")](https://tools.techidaily.com/pcdj/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Pulselocker:**
 
@@ -134,10 +138,6 @@ That’s a quick look ahead at some of our goals for 2017\. Keep checking the bl
 
 _**Here’s to exceeding all expectations in 2017 — Happy New Year!**_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i2.wp.com/pcdj.com/wp-content/uploads/2017/01/pcdjlookahead2017-coverimage.jpg?fit=706%2C360&ssl=1 360 706 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2017-01-03 12:30:502018-10-03 15:33:46A Look Ahead At Some Of Our Goals For 2017}
@@ -157,24 +157,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/01/pcdjlookahead2017-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-audio-visual-synergy-iphones-role-in-modern-music-videos/"><u>[New] 2024 Approved Audio-Visual Synergy IPhone's Role in Modern Music Videos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-free-acting-availability-pledge/"><u>[New] Free Acting Availability Pledge</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-120plus-snapchat-private-story-name-ideas-for-2024/"><u>[Updated] 120+ Snapchat Private Story Name Ideas for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-superior-microphones-for-livestreaming/"><u>[Updated] 2024 Approved Superior Microphones for Livestreaming</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-a-trio-of-dimensions-differentiating-the-futures-tech-trio/"><u>[Updated] In 2024, A Trio of Dimensions Differentiating the Future's Tech Trio</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-androids-low-cost-video-communication-guide/"><u>[Updated] In 2024, Android's Low-Cost Video Communication Guide</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/1-how-to-recover-from-damaged-files-expert-solutions-by-yl-computing/"><u>1. How to Recover From Damaged Files: Expert Solutions by YL Computing</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-ultimate-top-11-list-excellent-audio-devices/"><u>2024 Approved Ultimate Top 11 List Excellent Audio Devices</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/accidental-driver-removal-steps-to-reinstall-lost-drivers-yl-computing-tips/"><u>Accidental Driver Removal: Steps to Reinstall Lost Drivers - YL Computing Tips</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/distinguishing-features-a-comparative-analysis-of-blockchain-technology-vs-digital-currencies-insights-from-yl-computing/"><u>Distinguishing Features: A Comparative Analysis of Blockchain Technology Vs. Digital Currencies - Insights From YL Computing</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effective-strategies-for-diagnosing-and-fixing-intermittent-bsod-issues-insights-from-yl-computing-experts/"><u>Effective Strategies for Diagnosing and Fixing Intermittent BSOD Issues - Insights From YL Computing Experts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expand-your-workspace-running-android-apps-effortlessly-on-windows-11-computers/"><u>Expand Your Workspace: Running Android Apps Effortlessly on Windows 11 Computers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-your-windows-11-wallpaper-screensaver-functionality-comprehensive-fix/"><u>How to Restore Your Windows 11 Wallpaper Screensaver Functionality [Comprehensive Fix]</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/is-your-privacy-safe-when-using-a-crypto-wallet-balance-tracker-find-out-with-yl-softwares-secure-options/"><u>Is Your Privacy Safe When Using a Crypto Wallet Balance Tracker? Find Out with YL Software's Secure Options</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/lightening-up-your-browser-load-top-7-windows-apps-less-ram-intensive/"><u>Lightening Up Your Browser Load: Top 7 Windows Apps Less RAM-Intensive</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/securing-your-files-on-windows-a-step-by-step-guide-to-password-protection-tips-by-yl-computing/"><u>Securing Your Files on Windows: A Step-by-Step Guide to Password Protection - Tips by YL Computing</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/step-by-step-guide-seamless-file-transfers-across-multiple-windows-systems-yl-software-solutions/"><u>Step-by-Step Guide: Seamless File Transfers Across Multiple Windows Systems - YL Software Solutions</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/trouble-with-booting-your-computer-effective-solutions-by-yl-software-experts/"><u>Trouble with Booting Your Computer? Effective Solutions by YL Software Experts</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/unveiling-the-latest-enhancements-pcdj-introduces-significant-update-to-pcdj-dex-2/"><u>Unveiling the Latest Enhancements: PCDJ Introduces Significant Update to PCDJ DEX 2</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-how-can-i-go-live-on-facebook/"><u>[Updated] How Can I Go Live on Facebook?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-tips-and-tricks-for-professional-minecraft-videos/"><u>[Updated] In 2024, Tips and Tricks for Professional Minecraft Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-creme-de-la-creme-live-streaming-services/"><u>[Updated] The Crème De La Créme Live Streaming Services</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1-overcoming-power-issues-with-your-scanner-comprehensive-solutions-from-yl-computing/"><u>1. Overcoming Power Issues with Your Scanner: Comprehensive Solutions From YL Computing</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/boost-in-asian-stock-performance-driven-by-chinas-stamp-duty-changes-early-session-trading-reflects-optimism-singapore-shares-up-105-market-watchfulness-per46/"><u>Boost in Asian Stock Performance Driven by China's Stamp Duty Changes; Early Session Trading Reflects Optimism, Singapore Shares Up 1.05%; Market Watchfulness Persists Preceding US Economic Data Release - Analysis by YL Software</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/determining-windows-11-activation-status-a-guide-by-yl-computing/"><u>Determining Windows 11 Activation Status: A Guide by YL Computing</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/how-to-ensure-your-computer-runs-at-peak-performance-expert-tips-from-yl-computing/"><u>How to Ensure Your Computer Runs at Peak Performance: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/manual-de-instruccion-para-el-programa-winxdvd-mejoras-y-optimizaciones/"><u>Manual De Instrucción Para El Programa WinXDVD: Mejoras Y Optimizaciones</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/masterful-cross-genre-dj-sets-by-shawn-welter-learn-from-jason-jones-on-mobile-music-monday-digitaldjs/"><u>Masterful Cross-Genre DJ Sets by Shawn Welter | Learn From Jason Jones on 'Mobile Music Monday' | #DigitalDJs</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/overcoming-obstacles-in-application-performance-understanding-the-challenges-with-yl-software-solutions/"><u>Overcoming Obstacles in Application Performance: Understanding the Challenges with YL Software Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722140072339-protect-your-world-real-vs-faux-gpt-applications-unveiled/"><u>Protect Your World: Real Vs. Faux GPT Applications Unveiled!</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/resolving-clashes-between-gpus-and-motherboard-drivers-expert-advice-from-yl-computing/"><u>Resolving Clashes Between GPUs & Motherboard Drivers - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/seamlessly-move-voice-recordings-from-your-iphone-to-ipad-using-these-4-straightforward-strategies/"><u>Seamlessly Move Voice Recordings From Your iPhone to iPad Using These 4 Straightforward Strategies</u></a></li>
+<li><a href="https://games-able.techidaily.com/streaming-or-building-which-win-ps5-or-low-budget-pc/"><u>Streaming or Building: Which Win? - PS5 Or Low-Budget PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/weighing-up-your-llm-choices-local-edition/"><u>Weighing Up Your LLM Choices – Local Edition</u></a></li>
 </ul></div>
 
