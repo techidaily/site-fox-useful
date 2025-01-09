@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Playlist Importation in PCDJ - From Dex 2 to Dex 3 with This Essential Tutorial Video
-date: 2024-12-23T19:43:02.559Z
-updated: 2024-12-29T20:29:37.453Z
+date: 2025-01-06T01:19:49.209Z
+updated: 2025-01-09T01:39:39.897Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ This feature doesn’t just work for DEX 2 playlists, it will work for RED Mobil
 #### DJ Software Tutorial Video: Importing Playlists From DEX 2 into DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,24 +44,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/08/importingplaylists-coverim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-chromebook-pitch-and-timbre-control-guide-the-leading-online-speech-modifiers/"><u>[New] Chromebook Pitch and Timbre Control Guide The Leading Online Speech Modifiers</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-content-delivery-comparison-vimeo-vs-youtube-vs-dailymotion/"><u>[Updated] 2024 Approved Content Delivery Comparison Vimeo vs YouTube vs Dailymotion</u></a></li>
-<li><a href="https://fox-info.techidaily.com/deciding-on-a-screen-projectors-and-tvs-at-the-forefront-of-4k-technology/"><u>Deciding on a Screen Projectors & TVs at the Forefront of 4K Technology</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elevate-your-micro-photography-key-tips-for-filmmakers/"><u>Elevate Your Micro Photography Key Tips for Filmmakers</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/exploring-frequent-factors-leading-to-video-card-issues-a-guide-by-yl-software/"><u>Exploring Frequent Factors Leading to Video Card Issues: A Guide by YL Software</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/high-definition-sunbeam-visuals-premium-wallpaper-and-desktop-graphics-by-yl-computing/"><u>High-Definition Sunbeam Visuals: Premium Wallpaper & Desktop Graphics by YL Computing</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/how-to-fix-a-non-responsive-printer-expert-solutions-from-yl-computings-tech-blog/"><u>How to Fix a Non-Responsive Printer: Expert Solutions From YL Computing's Tech Blog</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/how-to-troubleshoot-issues-with-your-pcs-audio-hardware-expert-advice-from-yl-computing/"><u>How to Troubleshoot Issues With Your PC's Audio Hardware: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-square-to-wide-how-to-adjust-video-shape/"><u>In 2024, From Square to Wide How to Adjust Video Shape</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/master-the-art-of-beatmatching-essential-techniques-every-dj-must-know-with-pcdj/"><u>Master the Art of Beatmatching: Essential Techniques Every DJ Must Know with PCDJ</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-how-to-stream-your-favorite-games-online-for-2024/"><u>New How To Stream Your Favorite Games Online for 2024</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/revive-your-unresponsive-desktop-expert-tips-for-power-on-problems-by-yl-computer-experts/"><u>Revive Your Unresponsive Desktop: Expert Tips for Power-On Problems by YL Computer Experts</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/solution-the-specific-heat-capacity-of-wood-generally-increases-with-density-because-denser-woods-have-more-mass-in-a-given-volume-requiring-more-energy-for63/"><u>Solution: The Specific Heat Capacity of Wood Generally Increases with Density because Denser Woods Have More Mass in a Given Volume, Requiring More Energy for Any Given Temperature Increase.</u></a></li>
-<li><a href="https://win-unique.techidaily.com/top-ranking-laptops-and-desktops-comparing-apple-dell-and-other-brands-insights-from-zdnet/"><u>Top-Ranking Laptops & Desktops : Comparing Apple, Dell, and Other Brands - Insights From ZDNet</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/top-rated-computer-maintenance-tools-selecting-the-ideal-system-cleanup-application/"><u>Top-Rated Computer Maintenance Tools: Selecting the Ideal System Cleanup Application</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-missing-events-in-your-iphone-schedule-application/"><u>Troubleshooting Missing Events in Your iPhone Schedule Application</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/troubleshooting-non-responsive-programs-in-windows-with-tips-by-yl-software-experts/"><u>Troubleshooting Non-Responsive Programs in Windows with Tips by YL Software Experts</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/unlock-your-inner-star-with-our-new-20-song-selection-on-karaoke-subscription-service-hits-galore-await-you/"><u>Unlock Your Inner Star with Our New 20-Song Selection on Karaoke Subscription Service – Hits Galore Await You!</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/1728476845785-windows-11-5/"><u>Windows 11の回復環境起動手順: 5つのコツ</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-art-of-package-revelation/"><u>[New] 2024 Approved The Art of Package Revelation</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-top-voice-changer-tools-for-youtubers-find-the-best-option-for-your-videos/"><u>[Updated] In 2024, Top Voice Changer Tools for YouTubers Find the Best Option for Your Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-swift-transformations-top-5-no-download-online-gif-to-video-tools/"><u>[Updated] Swift Transformations Top 5 No-Download, Online GIF to Video Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beste-kostenlose-dvd-player-fur-windows-11-eine-topliste-der-13-beliebtesten-modelle/"><u>Beste Kostenlose DVD-Player Für Windows 11 - Eine Topliste Der 13 Beliebtesten Modelle</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/comprendre-les-differents-modes-de-sommeil-dans-windows-11-conseils-pratiques-pour-reinitialiser-et-gerer-lalimentation/"><u>Comprendre Les Différents Modes De Sommeil Dans Windows 11 : Conseils Pratiques Pour Réinitialiser Et Gérer L'Alimentation</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/easy-methods-to-copy-disk-partitions-on-windows-11-and-earlier-versions/"><u>Easy Methods to Copy Disk Partitions on Windows 11 and Earlier Versions</u></a></li>
+<li><a href="https://win-lab.techidaily.com/guia-paso-a-paso-para-cambiar-el-hd-de-tu-portatil-hp-sin-perdida-de-informacion/"><u>Guía Paso a Paso Para Cambiar El HD De Tu Portátil HP Sin Pérdida De Información</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/guide-complet-pour-la-sauvegarde-de-windows-11-dans-le-cloud-fichiers-partiels-ou-sauvegarde-de-lordinateur-entier/"><u>Guide Complet Pour La Sauvegarde De Windows 11 Dans Le Cloud : Fichiers Partiels Ou Sauvegarde De L'Ordinateur Entier</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-nokia-xr21-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Nokia XR21.</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/maximizing-clarity-improve-iphoneandroid-video-quality/"><u>Maximizing Clarity Improve iPhone/Android Video Quality</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/passaggio-alla-configurazione-della-sincronizzazione-automatica-tra-windows-server-e-onedrive-un-tutorial-facile-da-seguire/"><u>Passaggio Alla Configurazione Della Sincronizzazione Automatica Tra Windows Server E OneDrive: Un Tutorial Facile Da Seguire</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-apple-iphone-se-2022-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On Apple iPhone SE (2022) You Should Try Out</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-verdict-on-uniden-r3-robust-build-and-exceptional-long-range-performance/"><u>The Ultimate Verdict on Uniden R3: Robust Build & Exceptional Long Range Performance</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/tips-paling-efektif-untuk-memutakhirkan-partisi-disk-di-windows-10-alat-alat-berbahaya/"><u>Tips Paling Efektif Untuk Memutakhirkan Partisi Disk Di Windows 10: Alat-Alat Berbahaya!</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1728468841709-windows-111087/"><u>Windows 11/10/8/7におけるドロップボックス同期不具合の解決方法</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1728467493036-windows-server-2019/"><u>Windows Server 2019使用: スムーズなオフサイトデータバックアップの実践ガイド</u></a></li>
 </ul></div>
 

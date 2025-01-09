@@ -1,7 +1,7 @@
 ---
 title: Discover LYRX's New Features in macOS Catalina – Participate as a Beta Tester for PCDJ Integration!
-date: 2024-12-28T18:24:28.730Z
-updated: 2024-12-29T20:36:41.019Z
+date: 2025-01-04T22:05:50.807Z
+updated: 2025-01-08T18:33:10.066Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ For now, we are asking for a few LYRX customers that are using newer Apple compu
 **Important Notes:** 10.14 or 10.15 of macOS is needed to run the Catalina-specific LYRX beta. As noted, this is a beta version, and should not be used in a venue/production environment. Specifically, the GUI/interface and video/karaoke should be tested as the changes there are massive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,19 +50,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/03/lyrx-catalina-beta.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-comparative-study-on-vlc-video-capture/"><u>[New] 2024 Approved Comparative Study on VLC Video Capture</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-ultimate-selection-of-economical-4k-projection-screens/"><u>[New] In 2024, Ultimate Selection of Economical 4K Projection Screens</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-guard-your-content-the-copyright-check-before-tiktok-publishing/"><u>[Updated] In 2024, Guard Your Content The Copyright Check Before TikTok Publishing</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-streamline-your-audio-experience-install-vrecorder/"><u>[Updated] In 2024, Streamline Your Audio Experience - Install VRecorder</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-the-social-network-savants-secret-for-downloading-chats/"><u>2024 Approved The Social Network Savant’s Secret for Downloading Chats</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/diagnosing-and-fixing-network-troubles-for-windows-pcs-a-guide-from-yl-software-experts/"><u>Diagnosing and Fixing Network Troubles for Windows PCs: A Guide From YL Software Experts</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effective-strategies-for-diagnosing-and-fixing-intermittent-bsod-issues-insights-from-yl-computing-experts/"><u>Effective Strategies for Diagnosing and Fixing Intermittent BSOD Issues - Insights From YL Computing Experts</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ring-determinants-of-your-youtube-view-count-status-for-2024/"><u>Exploring Determinants of Your YouTube View Count Status for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/resolving-the-issue-of-undetected-devices-on-your-pc-a-guide-by-yl-computing/"><u>Resolving the Issue of Undetected Devices on Your PC: A Guide by YL Computing</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/samsung-cf591-evaluation-top-pick-for-serious-gamers-or-overrated/"><u>Samsung CF591 Evaluation - Top Pick for Serious Gamers or Overrated?</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/step-by-step-guide-seamless-file-transfers-across-multiple-windows-systems-yl-software-solutions/"><u>Step-by-Step Guide: Seamless File Transfers Across Multiple Windows Systems - YL Software Solutions</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/windows-10-user-guide-comprehensive-steps-to-safeguard-your-online-privacy-with-yl-software-solutions/"><u>Windows 10 User Guide: Comprehensive Steps to Safeguard Your Online Privacy with YL Software Solutions</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/be-recommended-videos-block-the-videos-i-dont-like-for-2024/"><u>YouTube Recommended Videos - Block the Videos I Don't Like for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-analyzing-youtube-adrevenue-average-payments-by-thousands-of-views/"><u>[New] In 2024, Analyzing Youtube AdRevenue Average Payments by Thousands of Views</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-converting-yt-to-igtv-3-effective-methods/"><u>[Updated] 2024 Approved Converting YT to IGTV 3 Effective Methods</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-advanced-tips-for-capturing-iphone-7-content/"><u>[Updated] Advanced Tips for Capturing iPhone 7 Content</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-how-to-optimize-your-social-media-presence-post-facebook-change/"><u>[Updated] How to Optimize Your Social Media Presence Post-Facebook Change</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-verified-posts-do-they-matter-for-2024/"><u>[Updated] Instagram Verified Posts - Do They Matter for 2024</u></a></li>
+<li><a href="https://solve-help.techidaily.com/instagram/"><u>「Instagram で公開するビデオの声を消してみた！効果的な手順集」</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/windows-server-200320082e12/"><u>如何在Windows Server 2003、2008和2e12上有效地进行磁碟克隆—资源比较</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/5aac5l2v6l2s56e75beo6yep5pww5o2u5yiw5asw572u56gs55uy4ocu6kej5yaz5peg5rov5asn5yi255qe6zeu6aky/"><u>如何转移巨量数据到外置硬盘—解决无法复制的问题</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1728478826482-aomei-backupper/"><u>AOMEI Backupperで使いやすい最適なバックアップ方法を選ぶための詳細ガイド</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-conscious-audio-meet-sandisks-clip-jam-mp3/"><u>Budget-Conscious Audio: Meet SanDisk's Clip Jam MP3</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/how-to-determine-if-your-external-hard-drive-has-failed/"><u>How to Determine If Your External Hard Drive Has Failed</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-farm-family-fun-pack-the-ultimate-agritainment-guide/"><u>In 2024, Farm Family Fun-Pack The Ultimate Agritainment Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-reddits-golden-threads-celebrating-the-highest-rated-posts/"><u>In 2024, Reddit's Golden Threads Celebrating the Highest-Rated Posts</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/resolving-iphone-and-gmail-contact-synchronization-issues/"><u>Resolving iPhone and Gmail Contact Synchronization Issues</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/secure-your-information-with-ease-a-comprehensive-tutorial-on-windows-11s-data-protection-backups/"><u>Secure Your Information with Ease: A Comprehensive Tutorial on Windows 11'S Data Protection Backups</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/solucion-urgente-liderando-la-busqueda-para-reobtener-tus-archivos-eliminados-por-el-onedrive/"><u>Solución Urgente: Liderando La Búsqueda Para Reobtener Tus Archivos Eliminados Por (El) OneDrive</u></a></li>
 </ul></div>
 

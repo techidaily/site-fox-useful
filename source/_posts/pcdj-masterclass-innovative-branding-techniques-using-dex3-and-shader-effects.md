@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Masterclass: Innovative Branding Techniques Using DEX3 & Shader Effects"
-date: 2024-12-25T17:53:41.698Z
-updated: 2024-12-29T18:31:23.483Z
+date: 2025-01-02T00:18:04.624Z
+updated: 2025-01-08T23:56:24.080Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ Use the combination of Shaders and Overlays for branding purposes and/or for dis
 _Have questions about using **Shaders** in our **DEX 3 DJ software**, or how to **create text, image, and video overlays**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,15 +50,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/shaderdemo-cover.jpg?fit=7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-inside-look-securing-a-profitable-monetized-youtube-space-for-2024/"><u>[Updated] Inside Look Securing a Profitable Monetized Youtube Space for 2024</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/activatingdeactivating-your-systems-defenses-a-guide-to-managing-firewalls-and-antivirus-in-the-digital-realm/"><u>Activating/Deactivating Your System's Defenses: A Guide to Managing Firewalls & Antivirus in the Digital Realm</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/youtube-livestreaming-screen-recorders-for-2024/"><u>Best YouTube Livestreaming Screen Recorders for 2024</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/fresh-playlist-alert-add-34plus-tracks-to-your-library-with-our-latest-karaoke-subscription-update-march-2021/"><u>Fresh Playlist Alert: Add 34+ Tracks to Your Library with Our Latest Karaoke Subscription Update - March 2021</u></a></li>
-<li><a href="https://win-answers.techidaily.com/gta-5-game-stability-secured-understanding-and-resolving-sudden-crashes/"><u>GTA 5 Game Stability Secured: Understanding and Resolving Sudden Crashes</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/high-definition-audi-rs4-wallpaper-downloads-editable-and-screen-saver-ready/"><u>High-Definition Audi RS4 Wallpaper Downloads: Editable & Screen Saver Ready</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-xr-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone XR iOS System? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-defy-2-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Motorola Defy 2 Phone without PIN</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/shanghai-welcomes-taipei-mayor-jiang-wanan-at-the-twin-cities-forum-no-plans-for-a-summit-with-chinas-taiwan-affairs-office-chief-song-tao-insights-from-yl-26/"><u>Shanghai Welcomes Taipei Mayor Jiang Wan'an at the Twin Cities Forum; No Plans for a Summit with China’s Taiwan Affairs Office Chief Song Tao - Insights From YL Computing & YL Software</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-idt-advanced-audio-codec-setup-on-microsofts-latest-os/"><u>Step-by-Step Solution for IDT Advanced Audio Codec Setup on Microsoft's Latest OS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-current-state-of-vr-hardware/"><u>[New] Current State of VR Hardware</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-ultimate-guide-pro-tiktok-editing-techniques-for-2024/"><u>[New] Ultimate Guide Pro TikTok Editing Techniques for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-simplified-guide-integrating-snapchat-with-your-mac/"><u>[Updated] Simplified Guide Integrating Snapchat with Your Mac</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-mastering-vrecorder-download-install/"><u>2024 Approved Mastering VRecorder Download, Install</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-honor-magic-6-lite-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Honor Magic 6 Lite to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1728472543132-hdd/"><u>無愁無歉自由複製外置HDD至新位置</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/a-step-by-step-guide-free-tools-for-retrieving-lost-information-from-your-sd-card/"><u>A Step-by-Step Guide: Free Tools for Retrieving Lost Information From Your SD Card</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/asmr-series-on-youtube-platform/"><u>Best ASMR Series on YouTube Platform</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/come-creare-limmagine-di-ripristino-del-sistema-utilizzando-wbadmin-in-windows-11/"><u>Come Creare L'Immagine Di Ripristino Del Sistema Utilizzando WBAdmin in Windows 11</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/como-clonar-un-disco-duro-de-forma-sencilla-en-una-ssd-tres-pasos-faciles/"><u>Cómo Clonar Un Disco Duro De Forma Sencilla en Una SSD: Tres Pasos Fáciles</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/comprendre-chkdsk-risque-delimination-des-fichiers-sur-le-disque-dur/"><u>Comprendre CHKDSK : Risque D'Elimination Des Fichiers Sur Le Disque Dur?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-opportunities-in-openais-bug-bounty-program-how-to-join/"><u>Exploring the Opportunities in OpenAI’s Bug Bounty Program – How To Join?</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/guerir-le-dilemme-du-scrabble-comment-obtenir-vos-cartes-disparues/"><u>Guérir Le Dilemme Du Scrabble : Comment Obtenir Vos Cartes Disparues</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-s24plus-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy S24+</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/outro-mastery-top-6-free-video-closers-for-2024/"><u>Outro Mastery Top 6 Free Video Closers for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/reinstalling-windows-11-with-easy-efi-partition-restoration-steps/"><u>Reinstalling Windows 11 with Easy EFI Partition Restoration Steps</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/secure-your-data-on-windows-11-by-mastering-two-essential-recovery-techniques/"><u>Secure Your Data on Windows 11 by Mastering Two Essential Recovery Techniques</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/step-by-step-guide-for-fixing-the-windows-camera-app-with-error-code-0xa00f4244/"><u>Step-by-Step Guide for Fixing the Windows Camera App with Error Code 0xA00F4244</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlock-full-potential-expert-techniques-to-restore-your-galaxy-tab-pen-functionality/"><u>Unlock Full Potential: Expert Techniques to Restore Your Galaxy Tab Pen Functionality</u></a></li>
 </ul></div>
 
