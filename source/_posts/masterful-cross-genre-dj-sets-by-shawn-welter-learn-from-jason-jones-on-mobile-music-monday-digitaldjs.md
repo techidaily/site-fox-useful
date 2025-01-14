@@ -1,7 +1,7 @@
 ---
 title: Masterful Cross-Genre DJ Sets by Shawn Welter | Learn From Jason Jones on 'Mobile Music Monday' | #DigitalDJs
-date: 2025-01-04T04:14:06.265Z
-updated: 2025-01-09T04:34:30.689Z
+date: 2025-01-08T16:26:53.378Z
+updated: 2025-01-14T22:33:24.466Z
 tags:
   - product
 categories:
@@ -21,7 +21,7 @@ Jason Jones is an MC/DJ, Performance Coach and speaker when he isn’t hosting s
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -43,20 +43,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/cross-genremixing.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-the-key-to-smooth-screencasting-a-macos-guide/"><u>[Updated] In 2024, The Key to Smooth Screencasting A MacOS Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-looms-labyrinth-navigating-screen-record-art-for-2024/"><u>[Updated] Loom's Labyrinth Navigating Screen Record Art for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-fine-details-focused-discussions-zoom-tips-for-teams/"><u>2024 Approved Fine Details, Focused Discussions Zoom Tips for Teams</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/5q2m5yiz5asp55qe5omn5y2o6kgo5b2w77ya5rex5ywl5lqg6kej5aw55oiq5li65awz5ocn6io95yqb5lml5pif/"><u>武则天的才华表彰：深入了解她成为女性能力之星</u></a></li>
-<li><a href="https://win11.techidaily.com/accessing-the-character-visualization-tool/"><u>Accessing the Character Visualization Tool</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/boosting-system-memory-for-optimal-speed-a-guide-from-yl-software-experts/"><u>Boosting System Memory for Optimal Speed: A Guide From YL Software Experts</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/easy-methods-for-disabling-microsofts-security-feature-in-windows-11-cybertech-innovations-blog/"><u>Easy Methods for Disabling Microsoft's Security Feature in Windows 11 - CyberTech Innovations Blog</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/exploring-protective-strategies-understanding-cryptocurrency-safety-insights-from-yl-computing-and-yl-software/"><u>Exploring Protective Strategies: Understanding Cryptocurrency Safety - Insights From YL Computing & YL Software</u></a></li>
-<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-oppo-reno-11f-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Oppo Reno 11F 5G FRP Locks</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/how-to-safeguard-your-computer-from-malware-and-viruses-that-cause-performance-issues-expert-tips-by-yl-computing/"><u>How to Safeguard Your Computer From Malware & Viruses That Cause Performance Issues - Expert Tips by YL Computing</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/master-the-process-of-driver-updates-for-enhanced-performance-with-tips-from-yl-software/"><u>Master the Process of Driver Updates for Enhanced Performance with Tips From YL Software</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/photo-hdr-excellence-tips-from-the-pros-for-2024/"><u>Photo-HDR Excellence Tips From the Pros for 2024</u></a></li>
-<li><a href="https://win-data.techidaily.com/ultimate-collection-of-high-res-easter-themed-wallpapers-and-images-to-refresh-your-screen-expertly-crafted-by-yl-software/"><u>Ultimate Collection of High-Res Easter Themed Wallpapers & Images to Refresh Your Screen – Expertly Crafted by YL Software</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/ultimate-kawasaki-image-collection-for-professionals-hd-graphics-images-and-wallpapers-curated-by-yl-computing-tech/"><u>Ultimate Kawasaki Image Collection for Professionals: HD Graphics, Images & Wallpapers – Curated by YL Computing Tech</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ling-the-mysteries-accessing-secretive-youtube-content-for-2024/"><u>Unveiling the Mysteries Accessing Secretive YouTube Content for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-androids-facetime-essentials-explained/"><u>[New] 2024 Approved Android's FaceTime Essentials Explained</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-yield-your-content-mastering-youtube-ads-for-earnings-for-2024/"><u>[Updated] Yield Your Content Mastering YouTube Ads for Earnings for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1728502421163-ssdhdd-windows-1011/"><u>從SSD轉移到HDD：在 Windows 10/11 中如何高效管理檔案（分離方法）</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/creatives-guide-to-the-huion-kamvas-gt-191-your-ultimate-digital-drawing-canvas-reviewed/"><u>Creative's Guide to the Huion Kamvas GT-191: Your Ultimate Digital Drawing Canvas Reviewed</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/effortless-file-recovery-for-laufwerk-d-using-windows-11-a-step-by-step-guide/"><u>Effortless File Recovery for Laufwerk D Using Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/elevate-your-ig-videos-tips-and-templates/"><u>Elevate Your IG Videos Tips & Templates</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-xs-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone XS Data From iOS iTunes? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/id-coolings-frozn-a620-pro-se-review-unveiling-premium-efficiency-and-cost-effectiveness-in-cooling-solutions/"><u>ID-Cooling's Frozn A620 Pro SE Review - Unveiling Premium Efficiency and Cost-Effectiveness in Cooling Solutions</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-elevate-your-invitations-top-video-creation-apps-for-mobile-devices/"><u>In 2024, Elevate Your Invitations Top Video Creation Apps for Mobile Devices</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/step-by-step-guide-successfully-executing-an-acer-pc-hardware-repair-using-the-windows-re-utility/"><u>Step-by-Step Guide: Successfully Executing an Acer PC Hardware Repair Using the Windows RE Utility</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-your-razer-blackshark-v2-microphone/"><u>Troubleshooting Guide: Resolving Issues with Your Razer Blackshark V2 Microphone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/wie-man-probleme-mit-der-aufgabenplanung-von-windows-server-2019-behebt/"><u>Wie Man Probleme Mit Der Aufgabenplanung Von Windows Server 2019 Behebt</u></a></li>
 </ul></div>
 

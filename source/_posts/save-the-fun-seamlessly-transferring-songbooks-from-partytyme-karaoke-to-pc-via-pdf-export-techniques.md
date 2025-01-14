@@ -1,7 +1,7 @@
 ---
 title: "Save the Fun: Seamlessly Transferring Songbooks From PartyTyme Karaoke to PC via PDF Export Techniques"
-date: 2025-01-03T16:37:28.156Z
-updated: 2025-01-09T00:46:58.944Z
+date: 2025-01-12T22:50:27.853Z
+updated: 2025-01-14T22:11:34.833Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ All subscribers to the Party Tyme Karaoke subscription service need to do is log
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The Steps To Create And Export A Karaoke Songbook From Party Tyme Karaoke
@@ -36,43 +36,43 @@ All subscribers to the Party Tyme Karaoke subscription service need to do is log
 
 [VIEW LARGER IMAGE ![](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/type-in-credentials-pt.jpg?fit=300%2C300&ssl=1 "Login using your subscription credentials")](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/type-in-credentials-pt.jpg?fit=756%2C756&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Login with the credentials created when you created the account in DEX 3 or LYRX. Your email address is used for the user name and punch in your custom password and click **LOGIN**.
 
 [VIEW LARGER IMAGE ![Locate the gear icon and click it](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/09/click-gear-icon-top-right-pt.jpg?fit=300%2C300&ssl=1 "Locate the gear icon and click it")](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/09/click-gear-icon-top-right-pt.jpg?fit=552%2C552&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Once you’re logged in, locate the ‘**GEAR**‘ looking icon in top right corner of the website and click on it. This will bring up initial settings for the PT karaoke songbook.
 
 [VIEW LARGER IMAGE ![Click open under other options](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/09/click-open-pt.jpg?fit=300%2C300&ssl=1 "Click open under other options")](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/09/click-open-pt.jpg?fit=780%2C780&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) On the settings screen, under ‘**Other Options**‘, click the **OPEN** button. This will launch the ‘**Export To PDF**‘ settings and creation menu.
 
 [VIEW LARGER IMAGE ![Select your songbook options and click OK](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/09/click-ok-pt.jpg?fit=300%2C300&ssl=1 "Select your songbook options and click OK")](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/09/click-ok-pt.jpg?fit=652%2C652&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5) The ‘**Export To PDF**‘ menu allows you to select the ‘**Song List Type**‘ — Domestic, Foreign, or All — the ‘**Domestic Language**‘ — English or Spanish — and the ‘**Order By**‘ — Order by Artist or By Title. After dialing in your options, click the **OK** button. After clicking on **OK** the songbook creation process will begin.
 
 [VIEW LARGER IMAGE ![Click the download here](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/click-download-here-pt.jpg?fit=300%2C300&ssl=1 "Click the download here")](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/click-download-here-pt.jpg?fit=706%2C706&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6) Once your songbook is prepared and ready for download, you will see ‘**Download Here**‘ in green-colored text at the bottom of the menu box. Click the link/text to launch your customized PDF Party Tyme Karaoke songbook.
 
 [VIEW LARGER IMAGE ![Your party tyme songbook is ready for print](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/09/song-book-pt.jpg?fit=300%2C300&ssl=1 "Your party tyme songbook is ready for print")](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/09/song-book-pt.jpg?fit=920%2C920&ssl=1)
 
 7) Your custom **Party Tyme Karaoke songbook** is ready for download and/or print (or upload to your own website for your singers to view there!).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -93,22 +93,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/partytymekaraokesongbook-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-grids-for-greatness-photographs-next-step-up/"><u>[Updated] Grids for Greatness Photographs' Next Step Up</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-real-time-recording-faceoff-obs-vs-shadowplay-for-2024/"><u>[Updated] Real-Time Recording Faceoff OBS Vs ShadowPlay for 2024</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/automatisierte-update-deaktivierung-fur-windows-11-entschlusselt-entdecken-sie-die-6-besten-methoden/"><u>Automatisierte Update-Deaktivierung Für Windows 11 Entschlüsselt - Entdecken Sie Die 6 Besten Methoden!</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/cloning-vs-clean-installs-a-step-by-step-guide-to-ssd-management/"><u>Cloning Vs. Clean Installs: A Step-by-Step Guide to SSD Management</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/comprehensive-solutions-for-city-skylines-frequent-crash-issues-what-you-need-to-know-in-202e/"><u>Comprehensive Solutions for City Skylines' Frequent Crash Issues - What You Need To Know in 202E!</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effortless-guide-transferring-the-windows-os-from-hdd-to-ssd-on-a-lenovo-computer/"><u>Effortless Guide: Transferring the Windows OS From HDD to SSD on a Lenovo Computer</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/efi-partij-verdwijnt-4-efficient-levende-alternatieven-te-verkennen/"><u>EFI-Partij Verdwijnt: 4 Efficiënt Levende Alternatieven Te Verkennen!</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/guide-complet-utiliser-des-outils-de-duplication-pour-copier-une-partition-systeme-sur-windows-8-ou-81/"><u>Guide Complet : Utiliser Des Outils De Duplication Pour Copier Une Partition Système Sur Windows 8 Ou 8.1</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-xiaomi-redmi-k70-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Xiaomi Redmi K70 Pro Devices</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-trailblazers-of-the-cinematic-visual-and-auditory-fusion/"><u>In 2024, Trailblazers of the Cinematic, Visual & Auditory Fusion</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/1728504912427-norton-ghost/"><u>Norton Ghost の使用によるシステムイメージバックアップ手順</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/professionelle-anleitung-wie-man-e-mailarchive-aus-der-versionen-von-microsoft-outlook-ab-2010-bis-hin-zu-2016-in-das-kompatible-dateiformat-pst-konvertiert70/"><u>Professionelle Anleitung: Wie Man E-Mailarchive Aus Der Versionen Von Microsoft Outlook Ab 2010 Bis Hin Zu 2016 in Das Kompatible Dateiformat PST Konvertiert</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-motorola-edge-2023-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Motorola Edge 2023 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-free-web-creation-tools-insights-from-zdnet/"><u>Top Rated Free Web Creation Tools - Insights From ZDNet</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/1728502586406-windows-11/"><u>Windows 11から新しいディスクへ安全に転送:データロスト無く保存</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1728499521858-windows-7hdd/"><u>Windows 7デスクトップへの自動外付けHDDバックアップ手順</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/5-great-ways-to-keep-up-with-twitter-conversations-discover-hashtag-follower-tools/"><u>5 Great Ways to Keep Up with Twitter Conversations: Discover Hashtag Follower Tools!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-samsung-galaxy-f15-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Samsung Galaxy F15 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ard-playmanship-a-guide-to-reversed-youtube-videos-for-2024/"><u>Backward Playmanship A Guide to Reversed YouTube Videos for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/guide-simple-methods-to-enjoy-and-excel-at-army-commander-on-pc/"><u>Guide: Simple Methods to Enjoy and Excel at Army Commander on PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-xiaomi-redmi-note-12r-by-fonelab-android-recover-music/"><u>How to recover old music from your Xiaomi Redmi Note 12R</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hilarity-in-a-click-meme-creation/"><u>In 2024, Hilarity in a Click (Meme Creation)</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/iphone-x-versus-iphone-7-an-in-depth-head-to-head-review/"><u>IPhone X versus iPhone 7: An In-Depth Head-to-Head Review</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/step-by-step-tutorial-on-utilizing-apowersofts-android-video-capture-software/"><u>Step-by-Step Tutorial on Utilizing Apowersoft's Android Video Capture Software</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210117964-9781612834481-this-life-is-yours/"><u>This Life Is Yours | Free Book</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/top-4-strategies-and-visuals-for-boosting-product-photos-to-skyrocket-sales/"><u>Top 4 Strategies and Visuals for Boosting Product Photos to Skyrocket Sales</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-vivo-y27s-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Vivo Y27s Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/unlock-professional-results-using-leading-free-ai-video-editing-tools/"><u>Unlock Professional Results Using Leading Free AI Video Editing Tools</u></a></li>
 </ul></div>
 

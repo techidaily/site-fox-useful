@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Playlist Importation in PCDJ - From Dex 2 to Dex 3 with This Essential Tutorial Video
-date: 2025-01-06T01:19:49.209Z
-updated: 2025-01-09T01:39:39.897Z
+date: 2025-01-12T17:46:17.428Z
+updated: 2025-01-14T21:10:22.113Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ This feature doesn’t just work for DEX 2 playlists, it will work for RED Mobil
 #### DJ Software Tutorial Video: Importing Playlists From DEX 2 into DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,21 +44,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/08/importingplaylists-coverim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-art-of-package-revelation/"><u>[New] 2024 Approved The Art of Package Revelation</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-top-voice-changer-tools-for-youtubers-find-the-best-option-for-your-videos/"><u>[Updated] In 2024, Top Voice Changer Tools for YouTubers Find the Best Option for Your Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-swift-transformations-top-5-no-download-online-gif-to-video-tools/"><u>[Updated] Swift Transformations Top 5 No-Download, Online GIF to Video Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beste-kostenlose-dvd-player-fur-windows-11-eine-topliste-der-13-beliebtesten-modelle/"><u>Beste Kostenlose DVD-Player Für Windows 11 - Eine Topliste Der 13 Beliebtesten Modelle</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/comprendre-les-differents-modes-de-sommeil-dans-windows-11-conseils-pratiques-pour-reinitialiser-et-gerer-lalimentation/"><u>Comprendre Les Différents Modes De Sommeil Dans Windows 11 : Conseils Pratiques Pour Réinitialiser Et Gérer L'Alimentation</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/easy-methods-to-copy-disk-partitions-on-windows-11-and-earlier-versions/"><u>Easy Methods to Copy Disk Partitions on Windows 11 and Earlier Versions</u></a></li>
-<li><a href="https://win-lab.techidaily.com/guia-paso-a-paso-para-cambiar-el-hd-de-tu-portatil-hp-sin-perdida-de-informacion/"><u>Guía Paso a Paso Para Cambiar El HD De Tu Portátil HP Sin Pérdida De Información</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/guide-complet-pour-la-sauvegarde-de-windows-11-dans-le-cloud-fichiers-partiels-ou-sauvegarde-de-lordinateur-entier/"><u>Guide Complet Pour La Sauvegarde De Windows 11 Dans Le Cloud : Fichiers Partiels Ou Sauvegarde De L'Ordinateur Entier</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-nokia-xr21-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Nokia XR21.</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/maximizing-clarity-improve-iphoneandroid-video-quality/"><u>Maximizing Clarity Improve iPhone/Android Video Quality</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/passaggio-alla-configurazione-della-sincronizzazione-automatica-tra-windows-server-e-onedrive-un-tutorial-facile-da-seguire/"><u>Passaggio Alla Configurazione Della Sincronizzazione Automatica Tra Windows Server E OneDrive: Un Tutorial Facile Da Seguire</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-apple-iphone-se-2022-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On Apple iPhone SE (2022) You Should Try Out</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-verdict-on-uniden-r3-robust-build-and-exceptional-long-range-performance/"><u>The Ultimate Verdict on Uniden R3: Robust Build & Exceptional Long Range Performance</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/tips-paling-efektif-untuk-memutakhirkan-partisi-disk-di-windows-10-alat-alat-berbahaya/"><u>Tips Paling Efektif Untuk Memutakhirkan Partisi Disk Di Windows 10: Alat-Alat Berbahaya!</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/1728468841709-windows-111087/"><u>Windows 11/10/8/7におけるドロップボックス同期不具合の解決方法</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/1728467493036-windows-server-2019/"><u>Windows Server 2019使用: スムーズなオフサイトデータバックアップの実践ガイド</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-tints-shades-and-tones-practical-application-in-art/"><u>[New] In 2024, Tints, Shades & Tones Practical Application in Art</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-the-guardian-of-gifs-saving-memorable-moments-from-twitter/"><u>[New] The Guardian of GIFs Saving Memorable Moments From Twitter</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nveiling-aspect-ratios-your-pathway-to-youtube-excellence-for-2024/"><u>[New] Unveiling Aspect Ratios Your Pathway to YouTube Excellence for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-capturing-chats-complete-fbm-conversation-history-for-2024/"><u>[Updated] Capturing Chats Complete FBM Conversation History for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-best-focus-effects-iphone-vs-android-photo-solutions/"><u>[Updated] In 2024, Best Focus Effects IPhone vs Android Photo Solutions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-perfect-thumbnail-size-for-click-through-rates/"><u>2024 Approved Perfect Thumbnail Size for Click-Through Rates</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/effective-measures-to-address-windows-defenders-virus-detection-guidance-by-yl-computing/"><u>Effective Measures to Address Windows Defender's Virus Detection - Guidance by YL Computing</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/guide-for-setting-up-and-using-a-vpn-on-your-windows-11-device-expert-advice-from-yl-computing/"><u>Guide for Setting Up and Using a VPN on Your Windows 11 Device - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/hardware-troubleshooting-via-software-tools-exploring-options-at-yl-computing/"><u>Hardware Troubleshooting Via Software Tools - Exploring Options at YL Computing</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/identifying-hardware-malfunctions-expert-guide-yl-computing/"><u>Identifying Hardware Malfunctions: Expert Guide - YL Computing</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-honor-magic-6-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Honor Magic 6 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-perfecting-the-pause-how-to-craft-exceptional-slow-motion-videos/"><u>In 2024, Perfecting the Pause How to Craft Exceptional Slow Motion Videos</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/lyrx-version-14-launched-features-integration-with-karaokenet-and-new-in-app-shopping-experience/"><u>LYRX Version 1.4 Launched: Features Integration with Karaoke.Net and New In-App Shopping Experience</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/regulatory-standards-and-policies-for-digital-currencies-by-yl-software/"><u>Regulatory Standards and Policies for Digital Currencies by YL Software</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/save-the-fun-seamlessly-transferring-songbooks-from-partytyme-karaoke-to-pc-via-pdf-export-techniques/"><u>Save the Fun: Seamlessly Transferring Songbooks From PartyTyme Karaoke to PC via PDF Export Techniques</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/k-and-youtube-shorts-comparison-for-individual-social-media-users/"><u>TikTok & YouTube Shorts Comparison for Individual Social Media Users</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/what-are-the-alternatives-to-modifying-the-windows-registry-uncover-options-with-yl-software-experts/"><u>What Are the Alternatives to Modifying the Windows Registry? Uncover Options with YL Software Experts</u></a></li>
 </ul></div>
 

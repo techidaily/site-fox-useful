@@ -1,7 +1,7 @@
 ---
 title: Discover LYRX's New Features in macOS Catalina – Participate as a Beta Tester for PCDJ Integration!
-date: 2025-01-04T22:05:50.807Z
-updated: 2025-01-08T18:33:10.066Z
+date: 2025-01-11T17:25:00.329Z
+updated: 2025-01-14T19:21:13.063Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ For now, we are asking for a few LYRX customers that are using newer Apple compu
 **Important Notes:** 10.14 or 10.15 of macOS is needed to run the Catalina-specific LYRX beta. As noted, this is a beta version, and should not be used in a venue/production environment. Specifically, the GUI/interface and video/karaoke should be tested as the changes there are massive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,21 +50,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/03/lyrx-catalina-beta.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-analyzing-youtube-adrevenue-average-payments-by-thousands-of-views/"><u>[New] In 2024, Analyzing Youtube AdRevenue Average Payments by Thousands of Views</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-converting-yt-to-igtv-3-effective-methods/"><u>[Updated] 2024 Approved Converting YT to IGTV 3 Effective Methods</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-advanced-tips-for-capturing-iphone-7-content/"><u>[Updated] Advanced Tips for Capturing iPhone 7 Content</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-how-to-optimize-your-social-media-presence-post-facebook-change/"><u>[Updated] How to Optimize Your Social Media Presence Post-Facebook Change</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-instagram-verified-posts-do-they-matter-for-2024/"><u>[Updated] Instagram Verified Posts - Do They Matter for 2024</u></a></li>
-<li><a href="https://solve-help.techidaily.com/instagram/"><u>「Instagram で公開するビデオの声を消してみた！効果的な手順集」</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/windows-server-200320082e12/"><u>如何在Windows Server 2003、2008和2e12上有效地进行磁碟克隆—资源比较</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/5aac5l2v6l2s56e75beo6yep5pww5o2u5yiw5asw572u56gs55uy4ocu6kej5yaz5peg5rov5asn5yi255qe6zeu6aky/"><u>如何转移巨量数据到外置硬盘—解决无法复制的问题</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/1728478826482-aomei-backupper/"><u>AOMEI Backupperで使いやすい最適なバックアップ方法を選ぶための詳細ガイド</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/budget-conscious-audio-meet-sandisks-clip-jam-mp3/"><u>Budget-Conscious Audio: Meet SanDisk's Clip Jam MP3</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/how-to-determine-if-your-external-hard-drive-has-failed/"><u>How to Determine If Your External Hard Drive Has Failed</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-farm-family-fun-pack-the-ultimate-agritainment-guide/"><u>In 2024, Farm Family Fun-Pack The Ultimate Agritainment Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-reddits-golden-threads-celebrating-the-highest-rated-posts/"><u>In 2024, Reddit's Golden Threads Celebrating the Highest-Rated Posts</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/resolving-iphone-and-gmail-contact-synchronization-issues/"><u>Resolving iPhone and Gmail Contact Synchronization Issues</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/secure-your-information-with-ease-a-comprehensive-tutorial-on-windows-11s-data-protection-backups/"><u>Secure Your Information with Ease: A Comprehensive Tutorial on Windows 11'S Data Protection Backups</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/solucion-urgente-liderando-la-busqueda-para-reobtener-tus-archivos-eliminados-por-el-onedrive/"><u>Solución Urgente: Liderando La Búsqueda Para Reobtener Tus Archivos Eliminados Por (El) OneDrive</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-vr-sickness-10-prevention-strategies/"><u>[New] In 2024, VR Sickness 10 Prevention Strategies</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-unlock-the-potential-of-your-gaming-experience-with-these-top-techniques-on-windows-11-for-2024/"><u>[New] Unlock the Potential of Your Gaming Experience with These Top Techniques on Windows 11 for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-essential-mobile-media-creation-tools-iphone-vs-android-review/"><u>[Updated] Essential Mobile Media Creation Tools IPhone vs Android Review</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-next-gen-players-guide-rift-vive-vs-ps-vr-games/"><u>2024 Approved Next-Gen Players Guide Rift, Vive, vs PS VR Games</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-essential-guide-to-signing-up-for-twitter/"><u>2024 Approved The Essential Guide to Signing Up for Twitter</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/aomei-centralized-backup-erlernen-sie-die-systemvoraussetzungen-fur-eine-optimierte-datensicherung/"><u>AOMEI Centralized Backup: Erlernen Sie Die Systemvoraussetzungen Für Eine Optimierte Datensicherung</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/comprendre-les-differents-modes-de-sommeil-dans-windows-11-conseils-pratiques-pour-reinitialiser-et-gerer-lalimentation/"><u>Comprendre Les Différents Modes De Sommeil Dans Windows 11 : Conseils Pratiques Pour Réinitialiser Et Gérer L'Alimentation</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/easy-methods-to-copy-disk-partitions-on-windows-11-and-earlier-versions/"><u>Easy Methods to Copy Disk Partitions on Windows 11 and Earlier Versions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/essential-online-spots-4-skype-ringtones-for-2024/"><u>Essential Online Spots 4 Skype Ringtones for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/guide-complet-pour-la-sauvegarde-de-windows-11-dans-le-cloud-fichiers-partiels-ou-sauvegarde-de-lordinateur-entier/"><u>Guide Complet Pour La Sauvegarde De Windows 11 Dans Le Cloud : Fichiers Partiels Ou Sauvegarde De L'Ordinateur Entier</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-mastering-zoom-email-integration-tips-for-efficient-meetings/"><u>In 2024, Mastering Zoom Email Integration Tips for Efficient Meetings</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721097008760-making-sense-of-dolby-digital-not-playing-properly-on-laptop-answer-available/"><u>Making Sense of 'Dolby Digital' Not Playing Properly on Laptop - Answer Available</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/passaggio-alla-configurazione-della-sincronizzazione-automatica-tra-windows-server-e-onedrive-un-tutorial-facile-da-seguire/"><u>Passaggio Alla Configurazione Della Sincronizzazione Automatica Tra Windows Server E OneDrive: Un Tutorial Facile Da Seguire</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/ricoverare-efficientemente-ununita-cancellata-usando-il-prompt-dei-comandi-di-windows/"><u>Ricoverare Efficientemente Un'unità Cancellata Usando Il Prompt Dei Comandi Di Windows</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/tips-paling-efektif-untuk-memutakhirkan-partisi-disk-di-windows-10-alat-alat-berbahaya/"><u>Tips Paling Efektif Untuk Memutakhirkan Partisi Disk Di Windows 10: Alat-Alat Berbahaya!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-status-audit-top-3-strategies/"><u>Windows 11 Status Audit: Top 3 Strategies</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1728468841709-windows-111087/"><u>Windows 11/10/8/7におけるドロップボックス同期不具合の解決方法</u></a></li>
 </ul></div>
 

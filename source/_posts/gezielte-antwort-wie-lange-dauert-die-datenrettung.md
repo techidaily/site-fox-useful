@@ -1,7 +1,7 @@
 ---
 title: "Gezielte Antwort: Wie Lange Dauert Die Datenrettung?"
-date: 2024-12-26T18:46:25.260Z
-updated: 2024-12-29T20:39:26.873Z
+date: 2025-01-10T18:49:10.094Z
+updated: 2025-01-14T21:52:07.116Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace1a8dcb38cd4f8698fb9bdda.jpg
@@ -24,13 +24,13 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -40,7 +40,7 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
@@ -93,12 +93,16 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
@@ -109,10 +113,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
 Et la sauvegarde incrémentielle nécessite une récupération plus complexe tandis que la sauvegarde différentielle est beaucoup plus facile. Pour connaître les différences entre elles, consultez « [Sauvegarde incrémentielle ou différentielle](https://tools.techidaily.com/ubackup/products/) ».
@@ -120,6 +120,10 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -137,13 +141,13 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -174,14 +178,10 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,24 +198,15 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-dslr-or-mirrorless-the-ultimate-question-for-videographers/"><u>[New] In 2024, DSLR or Mirrorless? The Ultimate Question for Videographers</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-pixel-humorist-tools-kapwings-meme-mastery/"><u>[New] Pixel Humorist Tools Kapwing’s Meme Mastery</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-step-by-step-instructions-for-incorporating-custom-gifs-and-icons-into-your-story-posts-on-instagram-for-2024/"><u>[New] Step-by-Step Instructions for Incorporating Custom GIFS & Icons Into Your Story Posts on Instagram for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-master-real-time-video-sharing-on-facebook-for-2024/"><u>[Updated] How to Master Real-Time Video Sharing on Facebook for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-speedy-guide-crafting-images-into-stellar-youtube-thumbnail-pics/"><u>2024 Approved Speedy Guide Crafting Images Into Stellar YouTube Thumbnail Pics</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-the-adventurous-spirit-with-panasonics-hx-a1-actioncam-review/"><u>2024 Approved The Adventurous Spirit with Panasonic's HX-A1 ActionCam Review</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/beautiful-countryside-scenes-and-photographs-premium-image-library-by-yl-software-solutions/"><u>Beautiful Countryside Scenes and Photographs – Premium Image Library by YL Software Solutions</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effective-strategies-to-prevent-printer-paper-jams-expert-advice-from-yl-computing/"><u>Effective Strategies to Prevent Printer Paper Jams: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effective-techniques-for-protecting-against-windows-memory-errors-by-experts-at-yl-software/"><u>Effective Techniques for Protecting Against Windows Memory Errors by Experts at YL Software</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/exploring-the-real-price-tag-in-depth-insights-into-karaoke-installation-costs-for-bars-and-restaurants-pcdj-solutions/"><u>Exploring the Real Price Tag: In-Depth Insights Into Karaoke Installation Costs for Bars and Restaurants | PCDJ Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-fixing-installation-glitches-for-origin-platform-gaming-titles/"><u>Guide to Fixing Installation Glitches for Origin Platform Gaming Titles</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/high-resolution-audi-a8-tfsi-e-hybrid-display-graphics-and-digital-artwork-for-desktop-backgrounds/"><u>High-Resolution Audi A8 TFSI E Hybrid Display Graphics & Digital Artwork for Desktop Backgrounds</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/how-can-you-fix-a-sluggish-laptop-essential-tips-from-yl-computings-expertise/"><u>How Can You Fix a Sluggish Laptop? Essential Tips From YL Computing's Expertise</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/how-to-monitor-your-cryptocurrency-funds-mastering-the-bitcoin-address-balance-tool-by-yl-computing/"><u>How to Monitor Your Cryptocurrency Funds: Mastering the Bitcoin Address Balance Tool by YL Computing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/kid-tested-wet-weather-videography-gear-for-newbies/"><u>Kid-Tested Wet Weather Videography Gear for Newbies</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/medication-adjustments-and-close-management-of-pre-existing-conditions-women-with-chronic-medical-conditions-or-those-who-develop-gestational-issues-require105/"><u>Medication Adjustments and Close Management of Pre-Existing Conditions: Women with Chronic Medical Conditions or Those Who Develop Gestational Issues Require Careful Monitoring and Medication Adjustments to Maintain Stability Throughout the Pregnancy.</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/resolving-the-issue-of-undetected-devices-on-your-pc-a-guide-by-yl-computing/"><u>Resolving the Issue of Undetected Devices on Your PC: A Guide by YL Computing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-technology-behind-chatbot-communication-mimicking-real-life-interactions/"><u>The Technology Behind Chatbot Communication: Mimicking Real-Life Interactions</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/transform-your-content-expert-tips-for-bokeh-on-social-media-for-2024/"><u>Transform Your Content Expert Tips for Bokeh on Social Media for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-color-mastery-simple-steps-in-photoshop-for-2024/"><u>[New] Color Mastery Simple Steps in Photoshop for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/betriebssystem-windows-11-von-einem-usb-laufwerk-starten-zwei-ansatze/"><u>Betriebssystem Windows 11 Von Einem USB-Laufwerk Starten: Zwei Ansätze</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-universal-adb-driver-easily/"><u>Download Universal ADB Driver Easily</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-lifelike-broadcasts-which-aspect-holds-the-high-ground/"><u>In 2024, Lifelike Broadcasts Which Aspect Holds the High Ground?</u></a></li>
+<li><a href="https://win-data.techidaily.com/is-your-pc-underperforming-discover-diagnostic-steps-with-yl-software/"><u>Is Your PC Underperforming? Discover Diagnostic Steps with YL Software</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/losung-fur-unvollstandige-festplattenformatierung-unter-windows-10-problembehebungsstrategien/"><u>Lösung Für Unvollständige Festplattenformatierung Unter Windows 10: Problembehebungsstrategien</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/navigating-the-apex-of-general-knowledge-trivia-channels-in-24/"><u>Navigating the Apex of General Knowledge Trivia Channels in '24</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/optimale-vorgehensweise-zum-kopieren-von-windows-11-auf-eine-neue-festplatte-schritt-fur-schritt/"><u>Optimale Vorgehensweise Zum Kopieren Von Windows 11 Auf Eine Neue Festplatte - Schritt-Für-Schritt</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-oppo-a38-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Oppo A38 FRP Bypass</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/wiederherstellung-verlorener-daten-lernen-sie-wie-sie-geloschte-informationen-von-festplatten-mit-windows-xp-10-und-11-wiederherstellen-konnen/"><u>Wiederherstellung Verlorener Daten: Lernen Sie, Wie Sie Gelöschte Informationen Von Festplatten Mit Windows XP, 10 Und 11 Wiederherstellen Können</u></a></li>
 </ul></div>
 
