@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Playlist Importation in PCDJ - From Dex 2 to Dex 3 with This Essential Tutorial Video
-date: 2025-01-12T17:46:17.428Z
-updated: 2025-01-14T21:10:22.113Z
+date: 2025-01-14T18:02:10.921Z
+updated: 2025-01-21T00:04:45.430Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ This feature doesn’t just work for DEX 2 playlists, it will work for RED Mobil
 #### DJ Software Tutorial Video: Importing Playlists From DEX 2 into DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,22 +44,14 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/08/importingplaylists-coverim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-tints-shades-and-tones-practical-application-in-art/"><u>[New] In 2024, Tints, Shades & Tones Practical Application in Art</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-guardian-of-gifs-saving-memorable-moments-from-twitter/"><u>[New] The Guardian of GIFs Saving Memorable Moments From Twitter</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/nveiling-aspect-ratios-your-pathway-to-youtube-excellence-for-2024/"><u>[New] Unveiling Aspect Ratios Your Pathway to YouTube Excellence for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-capturing-chats-complete-fbm-conversation-history-for-2024/"><u>[Updated] Capturing Chats Complete FBM Conversation History for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-best-focus-effects-iphone-vs-android-photo-solutions/"><u>[Updated] In 2024, Best Focus Effects IPhone vs Android Photo Solutions</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-perfect-thumbnail-size-for-click-through-rates/"><u>2024 Approved Perfect Thumbnail Size for Click-Through Rates</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effective-measures-to-address-windows-defenders-virus-detection-guidance-by-yl-computing/"><u>Effective Measures to Address Windows Defender's Virus Detection - Guidance by YL Computing</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/guide-for-setting-up-and-using-a-vpn-on-your-windows-11-device-expert-advice-from-yl-computing/"><u>Guide for Setting Up and Using a VPN on Your Windows 11 Device - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/hardware-troubleshooting-via-software-tools-exploring-options-at-yl-computing/"><u>Hardware Troubleshooting Via Software Tools - Exploring Options at YL Computing</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/identifying-hardware-malfunctions-expert-guide-yl-computing/"><u>Identifying Hardware Malfunctions: Expert Guide - YL Computing</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-honor-magic-6-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Honor Magic 6 to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-perfecting-the-pause-how-to-craft-exceptional-slow-motion-videos/"><u>In 2024, Perfecting the Pause How to Craft Exceptional Slow Motion Videos</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/lyrx-version-14-launched-features-integration-with-karaokenet-and-new-in-app-shopping-experience/"><u>LYRX Version 1.4 Launched: Features Integration with Karaoke.Net and New In-App Shopping Experience</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/regulatory-standards-and-policies-for-digital-currencies-by-yl-software/"><u>Regulatory Standards and Policies for Digital Currencies by YL Software</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/save-the-fun-seamlessly-transferring-songbooks-from-partytyme-karaoke-to-pc-via-pdf-export-techniques/"><u>Save the Fun: Seamlessly Transferring Songbooks From PartyTyme Karaoke to PC via PDF Export Techniques</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/k-and-youtube-shorts-comparison-for-individual-social-media-users/"><u>TikTok & YouTube Shorts Comparison for Individual Social Media Users</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/what-are-the-alternatives-to-modifying-the-windows-registry-uncover-options-with-yl-software-experts/"><u>What Are the Alternatives to Modifying the Windows Registry? Uncover Options with YL Software Experts</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/controlling-your-pcs-boot-process-utilizing-the-control-panel-for-efficient-startup-guided-by-yl-software-expertise/"><u>Controlling Your PC's Boot Process: Utilizing the Control Panel for Efficient Startup - Guided by YL Software Expertise</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/how-to-accurately-detect-and-resolve-graphic-card-issues-with-yls-proven-methods/"><u>How to Accurately Detect & Resolve Graphic Card Issues with YL's Proven Methods</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-xiaomi-redmi-note-12-pro-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Xiaomi Redmi Note 12 Pro 5G Phone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-confirming-youtube-pro-rated-earnings/"><u>In 2024, Confirming YouTube Pro-Rated Earnings</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/mastering-the-art-of-pricing-for-dj-services-insights-from-industry-expert-john-young/"><u>Mastering the Art of Pricing for DJ Services: Insights From Industry Expert, John Young</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-hd-video-editing-made-easy-top-5-software-recommendations/"><u>New 2024 Approved HD Video Editing Made Easy Top 5 Software Recommendations</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/top-frequently-encountered-pc-hardware-issues-on-windows-platforms-insights-from-yl-computing/"><u>Top Frequently Encountered PC Hardware Issues on Windows Platforms: Insights From YL Computing</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-audio-editing-essentials-two-ways-to-create-smooth-fades-in-final-cut-pro/"><u>Updated Audio Editing Essentials Two Ways to Create Smooth Fades in Final Cut Pro</u></a></li>
+<li><a href="https://extra-information.techidaily.com/voice-alteration-excellence-with-morphvox/"><u>Voice Alteration Excellence with MorphVOX</u></a></li>
 </ul></div>
 

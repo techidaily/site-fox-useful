@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Masterclass: Innovative Branding Techniques Using DEX3 & Shader Effects"
-date: 2025-01-12T21:07:34.918Z
-updated: 2025-01-14T21:42:40.859Z
+date: 2025-01-16T23:39:17.100Z
+updated: 2025-01-20T21:21:56.874Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ Use the combination of Shaders and Overlays for branding purposes and/or for dis
 _Have questions about using **Shaders** in our **DEX 3 DJ software**, or how to **create text, image, and video overlays**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,17 +50,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/shaderdemo-cover.jpg?fit=7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-coping-with-youtube-copyright-claims-a-step-by-step-guide-for-2024/"><u>[Updated] Coping with YouTube Copyright Claims A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-hidden-harmonics-discreetly-lowering-garageband-tones/"><u>[Updated] Hidden Harmonics Discreetly Lowering Garageband Tones</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/11-desktop-look-and-feel/"><u>11 Desktop Look and Feel!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-smart-selections-the-premier-list-of-costless-streamers-apps-and-software/"><u>2024 Approved Smart Selections The Premier List of Costless Streamers Apps & Software</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/customize-your-computers-display-with-windows-control-panel-tweaks-advice-from-yl-software-experts/"><u>Customize Your Computer's Display with Windows Control Panel Tweaks - Advice From YL Software Experts</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/flashfreeze-video-cut-out-instruction-for-2024/"><u>FlashFreeze Video Cut-Out Instruction for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to share/fake gps on Uber for Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/screen-snatching-made-easy-analyzing-no-cost-recording-apps-for-2024/"><u>Screen Snatching Made Easy – Analyzing No-Cost Recording Apps for 2024</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-honor-90-gt-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Honor 90 GT</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/step-by-step-guide-removing-an-account-from-your-systems-dashboard-tech-solutions-by-yl/"><u>Step-by-Step Guide: Removing an Account From Your System's Dashboard - Tech Solutions by YL</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/top-strategies-to-optimize-and-boost-your-computers-ram-efficiency-insights-from-yl-computing/"><u>Top Strategies to Optimize and Boost Your Computer's RAM Efficiency - Insights From YL Computing</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/troubleshooting-unresponsive-scanners-guidance-and-solutions-by-yl-software-experts/"><u>Troubleshooting Unresponsive Scanners: Guidance and Solutions by YL Software Experts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-leading-audio-transformation-software-listings/"><u>[Updated] In 2024, Leading Audio Transformation Software Listings</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-step-by-step-guide-to-transcribing-with-googles-speech-api/"><u>[Updated] In 2024, Step-by-Step Guide to Transcribing with Google's Speech API</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-your-youtube-settings-stop-auto-play-videos/"><u>[Updated] Master Your YouTube Settings - Stop Auto-Play Videos</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/20-release-exclusive-subscriber-access-to-latest-karaoke-tracks-2520-perfect-for-djs/"><u>2.0 Release: Exclusive Subscriber Access to Latest Karaoke Tracks (2/5/20) - Perfect for DJs</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/crypto-wealth-strategies-expert-tips-for-earning-with-digital-currencies-yl-software-solutions/"><u>Crypto Wealth Strategies: Expert Tips for Earning with Digital Currencies - YL Software Solutions</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/disabling-microsofts-windows-defender-a-step-by-step-guide-tips-from-yl-computing/"><u>Disabling Microsoft's Windows Defender: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/gnome-videos-open-source-multimedia-for-windows/"><u>GNOME Videos Open-Source Multimedia for Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-the-non-pump-aio-cooler-holds-its-own-trailing-only-8c-from-traditional-pump-rival-in-testing/"><u>How the Non-Pump AIO Cooler Holds Its Own, Trailing Only 8°C From Traditional Pump Rival in Testing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-install-or-upgrade-toshiba-graphics-chipset-and-network-drivers-in-windows/"><u>How to Install or Upgrade Toshiba Graphics, Chipset & Network Drivers in Windows</u></a></li>
+<li><a href="https://solve-info.techidaily.com/is-your-hard-disk-functional-expert-tips-for-diagnosis-by-yl-computing/"><u>Is Your Hard Disk Functional? Expert Tips for Diagnosis by YL Computing</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/mastering-the-art-of-playlist-importation-in-pcdj-from-dex-2-to-dex-3-with-this-essential-tutorial-video/"><u>Mastering the Art of Playlist Importation in PCDJ - From Dex 2 to Dex 3 with This Essential Tutorial Video</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/tailoring-windows-defender-for-optimal-protection-tips-from-yl-software-experts/"><u>Tailoring Windows Defender for Optimal Protection: Tips From YL Software Experts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-ultimate-picture-editor-tutorial-for-2024/"><u>The Ultimate Picture Editor Tutorial for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-nokia-c110-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Nokia C110</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/troubleshoot-your-scanner-drivers-easily-with-yl-software-solutions/"><u>Troubleshoot Your Scanner Drivers Easily with YL Software Solutions</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/troubleshooting-quiet-audio-boosting-sound-card-volume-with-yl-software-techniques/"><u>Troubleshooting Quiet Audio: Boosting Sound Card Volume with YL Software Techniques</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/unveiling-the-purpose-how-does-a-registry-function-in-computing-explained-by-yl-software-experts/"><u>Unveiling The Purpose: How Does a Registry Function in Computing - Explained by YL Software Experts</u></a></li>
 </ul></div>
 

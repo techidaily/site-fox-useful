@@ -1,7 +1,7 @@
 ---
 title: "LYRX Version 1.4 Launched: Features Integration with Karaoke.Net and New In-App Shopping Experience"
-date: 2025-01-09T22:09:13.250Z
-updated: 2025-01-14T21:24:46.972Z
+date: 2025-01-17T16:10:29.321Z
+updated: 2025-01-20T18:04:58.918Z
 tags:
   - product
 categories:
@@ -32,6 +32,10 @@ You can download the free update for existing LYRX customers below (the followin
 
 [VIEW LARGER IMAGE ![Right-Click and Select Login](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/11/right-click-login-first-slide.jpg?fit=800%2C326&ssl=1 "Right-Click and Select Login")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/11/right-click-login-first-slide.jpg?fit=800%2C326&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Open up LYRX and locate the new “Karaoke.net” library tab located on the left side of the LYRX browser. Right-Click (MAC: CTRL + CLICK) on the Karaoke.net text and select the “Log in” option.
 
 [VIEW LARGER IMAGE ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/create-an-account-slide-2.jpg?fit=800%2C326&ssl=1 "Select option to create an account")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/create-an-account-slide-2.jpg?fit=800%2C326&ssl=1)
@@ -45,7 +49,7 @@ After creating the account and logging in with your freshly created credentials,
 [VIEW LARGER IMAGE ![Tick the Boxes next to songs you wish to buy](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/tick-the-box-song-buy-1.jpg?fit=800%2C326&ssl=1 "Tick the Boxes next to songs you wish to buy")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/tick-the-box-song-buy-1.jpg?fit=800%2C326&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 For-Sale songs will appear with a check box to the far right of the track information. You can preview samples of Karaoke.net tracks by simply loading the track to the LYRX player section via drag and drop (you can preview a few seconds of any Karaoke.net track using this method).
@@ -55,21 +59,17 @@ Once you’ve located a song (or songs) you wish to purchase, place a “tick”
 [VIEW LARGER IMAGE ![Checkout](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/11/right-click-order-tracks-1.jpg?fit=800%2C326&ssl=1 "Checkout")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/11/right-click-order-tracks-1.jpg?fit=800%2C326&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ready to checkout? Right-click (MAC: CTRL + CLICK) on the “Shopping Cart” tab below the Karaoke.net tab and select “Order Tracks (shopping cart)”. This will bring up a form to type in your CC details to complete your purchase.
 
 [VIEW LARGER IMAGE ![Type in CC details and place order](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/11/type-in-cc-and-place-order.jpg?fit=800%2C326&ssl=1 "Type in CC details and place order")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/11/type-in-cc-and-place-order.jpg?fit=800%2C326&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After typing in your CC details you can place your order. The purchased karaoke songs will download immediately and show a “check mark” next to the song to indicate the track is on your hard drive and ready to be played. Purchased karaoke songs will automatically be added to LYRX’s database/search cache and will also appear under the “Purchased” tab under the Karaoke.net tab. You will receive a receipt by email from Karaoke.net showing you the amount of the transaction. Also, credit card details will be stored per-session, so you only need to punch in your CC details once per session.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.4
@@ -83,7 +83,7 @@ After typing in your CC details you can place your order. The purchased karaoke 
 _Have questions about the latest 1.4 version of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -105,24 +105,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/lyrx-karaokenet.jpg?fit=70
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-ultimate-guide-to-app-reviews-by-az-capture/"><u>[New] Ultimate Guide to App Reviews by AZ Capture</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-immersive-video-expert-techniques-to-enhance-your-360-edits-in-premierepro/"><u>[Updated] Mastering Immersive Video Expert Techniques to Enhance Your 360° Edits in PremierePro</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1982-honkytonk-man-with-eastwood-as-red-boyle-an-ex-convict-who-finds-himself-riding-through-the-southwest-during-the-great-depression-the-film-was-based-on44/"><u>1982 - Honkytonk Man, with Eastwood as Red Boyle, an Ex-Convict Who Finds Himself Riding Through the Southwest During the Great Depression. The Film Was Based on Clancy Carlile'cuentero's 1974 Novel ''The Goodbye Look''.</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-vivo-y77t-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Vivo Y77t? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-motorola-moto-g14-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Motorola Moto G14 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/get-your-ears-ready-with-the-ultimate-soundgasm-collection-available-as-mp3-wav-m4a-and-other-audio-types/"><u>Get Your Ears Ready with the Ultimate Soundgasm Collection - Available as MP3, WAV, M4A, and Other Audio Types</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-the-power-of-ai-top-8-reasons-educators-should-adapt/"><u>Harnessing the Power of AI: Top 8 Reasons Educators Should Adapt</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/hd-quality-streaming-from-youtube-to-your-television-effortless-downloads-and-plays/"><u>HD Quality Streaming From YouTube to Your Television - Effortless Downloads & Plays</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/how-to-easily-save-online-content-on-your-mac-unlimited-conversions-and-free-downloads-in-multiple-formats-mp4-mov-avi/"><u>How To Easily Save Online Content on Your Mac - Unlimited Conversions and Free Downloads in Multiple Formats (MP4, MOV, AVI)</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-mastering-media-with-extraearsound/"><u>In 2024, Mastering Media with ExtraEarSound</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/live-action-explore-the-dynamic-world-of-real-time-broadcasting/"><u>Live Action: Explore the Dynamic World of Real-Time Broadcasting</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/mirillis-software-free-download-get-your-own-copy-now/"><u>Mirillis Software Free Download: Get Your Own Copy Now!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-guide-updating-your-microsoft-mouse-drivers-on-windows/"><u>Step-by-Step Guide: Updating Your Microsoft Mouse Drivers on Windows</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/step-by-step-tutorial-capturing-and-saving-your-favorite-twitch-broadcasts-for-windows-and-macos-users/"><u>Step-by-Step Tutorial: Capturing & Saving Your Favorite Twitch Broadcasts for Windows & macOS Users</u></a></li>
-<li><a href="https://win-unique.techidaily.com/troubleshooting-a-missing-d-drive-reasons-and-solutions/"><u>Troubleshooting a Missing D Drive: Reasons & Solutions</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/ultimate-guide-top-strategies-for-capturing-flawless-pc-gaming-sessions/"><u>Ultimate Guide: Top Strategies for Capturing Flawless PC Gaming Sessions</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/understanding-the-reasons-behind-a-blacklisted-mirallis-product-code/"><u>Understanding the Reasons Behind a Blacklisted Mirallis Product Code</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/webcasts-on-demand-a-straightforward-recording-technique/"><u>Webcasts On Demand A Straightforward Recording Technique</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/zuzka-series-downloaded-to-multiple-file-types-including-mp4-flv-mkv-high-quality-streaming-available/"><u>Zuzka Series Downloaded to Multiple File Types Including MP4, FLV, MKV - High-Quality Streaming Available!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-become-a-yt-hub-pro-complete-guide-revealed/"><u>[New] 2024 Approved Become a YT Hub Pro Complete Guide Revealed</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-harmonize-your-youtube-presence-with-these-ideal-microphones-for-various-channels/"><u>[Updated] 2024 Approved Harmonize Your YouTube Presence With These Ideal Microphones for Various Channels</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-crafting-captivating-unboxing-content-top-tips/"><u>[Updated] Crafting Captivating Unboxing Content Top Tips</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-engage-audiences-skywards-drone-filming-and-facebook-live-for-2024/"><u>[Updated] Engage Audiences Skywards Drone Filming and Facebook Live for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-impact-of-ai-progress-on-the-prospects-of-the-newly-launched-iphone-16-with-zdnet-analysis/"><u>Exploring the Impact of AI Progress on the Prospects of the Newly Launched iPhone 16 with ZDNET Analysis</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/exploring-the-preconfigured-secrecy-options-in-microsofts-latest-os-a-deep-dive-into-windows-10-with-yl-software-solutions/"><u>Exploring the Preconfigured Secrecy Options in Microsoft's Latest OS: A Deep Dive Into Windows 10 with YL Software Solutions</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/how-can-you-boost-your-cpus-performance-when-it-isnt-operating-at-optimal-speed-insights-by-yl-computing/"><u>How Can You Boost Your CPU's Performance When It Isn’t Operating at Optimal Speed? - Insights by YL Computing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-wallet-friendly-microphones-for-social-media-stars/"><u>In 2024, Wallet-Friendly Microphones for Social Media Stars</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-craft-of-slide-show-presentations-tips-to-fix-prints-in-windows/"><u>Mastering the Craft of Slide Show Presentations: Tips to Fix Prints in Windows</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/maximize-gaming-and-editing-speed-implementing-intels-quick-sync-video-for-pci-express-graphics-cards/"><u>Maximize Gaming and Editing Speed: Implementing Intel's Quick Sync Video for PCI Express Graphics Cards</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/neural-plasticity-is-the-brains-ability-to-change-structurally-and-functionally-in-response-to-experiences-learning-or-injury/"><u>Neural Plasticity Is the Brain's Ability to Change Structurally and Functionally in Response to Experiences, Learning, or Injury.</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/unravel-the-mystery-behind-your-pcs-random-reboots-with-insights-by-yl-software-experts/"><u>Unravel the Mystery Behind Your PC's Random Reboots with Insights by YL Software Experts</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/unveiling-your-computers-hardware-details-with-ease-expert-tips-from-yl-software/"><u>Unveiling Your Computer's Hardware Details with Ease - Expert Tips From YL Software</u></a></li>
+<li><a href="https://win11.techidaily.com/1726029971792-obs-studio/"><u>ぜひ体験！OBS Studioで美しくキレイに高精細化されたゲーム動画の作成法</u></a></li>
 </ul></div>
 

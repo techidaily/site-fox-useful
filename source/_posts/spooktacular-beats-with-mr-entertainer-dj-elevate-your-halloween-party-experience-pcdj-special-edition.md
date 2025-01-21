@@ -1,7 +1,7 @@
 ---
 title: Spooktacular Beats with Mr. Entertainer DJ - Elevate Your Halloween Party Experience! | PCDJ Special Edition
-date: 2025-01-11T16:01:32.753Z
-updated: 2025-01-14T16:32:59.131Z
+date: 2025-01-18T01:35:50.068Z
+updated: 2025-01-20T17:22:08.455Z
 tags:
   - product
 categories:
@@ -27,6 +27,10 @@ The Mr Entertainer Party Disc range, the ultimate party tool. An entire eveningâ
 
 [![](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/09/DVD-Mock-Up-Front-with-sheets-300x300.jpg?resize=300%2C300&ssl=1 "DVD Mock-Up Front with sheets")](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/09/DVD-Mock-Up-Front-with-sheets.jpg?fit=500%2C500&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This amazing Halloween themed party disc will guarantee your Halloween is one to remember, with loads of cool games & features to keep adults & kids entertained all night. The DVD is region free so will work in any DVD Player, PlayStation, Xbox etc and is simply controlled on screen with your remote control.
 
 #### **Features include:**
@@ -40,6 +44,10 @@ This amazing Halloween themed party disc will guarantee your Halloween is one to
 * _**Spooky Sound FX (scary sounds and mood setters)**_
 
 [![](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/09/DVD-Mock-Up-Rear-228x300.jpg?resize=228%2C300&ssl=1 "DVD Mock-Up Rear")](https://i1.wp.com/pcdj.com/wp-content/uploads/2014/09/DVD-Mock-Up-Rear.jpg?fit=381%2C500&ssl=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 
 
@@ -57,34 +65,26 @@ _**(Shipping from the United Kingdom, please allow one week for delivery!)**_
 
 [ADULT QUIZ SAMPLE ![](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/09/s-Quiz-Sample-STILL-80x80.png?resize=80%2C80&ssl=1 "s Quiz Sample STILL")](https://i1.wp.com/pcdj.com/wp-content/uploads/2014/09/s-Quiz-Sample-STILL.png?fit=1024%2C576&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [KIDS QUIZ SAMPLE ![](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/09/s-Quiz-Sample-STILL1-80x80.png?resize=80%2C80&ssl=1 "s Quiz Sample STILL")](https://i1.wp.com/pcdj.com/wp-content/uploads/2014/09/s-Quiz-Sample-STILL1.png?fit=1024%2C576&ssl=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [KARAOKE SAMPLE ![](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/09/Karaoke-80x80.jpg?resize=80%2C80&ssl=1 "Karaoke")](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/09/Karaoke.jpg?fit=1024%2C576&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [SCREENSAVER SAMPLE ![](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/09/Screensaver-Sample-STILL-80x80.png?resize=80%2C80&ssl=1 "Screensaver Sample STILL")](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/09/Screensaver-Sample-STILL.png?fit=1024%2C576&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [SOUND EFFECTS MENU SAMPLE ![](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/09/Sound-FX-Menu-STILL-80x80.png?resize=80%2C80&ssl=1 "Sound FX Menu STILL")](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/09/Sound-FX-Menu-STILL.png?fit=1024%2C576&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _click images below for large screen shots_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -104,16 +104,20 @@ _click images below for large screen shots_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-mastering-pinterest-videos-to-mp3s-essential-strategies/"><u>[New] 2024 Approved Mastering Pinterest Videos to MP3s Essential Strategies</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-best-budget-friendly-video-stock-sites/"><u>[New] Best Budget-Friendly Video Stock Sites</u></a></li>
-<li><a href="https://facebook.techidaily.com/carolyn-everson-announces-her-stepping-down-from-fb/"><u>Carolyn Everson Announces Her Stepping Down From FB</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/how-does-chrome-indicate-its-under-corporate-management-and-should-you-worry-about-security/"><u>How Does Chrome Indicate It's Under Corporate Management, and Should You Worry About Security?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Tecno Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/optimizing-operations-with-effective-use-of-service-control-parameters/"><u>Optimizing Operations with Effective Use of Service Control Parameters</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/precision-in-visuals-learning-to-soften-specific-areas-for-2024/"><u>Precision in Visuals Learning to Soften Specific Areas for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionizing-distance-labor-the-impact-of-virtual-reality-and-digital-twins-on-technical-jobs-insights-from-zdnet/"><u>Revolutionizing Distance Labor: The Impact of Virtual Reality and Digital Twins on Technical Jobs - Insights From ZDNet</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/step-by-step-guide-to-resolving-common-errors-with-microsofts-groove-music-app/"><u>Step-by-Step Guide to Resolving Common Errors with Microsoft's Groove Music App</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/the-ultimate-instructional-resource-on-navigating-and-customizing-your-settings-tab-preferences/"><u>The Ultimate Instructional Resource on Navigating and Customizing Your Settings Tab Preferences</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/user-friendly-installation-directory-selection-prompt/"><u>User-Friendly Installation Directory Selection Prompt</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-techniques-to-transform-your-ppt-into-professional-videos/"><u>[New] 2024 Approved Techniques to Transform Your PPT Into Professional Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-breakthrough-tactics-for-capturing-virtual-conferences/"><u>[Updated] 2024 Approved Breakthrough Tactics for Capturing Virtual Conferences</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-from-basics-to-details-dji-inspire-2-explained/"><u>2024 Approved From Basics to Details DJI Inspire 2 Explained</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-honor-x50-gt-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Honor X50 GT without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-samsung-galaxy-a05s-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Samsung Galaxy A05s Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/comprehensive-list-of-documents-and-media-you-can-transform-using-flipoffice-software/"><u>Comprehensive List of Documents & Media You Can Transform Using FlipOffice Software</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/create-and-distribute-interactive-ebooks-for-free-share-them-now-at-flipbuildercom/"><u>Create and Distribute Interactive eBooks for Free â€“ Share Them Now at FlipBuilder.com!</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/digital-content-expert-tips-security-strategies-and-effective/"><u>Digital Content, Expert Tips, Security Strategies, and Effective.</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/effortless-conversion-transform-your-ms-word-documents-into-interactive-flipbooks-with-flipbuilder/"><u>Effortless Conversion: Transform Your MS Word Documents Into Interactive Flipbooks with FlipBuilder!</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/effortless-digital-reading-with-page-flip-ebooks-access-your-library-anywhere-on-pcmobile-discover-at-flipbuildercom/"><u>Effortless Digital Reading with Page Flip eBooks - Access Your Library Anywhere, On PC/Mobile! [Discover at FlipBuilder.com]</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/enabling-autoplay-in-your-custom-flipbooks-with-flipbuilder-a-step-by-step-guide/"><u>Enabling Autoplay in Your Custom Flipbooks with FlipBuilder - A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/exploring-flipwriters-features-and-capabilities-at-flipbuildercom/"><u>Exploring FlipWriter's Features and Capabilities at flipbuilder.com</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-10-solutions-for-overcoming-the-vlc-cannot-open-your-input-issue/"><u>Top 10 Solutions for Overcoming the 'VLC Cannot Open Your Input' Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-file-explorer-features-comprehensive-tricks-for-windows-ebusers/"><u>Unlocking File Explorer Features: Comprehensive Tricks for Windows Ebusers</u></a></li>
 </ul></div>
 

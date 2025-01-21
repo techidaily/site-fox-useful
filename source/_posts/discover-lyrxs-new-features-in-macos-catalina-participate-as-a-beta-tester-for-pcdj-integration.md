@@ -1,7 +1,7 @@
 ---
 title: Discover LYRX's New Features in macOS Catalina – Participate as a Beta Tester for PCDJ Integration!
-date: 2025-01-11T17:25:00.329Z
-updated: 2025-01-14T19:21:13.063Z
+date: 2025-01-17T01:02:54.880Z
+updated: 2025-01-21T00:58:46.373Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ For now, we are asking for a few LYRX customers that are using newer Apple compu
 **Important Notes:** 10.14 or 10.15 of macOS is needed to run the Catalina-specific LYRX beta. As noted, this is a beta version, and should not be used in a venue/production environment. Specifically, the GUI/interface and video/karaoke should be tested as the changes there are massive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,22 +50,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/03/lyrx-catalina-beta.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-vr-sickness-10-prevention-strategies/"><u>[New] In 2024, VR Sickness 10 Prevention Strategies</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-unlock-the-potential-of-your-gaming-experience-with-these-top-techniques-on-windows-11-for-2024/"><u>[New] Unlock the Potential of Your Gaming Experience with These Top Techniques on Windows 11 for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-essential-mobile-media-creation-tools-iphone-vs-android-review/"><u>[Updated] Essential Mobile Media Creation Tools IPhone vs Android Review</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-next-gen-players-guide-rift-vive-vs-ps-vr-games/"><u>2024 Approved Next-Gen Players Guide Rift, Vive, vs PS VR Games</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-essential-guide-to-signing-up-for-twitter/"><u>2024 Approved The Essential Guide to Signing Up for Twitter</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/aomei-centralized-backup-erlernen-sie-die-systemvoraussetzungen-fur-eine-optimierte-datensicherung/"><u>AOMEI Centralized Backup: Erlernen Sie Die Systemvoraussetzungen Für Eine Optimierte Datensicherung</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/comprendre-les-differents-modes-de-sommeil-dans-windows-11-conseils-pratiques-pour-reinitialiser-et-gerer-lalimentation/"><u>Comprendre Les Différents Modes De Sommeil Dans Windows 11 : Conseils Pratiques Pour Réinitialiser Et Gérer L'Alimentation</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/easy-methods-to-copy-disk-partitions-on-windows-11-and-earlier-versions/"><u>Easy Methods to Copy Disk Partitions on Windows 11 and Earlier Versions</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/essential-online-spots-4-skype-ringtones-for-2024/"><u>Essential Online Spots 4 Skype Ringtones for 2024</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/guide-complet-pour-la-sauvegarde-de-windows-11-dans-le-cloud-fichiers-partiels-ou-sauvegarde-de-lordinateur-entier/"><u>Guide Complet Pour La Sauvegarde De Windows 11 Dans Le Cloud : Fichiers Partiels Ou Sauvegarde De L'Ordinateur Entier</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-mastering-zoom-email-integration-tips-for-efficient-meetings/"><u>In 2024, Mastering Zoom Email Integration Tips for Efficient Meetings</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721097008760-making-sense-of-dolby-digital-not-playing-properly-on-laptop-answer-available/"><u>Making Sense of 'Dolby Digital' Not Playing Properly on Laptop - Answer Available</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/passaggio-alla-configurazione-della-sincronizzazione-automatica-tra-windows-server-e-onedrive-un-tutorial-facile-da-seguire/"><u>Passaggio Alla Configurazione Della Sincronizzazione Automatica Tra Windows Server E OneDrive: Un Tutorial Facile Da Seguire</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/ricoverare-efficientemente-ununita-cancellata-usando-il-prompt-dei-comandi-di-windows/"><u>Ricoverare Efficientemente Un'unità Cancellata Usando Il Prompt Dei Comandi Di Windows</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/tips-paling-efektif-untuk-memutakhirkan-partisi-disk-di-windows-10-alat-alat-berbahaya/"><u>Tips Paling Efektif Untuk Memutakhirkan Partisi Disk Di Windows 10: Alat-Alat Berbahaya!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-status-audit-top-3-strategies/"><u>Windows 11 Status Audit: Top 3 Strategies</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/1728468841709-windows-111087/"><u>Windows 11/10/8/7におけるドロップボックス同期不具合の解決方法</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-transforming-outdoor-vision-into-online-presence-gopro-to-periscopefacebook/"><u>[New] 2024 Approved Transforming Outdoor Vision Into Online Presence GoPro to Periscope/Facebook</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-wide-angle-postings-integrating-360-photos-on-mobile-apps/"><u>[Updated] Mastering Wide Angle Postings Integrating 360 Photos on Mobile Apps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/auditory-illusions-video-meets-apple-music/"><u>Auditory Illusions Video Meets Apple Music</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/cda-mp3/"><u>CDA から MP3への変換 - 無料対応ソフトウェア</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/enhanced-file-organizer-component-with-ifolder-features-for-streamlined-user-experience/"><u>Enhanced File Organizer Component with iFolder Features for Streamlined User Experience</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/guide-applying-a-snowy-backdrop-to-pictures-for-perfect-insta-shots/"><u>Guide: Applying a Snowy Backdrop to Pictures for Perfect Insta Shots</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guide-preserving-quality-while-shrinking-avi-files-in-windows-10/"><u>Guide: Preserving Quality While Shrinking AVI Files in Windows 10</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/how-to-enhance-image-clarity-iphone-tricks-for-crystal-clear-pictures/"><u>How to Enhance Image Clarity: IPhone Tricks for Crystal-Clear Pictures</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Honor Play 40C? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-dell-laptops-dead-keys-a-step-by-step-guide/"><u>Revive Your Dell Laptop's Dead Keys: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/setup-environment-variables-via-edit-window-in-installation-package/"><u>Setup Environment Variables via Edit Window in Installation Package</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/step-by-step-guide-removing-annoying-spontaneous-music-bugs-from-your-system/"><u>Step-by-Step Guide: Removing Annoying Spontaneous Music Bugs From Your System</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-choosing-a-superior-pos-solution-this-year-techradar/"><u>The Ultimate Guide to Choosing a Superior POS Solution This Year | TechRadar</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/top-ranked-game-client-for-mastering-holeio-on-your-desktop-computer/"><u>Top Ranked Game Client for Mastering Hole.io on Your Desktop Computer</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/ultimate-guide-to-cropping-videos-perfectly-for-instagram/"><u>Ultimate Guide to Cropping Videos Perfectly for Instagram</u></a></li>
 </ul></div>
 

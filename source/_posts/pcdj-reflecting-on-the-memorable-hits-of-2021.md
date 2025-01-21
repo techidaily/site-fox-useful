@@ -1,7 +1,7 @@
 ---
 title: "PCDJ: Reflecting on the Memorable Hits of 2021"
-date: 2025-01-07T19:14:28.239Z
-updated: 2025-01-14T22:20:39.741Z
+date: 2025-01-17T19:33:26.845Z
+updated: 2025-01-20T17:13:44.279Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ As we like to do at the expiry of each year, here’s a look at a few PCDJ miles
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2021 PCDJ Milestones
@@ -49,7 +49,7 @@ With 2021 in the books we’re exited to build on our momentum in 2022\. New fea
 _**Happy New Year — and here’s to a happy, healthy, and prosperous 2022\. We appreciate you!**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -71,20 +71,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2022/01/year-in-review-copy.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-harnessing-the-power-of-gratuitous-text-animations/"><u>[Updated] Harnessing the Power of Gratuitous Text Animations</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-streamline-document-creation-with-microsoft-word-speech-recognition/"><u>[Updated] Streamline Document Creation with Microsoft Word Speech Recognition</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-sony-xperia-1-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effective-strategies-for-optimizing-your-computers-storage-capacity-insights-by-yl-computing/"><u>Effective Strategies for Optimizing Your Computer's Storage Capacity - Insights by YL Computing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/eliminating-the-low-memory-alert-for-roblox-on-iphone-practical-fixes/"><u>Eliminating the 'Low Memory' Alert for Roblox on iPhone: Practical Fixes</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/exquisite-cosmic-scenes-in-ultra-hd-a-collection-of-4k-night-sky-visuals-for-desktops-from-yl-software/"><u>Exquisite Cosmic Scenes in Ultra HD: A Collection of 4K Night Sky Visuals for Desktops From YL Software</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-realme-gt-5-pro-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Realme GT 5 Pro Phone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-oneplus-ace-2-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On OnePlus Ace 2 Pro Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-today-qualcomms-top-notch-atheros-ar3011-bluetooth-30-support-software/"><u>Install Today: Qualcomm's Top-Notch Atheros AR3011 Bluetooth 3.0 Support Software</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/mastering-memory-malfunctions-on-windows-expert-tips-from-the-team-at-yl-software/"><u>Mastering Memory Malfunctions on Windows: Expert Tips From the Team at YL Software</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/refresh-your-screensaver-with-vibrant-spring-meadows-exquisite-hd-nature-backgrounds-from-yl-software/"><u>Refresh Your Screensaver with Vibrant Spring Meadows: Exquisite HD Nature Backgrounds From YL Software</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/shop-virtual-try-on-with-amazon-and-snaps-latest-augmented-reality-eyewear-feature-zdnet/"><u>Shop Virtual Try-On with Amazon and Snap's Latest Augmented Reality Eyewear Feature - ZDNet</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/solving-desktop-power-failures-a-step-by-step-guide-yl-computings-expert-advice/"><u>Solving Desktop Power Failures: A Step-by-Step Guide - YL Computing's Expert Advice</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/step-by-step-guide-changingdeleting-user-profiles-on-windows-pcs-tech-tips-by-yl-computing/"><u>Step-by-Step Guide: Changing/Deleting User Profiles on Windows PCs - Tech Tips by YL Computing</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/understanding-key-factors-leading-to-hardware-malfunctions-on-windows-systems-by-yl-tech-experts/"><u>Understanding Key Factors Leading to Hardware Malfunctions on Windows Systems by YL Tech Experts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-prime-picks-7-superior-apple-video-viewers/"><u>[Updated] In 2024, Prime Picks 7 Superior Apple Video Viewers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unveiling-facebooks-secrets-30-insider-tricks-for-growth/"><u>2024 Approved Unveiling Facebook's Secrets 30 Insider Tricks for Growth</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-automation-exceptional-excel-uses-that-chatgpt-cannot-match/"><u>Beyond Automation: Exceptional Excel Uses That ChatGPT Cannot Match</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/disabling-onboard-scanner-functions-a-step-by-step-guide-by-yl-software-experts/"><u>Disabling Onboard Scanner Functions: A Step-by-Step Guide by YL Software Experts</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-gameplay-more-than-just-looks/"><u>Elevate Your Gameplay: More Than Just Looks</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/exploring-key-attributes-of-promising-crypto-assets-insights-from-yl-computings-analysis/"><u>Exploring Key Attributes of Promising Crypto Assets: Insights From YL Computing's Analysis</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722971725051-get-your-epson-et-2750-windows-printing-software-here/"><u>Get Your Epson ET-2750 Windows Printing Software Here!</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/how-to-repair-and-troubleshoot-a-defective-computer-mouse-solutions-by-yl-computing/"><u>How to Repair and Troubleshoot a Defective Computer Mouse - Solutions by YL Computing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Realme C33 2023? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-journey-from-photographic-moments-to-sequential-videos/"><u>In 2024, Journey From Photographic Moments to Sequential Videos</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-y200e-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo Y200e 5G Device</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/latest-2018-party-tyme-karaoke-hits-for-your-cd-dj-setup-release-date-april-30th/"><u>Latest 2018 Party Tyme Karaoke Hits for Your CD DJ Setup - Release Date: April 30Th</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/live-tracking-your-digital-assets-understanding-real-time-alerts-with-yls-crypto-management-tool/"><u>Live Tracking Your Digital Assets: Understanding Real-Time Alerts with YL's Crypto Management Tool</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimizing-and-tailoring-apples-ios-18-control-center-for-your-iphone-essential-tips-from-zdnet/"><u>Optimizing and Tailoring Apple's iOS 18 Control Center for Your iPhone: Essential Tips From ZDNET</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/solving-the-mystery-of-a-missing-graphics-card-with-yls-expert-advice/"><u>Solving the Mystery of a Missing Graphics Card with YL's Expert Advice</u></a></li>
 </ul></div>
 
