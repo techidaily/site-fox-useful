@@ -1,7 +1,7 @@
 ---
 title: "LYRX Version 1.4 Launched: Features Integration with Karaoke.Net and New In-App Shopping Experience"
-date: 2025-01-17T16:10:29.321Z
-updated: 2025-01-20T18:04:58.918Z
+date: 2025-01-23T01:14:53.808Z
+updated: 2025-01-26T18:36:53.822Z
 tags:
   - product
 categories:
@@ -28,12 +28,16 @@ You can download the free update for existing LYRX customers below (the followin
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How-to Use the Karaoke.net Store in LYRX
 
 [VIEW LARGER IMAGE ![Right-Click and Select Login](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/11/right-click-login-first-slide.jpg?fit=800%2C326&ssl=1 "Right-Click and Select Login")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/11/right-click-login-first-slide.jpg?fit=800%2C326&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Open up LYRX and locate the new “Karaoke.net” library tab located on the left side of the LYRX browser. Right-Click (MAC: CTRL + CLICK) on the Karaoke.net text and select the “Log in” option.
@@ -44,23 +48,19 @@ If you don’t already have an active account on the Karaoke.net website, select
 
 [VIEW LARGER IMAGE ![](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/11/connected-and-browse-catalog-slide-3.jpg?fit=800%2C326&ssl=1 "Show Karaoke.net Catalog")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/11/connected-and-browse-catalog-slide-3.jpg?fit=800%2C326&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After creating the account and logging in with your freshly created credentials, you can access the “Catalog” tab below the Karaoke.net tab to immediately view all available songs (up to the minute). The songs are also automatically added to the LYRX’s search cache so they will display in search results when performing searches.
 
 [VIEW LARGER IMAGE ![Tick the Boxes next to songs you wish to buy](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/tick-the-box-song-buy-1.jpg?fit=800%2C326&ssl=1 "Tick the Boxes next to songs you wish to buy")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/tick-the-box-song-buy-1.jpg?fit=800%2C326&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 For-Sale songs will appear with a check box to the far right of the track information. You can preview samples of Karaoke.net tracks by simply loading the track to the LYRX player section via drag and drop (you can preview a few seconds of any Karaoke.net track using this method).
 
 Once you’ve located a song (or songs) you wish to purchase, place a “tick” in the box to the right of the track information as pictured above. This will add the song to the Shopping Cart. You can tick boxes for however many songs you wish to purchase and download at once.
 
 [VIEW LARGER IMAGE ![Checkout](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/11/right-click-order-tracks-1.jpg?fit=800%2C326&ssl=1 "Checkout")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/11/right-click-order-tracks-1.jpg?fit=800%2C326&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ready to checkout? Right-click (MAC: CTRL + CLICK) on the “Shopping Cart” tab below the Karaoke.net tab and select “Order Tracks (shopping cart)”. This will bring up a form to type in your CC details to complete your purchase.
 
@@ -69,7 +69,7 @@ Ready to checkout? Right-click (MAC: CTRL + CLICK) on the “Shopping Cart” ta
 After typing in your CC details you can place your order. The purchased karaoke songs will download immediately and show a “check mark” next to the song to indicate the track is on your hard drive and ready to be played. Purchased karaoke songs will automatically be added to LYRX’s database/search cache and will also appear under the “Purchased” tab under the Karaoke.net tab. You will receive a receipt by email from Karaoke.net showing you the amount of the transaction. Also, credit card details will be stored per-session, so you only need to punch in your CC details once per session.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.4
@@ -83,7 +83,7 @@ After typing in your CC details you can place your order. The purchased karaoke 
 _Have questions about the latest 1.4 version of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -105,19 +105,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/lyrx-karaokenet.jpg?fit=70
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-become-a-yt-hub-pro-complete-guide-revealed/"><u>[New] 2024 Approved Become a YT Hub Pro Complete Guide Revealed</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-harmonize-your-youtube-presence-with-these-ideal-microphones-for-various-channels/"><u>[Updated] 2024 Approved Harmonize Your YouTube Presence With These Ideal Microphones for Various Channels</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-crafting-captivating-unboxing-content-top-tips/"><u>[Updated] Crafting Captivating Unboxing Content Top Tips</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-engage-audiences-skywards-drone-filming-and-facebook-live-for-2024/"><u>[Updated] Engage Audiences Skywards Drone Filming and Facebook Live for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-the-impact-of-ai-progress-on-the-prospects-of-the-newly-launched-iphone-16-with-zdnet-analysis/"><u>Exploring the Impact of AI Progress on the Prospects of the Newly Launched iPhone 16 with ZDNET Analysis</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/exploring-the-preconfigured-secrecy-options-in-microsofts-latest-os-a-deep-dive-into-windows-10-with-yl-software-solutions/"><u>Exploring the Preconfigured Secrecy Options in Microsoft's Latest OS: A Deep Dive Into Windows 10 with YL Software Solutions</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/how-can-you-boost-your-cpus-performance-when-it-isnt-operating-at-optimal-speed-insights-by-yl-computing/"><u>How Can You Boost Your CPU's Performance When It Isn’t Operating at Optimal Speed? - Insights by YL Computing</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-wallet-friendly-microphones-for-social-media-stars/"><u>In 2024, Wallet-Friendly Microphones for Social Media Stars</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-craft-of-slide-show-presentations-tips-to-fix-prints-in-windows/"><u>Mastering the Craft of Slide Show Presentations: Tips to Fix Prints in Windows</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/maximize-gaming-and-editing-speed-implementing-intels-quick-sync-video-for-pci-express-graphics-cards/"><u>Maximize Gaming and Editing Speed: Implementing Intel's Quick Sync Video for PCI Express Graphics Cards</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/neural-plasticity-is-the-brains-ability-to-change-structurally-and-functionally-in-response-to-experiences-learning-or-injury/"><u>Neural Plasticity Is the Brain's Ability to Change Structurally and Functionally in Response to Experiences, Learning, or Injury.</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/unravel-the-mystery-behind-your-pcs-random-reboots-with-insights-by-yl-software-experts/"><u>Unravel the Mystery Behind Your PC's Random Reboots with Insights by YL Software Experts</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/unveiling-your-computers-hardware-details-with-ease-expert-tips-from-yl-software/"><u>Unveiling Your Computer's Hardware Details with Ease - Expert Tips From YL Software</u></a></li>
-<li><a href="https://win11.techidaily.com/1726029971792-obs-studio/"><u>ぜひ体験！OBS Studioで美しくキレイに高精細化されたゲーム動画の作成法</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-engage-in-windows-11s-dynamic-app-ecosystem/"><u>[New] In 2024, Engage in Windows 11'S Dynamic App Ecosystem</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-frame-your-vision-leading-lines-for-dynamic-iphone-photos/"><u>[Updated] In 2024, Frame Your Vision Leading Lines for Dynamic iPhone Photos</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/can-upgraded-thermal-interface-material-decrease-system-malfunctions-by-cooling-the-cpu-exploring-solutions-with-yl-computings-tech-insights/"><u>Can Upgraded Thermal Interface Material Decrease System Malfunctions by Cooling the CPU - Exploring Solutions with YL Computing's Tech Insights</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/discover-lyrxs-new-features-in-macos-catalina-participate-as-a-beta-tester-for-pcdj-integration/"><u>Discover LYRX's New Features in macOS Catalina – Participate as a Beta Tester for PCDJ Integration!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-conquering-the-world-of-pokemon-unite-with-ease/"><u>Expert Advice: Conquering the World of Pokémon Unite with Ease</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-reviving-classic-usb-composite-devices/"><u>Guide to Reviving Classic USB Composite Devices</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/hd-samurai-desktop-artwork-and-walls-high-quality-imagery-by-yl-software/"><u>HD Samurai Desktop Artwork & Walls - High-Quality Imagery by YL Software</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/mastering-user-account-administration-with-yl-computings-innovative-yl-software-tools/"><u>Mastering User Account Administration with YL Computing's Innovative YL Software Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/remote-control-dominance-unveiling-the-mighty-galaxy-ford-f150-trucks-performance-features/"><u>Remote Control Dominance - Unveiling The Mighty Galaxy Ford F150 Truck's Performance Features</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/resolving-ram-errors-step-by-step-guide-for-windows-users-expert-advice-from-yl-computing/"><u>Resolving RAM Errors: Step-by-Step Guide for Windows Users - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/securing-your-digital-assets-expert-tips-from-yl-computing/"><u>Securing Your Digital Assets: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/starting-with-dj-controllers-a-comprehensive-guide-to-mastering-the-pcdj-dex3-re/"><u>Starting with DJ Controllers: A Comprehensive Guide to Mastering the PCDJ DEX3 RE</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-tutorial-integrating-your-icloud-notes-into-linux-systems/"><u>Step-by-Step Tutorial: Integrating Your iCloud Notes Into Linux Systems</u></a></li>
+<li><a href="https://facebook.techidaily.com/tailoring-fb-privacy-to-block-uninvited-peeks/"><u>Tailoring FB Privacy to Block Uninvited Peeks</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/top-strategies-to-lower-energy-use-on-your-pc-expert-tips-from-yl-computing/"><u>Top Strategies to Lower Energy Use on Your PC: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-when-valorant-fails-to-boot-on-windows-updated-guide/"><u>Troubleshooting Steps for When Valorant Fails to Boot on Windows - Updated Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/be-hub-for-newbies-in-cinematic-craftsmanship/"><u>YouTube Hub for Newbies in Cinematic Craftsmanship</u></a></li>
 </ul></div>
 

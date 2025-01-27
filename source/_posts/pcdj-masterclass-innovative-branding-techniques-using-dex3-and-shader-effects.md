@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Masterclass: Innovative Branding Techniques Using DEX3 & Shader Effects"
-date: 2025-01-16T23:39:17.100Z
-updated: 2025-01-20T21:21:56.874Z
+date: 2025-01-21T02:01:20.511Z
+updated: 2025-01-27T02:23:00.030Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ Use the combination of Shaders and Overlays for branding purposes and/or for dis
 _Have questions about using **Shaders** in our **DEX 3 DJ software**, or how to **create text, image, and video overlays**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,22 +50,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/shaderdemo-cover.jpg?fit=7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-leading-audio-transformation-software-listings/"><u>[Updated] In 2024, Leading Audio Transformation Software Listings</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-step-by-step-guide-to-transcribing-with-googles-speech-api/"><u>[Updated] In 2024, Step-by-Step Guide to Transcribing with Google's Speech API</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-master-your-youtube-settings-stop-auto-play-videos/"><u>[Updated] Master Your YouTube Settings - Stop Auto-Play Videos</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/20-release-exclusive-subscriber-access-to-latest-karaoke-tracks-2520-perfect-for-djs/"><u>2.0 Release: Exclusive Subscriber Access to Latest Karaoke Tracks (2/5/20) - Perfect for DJs</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/crypto-wealth-strategies-expert-tips-for-earning-with-digital-currencies-yl-software-solutions/"><u>Crypto Wealth Strategies: Expert Tips for Earning with Digital Currencies - YL Software Solutions</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/disabling-microsofts-windows-defender-a-step-by-step-guide-tips-from-yl-computing/"><u>Disabling Microsoft's Windows Defender: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/gnome-videos-open-source-multimedia-for-windows/"><u>GNOME Videos Open-Source Multimedia for Windows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-the-non-pump-aio-cooler-holds-its-own-trailing-only-8c-from-traditional-pump-rival-in-testing/"><u>How the Non-Pump AIO Cooler Holds Its Own, Trailing Only 8°C From Traditional Pump Rival in Testing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-install-or-upgrade-toshiba-graphics-chipset-and-network-drivers-in-windows/"><u>How to Install or Upgrade Toshiba Graphics, Chipset & Network Drivers in Windows</u></a></li>
-<li><a href="https://solve-info.techidaily.com/is-your-hard-disk-functional-expert-tips-for-diagnosis-by-yl-computing/"><u>Is Your Hard Disk Functional? Expert Tips for Diagnosis by YL Computing</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/mastering-the-art-of-playlist-importation-in-pcdj-from-dex-2-to-dex-3-with-this-essential-tutorial-video/"><u>Mastering the Art of Playlist Importation in PCDJ - From Dex 2 to Dex 3 with This Essential Tutorial Video</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/tailoring-windows-defender-for-optimal-protection-tips-from-yl-software-experts/"><u>Tailoring Windows Defender for Optimal Protection: Tips From YL Software Experts</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/the-ultimate-picture-editor-tutorial-for-2024/"><u>The Ultimate Picture Editor Tutorial for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-nokia-c110-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Nokia C110</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/troubleshoot-your-scanner-drivers-easily-with-yl-software-solutions/"><u>Troubleshoot Your Scanner Drivers Easily with YL Software Solutions</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/troubleshooting-quiet-audio-boosting-sound-card-volume-with-yl-software-techniques/"><u>Troubleshooting Quiet Audio: Boosting Sound Card Volume with YL Software Techniques</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/unveiling-the-purpose-how-does-a-registry-function-in-computing-explained-by-yl-software-experts/"><u>Unveiling The Purpose: How Does a Registry Function in Computing - Explained by YL Software Experts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-a-step-by-step-youtube-traffic-and-revenue-assessment-guide/"><u>[New] 2024 Approved A Step-by-Step Youtube Traffic & Revenue Assessment Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-dive-into-the-world-of-interactive-video-features-on-youtube/"><u>[Updated] In 2024, Dive Into the World of Interactive Video Features on YouTube</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-contacts-from-apple-iphone-6-plus-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Contacts from Apple iPhone 6 Plus to iPhone Quickly | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016005374-effortless-audio-verification-master-the-art-of-microphone-tests/"><u>Effortless Audio Verification: Master the Art of Microphone Tests</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/exploring-frequent-factors-leading-to-video-card-issues-a-guide-by-yl-software/"><u>Exploring Frequent Factors Leading to Video Card Issues: A Guide by YL Software</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/high-definition-sunbeam-visuals-premium-wallpaper-and-desktop-graphics-by-yl-computing/"><u>High-Definition Sunbeam Visuals: Premium Wallpaper & Desktop Graphics by YL Computing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-generative-ai-struggles-with-basic-aspects-of-human-cognition-insights-from-zdnet/"><u>How Generative AI Struggles with Basic Aspects of Human Cognition: Insights From ZDNet</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/managing-app-installations-and-upgrades-using-the-windows-control-panel-with-expert-advice-from-yl-software/"><u>Managing App Installations and Upgrades Using the Windows Control Panel with Expert Advice From YL Software</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/printer-maintenance-mastery-expert-techniques-for-cleaning-print-heads-by-yl-software/"><u>Printer Maintenance Mastery: Expert Techniques for Cleaning Print Heads by YL Software</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/revive-your-unresponsive-desktop-expert-tips-for-power-on-problems-by-yl-computer-experts/"><u>Revive Your Unresponsive Desktop: Expert Tips for Power-On Problems by YL Computer Experts</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/stunning-dog-backgrounds-and-hd-wallpapers-from-yl-software-elevate-your-pc-experience/"><u>Stunning Dog Backgrounds & HD Wallpapers From YL Software: Elevate Your PC Experience</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/top-3-utilidades-de-respaldo-gratuitas-para-windows-10-guia-ideal-para-nuevos-usuarios/"><u>Top 3 Utilidades De Respaldo Gratuitas Para Windows 10: Guía Ideal Para Nuevos Usuarios</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-8-bot-powered-tools-boosting-health-and-wellness/"><u>Top 8 Bot-Powered Tools Boosting Health & Wellness</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/troubleshooting-guide-how-to-fix-connection-issues-between-your-pc-and-printer-expert-advice-from-yl-computing/"><u>Troubleshooting Guide: How to Fix Connection Issues Between Your PC and Printer - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/uncover-the-greatest-8-free-tunes-apps-available-on-ios-devices/"><u>Uncover the Greatest 8 Free Tunes Apps Available on iOS Devices</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/unlock-your-inner-star-with-our-new-20-song-selection-on-karaoke-subscription-service-hits-galore-await-you/"><u>Unlock Your Inner Star with Our New 20-Song Selection on Karaoke Subscription Service – Hits Galore Await You!</u></a></li>
 </ul></div>
 

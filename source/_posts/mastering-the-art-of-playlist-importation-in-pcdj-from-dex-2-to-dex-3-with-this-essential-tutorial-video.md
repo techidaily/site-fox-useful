@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Playlist Importation in PCDJ - From Dex 2 to Dex 3 with This Essential Tutorial Video
-date: 2025-01-14T18:02:10.921Z
-updated: 2025-01-21T00:04:45.430Z
+date: 2025-01-21T19:44:29.498Z
+updated: 2025-01-26T17:24:18.413Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ This feature doesn’t just work for DEX 2 playlists, it will work for RED Mobil
 #### DJ Software Tutorial Video: Importing Playlists From DEX 2 into DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,14 +44,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/08/importingplaylists-coverim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-useful.techidaily.com/controlling-your-pcs-boot-process-utilizing-the-control-panel-for-efficient-startup-guided-by-yl-software-expertise/"><u>Controlling Your PC's Boot Process: Utilizing the Control Panel for Efficient Startup - Guided by YL Software Expertise</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/how-to-accurately-detect-and-resolve-graphic-card-issues-with-yls-proven-methods/"><u>How to Accurately Detect & Resolve Graphic Card Issues with YL's Proven Methods</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-xiaomi-redmi-note-12-pro-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Xiaomi Redmi Note 12 Pro 5G Phone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-confirming-youtube-pro-rated-earnings/"><u>In 2024, Confirming YouTube Pro-Rated Earnings</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/mastering-the-art-of-pricing-for-dj-services-insights-from-industry-expert-john-young/"><u>Mastering the Art of Pricing for DJ Services: Insights From Industry Expert, John Young</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-hd-video-editing-made-easy-top-5-software-recommendations/"><u>New 2024 Approved HD Video Editing Made Easy Top 5 Software Recommendations</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/top-frequently-encountered-pc-hardware-issues-on-windows-platforms-insights-from-yl-computing/"><u>Top Frequently Encountered PC Hardware Issues on Windows Platforms: Insights From YL Computing</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-audio-editing-essentials-two-ways-to-create-smooth-fades-in-final-cut-pro/"><u>Updated Audio Editing Essentials Two Ways to Create Smooth Fades in Final Cut Pro</u></a></li>
-<li><a href="https://extra-information.techidaily.com/voice-alteration-excellence-with-morphvox/"><u>Voice Alteration Excellence with MorphVOX</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-best-practices-for-designing-an-engaging-youtube-teaser-for-2024/"><u>[New] Best Practices for Designing an Engaging YouTube Teaser for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/20-release-exclusive-subscriber-access-to-latest-karaoke-tracks-2520-perfect-for-djs/"><u>2.0 Release: Exclusive Subscriber Access to Latest Karaoke Tracks (2/5/20) - Perfect for DJs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-fine-tune-music-for-stunning-canva-clips/"><u>2024 Approved How to Fine-Tune Music for Stunning Canva Clips</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/crypto-wealth-strategies-expert-tips-for-earning-with-digital-currencies-yl-software-solutions/"><u>Crypto Wealth Strategies: Expert Tips for Earning with Digital Currencies - YL Software Solutions</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/disabling-microsofts-windows-defender-a-step-by-step-guide-tips-from-yl-computing/"><u>Disabling Microsoft's Windows Defender: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-instant-video-creation-uploading-images/"><u>In 2024, Instant Video Creation Uploading Images</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-premier-top-ten-creative-av-media-maker-directory/"><u>In 2024, The Premier Top-Ten Creative Av Media Maker Directory</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/pcdj-masterclass-innovative-branding-techniques-using-dex3-and-shader-effects/"><u>PCDJ Masterclass: Innovative Branding Techniques Using DEX3 & Shader Effects</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/tailoring-windows-defender-for-optimal-protection-tips-from-yl-software-experts/"><u>Tailoring Windows Defender for Optimal Protection: Tips From YL Software Experts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-ai-powered-chatbot-tools-for-enhanced-emotional-wellness/"><u>Top 5 AI-Powered Chatbot Tools for Enhanced Emotional Wellness</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-5-free-video-players-vlc-or-mpc-winner/"><u>Top 5 Free Video Players VLC or MPC Winner?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-picks-for-gadgets-in-depth-analysis-from-toms-hardware-blog/"><u>Top Picks for Gadgets: In-Depth Analysis From Tom's Hardware Blog</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uninstalling-microsoft-edge-from-windows-11/"><u>Uninstalling Microsoft Edge From Windows 11</u></a></li>
 </ul></div>
 
