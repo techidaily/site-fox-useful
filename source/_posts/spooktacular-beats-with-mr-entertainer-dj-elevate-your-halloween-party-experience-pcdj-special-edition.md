@@ -1,7 +1,7 @@
 ---
 title: Spooktacular Beats with Mr. Entertainer DJ - Elevate Your Halloween Party Experience! | PCDJ Special Edition
-date: 2025-01-25T20:16:33.464Z
-updated: 2025-01-26T22:45:35.338Z
+date: 2025-02-06T17:01:12.581Z
+updated: 2025-02-08T20:27:00.497Z
 tags:
   - product
 categories:
@@ -20,16 +20,16 @@ Select-A-Track ([Digitop UK](https://tools.techidaily.com/pcdj/products/)) is Di
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Mr Entertainer Party Disc – Halloween Edition
 _Throw the Ultimate Halloween Party_
 
 The Mr Entertainer Party Disc range, the ultimate party tool. An entire evening’s entertainment on one DVD, controlled simply by your DVD remote. Jam packed with fun features for all the family providing everything you need to make your party go with a bang!
 
 [![](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/09/DVD-Mock-Up-Front-with-sheets-300x300.jpg?resize=300%2C300&ssl=1 "DVD Mock-Up Front with sheets")](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/09/DVD-Mock-Up-Front-with-sheets.jpg?fit=500%2C500&ssl=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This amazing Halloween themed party disc will guarantee your Halloween is one to remember, with loads of cool games & features to keep adults & kids entertained all night. The DVD is region free so will work in any DVD Player, PlayStation, Xbox etc and is simply controlled on screen with your remote control.
 
@@ -46,7 +46,7 @@ This amazing Halloween themed party disc will guarantee your Halloween is one to
 [![](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/09/DVD-Mock-Up-Rear-228x300.jpg?resize=228%2C300&ssl=1 "DVD Mock-Up Rear")](https://i1.wp.com/pcdj.com/wp-content/uploads/2014/09/DVD-Mock-Up-Rear.jpg?fit=381%2C500&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 
@@ -65,26 +65,26 @@ _**(Shipping from the United Kingdom, please allow one week for delivery!)**_
 
 [ADULT QUIZ SAMPLE ![](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/09/s-Quiz-Sample-STILL-80x80.png?resize=80%2C80&ssl=1 "s Quiz Sample STILL")](https://i1.wp.com/pcdj.com/wp-content/uploads/2014/09/s-Quiz-Sample-STILL.png?fit=1024%2C576&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [KIDS QUIZ SAMPLE ![](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/09/s-Quiz-Sample-STILL1-80x80.png?resize=80%2C80&ssl=1 "s Quiz Sample STILL")](https://i1.wp.com/pcdj.com/wp-content/uploads/2014/09/s-Quiz-Sample-STILL1.png?fit=1024%2C576&ssl=1)
 
 [KARAOKE SAMPLE ![](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/09/Karaoke-80x80.jpg?resize=80%2C80&ssl=1 "Karaoke")](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/09/Karaoke.jpg?fit=1024%2C576&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [SCREENSAVER SAMPLE ![](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/09/Screensaver-Sample-STILL-80x80.png?resize=80%2C80&ssl=1 "Screensaver Sample STILL")](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/09/Screensaver-Sample-STILL.png?fit=1024%2C576&ssl=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [SOUND EFFECTS MENU SAMPLE ![](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/09/Sound-FX-Menu-STILL-80x80.png?resize=80%2C80&ssl=1 "Sound FX Menu STILL")](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/09/Sound-FX-Menu-STILL.png?fit=1024%2C576&ssl=1)
 
 _click images below for large screen shots_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -104,24 +104,22 @@ _click images below for large screen shots_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-how-to-archive-your-nintendo-switch-gameplay/"><u>[New] 2024 Approved How to Archive Your Nintendo Switch Gameplay</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/1716069779030-updated-in-2024-tapping-into-built-in-screen-recording-features-of-huaweis-mate-and-p-lineup/"><u>[Updated] In 2024, Tapping Into Built-In Screen Recording Features of Huawei's Mate & P Lineup.</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-mastering-the-science-of-quantum-hdr/"><u>[Updated] Mastering the Science of Quantum HDR</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/comprehensive-guide-mastering-the-art-with-flipwriter-by-flipbuildercom/"><u>Comprehensive Guide: Mastering the Art with FlipWriter by FlipBuilder.com</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/comprehensive-list-of-documents-and-media-you-can-transform-using-flipoffice-software/"><u>Comprehensive List of Documents & Media You Can Transform Using FlipOffice Software</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/create-and-distribute-interactive-ebooks-for-free-share-them-now-at-flipbuildercom/"><u>Create and Distribute Interactive eBooks for Free – Share Them Now at FlipBuilder.com!</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/digital-content-expert-tips-security-strategies-and-effective/"><u>Digital Content, Expert Tips, Security Strategies, and Effective.</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effortless-conversion-transform-your-ms-word-documents-into-interactive-flipbooks-with-flipbuilder/"><u>Effortless Conversion: Transform Your MS Word Documents Into Interactive Flipbooks with FlipBuilder!</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effortless-digital-reading-with-page-flip-ebooks-access-your-library-anywhere-on-pcmobile-discover-at-flipbuildercom/"><u>Effortless Digital Reading with Page Flip eBooks - Access Your Library Anywhere, On PC/Mobile! [Discover at FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/enabling-autoplay-in-your-custom-flipbooks-with-flipbuilder-a-step-by-step-guide/"><u>Enabling Autoplay in Your Custom Flipbooks with FlipBuilder - A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/exploring-flipwriters-features-and-capabilities-at-flipbuildercom/"><u>Exploring FlipWriter's Features and Capabilities at flipbuilder.com</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/how-does-flipbuildercom-offer-comprehensive-user-guide-instructions/"><u>How Does FlipBuilder.com Offer Comprehensive User Guide Instructions?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Vivo Y36? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/learn-to-edit-the-avalanche-reducing-clutter-in-your-tiktok-drafters/"><u>Learn to Edit the Avalanche Reducing Clutter in Your TikTok Drafters</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/motorola-moto-g13-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Moto G13 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://win-special.techidaily.com/quick-and-free-effortless-conversion-of-pdfs-into-docxpptxswfimage-formats/"><u>Quick and Free: Effortless Conversion of PDFs Into DOCX/PPTX/SWF/Image Formats</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-propella-7s-40-unleashed-an-incredible-fusion-of-nimble-handling-and-wallet-friendly-pricing/"><u>The Propella 7S 4.0 Unleashed: An Incredible Fusion of Nimble Handling and Wallet-Friendly Pricing!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-vivo-y27-4g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Vivo Y27 4G Phone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/unlocking-the-door-to-joining-a-tiktok-gathering/"><u>Unlocking the Door to Joining a TikTok Gathering</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-essentialists-guide-to-archiving-ps3-gameplay-moments/"><u>[New] 2024 Approved The Essentialist's Guide to Archiving PS3 Gameplay Moments</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-master-looped-videos-for-maximum-instagram-impact/"><u>[New] In 2024, Master Looped Videos for Maximum Instagram Impact</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-from-first-steps-to-proficiency-in-iphone-voice-memos/"><u>[Updated] 2024 Approved From First Steps to Proficiency in iPhone Voice Memos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-streamline-your-listening-experience-convert-spotify-to-youtube-with-these-tools-for-2024/"><u>[Updated] Streamline Your Listening Experience Convert Spotify to YouTube with These Tools for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-have-a-products-sponsorship-in-youtube/"><u>2024 Approved How to Have a Products Sponsorship in Youtube</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-ultimate-strategy-for-professional-gopro-filming/"><u>2024 Approved The Ultimate Strategy for Professional Gopro Filming</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/comparing-antivirus-vs-anti-malware-which-should-you-choose-for-optimal-protection/"><u>Comparing Antivirus Vs. Anti-Malware: Which Should You Choose for Optimal Protection?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-guide-to-the-most-effective-modem-and-router-packs/"><u>Essential Guide to the Most Effective Modem and Router Packs</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/explore-sql-databases-with-ease-a-comprehensive-guide/"><u>Explore SQL Databases with Ease: A Comprehensive Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/grasp-the-essence-of-english-grammar-top-9-tips-by-esl-expert/"><u>Grasp the Essence of English Grammar: Top 9 Tips by ESL Expert</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/innovative-approaches-to-custom-add-in-development/"><u>Innovative Approaches to Custom Add-In Development</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/innovative-virtual-classroom-solutions-for-instructors/"><u>Innovative Virtual Classroom Solutions for Instructors</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/recent-changes-in-different-project-classifications/"><u>Recent Changes in Different Project Classifications</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/tabbed-project-management-organize-workflows-efficiently/"><u>Tabbed Project Management: Organize Workflows Efficiently</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/ultimate-guide-how-to-effortlessly-sync-music-between-pc-and-iphone-models-xr-xs-and-xs-max/"><u>Ultimate Guide: How To Effortlessly Sync Music Between PC and iPhone Models XR, XS & XS Max</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/ultimate-techniques-for-adding-sequential-page-numbering-in-pdf-files/"><u>Ultimate Techniques for Adding Sequential Page Numbering in PDF Files</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unleash-the-skys-potential-with-drone-livestreaming-on-fb-for-2024/"><u>Unleash the Sky's Potential with Drone Livestreaming on FB for 2024</u></a></li>
 </ul></div>
 

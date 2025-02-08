@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Masterclass: Innovative Branding Techniques Using DEX3 & Shader Effects"
-date: 2025-01-21T02:01:20.511Z
-updated: 2025-01-27T02:23:00.030Z
+date: 2025-02-04T20:31:13.928Z
+updated: 2025-02-08T19:56:21.189Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ Use the combination of Shaders and Overlays for branding purposes and/or for dis
 _Have questions about using **Shaders** in our **DEX 3 DJ software**, or how to **create text, image, and video overlays**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,22 +50,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/shaderdemo-cover.jpg?fit=7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-a-step-by-step-youtube-traffic-and-revenue-assessment-guide/"><u>[New] 2024 Approved A Step-by-Step Youtube Traffic & Revenue Assessment Guide</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-dive-into-the-world-of-interactive-video-features-on-youtube/"><u>[Updated] In 2024, Dive Into the World of Interactive Video Features on YouTube</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-contacts-from-apple-iphone-6-plus-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Contacts from Apple iPhone 6 Plus to iPhone Quickly | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016005374-effortless-audio-verification-master-the-art-of-microphone-tests/"><u>Effortless Audio Verification: Master the Art of Microphone Tests</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/exploring-frequent-factors-leading-to-video-card-issues-a-guide-by-yl-software/"><u>Exploring Frequent Factors Leading to Video Card Issues: A Guide by YL Software</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/high-definition-sunbeam-visuals-premium-wallpaper-and-desktop-graphics-by-yl-computing/"><u>High-Definition Sunbeam Visuals: Premium Wallpaper & Desktop Graphics by YL Computing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-generative-ai-struggles-with-basic-aspects-of-human-cognition-insights-from-zdnet/"><u>How Generative AI Struggles with Basic Aspects of Human Cognition: Insights From ZDNet</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/managing-app-installations-and-upgrades-using-the-windows-control-panel-with-expert-advice-from-yl-software/"><u>Managing App Installations and Upgrades Using the Windows Control Panel with Expert Advice From YL Software</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/printer-maintenance-mastery-expert-techniques-for-cleaning-print-heads-by-yl-software/"><u>Printer Maintenance Mastery: Expert Techniques for Cleaning Print Heads by YL Software</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/revive-your-unresponsive-desktop-expert-tips-for-power-on-problems-by-yl-computer-experts/"><u>Revive Your Unresponsive Desktop: Expert Tips for Power-On Problems by YL Computer Experts</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/stunning-dog-backgrounds-and-hd-wallpapers-from-yl-software-elevate-your-pc-experience/"><u>Stunning Dog Backgrounds & HD Wallpapers From YL Software: Elevate Your PC Experience</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/top-3-utilidades-de-respaldo-gratuitas-para-windows-10-guia-ideal-para-nuevos-usuarios/"><u>Top 3 Utilidades De Respaldo Gratuitas Para Windows 10: Guía Ideal Para Nuevos Usuarios</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-8-bot-powered-tools-boosting-health-and-wellness/"><u>Top 8 Bot-Powered Tools Boosting Health & Wellness</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/troubleshooting-guide-how-to-fix-connection-issues-between-your-pc-and-printer-expert-advice-from-yl-computing/"><u>Troubleshooting Guide: How to Fix Connection Issues Between Your PC and Printer - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/uncover-the-greatest-8-free-tunes-apps-available-on-ios-devices/"><u>Uncover the Greatest 8 Free Tunes Apps Available on iOS Devices</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/unlock-your-inner-star-with-our-new-20-song-selection-on-karaoke-subscription-service-hits-galore-await-you/"><u>Unlock Your Inner Star with Our New 20-Song Selection on Karaoke Subscription Service – Hits Galore Await You!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-youtubes-yummy-1-8-video-selection/"><u>[New] 2024 Approved YouTube's Yummy #1-#8 Video Selection</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-sculpting-soundtracks-for-animation-using-movie-maker-tools-for-2024/"><u>[New] Sculpting Soundtracks for Animation Using Movie Maker Tools for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-essential-guide-to-top-analytics-platforms-for-better-instagram-metrics-for-2024/"><u>[New] The Essential Guide to Top Analytics Platforms for Better Instagram Metrics for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-pioneers-in-online-mastery-meet-up/"><u>[Updated] 2024 Approved Pioneers in Online Mastery Meet-Up</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-tweet-to-facebook-a-step-by-step-guide/"><u>2024 Approved Tweet to Facebook A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/detecting-hardware-failures-through-device-manager-a-guide-by-yl-software-experts/"><u>Detecting Hardware Failures Through Device Manager: A Guide by YL Software Experts</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/effective-strategies-for-optimizing-your-computers-storage-capacity-insights-by-yl-computing/"><u>Effective Strategies for Optimizing Your Computer's Storage Capacity - Insights by YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-tecno-phantom-v-flip-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Tecno Phantom V Flip to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-quick-guide-to-adding-snapchat-on-your-macbook/"><u>In 2024, Quick Guide to Adding Snapchat on Your MacBook</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-unlocking-the-secrets-of-silent-video-suggestions-in-feed/"><u>In 2024, Unlocking the Secrets of Silent Video Suggestions in Feed</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/recognizing-indicators-of-hardware-issues-a-guide-by-yl-computing-and-software-solutions/"><u>Recognizing Indicators of Hardware Issues: A Guide by YL Computing & Software Solutions</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/solving-desktop-power-failures-a-step-by-step-guide-yl-computings-expert-advice/"><u>Solving Desktop Power Failures: A Step-by-Step Guide - YL Computing's Expert Advice</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/troubleshooting-made-easy-how-driver-updates-can-fix-your-device-issues-insights-from-yl-software/"><u>Troubleshooting Made Easy: How Driver Updates Can Fix Your Device Issues – Insights From YL Software</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/understanding-key-factors-leading-to-hardware-malfunctions-on-windows-systems-by-yl-tech-experts/"><u>Understanding Key Factors Leading to Hardware Malfunctions on Windows Systems by YL Tech Experts</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/unveiling-common-reasons-behind-faulty-screens-an-in-depth-analysis-by-yl-computing/"><u>Unveiling Common Reasons Behind Faulty Screens: An In-Depth Analysis by YL Computing</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/windows-tricks-unveiled-altering-file-extensions-effortlessly-by-experts-at-yl-software/"><u>Windows Tricks Unveiled: Altering File Extensions Effortlessly by Experts at YL Software</u></a></li>
 </ul></div>
 

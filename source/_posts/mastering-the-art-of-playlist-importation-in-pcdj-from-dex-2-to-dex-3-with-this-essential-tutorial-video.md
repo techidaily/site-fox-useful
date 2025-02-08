@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Playlist Importation in PCDJ - From Dex 2 to Dex 3 with This Essential Tutorial Video
-date: 2025-01-21T19:44:29.498Z
-updated: 2025-01-26T17:24:18.413Z
+date: 2025-02-06T22:12:37.422Z
+updated: 2025-02-08T22:22:26.839Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ This feature doesn’t just work for DEX 2 playlists, it will work for RED Mobil
 #### DJ Software Tutorial Video: Importing Playlists From DEX 2 into DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,18 +44,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/08/importingplaylists-coverim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-best-practices-for-designing-an-engaging-youtube-teaser-for-2024/"><u>[New] Best Practices for Designing an Engaging YouTube Teaser for 2024</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/20-release-exclusive-subscriber-access-to-latest-karaoke-tracks-2520-perfect-for-djs/"><u>2.0 Release: Exclusive Subscriber Access to Latest Karaoke Tracks (2/5/20) - Perfect for DJs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-fine-tune-music-for-stunning-canva-clips/"><u>2024 Approved How to Fine-Tune Music for Stunning Canva Clips</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/crypto-wealth-strategies-expert-tips-for-earning-with-digital-currencies-yl-software-solutions/"><u>Crypto Wealth Strategies: Expert Tips for Earning with Digital Currencies - YL Software Solutions</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/disabling-microsofts-windows-defender-a-step-by-step-guide-tips-from-yl-computing/"><u>Disabling Microsoft's Windows Defender: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-instant-video-creation-uploading-images/"><u>In 2024, Instant Video Creation Uploading Images</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-premier-top-ten-creative-av-media-maker-directory/"><u>In 2024, The Premier Top-Ten Creative Av Media Maker Directory</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/pcdj-masterclass-innovative-branding-techniques-using-dex3-and-shader-effects/"><u>PCDJ Masterclass: Innovative Branding Techniques Using DEX3 & Shader Effects</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/tailoring-windows-defender-for-optimal-protection-tips-from-yl-software-experts/"><u>Tailoring Windows Defender for Optimal Protection: Tips From YL Software Experts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-5-ai-powered-chatbot-tools-for-enhanced-emotional-wellness/"><u>Top 5 AI-Powered Chatbot Tools for Enhanced Emotional Wellness</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-5-free-video-players-vlc-or-mpc-winner/"><u>Top 5 Free Video Players VLC or MPC Winner?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-picks-for-gadgets-in-depth-analysis-from-toms-hardware-blog/"><u>Top Picks for Gadgets: In-Depth Analysis From Tom's Hardware Blog</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uninstalling-microsoft-edge-from-windows-11/"><u>Uninstalling Microsoft Edge From Windows 11</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/xperience-engaged-youtube-exchanges/"><u>[New] Experience Engaged YouTube Exchanges</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-8-best-mirrorless-cameras-for-vlogging/"><u>[Updated] 2024 Approved 8 Best Mirrorless Cameras for Vlogging</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-optimizing-video-zoom-on-the-youtube-stage/"><u>[Updated] Optimizing Video Zoom on the YouTube Stage</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/advanced-mailto-pro-templates-high-quality-responsive-html-for-business-email-campaigns-exclusive-offer-from-creative-tim/"><u>Advanced Mailto PRO Templates: High-Quality, Responsive HTML for Business Email Campaigns - Exclusive Offer From Creative Tim</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/advanced-paper-dashboard-pro-version-top-tier-bootstrap-4-administrative-design-by-creative-tim/"><u>Advanced Paper Dashboard Pro Version: Top-Tier Bootstrap 4 Administrative Design by Creative Tim</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/advanced-web-interface-solutions-get-the-professional-edition-of-material-kit-for-bootstrap-5-and-material-design-from-creative-tim/"><u>Advanced Web Interface Solutions - Get the Professional Edition of Material Kit for Bootstrap 5 and Material Design From Creative Tim</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/answer-the-length-in-meters-will-be-5-03048-1524-meters-applying-the-conversion-factor-proportionally/"><u>Answer: The Length in Meters Will Be 5 0.3048 = 1.524 Meters, Applying the Conversion Factor Proportionally.</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/creative-tims-and-updivisions-expertly-crafted-laravlette-argon-dashboard-for-enhanced-user-experience-in-laravel-projects/"><u>Creative Tim's & UPDIVISION's Expertly Crafted Laravlette Argon Dashboard for Enhanced User Experience in Laravel Projects</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/creative-tims-best-offer-budget-friendly-aspnet-theme-selection-guide/"><u>Creative Tim's Best Offer: Budget-Friendly ASP.NET Theme Selection Guide</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/creative-tims-corporate-ui-dashboard-design-in-laravel-a-collaboration-with-updivision/"><u>Creative Tim's Corporate UI Dashboard Design in Laravel: A Collaboration with UPDIVISION</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/google-stadia-assessment-identifying-key-growth-zones/"><u>Google Stadia Assessment: Identifying Key Growth Zones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/holistic-photo-tale-architect-platform/"><u>Holistic Photo Tale Architect Platform</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-oppo-a2-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Oppo A2 Phone Hassle-Free</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-vr-clarity-achieved/"><u>In 2024, Ultimate VR Clarity Achieved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-brightness-malfunction-solved-steps-to-regain-control/"><u>Windows 10 Brightness Malfunction Solved: Steps to Regain Control</u></a></li>
 </ul></div>
 
