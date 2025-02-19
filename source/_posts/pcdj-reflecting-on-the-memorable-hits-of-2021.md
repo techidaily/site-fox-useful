@@ -1,7 +1,7 @@
 ---
 title: "PCDJ: Reflecting on the Memorable Hits of 2021"
-date: 2025-02-01T17:40:51.108Z
-updated: 2025-02-08T20:51:02.186Z
+date: 2025-02-11T22:18:27.987Z
+updated: 2025-02-18T23:18:49.685Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ As we like to do at the expiry of each year, here’s a look at a few PCDJ miles
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2021 PCDJ Milestones
@@ -49,7 +49,7 @@ With 2021 in the books we’re exited to build on our momentum in 2022\. New fea
 _**Happy New Year — and here’s to a happy, healthy, and prosperous 2022\. We appreciate you!**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -71,20 +71,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2022/01/year-in-review-copy.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-ultimate-how-to-for-navigating-old-features-on-fb-mobilepc/"><u>[Updated] In 2024, The Ultimate How-To for Navigating Old Features on FB, Mobile/PC</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-unleash-creativity-best-android-edits/"><u>[Updated] Unleash Creativity Best Android Edits</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-systems-turning-images-into-dynamic-videos/"><u>2024 Approved Expert Systems Turning Images Into Dynamic Videos</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/24-next-gen-pos-applications-beyond-openais-innovations/"><u>24 Next-Gen POS Applications Beyond OpenAI's Innovations</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/compatibility-guide-moving-your-original-themes-between-applications-including-flipbuilder/"><u>Compatibility Guide: Moving Your Original Themes Between Applications, Including FlipBuilder</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/comprehensive-guide-mastering-the-art-with-flipwriter-by-flipbuildercom/"><u>Comprehensive Guide: Mastering the Art with FlipWriter by FlipBuilder.com</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/comprehensive-list-of-documents-and-media-you-can-transform-using-flipoffice-software/"><u>Comprehensive List of Documents & Media You Can Transform Using FlipOffice Software</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/create-and-distribute-interactive-ebooks-for-free-share-them-now-at-flipbuildercom/"><u>Create and Distribute Interactive eBooks for Free – Share Them Now at FlipBuilder.com!</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/digital-content-expert-tips-security-strategies-and-effective/"><u>Digital Content, Expert Tips, Security Strategies, and Effective.</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effortless-conversion-transform-your-ms-word-documents-into-interactive-flipbooks-with-flipbuilder/"><u>Effortless Conversion: Transform Your MS Word Documents Into Interactive Flipbooks with FlipBuilder!</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effortless-digital-reading-with-page-flip-ebooks-access-your-library-anywhere-on-pcmobile-discover-at-flipbuildercom/"><u>Effortless Digital Reading with Page Flip eBooks - Access Your Library Anywhere, On PC/Mobile! [Discover at FlipBuilder.com]</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-writing-productivity-the-ultimate-list-of/"><u>Elevate Writing Productivity: The Ultimate List Of</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Honor Magic 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-process-for-transforming-mpeg-audio-into-mp3-files-selecting-the-right-tool/"><u>Step-by-Step Process for Transforming MPEG Audio Into MP3 Files: Selecting the Right Tool</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/comment-recuperer-une-partition-avec-western-digital-my-passport-trois-methodes-efficaces/"><u>« Comment Récupérer Une Partition Avec Western Digital My Passport : Trois Méthodes Efficaces »</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-navigating-fb-discovering-shared-video-content/"><u>[New] In 2024, Navigating FB Discovering Shared Video Content</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-engagement-cutting-edge-hashtags-for-hit-making-videos/"><u>[Updated] 2024 Approved Elevate Engagement Cutting-Edge Hashtags for Hit-Making Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-harness-the-power-of-wins11-new-gaming-titles/"><u>[Updated] Harness the Power of Wins11 New Gaming Titles</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1-the-advantages-and-disadvantages-of-hyper-vs-adaptive-memory-feature-a-comprehensive-guide/"><u>1. The Advantages and Disadvantages of Hyper-V's Adaptive Memory Feature: A Comprehensive Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-snapchat-soundtrack-sourcebook-choosing-from-the-best-websites/"><u>2024 Approved Snapchat Soundtrack Sourcebook Choosing From the Best Websites</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-proven-steps-to-resolve-your-iphones-icloud-sync-problems/"><u>7 Proven Steps to Resolve Your iPhone's iCloud Sync Problems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ace-set-of-rotational-recording-devices/"><u>Ace Set of Rotational Recording Devices</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/comment-recuperer-des-fichiers-x3f-desormais-inaccessibles-sur-votre-appareil-photo-sigma/"><u>Comment Recuperer Des Fichiers X3F Désormais Inaccessibles Sur Votre Appareil-Photo Sigma</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/como-reconquistar-archivos-perdidos-en-el-servidor-de-windows-server-2012-r2/"><u>Cómo Reconquistar Archivos Perdidos en El Servidor De Windows Server 2012 (R2)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discovering-the-beantech-bitwatch-s1-plus-a-riveting-review-of-a-budget-friendly-smartwatch/"><u>Discovering the Beantech Bitwatch S1 Plus - A Riveting Review of a Budget-Friendly Smartwatch</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/from-outback-to-ozzie-phrases/"><u>From Outback to Ozzie Phrases</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/guide-detaille-pour-supprimer-le-disque-de-reparation-sur-votre-installation-windows-11-methodes-rapides-et-fermes/"><u>Guide Détaillé Pour Supprimer Le Disque De Reparation Sur Votre Installation Windows 11 : Méthodes Rapides Et Fermes</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/leading-data-duplication-tools-optimized-for-windows-11-users/"><u>Leading Data Duplication Tools Optimized for Windows 11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-quick-access-menu-problems-with-this-step-by-step-windowplusshiftpluss-fix/"><u>Solve Your Quick Access Menu Problems with This Step-by-Step Window+Shift+S Fix</u></a></li>
 </ul></div>
 

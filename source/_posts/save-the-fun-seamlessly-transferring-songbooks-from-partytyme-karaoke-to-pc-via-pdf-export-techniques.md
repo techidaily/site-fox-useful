@@ -1,7 +1,7 @@
 ---
 title: "Save the Fun: Seamlessly Transferring Songbooks From PartyTyme Karaoke to PC via PDF Export Techniques"
-date: 2025-02-06T16:03:08.644Z
-updated: 2025-02-08T20:10:47.160Z
+date: 2025-02-11T16:01:38.584Z
+updated: 2025-02-18T17:18:21.630Z
 tags:
   - product
 categories:
@@ -24,25 +24,25 @@ All subscribers to the Party Tyme Karaoke subscription service need to do is log
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### The Steps To Create And Export A Karaoke Songbook From Party Tyme Karaoke
 
 [VIEW LARGER IMAGE ![Login At Party Tyme Player Website](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/login-button-pt-1.jpg?fit=300%2C300&ssl=1 "Login At Party Tyme Player Website")](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/login-button-pt-1.jpg?fit=532%2C532&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1) After you have created an account in PCDJ DEX 3 or LYRX, visit [www.partytymeplayer.com](http://www.partytymeplayer.com) and click **LOGIN**, located on the far right on the websites navigation menu.
 
 [VIEW LARGER IMAGE ![](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/type-in-credentials-pt.jpg?fit=300%2C300&ssl=1 "Login using your subscription credentials")](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/type-in-credentials-pt.jpg?fit=756%2C756&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Login with the credentials created when you created the account in DEX 3 or LYRX. Your email address is used for the user name and punch in your custom password and click **LOGIN**.
 
 [VIEW LARGER IMAGE ![Locate the gear icon and click it](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/09/click-gear-icon-top-right-pt.jpg?fit=300%2C300&ssl=1 "Locate the gear icon and click it")](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/09/click-gear-icon-top-right-pt.jpg?fit=552%2C552&ssl=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Once you’re logged in, locate the ‘**GEAR**‘ looking icon in top right corner of the website and click on it. This will bring up initial settings for the PT karaoke songbook.
 
@@ -52,26 +52,26 @@ All subscribers to the Party Tyme Karaoke subscription service need to do is log
 
 [VIEW LARGER IMAGE ![Select your songbook options and click OK](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/09/click-ok-pt.jpg?fit=300%2C300&ssl=1 "Select your songbook options and click OK")](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/09/click-ok-pt.jpg?fit=652%2C652&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5) The ‘**Export To PDF**‘ menu allows you to select the ‘**Song List Type**‘ — Domestic, Foreign, or All — the ‘**Domestic Language**‘ — English or Spanish — and the ‘**Order By**‘ — Order by Artist or By Title. After dialing in your options, click the **OK** button. After clicking on **OK** the songbook creation process will begin.
 
 [VIEW LARGER IMAGE ![Click the download here](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/click-download-here-pt.jpg?fit=300%2C300&ssl=1 "Click the download here")](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/click-download-here-pt.jpg?fit=706%2C706&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6) Once your songbook is prepared and ready for download, you will see ‘**Download Here**‘ in green-colored text at the bottom of the menu box. Click the link/text to launch your customized PDF Party Tyme Karaoke songbook.
 
 [VIEW LARGER IMAGE ![Your party tyme songbook is ready for print](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/09/song-book-pt.jpg?fit=300%2C300&ssl=1 "Your party tyme songbook is ready for print")](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/09/song-book-pt.jpg?fit=920%2C920&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7) Your custom **Party Tyme Karaoke songbook** is ready for download and/or print (or upload to your own website for your singers to view there!).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,24 +93,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/partytymekaraokesongbook-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-newest-methods-for-ios-screenshots-and-playback/"><u>[New] In 2024, Newest Methods for iOS Screenshots & Playback</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-optimizing-your-videography-journey-using-adobe-connects-tools-for-2024/"><u>[New] Optimizing Your Videography Journey Using Adobe Connect's Tools for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-navigating-advanced-features-in-obs-studio-android/"><u>[Updated] 2024 Approved Navigating Advanced Features in OBS Studio (Android)</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-instantaneous-youtube-audiences-trackers-for-2024/"><u>[Updated] Instantaneous YouTube Audiences Trackers for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-solutions-for-stabilizing-wwe-2k20-on-windows-platforms/"><u>Easy Solutions for Stabilizing WWE 2K20 on Windows Platforms</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/efficient-file-management-with-inifile-component-a-comprehensive-guide/"><u>Efficient File Management with IniFile Component: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/eliminating-unwanted-default-search-changes-a-tutorial-with-malwarefox-solutions/"><u>Eliminating Unwanted Default Search Changes: A Tutorial with MalwareFox Solutions</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/ensure-safe-entry-the-basics-of-effective-authentication-methods/"><u>Ensure Safe Entry: The Basics of Effective Authentication Methods</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/frequently-asked-questions-mastering-apowerrec-task-recording-features/"><u>Frequently Asked Questions: Mastering ApowerREC Task Recording Features</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-camon-20-premier-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Tecno Camon 20 Premier 5G?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-infinix-hot-40-pro-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Infinix Hot 40 Pro to Another | Dr.fone</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/managing-short-term-file-tasks-on-windows-explorers-directory-pages/"><u>Managing Short-Term File Tasks on Windows Explorer's Directory Pages</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-video-editing-made-easy-a-wax-tutorial-for-beginners/"><u>New 2024 Approved Free Video Editing Made Easy A Wax Tutorial for Beginners</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/refining-interaction-flows-between-parents-and-kids-strategies-and-tips/"><u>Refining Interaction Flows Between Parents and Kids: Strategies & Tips</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/save-your-footage-how-to-retrieve-deleted-content-from-sony-handycam/"><u>Save Your Footage! How to Retrieve Deleted Content From Sony Handycam</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/step-by-step-tutorial-implementing-a-usb-flash-drive-antivirus-solution/"><u>Step-by-Step Tutorial: Implementing a USB Flash Drive Antivirus Solution</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/tab-configuration-files-setup-guidelines/"><u>Tab Configuration Files: Setup Guidelines</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/track-and-optimize-conversions-with-cookiebot-integration/"><u>Track and Optimize Conversions with Cookiebot Integration</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unleash-full-potential-website-analytics-through-cookiebot-technology/"><u>Unleash Full Potential: Website Analytics Through Cookiebot Technology</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-tips-and-solutions-for-common-vlc-issues-on-mac/"><u>[New] Top Tips & Solutions for Common VLC Issues on Mac</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-from-novice-to-notoriety-steps-for-a-youtube-channel-in-gaming/"><u>[Updated] 2024 Approved From Novice to Notoriety Steps for a YouTube Channel in Gaming</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-unlocking-engagement-best-practices-for-highlight-boost/"><u>[Updated] In 2024, Unlocking Engagement Best Practices for Highlight Boost</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-interactive-media-exchange-twitter-to-snapchat-videos/"><u>[Updated] Interactive Media Exchange Twitter to Snapchat Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-optimal-earnings-scaling-your-youtube-channels-revenue-on-mobile-devices/"><u>[Updated] Optimal Earnings Scaling Your YouTube Channel's Revenue on Mobile Devices</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1728495108988-google/"><u>「Google ドライブ表示問題：ファイルエクスプローラに既成できない？」</u></a></li>
+<li><a href="https://win-great.techidaily.com/5yig5pwj44k344k544og44og44gn44gu6ieq5yuv44oh44o844k5zcm5pyf5oim55wl44go5a6f6le1/"><u>分散システムでの自動データ同期戦略と実践</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/choisissez-votre-solution-top-5-avantages-cote-libre-et-cote-paiement-des-outils-recuperation-disque-gratuits-et-payants-alternatifs-a-recuva-sous-windows.m135/"><u>Choisissez Votre Solution: Top 5 Avantages-Côté Libre Et Côté Paiement Des Outils Récupération Disque Gratuits Et Payants Alternatifs À Recuva Sous Windows</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/quick-guide-to-restoring-your-lenovo-y510p-two-proven-techniques-for-system-recovery/"><u>Quick Guide to Restoring Your Lenovo Y510p - Two Proven Techniques for System Recovery</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/troubleshooting-guide-eliminate-partition-map-edit-failed-issue-error-69-for-smooth-operations/"><u>Troubleshooting Guide: Eliminate Partition Map Edit Failed Issue - Error #69# for Smooth Operations</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/tutoriel-complet-syncing-le-stockage-onedrive-avec-votre-disque-dur-extern-afin-dassurer-la-securite-de-vos-donnees/"><u>Tutoriel Complet: Syncing Le Stockage OneDrive Avec Votre Disque Dur Extern Afin D'Assurer La Sécurité De Vos Données</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-motorola-edge-40-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Motorola Edge 40 Pro? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-foundations-selecting-the-right-equipment/"><u>YouTube Foundations Selecting the Right Equipment</u></a></li>
 </ul></div>
 

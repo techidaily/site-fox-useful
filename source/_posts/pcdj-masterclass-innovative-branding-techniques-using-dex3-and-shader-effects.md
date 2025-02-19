@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Masterclass: Innovative Branding Techniques Using DEX3 & Shader Effects"
-date: 2025-02-04T20:31:13.928Z
-updated: 2025-02-08T19:56:21.189Z
+date: 2025-02-13T23:13:54.475Z
+updated: 2025-02-18T18:33:22.491Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ Use the combination of Shaders and Overlays for branding purposes and/or for dis
 _Have questions about using **Shaders** in our **DEX 3 DJ software**, or how to **create text, image, and video overlays**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,22 +50,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/shaderdemo-cover.jpg?fit=7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-youtubes-yummy-1-8-video-selection/"><u>[New] 2024 Approved YouTube's Yummy #1-#8 Video Selection</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-sculpting-soundtracks-for-animation-using-movie-maker-tools-for-2024/"><u>[New] Sculpting Soundtracks for Animation Using Movie Maker Tools for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-the-essential-guide-to-top-analytics-platforms-for-better-instagram-metrics-for-2024/"><u>[New] The Essential Guide to Top Analytics Platforms for Better Instagram Metrics for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-pioneers-in-online-mastery-meet-up/"><u>[Updated] 2024 Approved Pioneers in Online Mastery Meet-Up</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-tweet-to-facebook-a-step-by-step-guide/"><u>2024 Approved Tweet to Facebook A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/detecting-hardware-failures-through-device-manager-a-guide-by-yl-software-experts/"><u>Detecting Hardware Failures Through Device Manager: A Guide by YL Software Experts</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effective-strategies-for-optimizing-your-computers-storage-capacity-insights-by-yl-computing/"><u>Effective Strategies for Optimizing Your Computer's Storage Capacity - Insights by YL Computing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-tecno-phantom-v-flip-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Tecno Phantom V Flip to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-quick-guide-to-adding-snapchat-on-your-macbook/"><u>In 2024, Quick Guide to Adding Snapchat on Your MacBook</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-unlocking-the-secrets-of-silent-video-suggestions-in-feed/"><u>In 2024, Unlocking the Secrets of Silent Video Suggestions in Feed</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/recognizing-indicators-of-hardware-issues-a-guide-by-yl-computing-and-software-solutions/"><u>Recognizing Indicators of Hardware Issues: A Guide by YL Computing & Software Solutions</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/solving-desktop-power-failures-a-step-by-step-guide-yl-computings-expert-advice/"><u>Solving Desktop Power Failures: A Step-by-Step Guide - YL Computing's Expert Advice</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/troubleshooting-made-easy-how-driver-updates-can-fix-your-device-issues-insights-from-yl-software/"><u>Troubleshooting Made Easy: How Driver Updates Can Fix Your Device Issues – Insights From YL Software</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/understanding-key-factors-leading-to-hardware-malfunctions-on-windows-systems-by-yl-tech-experts/"><u>Understanding Key Factors Leading to Hardware Malfunctions on Windows Systems by YL Tech Experts</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/unveiling-common-reasons-behind-faulty-screens-an-in-depth-analysis-by-yl-computing/"><u>Unveiling Common Reasons Behind Faulty Screens: An In-Depth Analysis by YL Computing</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/windows-tricks-unveiled-altering-file-extensions-effortlessly-by-experts-at-yl-software/"><u>Windows Tricks Unveiled: Altering File Extensions Effortlessly by Experts at YL Software</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-step-by-step-guide-to-perfecting-tiktok-broadcast-on-zoom/"><u>[New] 2024 Approved Step-by-Step Guide to Perfecting TikTok Broadcast on Zoom</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-clear-shots-a-guide-to-still-image-stability-for-2024/"><u>[New] Clear Shots A Guide to Still Image Stability for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streaming-services-app-investigation-findings/"><u>[New] Streaming Services App Investigation Findings</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-guide-to-validating-your-yt-channels-earnings/"><u>[Updated] The Ultimate Guide to Validating Your YT Channel's Earnings</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/ausreichende-platzierung-wie-sie-winodws-11-aktualisieren-wenn-ihre-speicherung-knapp-ist-6-tipps/"><u>Ausreichende Platzierung: Wie Sie Winodws 11 Aktualisieren, Wenn Ihre Speicherung Knapp Ist (6 Tipps)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comparing-wrist-tech-giants-google-pixel-watch-3-versus-apple-watch-series-9-finding-your-perfect-match/"><u>Comparing Wrist Tech Giants: Google Pixel Watch 3 Versus Apple Watch Series 9 – Finding Your Perfect Match</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/download-fonetool-app-the-ultimate-guide-to-seamless-phone-management/"><u>Download FoneTool App: The Ultimate Guide to Seamless Phone Management</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/effizientes-migrationsmanagement-fur-windows-server-auf-neue-hardwaresysteme/"><u>Effizientes Migrationsmanagement Für Windows-Server Auf Neue Hardwaresysteme</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/fix-system-restore-issue-on-windows-versions-11-10-8/"><u>Fix: System Restore Issue on Windows Versions (11, 10, 8,</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-tecno-spark-10c-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Tecno Spark 10C Phones with/without a PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/windows-11-on-screen-keyboard-management-a-quick-how-to/"><u>Windows 11 On-Screen Keyboard Management - A Quick How-To</u></a></li>
 </ul></div>
 

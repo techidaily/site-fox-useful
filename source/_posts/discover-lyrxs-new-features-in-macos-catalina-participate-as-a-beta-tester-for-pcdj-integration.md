@@ -1,7 +1,7 @@
 ---
 title: Discover LYRX's New Features in macOS Catalina – Participate as a Beta Tester for PCDJ Integration!
-date: 2025-02-04T18:51:29.619Z
-updated: 2025-02-08T21:10:44.013Z
+date: 2025-02-13T16:46:15.513Z
+updated: 2025-02-18T18:55:58.100Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ For now, we are asking for a few LYRX customers that are using newer Apple compu
 **Important Notes:** 10.14 or 10.15 of macOS is needed to run the Catalina-specific LYRX beta. As noted, this is a beta version, and should not be used in a venue/production environment. Specifically, the GUI/interface and video/karaoke should be tested as the changes there are massive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,20 +50,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/03/lyrx-catalina-beta.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-tips-and-tricks-elevating-your-images-with-text-editing/"><u>[New] Tips & Tricks Elevating Your Images with Text Editing</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/1728487537952-hp-envy-x360-ssd/"><u>無畏更新指南：HP Envy X360 SSD升級流程，保全所有文件安全</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/1728487079833-windows-11-windows-defender/"><u>詳盡教程：在Windows 11上取消啟用 Windows Defender安全功能</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-gptbot-understanding-its-impact-on-website-security/"><u>Exploring GPTBot: Understanding Its Impact on Website Security</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guiding-you-through-windows-11-emulation-on-vmware-17/"><u>Guiding You Through Windows 11 Emulation on VMWare 17</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-iphone-xs-without-password-by-drfone-ios/"><u>How to Remove Apple ID from iPhone XS without Password?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-storage-choices-ssd-or-hdd-a-comparative-analysis-for-tech-enthusiasts/"><u>Navigating Storage Choices: SSD or HDD - A Comparative Analysis for Tech Enthusiasts</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/permanentes-loschen-von-dokumenten-im-papierkorb-wird-es-sicher-entfernt/"><u>Permanentes Löschen Von Dokumenten Im Papierkorb - Wird Es Sicher Entfernt?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pro-iphones-capturing-perfect-silhouettes/"><u>Pro iPhones Capturing Perfect Silhouettes</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/quick-tips-for-seamlessly-shifting-your-windows-installation-across-drives/"><u>Quick Tips for Seamlessly Shifting Your Windows Installation Across Drives</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/resolving-grub-bootloader-issue-code-17-a-comprehensive-guide-for-seamless-recovery/"><u>Resolving Grub Bootloader Issue Code 17: A Comprehensive Guide for Seamless Recovery</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-activating-and-operating-chatgpt-on-a-mac-device/"><u>Step-by-Step Tutorial: Activating and Operating ChatGPT on a Mac Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/thriving-community-through-board-games-and-card-games-on-discord/"><u>Thriving Community Through Board Games & Card Games on Discord</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/top-substitutes-for-microsoft-onedrive-enhanced-security-options/"><u>Top Substitutes for Microsoft OneDrive: Enhanced Security Options</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/windows-11-probleme-mit-der-suchfunktion-schnelllosungen-und-reparaturroutinen/"><u>Windows 11 - Probleme Mit Der Suchfunktion: Schnelllösungen Und Reparaturroutinen</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-integrating-facebook-livestream-into-your-roku-setup-for-2024/"><u>[New] Integrating Facebook Livestream Into Your Roku Setup for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-epic-virtual-truths-top-30-metaverse-reflections-arvr/"><u>[Updated] 2024 Approved Epic Virtual Truths Top 30 Metaverse Reflections [AR/VR]</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-latest-evolution-2023s-samsung-bd-j5900-review-for-2024/"><u>[Updated] The Latest Evolution 2023'S Samsung BD-J5900 Review for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-championing-the-leading-gif-apps-on-iphones/"><u>2024 Approved Championing the Leading GIF Apps on iPhones</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/can-you-trust-windows-defender-to-shield-your-system-from-ransomware-attacks-insights-by-yl-computing-expertise/"><u>Can You Trust Windows Defender to Shield Your System From Ransomware Attacks? Insights by YL Computing Expertise</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/disabling-onboard-scanner-functions-a-step-by-step-guide-by-yl-software-experts/"><u>Disabling Onboard Scanner Functions: A Step-by-Step Guide by YL Software Experts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-realme-narzo-60-pro-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Realme Narzo 60 Pro 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-icons-unveiled-elevate-your-fame-and-followers-in-record-time-heres-how/"><u>In 2024, Instagram Icons Unveiled Elevate Your Fame & Followers in Record Time – Here's How</u></a></li>
+<li><a href="https://techtrends.techidaily.com/prioritize-your-purchase-key-considerations-for-buying-the-perfect-smart-tv/"><u>Prioritize Your Purchase: Key Considerations for Buying the Perfect Smart TV</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/reviving-your-system-easy-reset-and-reinstall-of-windows-11-by-yl-software-experts/"><u>Reviving Your System: Easy Reset and Reinstall of Windows 11 by YL Software Experts</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/secure-steps-a-comprehensive-guide-on-safe-hardware-removal-tips-from-yl-computing-and-software/"><u>Secure Steps: A Comprehensive Guide on Safe Hardware Removal - Tips From YL Computing & Software</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-wireless-charging-on-iphone-try-out-these-7-fixes-to-resolve-the-issue/"><u>Struggling with Wireless Charging on iPhone? Try Out These 7 Fixes to Resolve the Issue</u></a></li>
 </ul></div>
 
