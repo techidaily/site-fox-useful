@@ -1,7 +1,7 @@
 ---
 title: Quick Guide to Restoring Your Lenovo Y510p - Two Proven Techniques for System Recovery
-date: 2025-01-20T17:13:39.865Z
-updated: 2025-01-26T23:12:08.609Z
+date: 2025-02-28T20:48:38.247Z
+updated: 2025-03-07T11:36:45.320Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/c06aefbb181f576852b2577ec9d3544ebd6635b5e4bff4964dd308c72eeba377.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/c06aefbb181f576852b2577ec9d3544ebd6635b5e
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
@@ -65,10 +61,6 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
@@ -93,17 +85,9 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -113,10 +97,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
 Et la sauvegarde incrémentielle nécessite une récupération plus complexe tandis que la sauvegarde différentielle est beaucoup plus facile. Pour connaître les différences entre elles, consultez « [Sauvegarde incrémentielle ou différentielle](https://tools.techidaily.com/ubackup/products/) ».
@@ -124,10 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -169,10 +145,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -198,24 +170,19 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-ultimate-android-screen-recorder-options-list/"><u>[New] 2024 Approved Ultimate Android Screen Recorder Options List</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/best-non-thinkpad-laptops-for-business-productivity-beyond-dell-and-lenovo-recommendations-by-techexpert/"><u>Best Non-ThinkPad Laptops for Business Productivity: Beyond Dell & Lenovo Recommendations by TechExpert</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/confuciuss-impact-on-the-course-of-chinese-history-a-detailed-analysis/"><u>Confucius's Impact on the Course of Chinese History: A Detailed Analysis</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/decoding-the-blue-screen-error-expert-analysis-by-yl-software-team/"><u>Decoding the Blue Screen Error: Expert Analysis by YL Software Team</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/disabling-notification-alerts-via-control-panel-a-step-by-step-guide-from-yl-computing/"><u>Disabling Notification Alerts via Control Panel - A Step-by-Step Guide From YL Computing</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/enhancing-your-pcs-efficiency-expert-tips-on-adjusting-system-configurations-for-peak-performance-yl-tech-insights/"><u>Enhancing Your PC's Efficiency: Expert Tips on Adjusting System Configurations for Peak Performance - YL Tech Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-free-tech-resources-for-kids-going-back-to-class/"><u>Essential FREE Tech Resources for Kids Going Back to Class</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-samsung-galaxy-a24-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Samsung Galaxy A24 FRP In 3 Different Ways</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/mastering-memory-malfunctions-on-windows-expert-tips-from-the-team-at-yl-software/"><u>Mastering Memory Malfunctions on Windows: Expert Tips From the Team at YL Software</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/mastering-the-art-of-sound-alignment-in-music-expert-harmonic-mixing-techniques-by-digital-dj-tips-tutorial/"><u>Mastering the Art of Sound Alignment in Music - Expert Harmonic Mixing Techniques by Digital DJ Tips (Tutorial)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/perfect-photo-framing-digital-sites-and-apps-guide-for-2024/"><u>Perfect Photo Framing Digital Sites and Apps Guide for 2024</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/professional-photograph-collection-blonde-inspiration-walls-and-hd-picture-backdrops-curated-by-yl-software-solutions/"><u>Professional Photograph Collection: Blonde Inspiration Walls & HD Picture Backdrops - Curated by YL Software Solutions</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/revolutionizing-scanning-technology-with-new-abbyy-pdf-and-ocr-tools-spotlighted-at-the-american-bar-associations-annual-techshow-2019/"><u>Revolutionizing Scanning Technology with New ABBYY PDF and OCR Tools, Spotlighted at the American Bar Association's Annual Techshow 2019</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/the-origins-of-gunpowder-in-china-its-revolutionary-impact-on-ancient-civilization-yl-software-solutions/"><u>The Origins of Gunpowder in China: Its Revolutionary Impact on Ancient Civilization - YL Software Solutions</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-review-how-the-latest-gen-amazon-fire-hd/"><u>The Ultimate Review: How the Latest Gen Amazon Fire HD</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/uncomplicated-methodology-turning-clownfish-sounds-on-windows-systems/"><u>Uncomplicated Methodology Turning Clownfish Sounds on Windows Systems</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/unveiling-the-distinct-features-comparing-windows-defender-with-competitive-antivirus-solutions-innovations-by-yl-computing/"><u>Unveiling the Distinct Features: Comparing Windows Defender with Competitive Antivirus Solutions - Innovations by YL Computing</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/various-methods-to-transfer-pictures-from-apple-iphone-14-plus-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Various Methods to Transfer Pictures from Apple iPhone 14 Plus to PC | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-seamless-fb-content-to-mp3-transfer-for-2024/"><u>[New] Seamless FB Content-to-MP3 Transfer for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-win10-strategy-for-successful-zoom-sessions/"><u>[Updated] The Ultimate Win10 Strategy for Successful Zoom Sessions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-get-premium-banners-no-cost-just-click/"><u>2024 Approved Get Premium Banners - No Cost, Just Click</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/aggiorna-il-tuo-ide-al-piu-veloce-ssd-sata-con-questa-soluzione-semplice-per-windows/"><u>Aggiorna Il Tuo IDE Al Più Veloce SSD SATA Con Questa Soluzione Semplice per Windows</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/fehlerbehebung-kein-backup-system-fur-ihren-pc-gefunden-losung-finden/"><u>Fehlerbehebung: Kein Backup-System Für Ihren PC Gefunden – Lösung Finden!</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/free-conversion-of-video-files-transforming-f4v-to-flv-with-movavi/"><u>Free Conversion of Video Files: Transforming F4V to FLV with Movavi</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/how-to-perform-windows-11-onedrive-synchronization-a-step-by-step-guide/"><u>How To Perform Windows 11 OneDrive Synchronization: A Step-By-Step Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/lg-gram-156-ultra-lightweight-notebook-comprehensive-2018-model-review/"><u>LG Gram 15.6 Ultra-Lightweight Notebook - Comprehensive 2018 Model Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-new-horizons-in-windows-11-avoid-these-slips/"><u>Navigating New Horizons in Windows 11: Avoid These Slips</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/strategie-semplici-per-trasferire-i-tuoi-file-pst-di-outlook-a-microsoft-onedrive/"><u>Strategie Semplici per Trasferire I Tuoi File PST Di Outlook a Microsoft OneDrive</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/top-rated-free-windows-data-recovery-and-restoration-programs/"><u>Top Rated Free Windows Data Recovery & Restoration Programs</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/ultimate-guide-retrieving-lost-images-on-all-gadgets/"><u>Ultimate Guide: Retrieving Lost Images on All Gadgets</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/unleash-your-creativity-best-free-video-fx-apps-for-ios-and-android-for-2024/"><u>Unleash Your Creativity Best Free Video FX Apps for iOS and Android for 2024</u></a></li>
 </ul></div>
 

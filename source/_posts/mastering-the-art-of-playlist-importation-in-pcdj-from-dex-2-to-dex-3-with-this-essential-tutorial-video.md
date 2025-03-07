@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Playlist Importation in PCDJ - From Dex 2 to Dex 3 with This Essential Tutorial Video
-date: 2025-02-12T21:08:22.725Z
-updated: 2025-02-18T21:31:38.128Z
+date: 2025-03-03T17:30:38.792Z
+updated: 2025-03-06T21:04:32.852Z
 tags:
   - product
 categories:
@@ -20,10 +20,6 @@ One question we’re hearing a lot right now while DEX 2 users make the transiti
 This feature doesn’t just work for DEX 2 playlists, it will work for RED Mobile 2 playlists (_RED Mobile 2 users can upgrade to DEX 3 for only $149_) and any M3U playlist created by other audio applications. For instance, you can create a M3U playlist in Windows Media Player and import into DEX 3 using this same method demonstrated in the tutorial video below.
 
 #### DJ Software Tutorial Video: Importing Playlists From DEX 2 into DEX 3
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -44,20 +40,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/08/importingplaylists-coverim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevating-your-channel-youtube-backlink-basics/"><u>[New] 2024 Approved Elevating Your Channel YouTube Backlink Basics</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-secrets-of-apple-music-in-videos/"><u>[New] Unveiling the Secrets of Apple Music in Videos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-essential-steps-for-sifting-through-facebook-videos/"><u>[Updated] 2024 Approved Essential Steps for Sifting Through Facebook Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-instant-shareability-from-tiktok-to-facebook-networks/"><u>[Updated] 2024 Approved Instant Shareability From TikTok to Facebook Networks</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/60google/"><u>「60日を超えて失われたデータの回復法：Googleフォトからの画像再構築ガイド」</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/56ys5lij6icf44gm6zal55m644gx44gf6kiy5ywl55so44k944ov44oi44km44kn44ki44ks5ysq44km44gm6yg444g25pa55rov/"><u>第三者が開発した記入用ソフトウェアを優れて選ぶ方法</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-guide-adjusting-your-screen-layout-in-windows-11/"><u>Easy Guide: Adjusting Your Screen Layout in Windows 11</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/guida-clonazione-del-sistema-operativo-e-dischi-tramite-prompt-della-riga-di-comando-in-italiano/"><u>Guida: Clonazione Del Sistema Operativo E Dischi Tramite Prompt Della Riga Di Comando in Italiano</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-effective-screen-recording-with-a-focus-on-usability/"><u>In 2024, Effective Screen Recording with a Focus on Usability</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/losung-fur-schwarzes-display-nach-windows-11-update-schritt-fur-schritt-guide/"><u>Lösung Für Schwarzes Display Nach Windows 11-Update: Schritt-Für-Schritt-Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-pc-players-now-enjoy-seamless-start-up-of-battlefield-4/"><u>Resolved: PC Players Now Enjoy Seamless Start-Up of Battlefield 4</u></a></li>
-<li><a href="https://some-skills.techidaily.com/timing-your-podcasts-impactful-debut-for-2024/"><u>Timing Your Podcast's Impactful Debut for 2024</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/troubleshooting-guide-for-windows-nx-error-0xc000000e-without-losing-information/"><u>Troubleshooting Guide for Windows nX Error 0xC000000E Without Losing Information</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-boot-issues-in-windows-11/"><u>Troubleshooting Guide: Resolving Boot Issues in Windows 11</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/wiederherstellung-und-sicherung-von-windows-server-2019-schritt-fur-schritt-anleitung/"><u>Wiederherstellung Und Sicherung Von Windows Server 2019: Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-ideal-dialogue-architect-forum/"><u>[New] 2024 Approved Ideal Dialogue Architect Forum</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-step-into-the-world-of-slowed-motion-a-comprehensive-ig-reel-guide/"><u>[New] In 2024, Step Into the World of Slowed-Motion A Comprehensive IG Reel Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-organizing-elements-for-dynamic-youtube-videos/"><u>[Updated] Organizing Elements for Dynamic YouTube Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/15-high-performing-instagram-content-extractors/"><u>15 High-Performing Instagram Content Extractors</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/activate-instant-alerts-set-up-email-notifications-now/"><u>Activate Instant Alerts: Set Up Email Notifications Now</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/comment-recuperer-des-photos-supprimees-de-votre-ordinateur-portable-lenovo/"><u>Comment Récupérer Des Photos Supprimées De Votre Ordinateur Portable Lenovo</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/guia-paso-a-paso-para-localizar-y-restaurar-particiones-de-disco-ocultas-en-windows-versiones-10-11-8-y-7/"><u>Guía Paso a Paso Para Localizar Y Restaurar Particiones De Disco Ocultas en Windows Versiones 10, 11, 8 Y 7</u></a></li>
+<li><a href="https://win-info.techidaily.com/guida-passo-passo-come-creare-un-montaggio-di-video-con-software-movavi/"><u>Guida Passo-Passo: Come Creare Un Montaggio Di Video Con Software Movavi</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/quick-fix-guide-how-to-restore-unintentionally-deleted-drives/"><u>Quick Fix Guide: How to Restore Unintentionally Deleted Drives</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/steps-to-restore-and-access-data-on-corrupted-fat32-or-exfat-drives/"><u>Steps to Restore and Access Data on Corrupted FAT32 or exFAT Drives</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-to-enhance-performance-steelseries-keyboard-engine-driver-download/"><u>Update to Enhance Performance: SteelSeries Keyboard Engine Driver Download</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-ai-script-generator-virbo-guide/"><u>Updated In 2024, AI Script Generator | Virbo Guide</u></a></li>
 </ul></div>
 

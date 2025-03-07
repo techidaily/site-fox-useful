@@ -1,7 +1,7 @@
 ---
 title: Spooktacular Beats with Mr. Entertainer DJ - Elevate Your Halloween Party Experience! | PCDJ Special Edition
-date: 2025-02-13T17:18:54.012Z
-updated: 2025-02-18T16:34:38.949Z
+date: 2025-03-05T01:42:52.608Z
+updated: 2025-03-06T23:27:15.397Z
 tags:
   - product
 categories:
@@ -27,10 +27,6 @@ The Mr Entertainer Party Disc range, the ultimate party tool. An entire evening�
 
 [![](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/09/DVD-Mock-Up-Front-with-sheets-300x300.jpg?resize=300%2C300&ssl=1 "DVD Mock-Up Front with sheets")](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/09/DVD-Mock-Up-Front-with-sheets.jpg?fit=500%2C500&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 This amazing Halloween themed party disc will guarantee your Halloween is one to remember, with loads of cool games & features to keep adults & kids entertained all night. The DVD is region free so will work in any DVD Player, PlayStation, Xbox etc and is simply controlled on screen with your remote control.
 
 #### **Features include:**
@@ -44,10 +40,6 @@ This amazing Halloween themed party disc will guarantee your Halloween is one to
 * _**Spooky Sound FX (scary sounds and mood setters)**_
 
 [![](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/09/DVD-Mock-Up-Rear-228x300.jpg?resize=228%2C300&ssl=1 "DVD Mock-Up Rear")](https://i1.wp.com/pcdj.com/wp-content/uploads/2014/09/DVD-Mock-Up-Rear.jpg?fit=381%2C500&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 
 
@@ -67,23 +59,11 @@ _**(Shipping from the United Kingdom, please allow one week for delivery!)**_
 
 [KIDS QUIZ SAMPLE ![](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/09/s-Quiz-Sample-STILL1-80x80.png?resize=80%2C80&ssl=1 "s Quiz Sample STILL")](https://i1.wp.com/pcdj.com/wp-content/uploads/2014/09/s-Quiz-Sample-STILL1.png?fit=1024%2C576&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [KARAOKE SAMPLE ![](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/09/Karaoke-80x80.jpg?resize=80%2C80&ssl=1 "Karaoke")](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/09/Karaoke.jpg?fit=1024%2C576&ssl=1)
 
 [SCREENSAVER SAMPLE ![](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/09/Screensaver-Sample-STILL-80x80.png?resize=80%2C80&ssl=1 "Screensaver Sample STILL")](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/09/Screensaver-Sample-STILL.png?fit=1024%2C576&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [SOUND EFFECTS MENU SAMPLE ![](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/09/Sound-FX-Menu-STILL-80x80.png?resize=80%2C80&ssl=1 "Sound FX Menu STILL")](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/09/Sound-FX-Menu-STILL.png?fit=1024%2C576&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _click images below for large screen shots_ 
 
@@ -104,18 +84,18 @@ _click images below for large screen shots_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-chasing-titles-key-moments-from-2022-olympics-short-tracks/"><u>[New] In 2024, Chasing Titles Key Moments From 2022 Olympics Short Tracks</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-expert-techniques-efficiently-crafting-compelling-subtitles-for-fb-video-content/"><u>[Updated] 2024 Approved Expert Techniques Efficiently Crafting Compelling Subtitles for FB Video Content</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/1-the-impact-of-the-second-sino-japanese-war-on-chinas-population-insights-and-analysis-yl-computing/"><u>1. The Impact of the Second Sino-Japanese War on China's Population: Insights and Analysis - YL Computing</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-curating-the-best-video-game-openers-on-yt-no-money-max-impact/"><u>2024 Approved Curating the Best Video Game Openers on YT No Money, Max Impact?</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/access-and-modify-network-preferences-using-the-windows-control-panel-with-guidance-by-yl-software-experts/"><u>Access and Modify Network Preferences Using the Windows Control Panel with Guidance by YL Software Experts</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/captivating-hd-zoological-wallpapers-exclusive-wildlife-artwork-and-background-images-from-yl-software/"><u>Captivating HD Zoological Wallpapers: Exclusive Wildlife Artwork and Background Images From YL Software</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-what-makes-samsung-galaxy-tab-s6-stand-out-insightful-review-on-innovative-s-pen-and-flexible-dex-mode/"><u>Discover What Makes Samsung Galaxy Tab S6 Stand Out - Insightful Review on Innovative S Pen and Flexible DeX Mode</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-15-plus-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 15 Plus Without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-front-runners-in-4k-gaming-graphics/"><u>In 2024, Front-Runners in 4K Gaming Graphics</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-infinix-gt-10-pro-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Infinix GT 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/quick-guide-to-speeding-up-your-computer-with-advanced-windows-configurations-yl-software-solutions/"><u>Quick Guide to Speeding Up Your Computer with Advanced Windows Configurations - YL Software Solutions</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/troubleshooting-printer-drivers-how-to-update-or-reinstall-with-expert-advice-from-yl-software/"><u>Troubleshooting Printer Drivers: How to Update or Reinstall with Expert Advice From YL Software</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-rapid-growth-on-instagram-the-like-video-duo-power/"><u>[New] In 2024, Rapid Growth on Instagram The Like-Video Duo Power</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-a-visual-marvel-unveiled-eizos-coloredge-cg318-4k-reviewed/"><u>[Updated] 2024 Approved A Visual Marvel Unveiled EIZO's ColorEdge CG318-4K Reviewed</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/m2-google/"><u>三星M.2固态硬盘切换软件的选择与实用指南 - Google上最佳解决方案</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1728481343366-windows-11/"><u>突然のWindows 11システムリブートに対処する６コツ</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-photocapture-errors-on-win11-system/"><u>Eliminating PhotoCapture Errors on Win11 System</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-pioneer-bdr-xs06-blu-ray-drive-evaluating-its-mobile-usability-and-functional-capabilities/"><u>Expert Analysis of Pioneer BDR-XS06 Blu-Ray Drive: Evaluating Its Mobile Usability & Functional Capabilities</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/how-to-successfully-shift-your-system-partition-into-the-boot-area-on-windows/"><u>How to Successfully Shift Your System Partition Into the Boot Area on Windows</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-fixing-problematic-youtube-shorts-thumbnails-display/"><u>In 2024, Fixing Problematic YouTube Shorts Thumbnails Display</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-asus-rog-phone-8-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Asus ROG Phone 8 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://driver-download.techidaily.com/rapid-access-secure-your-rs232-driver-via-usb-in-no-time/"><u>Rapid Access: Secure Your RS232 Driver via USB in No Time!</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/troubleshooting-guide-fixing-windows-server-2019s-network-discovery-issues-in-5-steps/"><u>Troubleshooting Guide: Fixing Windows Server 2019'S Network Discovery Issues in 5 Steps</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/tutoriel-complet-syncing-le-stockage-onedrive-avec-votre-disque-dur-extern-afin-dassurer-la-securite-de-vos-donnees/"><u>Tutoriel Complet: Syncing Le Stockage OneDrive Avec Votre Disque Dur Extern Afin D'Assurer La Sécurité De Vos Données</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-the-seven-key-issues-behind-poor-smartphone-wi-fi-speed/"><u>Understanding the Seven Key Issues Behind Poor Smartphone Wi-Fi Speed</u></a></li>
 </ul></div>
 

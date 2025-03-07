@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Lost Documents: Top 6 Strategies for Retrieving DOCX Files"
-date: 2025-01-25T02:36:41.270Z
-updated: 2025-01-26T19:36:01.761Z
+date: 2025-02-28T05:01:14.858Z
+updated: 2025-03-07T04:11:49.569Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/613172768f05bc30ced4453cadcdb6862cbaab1d05b995774101e68045c480a9.png
@@ -65,10 +65,6 @@ Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
 Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NAS Buffalo pour Windows, veuillez préparer un disque dur externe, une clé USB, etc. pour stocker l'image de sauvegarde. Ensuite, suivez attentivement les étapes ci-dessous.
@@ -76,10 +72,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 **Étape 1.** Lancez AOMEI Backuppper Standard, cliquez sur **Sauvegarder**, puis sur **Sauvegarde de fichiers**.
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
@@ -93,17 +85,9 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -121,10 +105,6 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
 Vous pouvez utiliser AOMEI Backupper Standard comme logiciel de sauvegarde NAS Buffalo pour sauvegarder des fichiers et exécuter cette tâche facilement et automatiquement. Par défaut, il ne sauvegarde que les fichiers modifiés pour économiser du temps de sauvegarde et de l'espace disque. Si vous souhaitez réduire davantage la taille de l'image de sauvegarde, vous pouvez utiliser des niveaux de compression, la sauvegarde sectorielle intelligente, le fractionnement automatique, etc.
@@ -140,10 +120,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -179,10 +155,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -198,16 +170,20 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-logo-design-101-tips-to-make-your-podcast-stand-out/"><u>[New] Logo Design 101 Tips to Make Your Podcast Stand Out</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-creative-anime-characters-and-scenes-for-viral-tiktoks/"><u>[Updated] Creative Anime Characters & Scenes for Viral TikToks</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-top-30-trending-tiktok-anime-inspirations-for-2024/"><u>[Updated] Top 30 Trending TikTok Anime Inspirations for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/drones-decoded-an-owners-primer-for-first-time-buyers/"><u>Drones Decoded An Owner's Primer for First-Time Buyers</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/examining-benefits-and-drawbacks-a-comprehensive-guide-on-windows-defender-by-yl-computing/"><u>Examining Benefits & Drawbacks: A Comprehensive Guide on Windows Defender by YL Computing</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/how-to-fix-a-sluggish-pc-expert-tips-from-yl-computing-yl-software/"><u>How To Fix a Sluggish PC: Expert Tips From YL Computing - YL Software</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-gamers-guide-troubleshooting-and-fixing-frequent-fps-decreases-during-gameplay/"><u>PC Gamers' Guide: Troubleshooting & Fixing Frequent FPS Decreases During Gameplay</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/protecting-your-presence-how-to-modify-passwords-in-the-updated-twitter-experience/"><u>Protecting Your Presence: How to Modify Passwords in the Updated Twitter Experience</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/unveiling-the-advantages-of-embracing-cryptocurrency-expert-analysis-from-yl-software/"><u>Unveiling the Advantages of Embracing Cryptocurrency: Expert Analysis From YL Software</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/yl-computings-guide-to-guarding-crypto-assets-from-cyber-theft-and-hacking-threats/"><u>YL Computing's Guide to Guarding Crypto Assets From Cyber Theft and Hacking Threats</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/yl-softwares-ultimate-collection-of-adventure-time-high-res-wallpapers-and-graphics/"><u>YL Software's Ultimate Collection of Adventure Time High-Res Wallpapers and Graphics</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-time-loop-mastery-how-to-rewind-iphone-media/"><u>[New] In 2024, Time-Loop Mastery How to Rewind iPhone Media</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-free-video-capture-test-apowersoft-and-more-for-2024/"><u>[Updated] Free Video Capture Test Apowersoft & More for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725287056236-ai/"><u>最新八大無料AI硬件改進舊照片的完美修正程式</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-6s-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 6s Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-itel-a05s-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/comment-puis-je-repliquer-la-partition-de-sauvegarde-sur-une-cle-usb/"><u>Comment Puis-Je Répliquer La Partition De Sauvegarde Sur Une Clé USB</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/effective-strategies-to-troubleshoot-and-fix-android-file-transfer-problems/"><u>Effective Strategies to Troubleshoot and Fix Android File Transfer Problems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Tecno Camon 20? | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/metodos-seguros-para-crear-copias-de-seguridad-de-tus-archivos-de-dropbox-en-una-memoria-usb/"><u>Métodos Seguros Para Crear Copias De Seguridad De Tus Archivos De Dropbox en Una Memoria USB</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/penghubungan-samsung-data-dengan-windows-10-lupa-tidak-bisa/"><u>Penghubungan Samsung Data Dengan Windows 10: Lupa Tidak Bisa!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/polar-prowess-highlighting-the-elite-of-snowboard-cross-winter-games/"><u>Polar Prowess Highlighting the Elite of Snowboard Cross, Winter Games</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/probing-financial-depths-an-analysis-of-mr-beasts-wealth-for-2024/"><u>Probing Financial Depths An Analysis of Mr. Beast's Wealth for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/restablecimiento-de-sistema-en-windows-10-usando-el-simbolo-del-sistema-pasos-detallados/"><u>Restablecimiento De Sistema en Windows 10 Usando El Símbolo Del Sistema - Pasos Detallados</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/reviving-your-frozen-device-overcome-iphones-black-screen-and-revolving-cursor-issues/"><u>Reviving Your Frozen Device: Overcome iPhone's Black Screen & Revolving Cursor Issues</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/troubleshooting-guide-successfully-updating-and-installing-windows-11-via-usb-drives/"><u>Troubleshooting Guide: Successfully Updating & Installing Windows 11 via USB Drives</u></a></li>
 </ul></div>
 

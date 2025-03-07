@@ -1,7 +1,7 @@
 ---
 title: Comment Résoudre Le Problème De Synchronisation Des Photos iPhone Avec Un Ordinateur Windows
-date: 2025-01-23T19:48:42.820Z
-updated: 2025-01-27T00:42:07.494Z
+date: 2025-03-05T08:51:28.774Z
+updated: 2025-03-06T18:42:47.541Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/05031c348e3a8b265ca81d9de600b6d3876929f7748d63bf7bb6a077bd78b2a6.jpg
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/05031c348e3a8b265ca81d9de600b6d3876929f77
 Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Windows 11/10/8/7/XP/Vista. Apprenez à l'utiliser pour sauvegarder automatiquement des fichiers en quelques étapes simples.
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
@@ -85,17 +81,9 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
@@ -104,10 +92,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
@@ -141,10 +125,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Autres articles connexes
 
 ##### [Meilleur logiciel pour sauvegarder NAS Buffalo sur disque dur externe](https://tools.techidaily.com/ubackup/products/)
@@ -165,10 +145,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -176,10 +152,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 [**Télécharger gratuiciel**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -198,22 +170,24 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-silence-the-algorithmic-intrusions-on-ig/"><u>[New] 2024 Approved Silence the Algorithmic Intrusions on IG</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-insiders-guide-to-the-best-6-harnesses-for-capturing-life-with-gopro/"><u>[Updated] In 2024, Insider's Guide to the Best 6 Harnesses for Capturing Life with GOPRO</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-step-by-step-tutorial-starting-and-joining-a-zoom-meeting-on-android-for-2024/"><u>A Step-by-Step Tutorial Starting & Joining a Zoom Meeting on Android for 2024</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/comment-configurer-et-tirer-profit-des-cles-usb-onedrive-avec-windows-11/"><u>Comment Configurer Et Tirer Profit Des Clés USB OneDrive Avec Windows 11</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/comment-passer-facilement-dun-profil-utilisateur-de-windows-10-a-windows-11-les-trois-plus-efficaces-techniques/"><u>Comment Passer Facilement D’un Profil Utilisateur De Windows 10 À Windows 11 : Les Trois Plus Efficaces Techniques</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/comment-sauvegarder-vos-donnees-sur-un-disque-dur-externe-sous-windows-11-methodes-efficaces-et-conseils-dexperts/"><u>Comment Sauvegarder Vos Données Sur Un Disque Dur Externe Sous Windows 11: Méthodes Efficaces Et Conseils D'experts</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/complete-guide-to-safely-backing-up-your-gmail-address-book-top-strategies/"><u>Complete Guide to Safely Backing Up Your Gmail Address Book: Top Strategies</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-logitech-c615-camera-balancing-cost-effectiveness-with-high-quality-video/"><u>Exploring the Logitech C615 Camera: Balancing Cost-Effectiveness with High-Quality Video</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/icloudmacos/"><u>ICloudとmacOSにおけるファイル同期不具合:解決策４点</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-look-whats-next-for-apple-in-gaming-exploring-clues-and-predictions-from-industry-experts/"><u>Inside Look: What's Next for Apple in Gaming? Exploring Clues and Predictions From Industry Experts</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/resolving-the-issue-of-inadequate-space-during-iphone-restoration-in-itunes/"><u>Resolving the Issue of Inadequate Space During iPhone Restoration in iTunes</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a34-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A34 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/sicher-und-unumkehrbar-wie-man-personliche-daten-von-einem-samsung-solid-state-laufwerk-entfernt/"><u>Sicher Und Unumkehrbar: Wie Man Persönliche Daten Von Einem Samsung Solid-State-Laufwerk Entfernt</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transforming-timepieces-top-6-innovative-uses-of-chatgpt-in-smartwatch-technology/"><u>Transforming Timepieces: Top 6 Innovative Uses of ChatGPT in Smartwatch Technology</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/unplugging-pauses-from-social-streams-a-2023-approach-to-fixing-livestream-issues-for-2024/"><u>Unplugging Pauses From Social Streams A 2023 Approach to Fixing Livestream Issues for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-wax-video-editor-a-comprehensive-guide-to-editing-like-a-pro/"><u>Updated Wax Video Editor A Comprehensive Guide to Editing Like a Pro</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/1728466440658-windows-7/"><u>Windows 7 リカバリー ディスク生成手順詳しく解説</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/ipod-dvd-macdvdipoditunesmp3/"><u>無料マック用 iPod DVDライター - Mac上でセキュリティコピー保護付きDVDをiPod/iTunes/MP3形式に変換する</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/p-dive-into-youtube-writers-workshop-space-for-2024/"><u>A Deep Dive Into YouTube’ Writers' Workshop Space for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/advanced-file-exploration-software-quick-and-efficient-results/"><u>Advanced File Exploration Software - Quick & Efficient Results</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/capturing-your-screen-effortlessly-a-beginners-tutorial-on-apowersoft-free-screenshot-utility/"><u>Capturing Your Screen Effortlessly: A Beginner's Tutorial on Apowersoft Free Screenshot Utility</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/discover-your-ideal-location-with-smart-search-solutions/"><u>Discover Your Ideal Location with Smart Search Solutions</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/effective-strategies-for-java-software-global-adaptation/"><u>Effective Strategies for Java Software Global Adaptation</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/exploring-different-windows-store-application-models/"><u>Exploring Different Windows Store Application Models</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-digital-footprints-lead-to-facebook-video-gold/"><u>In 2024, Digital Footprints Lead to Facebook Video Gold</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-samsung-galaxy-a54-5g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Samsung Galaxy A54 5G Phone?</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/in-depth-guide-to-utilizing-activex-controls-properties-feature/"><u>In-Depth Guide to Utilizing ActiveX Control's Properties Feature</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/in-depth-guide-understanding-complus-component-architecture-and-services/"><u>In-Depth Guide: Understanding COM+ Component Architecture and Services</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-voice-commands-a-guide-to-enable-siris-text-to-speech-on-iphone-and-mac/"><u>Mastering Voice Commands: A Guide to Enable Siri's Text-to-Speech on iPhone & Mac</u></a></li>
+<li><a href="https://win-webster.techidaily.com/seamless-install-von-windows-11-auf-nicht-zertifizierten-geraten-sichere-methode-ohne-datenverlust/"><u>Seamless Install Von Windows 11 Auf Nicht-Zertifizierten Geräten - Sichere Methode Ohne Datenverlust</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-up-your-acer-predator-helios-300-the-ultimate-driver-enhancement-strategies/"><u>Step-Up Your Acer Predator Helios 300: The Ultimate Driver Enhancement Strategies</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/the-comprehensive-step-by-step-manual-for-easy-screen-capture-techniques-on-dell-computers/"><u>The Comprehensive Step-by-Step Manual for Easy Screen Capture Techniques on Dell Computers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-5-video-editors-for-macos-sierra-for-2024/"><u>Top 5 Video Editors for macOS Sierra for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-portable-solar-power-banks-a-comprehensive-review-by-zdnet/"><u>Top-Rated Portable Solar Power Banks - A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/understanding-the-characteristics-of-volume-a-comprehensive-guide/"><u>Understanding the Characteristics of Volume: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-the-mechanics-of-vlc-media-player-on-macos-for-2024/"><u>Understanding the Mechanics of VLC Media Player on macOS for 2024</u></a></li>
 </ul></div>
 

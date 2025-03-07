@@ -1,7 +1,7 @@
 ---
 title: "Comment Passer Facilement D’un Profil Utilisateur De Windows 10 À Windows 11 : Les Trois Plus Efficaces Techniques"
-date: 2025-01-21T22:21:47.330Z
-updated: 2025-01-26T17:23:36.593Z
+date: 2025-03-01T09:33:49.447Z
+updated: 2025-03-06T22:06:25.911Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/1f664839b3fc6a46ff6691f07770bf51fb0f595eeeafca125d1de50733e104c7.jpg
@@ -18,19 +18,11 @@ thumbnail: https://thmb.techidaily.com/1f664839b3fc6a46ff6691f07770bf51fb0f595ee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
 Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Windows 11/10/8/7/XP/Vista. Apprenez à l'utiliser pour sauvegarder automatiquement des fichiers en quelques étapes simples.
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
@@ -93,25 +85,13 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
@@ -140,10 +120,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -177,10 +153,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
@@ -198,21 +170,24 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-audiovisual-experts-choices-the-ultimate-video-editing-gear/"><u>[New] 2024 Approved Audiovisual Experts' Choices The Ultimate Video Editing Gear</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-blitzing-through-images-on-win11/"><u>[New] Blitzing Through Images on Win11</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-delicious-dynamos-youtubers-for-your-food-journey/"><u>[Updated] 2024 Approved Delicious Dynamos YouTubers for Your Food Journey</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-full-kinetic-assessment-2023/"><u>[Updated] Full Kinetic Assessment 2023</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/convert-emersons-bar-review-lectures-into-common-video-formats/"><u>Convert Emerson's Bar Review Lectures Into Common Video Formats</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/convert-your-free-earth-science-course-into-multiple-formats-mp4-wmv-avi-and-mp3/"><u>Convert Your Free Earth Science Course Into Multiple Formats: MP4, WMV, AVI & MP3</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/convert-youtube-videos-into-various-formats-like-mp3-and-mp4-directly-from-your-browser-on-pc-or-mac/"><u>Convert YouTube Videos Into Various Formats Like MP3 & MP4 Directly From Your Browser on PC or Mac</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/download-and-convert-gaskrank-tv-episodes-into-common-video-file-types-like-mp4-avi-flv-and-mov/"><u>Download and Convert Gaskrank TV Episodes Into Common Video File Types Like MP4, AVI, FLV & MOV</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/download-hd-video-content-from-hqporter-in-multiple-formats-mp4-mov-avi-with-ease/"><u>Download HD Video Content From Hqporter in Multiple Formats (MP4, MOV, AVI) with Ease</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/easy-steps-for-accessing-mits-ocw-video-courses-on-your-pc-or-mac/"><u>Easy Steps for Accessing MIT's OCW Video Courses on Your PC or Mac</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/easy-way-to-get-your-hands-on-dawn-weavers-canine-agility-tutorials-watch-now/"><u>Easy Way to Get Your Hands on Dawn Weaver's Canine Agility Tutorials - Watch Now!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/photography-in-action-applying-motion-blur-in-adobe/"><u>Photography in Action Applying Motion Blur in Adobe</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/picperfect-upgrade-mobile-photography-no-money-down/"><u>PicPerfect Upgrade Mobile Photography No Money Down</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ree-to-do-approach-for-text-and-video-combination-for-2024/"><u>The Free-to-Do Approach for Text & Video Combination for 2024</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-asus-rog-phone-8-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Asus ROG Phone 8 Pro Reset Code | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-3-free-online-mp4-format-changers-quick-and-easy-video-conversion-tools/"><u>Top 3 Free Online MP4 Format Changers: Quick & Easy Video Conversion Tools</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-from-snap-to-share-the-ultimate-guide-to-archiving-photos/"><u>[New] From Snap to Share The Ultimate Guide to Archiving Photos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-how-to-add-subtitles-to-igtv-videos/"><u>[New] How to Add Subtitles to IGTV Videos?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-implementing-look-up-tables-luts-to-elevate-design-work/"><u>[Updated] Implementing Look-Up Tables (LUTs) to Elevate Design Work</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-pinnacle-audio-dramatic-works/"><u>[Updated] In 2024, Pinnacle Audio-Dramatic Works</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-innovators-defining-next-gen-vr-experiences/"><u>2024 Approved Top Innovators Defining Next-Gen VR Experiences</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/m2-google/"><u>三星M.2固态硬盘切换软件的选择与实用指南 - Google上最佳解决方案</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1728481343366-windows-11/"><u>突然のWindows 11システムリブートに対処する６コツ</u></a></li>
+<li><a href="https://blog-min.techidaily.com/conversion-wav-a-ogg-gratuita-en-linea-con-movavicom/"><u>Conversión WAV a OGG Gratuita en Línea Con movavi.com</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/copia-liberamente-un-hdd-da-2-tb-in-uno-ssd-da-1-tb-senza-costi-avvio-sicuro-garantito/"><u>Copia Liberamente Un HDD Da 2 TB in Uno SSD Da 1 TB Senza Costi - Avvio Sicuro Garantito</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/das-sind-die-funktionalitaten-der-wiederherstellungskonsole-von-windows-server-ein-praktischer-leitfaden-fur-experten/"><u>Das Sind Die Funktionalitäten Der Wiederherstellungskonsole Von Windows Server: Ein Praktischer Leitfaden Für Experten</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/guida-passo-passo-come-eseguire-il-backup-del-computer-su-hard-disk-esterno-per-windows-11-e-10/"><u>Guida Passo-Passo: Come Eseguire Il Backup Del Computer Su Hard Disk Esterno per Windows 11 E 10</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/how-to-successfully-shift-your-system-partition-into-the-boot-area-on-windows/"><u>How to Successfully Shift Your System Partition Into the Boot Area on Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-a05-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Samsung Galaxy A05 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/mastering-time-lapse-photography-on-samsung-phones/"><u>Mastering Time-Lapse Photography on Samsung Phones</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ating-social-media-comparing-igtv-and-youtube-features-for-2024/"><u>Navigating Social Media Comparing IGTV and YouTube Features for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/professionelle-schritte-zur-reparatur-und-wiederherstellung-von-ntfs-datenpartitionen/"><u>Professionelle Schritte Zur Reparatur Und Wiederherstellung Von NTFS-Datenpartitionen</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/troubleshooting-guide-correcting-boot-drives-displayed-as-optical-drives-on-flash-memory-devices/"><u>Troubleshooting Guide: Correcting Boot Drives Displayed as Optical Drives on Flash Memory Devices</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/troubleshooting-guide-fixing-windows-server-2019s-network-discovery-issues-in-5-steps/"><u>Troubleshooting Guide: Fixing Windows Server 2019'S Network Discovery Issues in 5 Steps</u></a></li>
 </ul></div>
 

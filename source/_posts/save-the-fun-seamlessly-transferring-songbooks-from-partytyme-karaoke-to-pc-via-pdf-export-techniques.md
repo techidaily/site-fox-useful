@@ -1,7 +1,7 @@
 ---
 title: "Save the Fun: Seamlessly Transferring Songbooks From PartyTyme Karaoke to PC via PDF Export Techniques"
-date: 2025-02-11T16:01:38.584Z
-updated: 2025-02-18T17:18:21.630Z
+date: 2025-02-27T16:32:19.867Z
+updated: 2025-03-07T09:56:37.857Z
 tags:
   - product
 categories:
@@ -32,17 +32,9 @@ All subscribers to the Party Tyme Karaoke subscription service need to do is log
 
 [VIEW LARGER IMAGE ![](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/type-in-credentials-pt.jpg?fit=300%2C300&ssl=1 "Login using your subscription credentials")](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/type-in-credentials-pt.jpg?fit=756%2C756&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Login with the credentials created when you created the account in DEX 3 or LYRX. Your email address is used for the user name and punch in your custom password and click **LOGIN**.
 
 [VIEW LARGER IMAGE ![Locate the gear icon and click it](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/09/click-gear-icon-top-right-pt.jpg?fit=300%2C300&ssl=1 "Locate the gear icon and click it")](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/09/click-gear-icon-top-right-pt.jpg?fit=552%2C552&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Once you’re logged in, locate the ‘**GEAR**‘ looking icon in top right corner of the website and click on it. This will bring up initial settings for the PT karaoke songbook.
 
@@ -56,23 +48,11 @@ All subscribers to the Party Tyme Karaoke subscription service need to do is log
 
 [VIEW LARGER IMAGE ![Click the download here](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/click-download-here-pt.jpg?fit=300%2C300&ssl=1 "Click the download here")](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/click-download-here-pt.jpg?fit=706%2C706&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6) Once your songbook is prepared and ready for download, you will see ‘**Download Here**‘ in green-colored text at the bottom of the menu box. Click the link/text to launch your customized PDF Party Tyme Karaoke songbook.
 
 [VIEW LARGER IMAGE ![Your party tyme songbook is ready for print](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/09/song-book-pt.jpg?fit=300%2C300&ssl=1 "Your party tyme songbook is ready for print")](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/09/song-book-pt.jpg?fit=920%2C920&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7) Your custom **Party Tyme Karaoke songbook** is ready for download and/or print (or upload to your own website for your singers to view there!).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -93,18 +73,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/partytymekaraokesongbook-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-top-tips-and-solutions-for-common-vlc-issues-on-mac/"><u>[New] Top Tips & Solutions for Common VLC Issues on Mac</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-from-novice-to-notoriety-steps-for-a-youtube-channel-in-gaming/"><u>[Updated] 2024 Approved From Novice to Notoriety Steps for a YouTube Channel in Gaming</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-unlocking-engagement-best-practices-for-highlight-boost/"><u>[Updated] In 2024, Unlocking Engagement Best Practices for Highlight Boost</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-interactive-media-exchange-twitter-to-snapchat-videos/"><u>[Updated] Interactive Media Exchange Twitter to Snapchat Videos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-optimal-earnings-scaling-your-youtube-channels-revenue-on-mobile-devices/"><u>[Updated] Optimal Earnings Scaling Your YouTube Channel's Revenue on Mobile Devices</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/1728495108988-google/"><u>「Google ドライブ表示問題：ファイルエクスプローラに既成できない？」</u></a></li>
-<li><a href="https://win-great.techidaily.com/5yig5pwj44k344k544og44og44gn44gu6ieq5yuv44oh44o844k5zcm5pyf5oim55wl44go5a6f6le1/"><u>分散システムでの自動データ同期戦略と実践</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/choisissez-votre-solution-top-5-avantages-cote-libre-et-cote-paiement-des-outils-recuperation-disque-gratuits-et-payants-alternatifs-a-recuva-sous-windows.m135/"><u>Choisissez Votre Solution: Top 5 Avantages-Côté Libre Et Côté Paiement Des Outils Récupération Disque Gratuits Et Payants Alternatifs À Recuva Sous Windows</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/quick-guide-to-restoring-your-lenovo-y510p-two-proven-techniques-for-system-recovery/"><u>Quick Guide to Restoring Your Lenovo Y510p - Two Proven Techniques for System Recovery</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/troubleshooting-guide-eliminate-partition-map-edit-failed-issue-error-69-for-smooth-operations/"><u>Troubleshooting Guide: Eliminate Partition Map Edit Failed Issue - Error #69# for Smooth Operations</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/tutoriel-complet-syncing-le-stockage-onedrive-avec-votre-disque-dur-extern-afin-dassurer-la-securite-de-vos-donnees/"><u>Tutoriel Complet: Syncing Le Stockage OneDrive Avec Votre Disque Dur Extern Afin D'Assurer La Sécurité De Vos Données</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-motorola-edge-40-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Motorola Edge 40 Pro? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/be-foundations-selecting-the-right-equipment/"><u>YouTube Foundations Selecting the Right Equipment</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-unleashing-fun-kinemaster-reviewed-for-android-devices-for-2024/"><u>[New] Unleashing Fun KineMaster Reviewed for Android Devices for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-expert-guide-to-navigating-win11-easily/"><u>[Updated] The Expert Guide to Navigating Win11 Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/10-new-windows-11-perks-after-version-update/"><u>10 New Windows 11 Perks After Version Update</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/aggiorna-il-tuo-ide-al-piu-veloce-ssd-sata-con-questa-soluzione-semplice-per-windows/"><u>Aggiorna Il Tuo IDE Al Più Veloce SSD SATA Con Questa Soluzione Semplice per Windows</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/becoming-a-linguistic-leader-in-the-business-arena/"><u>Becoming a Linguistic Leader in the Business Arena</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/fehlerbehebung-kein-backup-system-fur-ihren-pc-gefunden-losung-finden/"><u>Fehlerbehebung: Kein Backup-System Für Ihren PC Gefunden – Lösung Finden!</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/how-to-perform-windows-11-onedrive-synchronization-a-step-by-step-guide/"><u>How To Perform Windows 11 OneDrive Synchronization: A Step-By-Step Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-infinix-smart-8-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Infinix Smart 8 Pro without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-windows-10s-freezing-hurdle-during-initial-boot-sequence/"><u>Overcoming Windows 10'S Freezing Hurdle During Initial Boot Sequence</u></a></li>
+<li><a href="https://facebook.techidaily.com/pondering-apples-decision-to-forego-metaverse-adventure/"><u>Pondering Apple's Decision to Forego Metaverse Adventure</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-vivo-s17e-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/strategie-semplici-per-trasferire-i-tuoi-file-pst-di-outlook-a-microsoft-onedrive/"><u>Strategie Semplici per Trasferire I Tuoi File PST Di Outlook a Microsoft OneDrive</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/top-rated-free-windows-data-recovery-and-restoration-programs/"><u>Top Rated Free Windows Data Recovery & Restoration Programs</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/ultimate-guide-retrieving-lost-images-on-all-gadgets/"><u>Ultimate Guide: Retrieving Lost Images on All Gadgets</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-free-avi-video-editor-downloads-our-top-recommendations-for-2024/"><u>Updated Free AVI Video Editor Downloads Our Top Recommendations for 2024</u></a></li>
 </ul></div>
 

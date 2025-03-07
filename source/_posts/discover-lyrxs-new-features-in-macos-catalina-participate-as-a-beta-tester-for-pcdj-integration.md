@@ -1,7 +1,7 @@
 ---
 title: Discover LYRX's New Features in macOS Catalina – Participate as a Beta Tester for PCDJ Integration!
-date: 2025-02-13T16:46:15.513Z
-updated: 2025-02-18T18:55:58.100Z
+date: 2025-03-03T07:08:36.021Z
+updated: 2025-03-07T04:17:08.673Z
 tags:
   - product
 categories:
@@ -27,10 +27,6 @@ For now, we are asking for a few LYRX customers that are using newer Apple compu
 
 **Important Notes:** 10.14 or 10.15 of macOS is needed to run the Catalina-specific LYRX beta. As noted, this is a beta version, and should not be used in a venue/production environment. Specifically, the GUI/interface and video/karaoke should be tested as the changes there are massive.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i1.wp.com/pcdj.com/wp-content/uploads/2020/03/lyrx-catalina-beta.jpg?fit=1000%2C500&ssl=1 500 1000 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2020-03-13 09:41:572023-04-10 17:03:53LYRX for macOS Catalina | Open Call for Beta Testing}
@@ -50,17 +46,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/03/lyrx-catalina-beta.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-integrating-facebook-livestream-into-your-roku-setup-for-2024/"><u>[New] Integrating Facebook Livestream Into Your Roku Setup for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-epic-virtual-truths-top-30-metaverse-reflections-arvr/"><u>[Updated] 2024 Approved Epic Virtual Truths Top 30 Metaverse Reflections [AR/VR]</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-the-latest-evolution-2023s-samsung-bd-j5900-review-for-2024/"><u>[Updated] The Latest Evolution 2023'S Samsung BD-J5900 Review for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-championing-the-leading-gif-apps-on-iphones/"><u>2024 Approved Championing the Leading GIF Apps on iPhones</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/can-you-trust-windows-defender-to-shield-your-system-from-ransomware-attacks-insights-by-yl-computing-expertise/"><u>Can You Trust Windows Defender to Shield Your System From Ransomware Attacks? Insights by YL Computing Expertise</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/disabling-onboard-scanner-functions-a-step-by-step-guide-by-yl-software-experts/"><u>Disabling Onboard Scanner Functions: A Step-by-Step Guide by YL Software Experts</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-realme-narzo-60-pro-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Realme Narzo 60 Pro 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-icons-unveiled-elevate-your-fame-and-followers-in-record-time-heres-how/"><u>In 2024, Instagram Icons Unveiled Elevate Your Fame & Followers in Record Time – Here's How</u></a></li>
-<li><a href="https://techtrends.techidaily.com/prioritize-your-purchase-key-considerations-for-buying-the-perfect-smart-tv/"><u>Prioritize Your Purchase: Key Considerations for Buying the Perfect Smart TV</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/reviving-your-system-easy-reset-and-reinstall-of-windows-11-by-yl-software-experts/"><u>Reviving Your System: Easy Reset and Reinstall of Windows 11 by YL Software Experts</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/secure-steps-a-comprehensive-guide-on-safe-hardware-removal-tips-from-yl-computing-and-software/"><u>Secure Steps: A Comprehensive Guide on Safe Hardware Removal - Tips From YL Computing & Software</u></a></li>
-<li><a href="https://fox-that.techidaily.com/struggling-with-wireless-charging-on-iphone-try-out-these-7-fixes-to-resolve-the-issue/"><u>Struggling with Wireless Charging on iPhone? Try Out These 7 Fixes to Resolve the Issue</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-complete-exploration-of-sierra-icloud-documentdesktop-views/"><u>[New] Complete Exploration of Sierra iCloud Document/Desktop Views</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-reimagining-receipt-a-new-approach-to-package-revelation/"><u>[New] In 2024, Reimagining Receipt A New Approach to Package Revelation</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/accidental-driver-removal-steps-to-reinstall-lost-drivers-yl-computing-tips/"><u>Accidental Driver Removal: Steps to Reinstall Lost Drivers - YL Computing Tips</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/customize-your-digital-space-with-cha-eun-woos-official-laptop-themes-download-professional-graphics-from-yl-software/"><u>Customize Your Digital Space with Cha Eun Woo's Official Laptop Themes – Download Professional Graphics From YL Software</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/distinguishing-features-a-comparative-analysis-of-blockchain-technology-vs-digital-currencies-insights-from-yl-computing/"><u>Distinguishing Features: A Comparative Analysis of Blockchain Technology Vs. Digital Currencies - Insights From YL Computing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/finewoven-discontinued-by-apple-in-favor-of-new-partnership-with-beats-for-case-production-zdnet/"><u>FineWoven Discontinued by Apple in Favor of New Partnership with Beats for Case Production - ZDNet</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/igtv-downloads-decoded-iphone-and-android-edition/"><u>IGTV Downloads Decoded IPhone & Android Edition</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-14-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Xiaomi 14 Lock Screen Password?</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/key-factors-behind-the-collapse-of-the-ming-empire-a-comprehensive-analysis/"><u>Key Factors Behind the Collapse of the Ming Empire: A Comprehensive Analysis</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/revolutionizing-content-breakthroughs-in-youtube-editing-for-2024/"><u>Revolutionizing Content Breakthroughs in YouTube Editing for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/securing-your-files-on-windows-a-step-by-step-guide-to-password-protection-tips-by-yl-computing/"><u>Securing Your Files on Windows: A Step-by-Step Guide to Password Protection - Tips by YL Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/steep-discount-apple-m2-powered-macbook-air-available-at-749-during-amazon-prime-day-deals-in-october-tech-insights/"><u>Steep Discount: Apple M2-Powered MacBook Air Available at $749 During Amazon Prime Day Deals in October - Tech Insights</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-samsung-galaxy-s23plus-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Samsung Galaxy S23+ Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/top-rated-antivirus-solutions-which-one-suits-your-pc-most-insights-from-yl-computing/"><u>Top Rated Antivirus Solutions: Which One Suits Your PC Most - Insights From YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/top-ranked-tools-for-seamless-hard-drive-migration-via-server-cloning/"><u>Top-Ranked Tools for Seamless Hard Drive Migration via Server Cloning</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/trouble-with-booting-your-computer-effective-solutions-by-yl-software-experts/"><u>Trouble with Booting Your Computer? Effective Solutions by YL Software Experts</u></a></li>
 </ul></div>
 

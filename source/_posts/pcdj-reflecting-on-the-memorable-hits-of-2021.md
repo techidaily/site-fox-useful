@@ -1,7 +1,7 @@
 ---
 title: "PCDJ: Reflecting on the Memorable Hits of 2021"
-date: 2025-02-11T22:18:27.987Z
-updated: 2025-02-18T23:18:49.685Z
+date: 2025-03-06T02:02:17.228Z
+updated: 2025-03-07T01:40:45.874Z
 tags:
   - product
 categories:
@@ -30,10 +30,6 @@ As we like to do at the expiry of each year, here’s a look at a few PCDJ miles
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2021 PCDJ Milestones
 
 * The [KSR (Karaoke Singer Requests)](https://tools.techidaily.com/pcdj/products/) system was released for DEX 3 and LYRX customers. The free KSR utility allowed DEX 3 and LYRX customers to easily share their songbook online with karaoke singers. Singers can use their own mobile device to access the catalog, search for songs, and make requests that pop up in the rotation list within DEX 3 and/or LYRX.
@@ -47,10 +43,6 @@ As we like to do at the expiry of each year, here’s a look at a few PCDJ miles
 With 2021 in the books we’re exited to build on our momentum in 2022\. New features, free updates, new services, and a more in the queue!
 
 _**Happy New Year — and here’s to a happy, healthy, and prosperous 2022\. We appreciate you!**_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -71,20 +63,15 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2022/01/year-in-review-copy.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-useful.techidaily.com/comment-recuperer-une-partition-avec-western-digital-my-passport-trois-methodes-efficaces/"><u>« Comment Récupérer Une Partition Avec Western Digital My Passport : Trois Méthodes Efficaces »</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-navigating-fb-discovering-shared-video-content/"><u>[New] In 2024, Navigating FB Discovering Shared Video Content</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-engagement-cutting-edge-hashtags-for-hit-making-videos/"><u>[Updated] 2024 Approved Elevate Engagement Cutting-Edge Hashtags for Hit-Making Videos</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-harness-the-power-of-wins11-new-gaming-titles/"><u>[Updated] Harness the Power of Wins11 New Gaming Titles</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/1-the-advantages-and-disadvantages-of-hyper-vs-adaptive-memory-feature-a-comprehensive-guide/"><u>1. The Advantages and Disadvantages of Hyper-V's Adaptive Memory Feature: A Comprehensive Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-snapchat-soundtrack-sourcebook-choosing-from-the-best-websites/"><u>2024 Approved Snapchat Soundtrack Sourcebook Choosing From the Best Websites</u></a></li>
-<li><a href="https://fox-that.techidaily.com/7-proven-steps-to-resolve-your-iphones-icloud-sync-problems/"><u>7 Proven Steps to Resolve Your iPhone's iCloud Sync Problems</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ace-set-of-rotational-recording-devices/"><u>Ace Set of Rotational Recording Devices</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/comment-recuperer-des-fichiers-x3f-desormais-inaccessibles-sur-votre-appareil-photo-sigma/"><u>Comment Recuperer Des Fichiers X3F Désormais Inaccessibles Sur Votre Appareil-Photo Sigma</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/como-reconquistar-archivos-perdidos-en-el-servidor-de-windows-server-2012-r2/"><u>Cómo Reconquistar Archivos Perdidos en El Servidor De Windows Server 2012 (R2)</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discovering-the-beantech-bitwatch-s1-plus-a-riveting-review-of-a-budget-friendly-smartwatch/"><u>Discovering the Beantech Bitwatch S1 Plus - A Riveting Review of a Budget-Friendly Smartwatch</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/from-outback-to-ozzie-phrases/"><u>From Outback to Ozzie Phrases</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/guide-detaille-pour-supprimer-le-disque-de-reparation-sur-votre-installation-windows-11-methodes-rapides-et-fermes/"><u>Guide Détaillé Pour Supprimer Le Disque De Reparation Sur Votre Installation Windows 11 : Méthodes Rapides Et Fermes</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/leading-data-duplication-tools-optimized-for-windows-11-users/"><u>Leading Data Duplication Tools Optimized for Windows 11 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-your-quick-access-menu-problems-with-this-step-by-step-windowplusshiftpluss-fix/"><u>Solve Your Quick Access Menu Problems with This Step-by-Step Window+Shift+S Fix</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-unveiling-the-secrets-to-superior-gaming-recordings/"><u>[New] In 2024, Unveiling the Secrets to Superior Gaming Recordings</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-overcoming-shyness-in-the-spotlight-top-video-blogger-fears/"><u>[Updated] 2024 Approved Overcoming Shyness in the Spotlight Top Video Blogger Fears</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-maximizing-subscribers-youtubes-expansion-blueprint/"><u>[Updated] In 2024, Maximizing Subscribers YouTube's Expansion Blueprint</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/comment-cloner-une-partition-gratuitement-sous-windows-10-avec-aomei-backupper/"><u>Comment Cloner Une Partition Gratuitement Sous Windows 10 Avec AOMEI Backupper</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-13-mini-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone 13 mini without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-record-screen-on-huawei-mate-10-20-p20-and-p10-using-a-built-in-recorder/"><u>In 2024, Record Screen On Huawei Mate 10, 20, P20 and P10 Using a Built-In Recorder</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unleashing-video-potential-the-imovie-blueprint-for-youtube-editors/"><u>In 2024, Unleashing Video Potential The iMovie Blueprint for YouTube Editors</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/troubleshooting-guide-overcoming-vcenter-web-client-access-problems/"><u>Troubleshooting Guide: Overcoming vCenter Web Client Access Problems</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/windowscorsair/"><u>Windows上最佳免费版本的Corsair数据迁移工具</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/optimizaciya-kompyutera-s-zamenoj-diska-c-na-ssd-v-sisteme-windows-poshagovoe-rukovodstvo/"><u>Оптимизация Компьютера С Заменой Диска C На SSD В Системе Windows: Пошаговое Руководство</u></a></li>
 </ul></div>
 

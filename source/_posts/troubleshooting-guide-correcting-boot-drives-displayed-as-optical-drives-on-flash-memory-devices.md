@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Correcting Boot Drives Displayed as Optical Drives on Flash Memory Devices"
-date: 2025-01-25T02:22:48.640Z
-updated: 2025-01-26T18:23:13.036Z
+date: 2025-03-03T01:25:46.296Z
+updated: 2025-03-07T10:28:05.931Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d659619b87570cab49fe038d18.jpg
@@ -62,10 +62,6 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Windows-Einstellungen Personalisierung](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/windows-settings-personalization.png "Windows-Einstellungen Personalisierung")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 2**. Klicken Sie auf die Schaltfläche „**Designs**“.
 
 [![Designs](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/themes.png "Designs")
@@ -73,10 +69,6 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 **Schritt 3**. Wählen Sie „**Desktopsymbol-Einstellungen**“ und suchen Sie das Symbol „**Papierkorb**“.
 
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 4**. Suchen Sie das „**Papierkorb**“-Symbol, entfernen Sie das Häkchen und bestätigen Sie mit „**Übernehmen**“ und „**OK**“.
 
@@ -89,10 +81,6 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 **Schritt 1**. Öffnen Sie eine erhöhte Eingabeaufforderung, indem Sie „cmd“ in die Suchleiste eingeben und auf „**Als Administrator ausführen**“ klicken.
 
 [![Als Administrator ausführen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/run-as-administrator.png "Als Administrator ausführen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 2**. Geben Sie „**rd /s /q C:\\Papierkorb**“ in das Eingabeaufforderungsfenster ein und drücken Sie „**Enter**“, um den Vorgang zu starten. Wenn erforderlich, ersetzen Sie das Laufwerk C durch Ihren gewünschten Laufwerksbuchstaben.
 
@@ -118,25 +106,13 @@ Sicherer Download
 
 [![Scan starten](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-c-to-scan.png "Scan starten")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 2**. Suchen Sie nach Ihren gewünschten Dateien oder warten Sie, um Ihre gelöschten und anderen fehlenden Dateien nach der Schnell- und Tiefenscan anzuzeigen.
 
 [![Laufwerk scannen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/scanning-drive.png "Laufwerk scannen")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 3**. Gehen Sie zum Papierkorb, um die gewünschten Dateien zu lokalisieren. Klicken Sie dann auf „**x Dateien wiederherstellen**“, um die ausgewählten Dateien wiederherzustellen. Speichern Sie diese wiederhergestellten Dateien bitte an einem neuen Ort.
 
 [![x Dateien wiederherstellen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png "x Dateien wiederherstellen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?**
 
@@ -164,10 +140,6 @@ Sicherer Download
 **Schritt** **2**. Sie können ihn im Feld „**Aufgabename**“ benennen, um ihn von anderen Backups zu unterscheiden.
 
 [![aufgabename eingeben](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/task-name.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt** **3**. Klicken Sie auf „**\+ Datei**“ oder „**\+ Ordner**“, damit Sie die Dateien/Ordner auswählen können, die Sie sichern möchten. (Sie können mehrere Ordner und Dateien als Quelle hinzufügen; Sie können auch Ordner und Dateien direkt als Quelle auf den Backupper ziehen).
 
@@ -207,10 +179,6 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 ![Holiday](https://www.ubackup.com/assets/images/author/Holiday.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Holiday](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Holiday ist seit dem 1\. Juni 2020 bei AOMEI und beschäftigt sich mit Sichern & Wiederherstellen, Festplatten- und Partitionsverwaltung usw. für AOMEI. Ob Arbeit, Studien oder Leben, sie versucht gerne, neue Dinge zu lernen und denkt, dass Überraschungen auf sie warten, egal wann und wo.
@@ -247,10 +215,6 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Sauber & Sicher
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
 <ins class="adsbygoogle"
@@ -268,20 +232,22 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-joining-friends-and-family-online-facebook-setup-guide/"><u>2024 Approved Joining Friends and Family Online (Facebook Setup Guide)</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-strategic-podcast-drop-dates/"><u>2024 Approved Strategic Podcast Drop Dates</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/boosting-system-memory-for-optimal-speed-a-guide-from-yl-software-experts/"><u>Boosting System Memory for Optimal Speed: A Guide From YL Software Experts</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/easy-methods-for-disabling-microsofts-security-feature-in-windows-11-cybertech-innovations-blog/"><u>Easy Methods for Disabling Microsoft's Security Feature in Windows 11 - CyberTech Innovations Blog</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/efficiently-declutter-your-pc-tips-and-tricks-from-yl-computings-expert-guide/"><u>Efficiently Declutter Your PC: Tips and Tricks From YL Computing's Expert Guide</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/how-to-safeguard-your-computer-from-malware-and-viruses-that-cause-performance-issues-expert-tips-by-yl-computing/"><u>How to Safeguard Your Computer From Malware & Viruses That Cause Performance Issues - Expert Tips by YL Computing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/march-2024s-top-cell-phone-bargains-and-deals-featured-on-zdnet/"><u>March 2024'S Top Cell Phone Bargains & Deals Featured on ZDNet</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/master-the-process-of-driver-updates-for-enhanced-performance-with-tips-from-yl-software/"><u>Master the Process of Driver Updates for Enhanced Performance with Tips From YL Software</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-fixes-when-encountering-a-missing-msodll-file/"><u>Quick Fixes When Encountering a Missing Mso.dll File</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/rapid-diy-filming-ideas-for-aspiring-directors-for-2024/"><u>Rapid DIY Filming Ideas for Aspiring Directors for 2024</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/step-by-step-guide-personalizing-your-microsoft-start-menu-in-windows-11-tips-from-yl-computing/"><u>Step-by-Step Guide: Personalizing Your Microsoft Start Menu in Windows 11 - Tips From YL Computing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-resolving-the-dreaded-0x800f0922-update-glitch-in-windows-10/"><u>Troubleshooting Tips for Resolving the Dreaded 0X800f0922 Update Glitch in Windows 10</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/ultimate-kawasaki-image-collection-for-professionals-hd-graphics-images-and-wallpapers-curated-by-yl-computing-tech/"><u>Ultimate Kawasaki Image Collection for Professionals: HD Graphics, Images & Wallpapers – Curated by YL Computing Tech</u></a></li>
-<li><a href="https://video-capture.techidaily.com/ultimate-rankings-top-11-streaming-audio-gear-for-2024/"><u>Ultimate Rankings Top 11 Streaming Audio Gear for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/zdnets-ultimate-guide-to-choosing-the-perfect-electric-leaf-blower-features-reviews-and-more/"><u>ZDNET's Ultimate Guide to Choosing the Perfect Electric Leaf Blower : Features, Reviews & More</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-perfect-your-instagram-vocal-presence-quickly/"><u>[New] 2024 Approved Perfect Your Instagram Vocal Presence Quickly</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-easy-recording-setups-for-lol-enthusiasts-3-ways/"><u>[Updated] Easy Recording Setups for LOL Enthusiasts (3 Ways)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/automatisierte-update-deaktivierung-fur-windows-11-entschlusselt-entdecken-sie-die-6-besten-methoden/"><u>Automatisierte Update-Deaktivierung Für Windows 11 Entschlüsselt - Entdecken Sie Die 6 Besten Methoden!</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/cloning-vs-clean-installs-a-step-by-step-guide-to-ssd-management/"><u>Cloning Vs. Clean Installs: A Step-by-Step Guide to SSD Management</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/effortless-guide-transferring-the-windows-os-from-hdd-to-ssd-on-a-lenovo-computer/"><u>Effortless Guide: Transferring the Windows OS From HDD to SSD on a Lenovo Computer</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/efi-partij-verdwijnt-4-efficient-levende-alternatieven-te-verkennen/"><u>EFI-Partij Verdwijnt: 4 Efficiënt Levende Alternatieven Te Verkennen!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/guide-complet-utiliser-des-outils-de-duplication-pour-copier-une-partition-systeme-sur-windows-8-ou-81/"><u>Guide Complet : Utiliser Des Outils De Duplication Pour Copier Une Partition Système Sur Windows 8 Ou 8.1</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/professionelle-anleitung-wie-man-e-mailarchive-aus-der-versionen-von-microsoft-outlook-ab-2010-bis-hin-zu-2016-in-das-kompatible-dateiformat-pst-konvertiert70/"><u>Professionelle Anleitung: Wie Man E-Mailarchive Aus Der Versionen Von Microsoft Outlook Ab 2010 Bis Hin Zu 2016 in Das Kompatible Dateiformat PST Konvertiert</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/quick-guide-uploading-songs-from-external-memory-stick-to-apples-mobile-gadgets/"><u>Quick Guide: Uploading Songs From External Memory Stick to Apple's Mobile Gadgets</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-cyberpunk-2077s-graphics-prefer-cpu-over-gpu-in-windows-10/"><u>Troubleshooting Guide: Cyberpunk 2077'S Graphics Prefer CPU Over GPU in Windows 10</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-huawei-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Huawei .</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-oneplus-12-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your OnePlus 12 Device</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1728502586406-windows-11/"><u>Windows 11から新しいディスクへ安全に転送:データロスト無く保存</u></a></li>
 </ul></div>
 
